@@ -1,0 +1,38 @@
+目录 VII
+
+3.54 ”软件 中 间 件 143
+0
+3.6.1 数据 库 与 数据 仓库 技术 ee [45
+3.6.2 Web Services 技术 [4G
+0
+3.6.4 NET 架构 和 147
+3.6.5 ”软件 引擎 技术 ee 147
+3.6.6 组 件 及 其 在 系统 集成 项 目 中 的 重要 性 和 147
+3.6.7 ”常用 组 件 标准 ee 48
+
+3.7 “计算 机 网 络 知 讽 站 ee 148
+3.7.1 网络 技术 标准 与 协议 和 ee 148
+3.7.2 Internet 技术 及 应 用 ee 149
+.4
+3.7.4 PERI i aseessssssssssscceesscerssesssssssseeeeeceesesssssssesseseseseetsensnsssssseeseeeeees 153
+3.7.5 FERRER enseescsesecsseesstnsetnstnseseetestsastnsttneesnesaseenseeseeeee 154
+3.7.6 “网络 存储 技术 ee 154
+3
+wm 六 及 琢 如 六 六 二 人
+07
+3.7.10 SEAPARER. AUBET Pibeccsesseeetessssssscecceeeeessssssssseessesersnsssssssseeseseeeees 156
+3.7.11 网 络 规划 、 设 计 与 实施 eeeeeeeeeeseeeees 156
+3.7.12 网络 安全 158
+3.7.13 ”网 络 管理 和 159
+0
+3.8.1 去 计算 和 ee 159
+3.8.2 闪 榨 天 ……… 了 了 了 富 5 人
+并 浊 风 肖 型 …… 了 了 了 了 了 习习. 的
+0
+第 4 章 ， 项 目 管理 一 般 短 识 二 6
+AL 什么 是 项 目 ? 什么 是 项 目 管理 ?ee 176
+ALL 项 目的 定义 ee 176
+4.12 项 目 目标 7T6
+4.1.3 ”项 目的 特点 光 ee 178
+AAA 信息 系统 集成 项 目的 特点 178
+4.1.5 项 目 管理 的 定义 及 其 知识 范围 慎 eeeeeeeeeeeseeses 179

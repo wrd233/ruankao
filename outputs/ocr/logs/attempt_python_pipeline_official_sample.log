@@ -1,0 +1,22 @@
+{"doc_slug": "official_tutorial_sample_pipeline", "page": 1, "quality_flag": "ok", "char_count": 342, "ocr_seconds": 10.264}
+{"doc_slug": "official_tutorial_sample_pipeline", "page": 2, "quality_flag": "ok", "char_count": 1731, "ocr_seconds": 10.694}
+{"doc_slug": "official_tutorial_sample_pipeline", "page": 3, "quality_flag": "ok", "char_count": 1978, "ocr_seconds": 12.042}
+{
+  "pdf_path": "/Users/wangrundong/work/软考/《系统集成项目管理工程师教程》官方考试指定第二版.pdf",
+  "doc_slug": "official_tutorial_sample_pipeline",
+  "page_count_total": 678,
+  "page_count_processed": 3,
+  "start_page": 1,
+  "end_page": 3,
+  "output_pdf": "/Users/wangrundong/work/软考/outputs/ocr/pdf/official_tutorial_sample_pipeline.pdf",
+  "pages_index": "/Users/wangrundong/work/软考/outputs/ocr/pages/official_tutorial_sample_pipeline/pages_index.json",
+  "average_char_count": 1350.33,
+  "average_non_whitespace_count": 820,
+  "quality_counts": {
+    "ok": 3,
+    "review": 0,
+    "empty": 0,
+    "error": 0
+  },
+  "elapsed_seconds": 33.0
+}

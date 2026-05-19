@@ -2,3 +2,9 @@
 **/.DS_Store
 __pycache__/
 *.pyc
+outputs/ocr/.venv/
+outputs/ocr/pages/*/_page_pdf_parts/
+outputs/ocr/pages/*sample_pipeline/
+outputs/ocr/pages/smoke_test/
+outputs/ocr/pdf/*sample*.pdf
+outputs/ocr/pdf/smoke_test.pdf

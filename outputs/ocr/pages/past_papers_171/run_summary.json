@@ -1,0 +1,19 @@
+{
+  "pdf_path": "/Users/wangrundong/work/软考/历年系统集成项目管理工程师试题解析及答案-171页.pdf",
+  "doc_slug": "past_papers_171",
+  "page_count_total": 171,
+  "page_count_processed": 171,
+  "start_page": null,
+  "end_page": null,
+  "output_pdf": "/Users/wangrundong/work/软考/outputs/ocr/pdf/历年题解析_171页_ocr.pdf",
+  "pages_index": "/Users/wangrundong/work/软考/outputs/ocr/pages/past_papers_171/pages_index.json",
+  "average_char_count": 1353.45,
+  "average_non_whitespace_count": 807.9,
+  "quality_counts": {
+    "ok": 165,
+    "review": 3,
+    "empty": 3,
+    "error": 0
+  },
+  "elapsed_seconds": 727.4
+}

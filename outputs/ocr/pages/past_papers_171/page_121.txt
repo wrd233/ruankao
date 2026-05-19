@@ -1,0 +1,26 @@
+(74) 的 正确 选项 是 “ D Flow charting”
+@ Precedence Diagramming Method(PDM) is a method used in activity sequencing.There are
+four types of dependencies or precedence relationships in PDM. The initiation of the successor
+activity depends upon the completion of the predecessor activity is called__(75)_.
+(75) <A. Finish-to-Start B . Finish-to-Finish n.  Start-to-Start
+D. Start-to-Finish
+解析
+(75) 的 正确 选项 是 ”A Finish-to-Start ”
+
+2011 下 半年 -项 目 管理 师 - 上 午 题 解析
+@ 下 列 关 于 电子 标签 (REID) 与 条 形 码 (barcode) 标签 的 撤 述 ， 正 确 的 是 〈1)。
+C1) A, Hip bn BA
+B、 条 形 码 标签 容量 小 ， 但 难以 被 复制
+C、 电 子 标签 容 基 大 ， 可 同时 读 取 多 个 标签 并 且 难 以 被 复制
+D、 电 子 标签 通讯 距离 短 ， 但 对 环境 变化 有 较 高 的 忍受 能 力
+解析
+电子 标签 RFID ， 也 叫 射频 标签 、 射 频 识 别 。 它 是 一 种 非 接触 式 的 自动 识别 技术 ， 通 过 射频
+信号 识别 目标 对 象 并 获取 相关 数据 。 识别 工作 无 须 人 工 干预 , 作为 条 形 码 的 无 线 版 本 ,REID
+技术 具有 条 形 码 所 不 具备 的 防水 、 防 磁 、 耐 高 温 、 使 用 寿命 长 、 读 取 距 离 大 、 标签 上 数据 可
+以 加 密 、 存 储 数 据 容量 更 大 、 存 储 信息 更 改 自 如 、 更 容易 地 附着 在 不 同 的 产品 上 等 优点 。
+RFID 射频 识别 是 一 种 非 接触 式 的 自动 识别 技术 ， 它 通过 射频 信号 自动 识别 目标 对 象 并 获取
+相关 数据 ， 识 别 工 作 无 顷 人 工 干 预 ， 可 工作 于 各 种 恶劣 环境 。REFID 技术 可 识别 高 速 运动 物
+体 并 可 同时 识别 多 个 标签 ， 操 作 快 捷 方便 。
+短 距 离 射 频 产品 不 怕 油 渍 、 灰 尘 污 染 等 恶劣 的 环境 ， 可 在 这 样 的 环境 中 苦 代 条 码 ， 例 如 用 在
+工厂 的 流水 线 上 跟踪 物体 。 长 距 射 频 产 品 多 用 于 交通 上 ， 识 别 距 离 可 达 几 十 米 ， 如 自动 收费
+或 识别 车 辆 身份 等 。
