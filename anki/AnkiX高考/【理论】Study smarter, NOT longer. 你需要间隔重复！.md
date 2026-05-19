@@ -1,0 +1,70 @@
+# 【理论】Study smarter, NOT longer. 你需要间隔重复！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/57020308)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+关于间隔重复的理论介绍已经有很多，今天我就不长篇大论，而主要以「图片+解释」来形象的介绍学习理论中的间隔重复(Spaced repetition in learning theory)
+
+先认识一下**遗忘曲线**
+
+![](https://pic2.zhimg.com/v2-c749881b17c208d69ed23df6986f025f_1440w.jpg)
+图片来源：https://www.osmosis.org/learn/Spaced_repetition第一天，当我们翻开课本，听老师讲课，学了点东西之后，随着时间推移，我们学到的东西在记忆中的保留量将像**遗忘曲线**那样指数级**下降**。
+
+遗忘曲线大致符合下面这个式子：
+
+> 
+> ![](https://www.zhihu.com/equation?tex=R%3De%5E%7B-%5Cfrac%7Bt%7D%7BS%7D%7D)
+>  
+> R：记忆保留量
+> t：时间
+> S：记忆强度
+面对遗忘我们怎能坐以待毙？看看加入复习后的效果！
+
+![](https://pica.zhimg.com/v2-82ab95e2513ef58851443bcb0b2c36e8_1440w.jpg)
+图片来源：https://www.osmosis.org/learn/Spaced_repetition在学习新知识之后的这段时间里，我们加入**复习**(或主动回忆)课堂内容，那么遗忘曲线将会开始**变平**，然后我们将得到**更多更好**的**长期**记忆。
+
+那么问题来了，我们该怎样安排复习的**时机**？
+
+根据经验，最好的时机就是在我们学习到新知识后开始**遗忘**的那一刻。
+
+![](https://pic2.zhimg.com/v2-779109278b5d8292fda27c4dd65c6b89_1440w.jpg)
+图片来源：https://www.osmosis.org/learn/Spaced_repetition技巧来了！看到一长一短的两个间隔了吗？对于较为**生疏**的材料，我们加以**较短**的间隔，而对于较为**熟悉**的材料，我们加以**较长**的间隔。这样一来，我们就能更高效的保持更多更好的长期记忆。
+
+看看医学生的数据
+
+![](https://pic3.zhimg.com/v2-0c043e33dd4741fcba5839cbc1b4938e_1440w.jpg)
+图片来源：https://www.osmosis.org/learn/Spaced_repetition没有间隔重复，学生将在一年后遗忘 33% 的知识，两年后遗忘 50% ！使用间隔重复后，将提高 40% 的学习效率！
+
+但是。。。为什么这个方法既科学又高效，却没有得到推广呢？？？
+
+![](https://pic3.zhimg.com/v2-3be05bc793755d85d7e7d5d55997f856_1440w.jpg)
+图片来源：https://www.osmosis.org/learn/Spaced_repetition因为要学的知识太多了！而且每个知识都有自己的遗忘曲线，想要去追踪他们的复习时机是很难的。
+
+不过，聪明研究者和开发者已经利用电脑算法和软件(比如:Anki、Quizlet、SuperMemo)来帮助学生达到最好的学习效果。
+
+![](https://pic4.zhimg.com/v2-57a2ddc7af59211bddb5b56748ce589f_1440w.jpg)
+图片来源：https://www.osmosis.org/learn/Spaced_repetition电脑中存储着基于「问-答」的信息，安排我们的复习顺序和时机，当我们答错的时候，算法会自动把对应内容优先重复出现。而完整答对的内容将降低出现频率，节省我们的时间。
+
+记住，我们要更聪明地学习，而不是更长时间地学习！
+
+给一个具体的例子吧！以我高中时使用 Anki 的经历为例：
+
+![](https://pic3.zhimg.com/v2-7d6c76590a00da74a9dbb88f3c442566_1440w.jpg)
+这是我的一张生物卡片的学习记录，卡片的内容是下面这个
+
+![](https://picx.zhimg.com/v2-6906b0c118366546be1367e4ec9f5045_1440w.jpg)
+这张卡片对我来说有点迷惑性，所以我答错了一次，复习了13次，总共花在这张卡片上的复习时间是2分31秒。
+
+再看看另一张卡片
+
+![](https://pic4.zhimg.com/v2-44c22d8db759cd09da297744c292a5c7_1440w.jpg)
+内容是
+
+![](https://picx.zhimg.com/v2-29aae2ab2b316595b087b75bc7aac4b7_1440w.jpg)
+这张卡片我记得熟，复习5次，仅花了28秒的复习时间。
+
+好的，今天的介绍就到此为止，希望大家都能学得聪明，学得高效，省下更多时间探索**自己的未来**！
+
+相关视频（纯英文）：
+
+[Spaced repetition](https://link.zhihu.com/?target=https%3A//www.osmosis.org/learn/Spaced_repetition%3Fplaylist%3Dscienceoflearning)为了翻译嵌字还去借用了下 Photoshop ，我真是全方位打杂。。。如果我的努力对你有帮助，你的赞和分享将是我持续更新的动力！

@@ -1,0 +1,45 @@
+# 【填坑】《I would never send my kids to school》翻译完毕
+
+> [原文链接](https://zhuanlan.zhihu.com/p/73395783)
+
+![](https://pic4.zhimg.com/v2-029e2fc1dfe6f4c94a30ca0bb5dabc93_1440w.jpg)
+
+![](https://pic3.zhimg.com/v2-ce2fa8c67a1334774b9785446ac3e8b2_1440w.jpg)
+从 18 年 12 月 18 日至 19 年 7 月 13 日，历时 207 天，我终于填上了一个巨坑。
+
+## 翻译书目介绍
+
+原书名：*I would never send my kids to school*
+
+译名：《我永远不会送我的孩子去学校》
+
+作者：Piotr Wozniak 博士
+
+> 注：Piotr Wozniak 博士是 SuperMemo 算法的发明人，而 Anki 使用的算法正是基于 SM-2 算法。
+简介：[1 Introduction 前言](https://zhuanlan.zhihu.com/p/52805512)
+
+总结：[25 Summary 摘要](https://zhuanlan.zhihu.com/p/55041489)
+
+目录：[0 Content 目录](https://zhuanlan.zhihu.com/p/73383015)
+
+电子书
+
+GitBook：[supermemo-guru-cn](https://link.zhihu.com/?target=https%3A//l-m-sherlock.gitbook.io/supermemo-guru-cn/) 
+
+看云：[supermemo.guru 翻译计划](https://link.zhihu.com/?target=https%3A//www.kancloud.cn/ankigaokao/supermemo-guru-cn)
+
+## 为何翻译本书？
+
+从动机来讲，就是想做点微小的贡献。
+
+从坚持下来的动力来讲，这本书中有很多能够启发学生和家长的新视角、新概念，对我自己也帮助很大。
+
+> 注：况且这本书的观点都很尖锐呢！
+## 如何阅读本书？
+
+不得不说，本书太长了，推荐大家先看简介和总结，再去看自己感兴趣的章节。
+
+> 注：赠文一赞，手留余香~
+## 最后
+
+感谢[@Plumespark](https://www.zhihu.com/people/e3bd1b060812f3c4dee2cf5b03f2212e)帮助翻译第 17、18 章！

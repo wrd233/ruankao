@@ -1,0 +1,15 @@
+# 我出书了！《Anki 备战高考手册》正式发布！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/46084029)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+没想到，我立的 flag 竟然收回来了。
+
+![](https://pic1.zhimg.com/v2-37406b5a29c914ab068b88d5400e5e60_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-753530b3b2d63143db149a209c41b2b0_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-bb4075c0c417c5bf875eab2e5ccd008a_1440w.jpg)
+[Anki 备战高考手册 · 看云](https://link.zhihu.com/?target=https%3A//www.kancloud.cn/ankigaokao/ankigaokao)看云提供 kindle 推送，pdf等电子书格式打包下载。
+
+希望大家分享，让更多的高中生快速掌握 Anki 的用法！

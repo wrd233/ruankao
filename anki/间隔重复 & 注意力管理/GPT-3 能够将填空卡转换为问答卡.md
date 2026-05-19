@@ -1,0 +1,23 @@
+# GPT-3 能够将填空卡转换为问答卡
+
+> [原文链接](https://zhuanlan.zhihu.com/p/630862056)
+
+相比完整的问答卡，填空卡编写起来更容易也更快。然而[在间隔重复记忆系统中，填空卡似乎比问答卡产生更少的理解](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zX7yi8v7qy3n1RfQDkFZFeyTCZPX3BVqy8sC)[1]。有一条「中间路径」很有趣，那就是让语言模型基于填空卡生成问答卡。我和 [Ozzie Kirkby] 做了些初始实验（[2021-06-10](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zWLsqjDeYgCEERgoVeE8BjFbPrWSPsR5WhY)），结果非常不错。
+
+参见：[填空卡可用于创建典型的 N 面卡片](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zgpjhmJfdVNcrGroeKW1VQ92YLGCftpyVPc)[2]。
+
+### 参考文献
+
+这个想法是与 [Ozzie Kirkby](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zn9igQGgecLncBSpKbgv5123mC5YEAP3hnfP) 在 [2021-06-11](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/ztU5BioqBqxGDTcbL6jYctqsiJnVfd3mUtW) 讨论时得到的
+
+## 链接至本文（已汉化）
+
+[卡片生成任务中，选择要强化的目标概念，和为这些目标概念编写卡片，是两个独立的问题](https://zhuanlan.zhihu.com/p/656354899)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131) 汉化组译制
+> 感谢主要译者 Shom、校对 JarrettYe
+> 原文：[GPT-3 can transform cloze deletion prompts into question-answer prompts](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4A7LCXBAkAUH2uZ21JnNrBhJHCjkobFMyn)

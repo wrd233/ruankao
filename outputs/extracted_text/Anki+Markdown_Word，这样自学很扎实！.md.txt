@@ -1,0 +1,55 @@
+# Anki+Markdown/Word，这样自学很扎实！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/84712668)
+
+朋友们好久不见，这篇文章被催了好久，终于可以填坑了！以下是**阅读须知：**
+
+**本文面向的读者：任何**想要用 Anki **自学**的人（比如**大学生**、假期想要自己巩固的高中生等等）
+
+**所需工具：**Anki、Markdown/Word、可复制的学习材料（比如可复制的pdf、PPT）
+
+**理论基础：**[传统学习究竟怎样对接 Anki 制卡？](https://zhuanlan.zhihu.com/p/56048163) 
+
+准备好了？我们开始吧！
+
+以我目前正在自学的《汇编语言》为例
+
+首先，我们要收集材料：
+
+![](https://picx.zhimg.com/v2-9139a6e7373550029aa3777de79574f7_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-07d24b7d18466ab08c92e1adc8ed3ff5_1440w.jpg)
+
+![](https://pic3.zhimg.com/v2-fcae6db168f76c4125ed882070b23e82_1440w.jpg)
+然后，我们用 Markdown/Word 把**要点**记录下来：
+
+![](https://pic1.zhimg.com/v2-18ef3a345a300bddf3b47d6849ca4280_1440w.jpg)
+这里就是**渐进学习 ABCD **中的 A 和 B，**划重点** & **记笔记**！（不懂ABCD是啥的看这篇：[传统学习究竟怎样对接 Anki 制卡？](https://zhuanlan.zhihu.com/p/56048163)）
+
+这里的要点记录**不是**一蹴而就的，通常来说，先记录**总结性**的内容，然后做 ABCD 中的 C，也就是**练习**。然后就会发现自己漏过了很多**细节**内容，然后折回去做 A & B。
+
+记录好一章的要点后，我们做 D，也就是把每一条要点笔记做成卡片，放入 Anki 中：
+
+![](https://pic4.zhimg.com/v2-6a0960f163fb3859df76df95f4891c65_1440w.jpg)
+这里如果原文已经很清楚了，那就是直接复制原文，然后在原文的基础上挖空。如果遇到原文逻辑比较复杂的情况，请参考：[Anki高考的20条原则](https://zhuanlan.zhihu.com/p/52369009) 这个系列
+
+效果：
+
+![](https://pic3.zhimg.com/v2-abc869c28b123c9c1f0bbb5bdc530506_1440w.jpg)
+
+![](https://picx.zhimg.com/v2-72457d9058d4cdab0455824c85908303_1440w.jpg)
+这里的书名号字段不仅方便我们把后面新增的内容与之前的卡片联系起来，还可以做到上下文提示的作用。
+
+如果遇到需要记忆图片的情况，可以用 Anki涂鸦制卡（[AnkiDroid 用户福音！Anki 涂鸦制卡正式发布！](https://zhuanlan.zhihu.com/p/63915182)）：
+
+![](https://pic1.zhimg.com/v2-ab11a1a863cbe50f40fa52b9bb433b9a_1440w.jpg)
+然后放一下我的学习数据（用了2.1的夜间模式插件，代码：1496166067）：
+
+![](https://pic2.zhimg.com/v2-c85ab561a4b7f053da21b6407595cedb_1440w.jpg)
+PS：题图是我电脑屏幕的日常 233
+
+这里是部分我大一时做好的牌组：[Anki 大学牌组低调发布](https://zhuanlan.zhihu.com/p/79070833) 
+
+更新：Anki 高考圈来啦！
+
+[Anki高考 - 知乎](https://www.zhihu.com/club/1182973609588469760)

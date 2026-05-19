@@ -1,0 +1,25 @@
+# 学习别人的间隔重复记忆卡片通常是无效的
+
+> [原文链接](https://zhuanlan.zhihu.com/p/397271029)
+
+一旦理解了[间隔重复记忆系统使记忆成为一种选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)[1]和[学习越来越复杂的想法可能相当于形成更大的有效组块](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8VFVdTR19snWjFMxnyNabBCbmeoWrQ287TdT)[2]，那么通过下载别人的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)牌组来吞噬新知识是非常诱人的。但是，假设你之前从未学习过相关知识，你阅读教科书中关于细胞生物学的章节要比你背诵别人的牌组好得多：你必须[先学再记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gsbsviCdBJbefxvenDcvYbYDgssBZHdgd9)[3]。同时，[单独的间隔重复记忆卡片是一种糟糕的交流媒介](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z1YhDPWyvzzkC79LFcF4DSTanKpEGpic8bAe)[4]；你仍然需要教科书的叙述
+
+另外，大多数可下载的 SRS 牌组都做得很差：[写好间隔重复记忆卡片很难](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)[5]。
+
+另请参阅：[助记媒介](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)[6]，它试图解决这个问题。
+
+有关笔记：[亲自写间隔重复卡片似乎能促进理解](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z219EBYg9SbQzF372qudzgJpArt4Bmfhrczkg)
+
+## 链接至本文（已汉化）
+
+[间隔重复系统能力的限制因素是写出足够多的好卡片](https://zhuanlan.zhihu.com/p/399738674)
+[单独的间隔重复记忆卡片是一种糟糕的交流媒介](https://zhuanlan.zhihu.com/p/396775375)
+[用间隔重复系统来看穿数学概念 - Michael Nielsen](https://zhuanlan.zhihu.com/p/694032460)
+[程序教学](https://zhuanlan.zhihu.com/p/719498216)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[Studying another person’s spaced repetition memory prompts is usually ineffective](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z38fLX4H8oq9eXKnZH7wk8qDXfBLg2bxVyA2M)

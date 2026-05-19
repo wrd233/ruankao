@@ -1,0 +1,101 @@
+# 如何在 Anki 上使用次世代间隔重复算法 FSRS？
+
+> [原文链接](https://zhuanlan.zhihu.com/p/591833332)
+
+更新：本教程已经过时，请移步新教程：
+
+[叶峻峣：FSRS4Anki 使用指北](https://zhuanlan.zhihu.com/p/636564830)好久不见朋友们！最近 Anki 终于更新到了 2.1.55 版，能够支持带记忆状态的复习算法了。今天就介绍一下如何使用我开发的 FSRS4Anki 自定义排程算法。
+
+## FSRS4Anki 简介
+
+FSRS4Anki，即 Free Spaced Repetition Schedule for Anki 的缩写。其基于彼得·沃兹尼亚克提出的记忆三变量模型[1] DSR（Difficulty- Stability-Retrievability）和随机最短路径算法[2]，在记忆预测和调度优化方面有很大的提升。
+
+## 前置条件
+
+FSRS4Anki 目前只支持 Anki 电脑端，且版本要大于等于 2.1.55。
+
+下载地址：[Anki - powerful, intelligent flashcards](https://link.zhihu.com/?target=https%3A//apps.ankiweb.net/%23download)
+
+> 不过你也可以在手机上正常复习，然后在电脑端使用 FSRS4Anki Helper[3] 重新安排复习（会使用卡片的完整复习历史，包括你在手机上的复习记录）。
+## 使用 FSRS4Anki 默认版
+
+### 第一步：开启 V3 调度算法
+
+Anki -> 首选项 -> 计划 -> 启用 V3 排程算法
+
+![](https://pic2.zhimg.com/v2-f7e76dc88b5813d2b9700883ce9c7603_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-cc6adb641e70b11eacb66ddd889493c6_1440w.jpg)
+### 第二步：复制 FSRS4Anki 算法代码
+
+fsrs4anki 仓库 -> fsrs4anki_scheduler.js -> Copy raw contents
+
+> 如果你用的是 qt5 内核的 Anki，请使用 fsrs4anki_scheduler_qt5.js
+[GitHub - open-spaced-repetition/fsrs4anki: A modern Anki custom scheduling based on free spaced repetition scheduler algorithm](https://link.zhihu.com/?target=https%3A//github.com/open-spaced-repetition/fsrs4anki)
+![](https://pic4.zhimg.com/v2-bd1127a339a28e9b43c178a3c75890cd_1440w.jpg)
+
+![](https://pic1.zhimg.com/v2-56d780a8aa9abb21d00e50a4712b5cc2_1440w.jpg)
+### 第三步：粘贴代码到「自定义排程」
+
+齿轮 -> 选项 -> 自定义排程 -> 保存
+
+![](https://pic4.zhimg.com/v2-6c8ceb853ebe03e0e6bc48c8a2992163_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-f1cdb8e937783df865a5bd7a359938f2_1440w.jpg)
+Congratulations! 你已经用上 FSRS4Anki 默认版了。但默认版使用的参数主要来自我的复习记录，不一定适合你自己。所以，如果你已经使用 Anki 有一段时间了，积累了不少复习数据，可以试试 FSRS4Anki 的优化器，来生成最适合你的算法参数。
+
+## 为你生成最优算法参数
+
+### 第一步：打开 FSRS4Anki 优化器
+
+fsrs4anki 仓库 -> fsrs4anki_optimizer.ipynb -> Open in Colab
+
+> Colab 需要 Google 账号才能使用
+
+![](https://pic3.zhimg.com/v2-e72183b2a82661b640de37143f3d3340_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-ed738a2f9e41a2b2aa733a9f6cb6aa4a_1440w.jpg)
+### 第二步：上传你的复习数据
+
+Anki：齿轮 -> 导出 -> 勾选「包含学习进度」和「支持较旧的Anki版本」-> 导出
+
+![](https://pic4.zhimg.com/v2-fd3471a2e1f84cf4621c443c03ffdf29_1440w.jpg)
+Colab：文件夹 -> 右键唤出菜单 -> 上传
+
+![](https://pic1.zhimg.com/v2-d391f43678db9f539d88b81b37bbb42e_1440w.jpg)
+### 第三步：在优化器中填入你的 Anki 设置
+
+将 filename 改为你上传的牌组文件的名字
+
+将 timezone 改为你所在的时区（不过大部分的人应该都是 Asia/Shanghai，不用改）
+
+将 next_day_starts_at 改为你 Anki 设置的「新的一天始于」
+
+![](https://pic4.zhimg.com/v2-d0107ce085d209b6a0c512bb54af15d5_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-4889eb5043543dcfd39e6d199bea7445_1440w.jpg)
+### 第四步：运行全部代码，等待结果，复制输出参数
+
+代码执行程序 -> 全部运行 -> 到 3 Result 一节等待输出结果 -> 复制参数
+
+![](https://pic3.zhimg.com/v2-8efd678c7a1c62cdb483eed9374ed230_1440w.jpg)
+
+![](https://pic3.zhimg.com/v2-493543ccada260d379970ab3de342a16_1440w.jpg)
+### 第五步：用优化后的参数替换 FSRS4Anki 中的默认参数
+
+替换图中红色框内的参数，然后保存一下。
+
+![](https://pic1.zhimg.com/v2-c8b5ffa9ddf8b1a0df8a569923716e9c_1440w.jpg)
+大功告成！
+
+## 其他教程
+
+给特定牌组单独设置参数：
+
+[Set different parameters for specific decks. · open-spaced-repetition/fsrs4anki Wiki (github.com)](https://link.zhihu.com/?target=https%3A//github.com/open-spaced-repetition/fsrs4anki/wiki/Set-different-parameters-for-specific-decks)调试自定义算法：
+
+[How does the scheduler work? · open-spaced-repetition/fsrs4anki Wiki (github.com)](https://link.zhihu.com/?target=https%3A//github.com/open-spaced-repetition/fsrs4anki/wiki/How-does-the-scheduler-work%253F)算法的记忆模型：
+
+[Free Spaced Repetition Scheduler · open-spaced-repetition/fsrs4anki Wiki (github.com)](https://link.zhihu.com/?target=https%3A//github.com/open-spaced-repetition/fsrs4anki/wiki/Free-Spaced-Repetition-Scheduler)算法的优化原理：
+
+[The fundamental of FSRS · open-spaced-repetition/fsrs4anki Wiki (github.com)](https://link.zhihu.com/?target=https%3A//github.com/open-spaced-repetition/fsrs4anki/wiki/The-fundamental-of-FSRS)希望以上内容对你有所帮助。

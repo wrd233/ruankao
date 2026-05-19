@@ -1,0 +1,99 @@
+# 告别低效~看一眼这里，我帮您省时间！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/51407096)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+对不起大家……我立的 flag 又失效了，说好的暂停更新一段时间，结果昨天看到我的 Anki 高考制卡群的群友分享了几个提高效率的工具，我觉得很有必要让大家看一眼，说不定就帮到哪位同学了呢！
+
+## **效率工具下载**
+
+OCR文字识别
+
+电脑端
+
+天若ocr[https://www.52pojie.cn/thread-692917-1-1.html](https://link.zhihu.com/?target=https%3A//www.52pojie.cn/thread-692917-1-1.html)
+
+安卓手机端
+
+屏幕识别：FV悬浮球[http://www.appchina.com/app/com.fooview.android.fooview](https://link.zhihu.com/?target=http%3A//www.appchina.com/app/com.fooview.android.fooview)
+拍照识别：白描[http://www.appchina.com/app/com.uzero.baimiao](https://link.zhihu.com/?target=http%3A//www.appchina.com/app/com.uzero.baimiao)
+
+计划与执行
+
+全平台
+
+滴答清单[http://www.appchina.com/app/cn.ticktick.task](https://link.zhihu.com/?target=http%3A//www.appchina.com/app/cn.ticktick.task)
+
+安卓手机端
+
+番茄ToDo[http://www.appchina.com/app/com.plan.kot32.tomatotime](https://link.zhihu.com/?target=http%3A//www.appchina.com/app/com.plan.kot32.tomatotime)
+
+休息-工作-节奏
+
+电脑端
+
+Workrave[http://www.workrave.org/](https://link.zhihu.com/?target=http%3A//www.workrave.org/)
+
+手机端
+
+EYE护您[https://sj.qq.com/myapp/detail.htm?apkName=tw.idv.mvp.eyefoou](https://link.zhihu.com/?target=https%3A//sj.qq.com/myapp/detail.htm%3FapkName%3Dtw.idv.mvp.eyefoou)
+
+## **介绍**
+
+## **天若ocr**
+
+![](https://pica.zhimg.com/v2-1860d17fdcf549cec1b9fe4ed73c72d0_1440w.jpg)
+
+功能太多了，我主要用的是图像文本识别+数学公式转化成Latex代码（公式识别接口目前已经失效，推荐使用 Mathpix，[教程在此](https://zhuanlan.zhihu.com/p/127043982)——2020 年注）
+
+给个效果图
+
+![](https://pic2.zhimg.com/v2-6cf34bf3bed82d4d941e615e976432f1_1440w.jpg)
+
+不清晰的公式识别准确度也不错，虽然把-1识别为-17了。
+
+## **FV悬浮球**
+
+神器！
+
+[https://zhuanlan.zhihu.com/p/45428122](https://zhuanlan.zhihu.com/p/45428122)
+
+[https://zhuanlan.zhihu.com/p/42809896](https://zhuanlan.zhihu.com/p/42809896) 
+
+这两篇文章介绍了一点，具体如何使用还是得靠自己上手去用。
+
+## **白描**
+
+![](https://pic2.zhimg.com/v2-1fc764ce003aec160d95c82188204513_1440w.jpg)
+
+## **滴答清单**
+
+![](https://picx.zhimg.com/v2-3428812e9c463c426706db6bc3631a1b_1440w.jpg)
+
+## **番茄ToDo**
+
+[https://zhuanlan.zhihu.com/p/42437432](https://zhuanlan.zhihu.com/p/42437432)
+
+这篇讲过了。
+
+最近更新后增加了定时开启番茄钟的功能，还有更加强大的锁屏功能。让你的手机彻底只能用来学习。
+
+## **Workrave+**EYE护您
+
+一个提醒你休息的软件，具体如何休息，之后我会更新一篇文章，专门谈谈常见的休息误区和高效的休息方法。
+
+Workrave
+
+效果图
+
+![](https://pic2.zhimg.com/v2-483a2365f123350046a5145b65527dcf_1440w.png)
+倒计时结束就会提醒休息，虽然不是非常强制，但是它会检测你是否在动鼠标和键盘。
+
+EYE护您
+
+![](https://pic4.zhimg.com/v2-1894729e2552d9d76f5f08c257e9247b_1440w.jpg)
+这个有强制休息，可以打断你看手机。作为一个提醒我们停下来思考人生的app，它还是很不错的。
+
+效率软件就分享到这里，但是高效也救不了缺乏休息的我们。下一期我会重点讲讲，在这么多效率软件的帮助下，我们该如何安排学习和休息，才能真正达到高效！
+
+别忘了，本专栏是**科学备考**研究所哦！

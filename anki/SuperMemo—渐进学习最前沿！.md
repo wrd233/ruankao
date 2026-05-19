@@ -1,0 +1,4807 @@
+<!-- 源文件: 20 条知识表述规则（20 周年版）.md -->
+
+# 20 条知识表述规则（20 周年版）
+
+> [原文链接](https://zhuanlan.zhihu.com/p/269997143)
+
+## 引言
+
+我们在学习中对知识的表述方式对记忆有着巨大的影响。措辞得当的问题会让学习变得轻松。结构合理的知识将有助于将知识终身保存在记忆中。
+
+1999年编撰的《[有效学习：知识表述的20条规则](https://link.zhihu.com/?target=http%3A//super-memory.com/articles/20rules.htm)[1]》，描述了有效表述好问题以保持长期[记忆](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Retention)所需的最重要规则。下面我提供一个简明扼要的执行摘要（特别是对[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]感兴趣的人）。
+
+## 摘要：20 条规则
+
+[不要学你不理解的东西](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Do_not_memorize_before_you_understand)[3]
+先学后背
+从基础开始，再到复杂
+[保持问题简单](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Simple_questions_in_spaced_repetition)[4]
+图片帮助记忆
+学习助记技巧，比如数字桩
+避免列表、集合和枚举（它们可以用[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)来处理）
+个性化并提供例子
+[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)速度很快，并有很好的[助记效果](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Mnemonic_anchor)
+使用[冗余](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Redundancy)[4]（从不同角度提出类似的问题）
+使用[参考文献](https://link.zhihu.com/?target=http%3A//help.supermemo.org/wiki/References)
+
+## 新规则：渐进阅读
+
+随着[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]的出现，规则已经被修改，并重新确定了优先级。
+
+[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]中表述策略的改变：
+
+建立理解可能是学习过程的一部分，在理解不充分的段落中[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)是可以接受的
+学习和记忆可能同时进行
+在学习过程的早期，[项目](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Item)可能很[复杂](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Complexity)。取决于[知识优先级](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Priority_queue)[5]和可用的时间，它们会[逐步简化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Simple_questions_in_spaced_repetition)[4]。
+对同一语句的不同表述进行多次[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)，往往可以替代记忆技巧（见：知识达尔文主义[6]）。
+列表、集合和枚举可以通过[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)轻松解决。
+为了实现个性化，在学习的课文中加入自己的故事，[创造性地阐述](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_writing)。
+
+## 元规则：学习的乐趣
+
+一个简单而通用的试金石，就是[学习的乐趣](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_learning)[7]。每当你看到乐趣下降时，再来看看这篇文章，看看能不能找到可能导致乐趣下降的违规行为。
+
+## 元规则：适用性
+
+我们应该力求知识的最大[适用性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Applicability)。
+
+[人类的智慧](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Simple_formula_for_high_intelligence)是建立在知识的基础上的，其中[抽象知识](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Abstract_knowledge)[8]的作用尤为重要。抽象知识以规则为基础，如2+2=4。这种规则可以在多种情境中运用，有助于提高解决问题的能力。规则比事实更有用。例如，知道2+2=4（规则）比知道朋友的电话号码是4（事实）更有用。规则和公式比事实更[适用](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Applicability)。更多详情请看：[抽象知识](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Abstract_knowledge)[8]
+
+## 元规则：简单
+
+在表述知识时，我们应始终努力形成以良好的理解为背景的[原子记忆](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Complexity)。如果学习是愉快的，[项目](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Item)可能就会表述得很好。这张图解释了为什么简单的记忆更容易[保留](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Retention)：
+
+![](https://pic3.zhimg.com/v2-b90db884d7288ab353d345490fee523e_1440w.jpg)
+
+图：[记忆复杂性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Memory_complexity)说明了[最小信息原则](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Minimum_information_principle)的重要性。在记忆简单的问题和答案时，我们可以依靠简单的记忆联系，并在复习时统一刷新这种联系。复杂的记忆，其概念的激活方式可能是不完整的，或者是根据上下文的不同顺序。因此，复习时很难产生[记忆稳定性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Memory_stability)的统一提高。复杂的项目难以记忆。一个简单项目的例子可能是一个单词对，例如 apple = pomo（世界语）。而认识一个苹果可能需要一个复杂的联系网。apple 和 pomo 之间的联系是不可简化的（即最大限度地简化）
+
+更多有关制卡原则的内容，请关注：
+
+[制卡原则与知识表述](https://www.zhihu.com/collection/614280525)
+
+
+---
+
+
+<!-- 源文件: QuickerMemo：以思考的速度渐进学习.md -->
+
+# QuickerMemo：以思考的速度渐进学习
+
+> [原文链接](https://zhuanlan.zhihu.com/p/374212495)
+
+> 本文使用 [Zhihu On VSCode](https://zhuanlan.zhihu.com/p/106057556) 创作并发布
+
+> 前置知识：**Quicker，SuperMemo，渐进学习**
+最近迁移好了自己的学习环境，SuperMemo 和 Quicker 也能继续用了。
+
+不得不说，Quicker 在许多方面都提高了我使用 SuperMemo 的效率，这里分享一套我自己使用了 4 个月以上的 Quicker 动作集和快捷键。
+
+有了这套动作集和快捷键，可以发挥键盘的最大作用，让你的刷卡速度跟上你的思维。
+
+## 动作总览
+
+快捷键分享地址：
+
+[SuperMemo 纯键盘操作 - 扩展热键配置包 - Quicker](https://link.zhihu.com/?target=https%3A//getquicker.net/share/powerkeys/package%3Fid%3D5fcf3d5c-c548-4793-6115-08d8ac47c7cb)配合 CapsLock 键，可以使用更多的组合键来实现以下功能：
+
+![](https://pic4.zhimg.com/v2-8bafbd0c316e066478f56d872eb647c7_1440w.png)
+Image
+
+不过这样可能会导致 CapsLock 键不能用于原来的用途，所以我用 CapsLock + Enter 来替代原来的大小写切换功能。
+
+接下来我们分组介绍一下这些动作的用途。
+
+## 卡片操作
+
+首先是 CapsLock + 1/2/3/4 分别对应优先级 0/10/30/70，极大地方便了我们快速设置卡片的优先级。其动作模板是：
+
+[高优先级 - 已分享的动作 - Quicker](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3Dbf30d743-a249-4c7f-295f-08d891a6372a)然后是 CapsLock + F，可以统一格式，具体的动作介绍请参见：
+
+[统一格式 - 已分享的动作 - Quicker](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3D859bda04-fe78-4385-1b37-08d88a0dba1c)效果：
+
+![](https://pic1.zhimg.com/v2-5e68c73200991efede80cdf53d11f566_1440w.gif)
+Image
+
+最后是 CapsLock + Tab + Enter，用来删除当前卡片的内容，并将其搁置，不再复习。原先的快捷键是 Ctrl + Shift + Enter，我个人不太喜欢把手指移到左下角，所以就改了。
+
+## 快捷键
+
+CapsLock + Backspace，用来删除当前卡片（如果有子卡也会被一并删除），主要是原来的快捷键 delete 太远了，不顺手，改了。
+
+CapsLock + Enter 来替代原来的大小写切换功能，毕竟占用了 CapsLock。
+
+CapsLock + D/Q，摘抄/挖空，对应原先的快捷键 Alt + X/Z，同理，按这两个键比较变扭，而且靠太近，容易按错。
+
+CapsLock + E，退出，就是代替了 Esc，同样是太远的缘故。并且 E 是进入编辑模式的快捷键，CapsLock + E 就可以退出编辑，比较好记。
+
+CapsLock + M，可以输入 LaTeX 公式，自动粘贴公式图片到 SuperMemo 上，具体的介绍请见：
+
+[公式转图片 - 已分享的动作 - Quicker](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3D8df5d7a2-e1c9-4d21-c7fc-08d91b37df64)效果：
+
+![](https://pic4.zhimg.com/v2-b631701aed23e98f3babc6dd2ce016e3_1440w.gif)
+Image
+
+CapsLock + W，将选中文字设为文章标题，对于导入大量文章的同学很有用，一下就把标题设置好了。
+
+CapsLock + S，输入分割线，对于需要对长文进行自动分割的同学有用，我自己比较少使用。
+
+CapsLock + Space + J/L，回到上一张/下一张，类似浏览器的前进后退，方便查看刚刚做的摘抄和挖空（摘抄和挖空在生成后会自动放入上一张）
+
+## 文本导航
+
+CapsLock + I/J/K/L，就是↑←↓→，借鉴了 Vim，不过我不习惯 HJKL，更习惯 WASD 这种键位，所以就横向移植过去，这样右手不需要怎么移动就可以进行文本导航了。
+
+CapsLock + H/;/U/P 也是同理，对应 Home/End/Page Up/Page Down，让文本导航更快。
+
+## 文本选中
+
+和文本导航类似，多按一个 Tab 键，就可以实现边移动光标，边选中文字。并且我在选中的快捷键中加入了 Ctrl，每次光标移动都是以一个词为单位（英文），这样速度更快。
+
+## 总结
+
+由于 SuperMemo 渐进阅读需要天天和文本打交道，鼠标交互十分繁琐，有时候灵感稍纵即逝，如果不能让自己的编辑速度跟上思考，那该错过多少宝贵的知识。
+
+当然，这套操作不适合新手使用，建议对渐进阅读各个流程已经较为熟悉的同学有选择地参考这套快捷键。
+
+
+---
+
+
+<!-- 源文件: SuperMemo 18 完美汉化（大概）分享.md -->
+
+# SuperMemo 18 完美汉化（大概）分享
+
+> [原文链接](https://zhuanlan.zhihu.com/p/427646223)
+
+## 更新
+
+[SuperMemo 18 中文懒人包 · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/howtolearn/lazy_package)SuperMemo 中文懒人包，内置汉化补丁，开箱即用～
+
+## 鸣谢
+
+非常感谢 SuperMemo 使用者舍得前辈和 SuperMemo 群友秦始皇同志提供的汉化文件，本汉化结合两者优点，并按照帮助文档翻译项目[1]的汉化习惯进行了调整。
+
+## 下载
+
+链接: [https://pan.baidu.com/s/1U1Wol4yNYfnndOBJ8Wy5pw](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1U1Wol4yNYfnndOBJ8Wy5pw) 
+
+密码: s3gm
+
+## 使用方法
+
+sm18.chs 文件放在 sm18.exe 的同级目录下
+
+![](https://pic4.zhimg.com/v2-eb506d42e3581975d9f5ca475ebdd25f_1440w.jpg)
+ZH-CH.TRA 文件放在 translat 文件下
+
+![](https://pic4.zhimg.com/v2-a5e4d4805ef42adf594ea569a7610e8d_1440w.jpg)
+并在 sm18 的选项设置-语言中选中 ZH-CN
+
+![](https://pic3.zhimg.com/v2-542d56e5b59e668e84e0aecb0f59a772_1440w.jpg)
+## 总览
+
+![](https://pic3.zhimg.com/v2-9a1a90dabc0949facbb9edcc828ef8d0_1440w.jpg)
+##  顶部菜单
+
+### 文件
+
+![](https://picx.zhimg.com/v2-8598ac39cfef540c8635c37a05330fd1_1440w.jpg)
+### 编辑
+
+![](https://picx.zhimg.com/v2-006e9d1497ea7078acf4e67513d167ff_1440w.jpg)
+### 查找
+
+![](https://pica.zhimg.com/v2-2f036d579b9cf193d3df73161f17e7ea_1440w.jpg)
+### 学习
+
+![](https://pic4.zhimg.com/v2-a58cf35f8dd170b70c887740f02909c9_1440w.jpg)
+### 查看
+
+![](https://pic1.zhimg.com/v2-f3a8a61219df610494009f8ff4512672_1440w.jpg)
+### 工具
+
+![](https://pic3.zhimg.com/v2-252b83ccb0240b31a96e56ac0bf6fea2_1440w.jpg)
+### 窗口
+
+![](https://pic1.zhimg.com/v2-c124c41cf1277ab603a9890d512c9d02_1440w.jpg)
+### 帮助
+
+![](https://pic1.zhimg.com/v2-dff4b79eea3bf71487044f8e02c48a50_1440w.jpg)
+## 知识树菜单
+
+### 右键元素
+
+![](https://picx.zhimg.com/v2-0447e317666de0d3bdf0ce0858bfec6f_1440w.jpg)
+### 处理分支
+
+![](https://pic4.zhimg.com/v2-c9de5ff9ca2724d7311a7dd2ca95ef35_1440w.jpg)
+## 编辑器菜单
+
+### 右键组件
+
+![](https://picx.zhimg.com/v2-947c081cea7c0b6eabdc2b546dc28ae7_1440w.jpg)
+### 右键元素
+
+![](https://picx.zhimg.com/v2-7d5ef1e9568649bfed4ec1d1890f9d37_1440w.jpg)
+## 统计界面
+
+![](https://pic2.zhimg.com/v2-b7ab4c863ccc489650b7ad6f116ace97_1440w.jpg)
+
+![](https://picx.zhimg.com/v2-5a3473916ac71b82e6ffe3a6ac033f7d_1440w.jpg)
+
+## 结语
+
+剩下的汉化请自己下载后探索吧～
+
+之后可能考虑出一份 sm18 懒人包（又挖了个大坑）
+
+敬请期待！
+
+
+---
+
+
+<!-- 源文件: SuperMemo 图表详解.md -->
+
+# SuperMemo 图表详解
+
+> [原文链接](https://zhuanlan.zhihu.com/p/387855573)
+
+> 本文使用 [Zhihu On VSCode](https://zhuanlan.zhihu.com/p/106057556) 创作并发布
+> 
+> 
+这里是好久没有写文章的学委叶哥，由于是个懒人（迫真），不爱写自己都很少用到的功能模块的相关教程。
+
+不过群友经常问图表相关的问题，想着写篇文章应该能解答不少疑惑，于是开始码字（在动车上闲着也是闲着
+
+由于各类图表已经有官方的介绍，本文不会进行一一介绍，只会涉及一些我认为比较重要的图表。
+
+另外，图表数据主要分为使用相关和算法相关，大家可能更关心使用相关的内容，算法相关的图表算是我的一点私货。
+
+废话不多说，让我们开始吧！
+
+## 使用相关
+
+Shift + Alt + A 打开统计分析
+
+![](https://pic3.zhimg.com/v2-3128affa14453c8e6c7e52c7fe58b400_1440w.jpg)
+Image
+
+### 每日重复次数
+
+Use - Work done - Item Repetitions
+
+![](https://pica.zhimg.com/v2-9449abcc5109e4b0d287924e2ba7a380_1440w.jpg)
+Image
+
+横轴是日期，纵轴是重复次数，不论是新学还是复习，只要进行一次评分，就会当做一次重复（包括在 Final Drill 中的重复）
+
+点击 Smooth 可以平滑曲线，方便观察更大时间范围的趋势。
+
+另外，Topic View 就是每日阅读的摘录卡片数量，Repetitions 就是 Item + Topic 的重复总和。Use Time 就是你花在这个 collection 上的时间，而 Recall time 是花在回忆答案的时间。
+
+### 每日待办卡片数量
+
+Use - Work done - Outstanding
+
+![](https://pic4.zhimg.com/v2-b2765c524947613631085f0f82199225_1440w.jpg)
+Image
+
+这个是 SuperMemo 算法每日安排的卡片数量，注意与前面的每日重复数量区分（一个是算法安排，一个是实际学习）。
+
+Outstanding items 和 Outstanding topics 就是把问答卡片和摘录卡片分开统计。
+
+### 卡片总数
+
+Use - ELement count - Topic and tasks
+
+![](https://picx.zhimg.com/v2-01ea569907ce191ec645af4f707550f7_1440w.jpg)
+Image
+
+顾名思义，就是卡片总数，如果新增卡片，就会变大，删除卡片就会变小。
+
+### 已记忆的卡片总数
+
+Use - Memorized - Memorized items
+
+![](https://picx.zhimg.com/v2-1c9f87fc343108f0f45098115a075641_1440w.jpg)
+Image
+
+已记忆的卡片就是进入复习状态的卡片，不包括被 dismiss 或 forget 的卡片。
+
+### 每日新记忆的卡片数
+
+Use - Newly memorized - New items
+
+![](https://pic4.zhimg.com/v2-0744a2fa296e3936108e8a540cb4f9bf_1440w.jpg)
+Image
+
+顾名思义，就是每天新学的卡片数量，这里要注意：新增、挖空和摘录都算作新记忆，而从外部导入到 pending 队列的卡片需要在 new material 里面学过后才当做新记忆。
+
+### 每日遗忘指数
+
+Use - Efficiency - Forgetting index
+
+![](https://picx.zhimg.com/v2-04ae46fad0a01189f1b852377124fb4d_1440w.jpg)
+Image
+
+每日遗忘指数就是当天遗忘的卡片数量比去当天复习的卡片数量即 [forget / (forget + recall)]
+
+### 每日超负荷
+
+Use - Overload - Items
+
+下图经过 smooth 处理
+
+![](https://pic1.zhimg.com/v2-d94e7a4fe80b17de102c6a6bad86a1d6_1440w.jpg)
+Image
+
+实际复习 / 算法安排，100% 就是完成当天算法安排的所有复习，如果当天的 Outstanding 中有 100 张卡片，而我只处理了 40 张，那么我当天的 overload 就是 40%
+
+### 每日优先级保护
+
+Use - Priority protection - Items
+
+下图经过 smooth 处理
+
+![](https://pic2.zhimg.com/v2-910b822da81acac4ae8cf53645d8d77b_1440w.jpg)
+Image
+
+之前在《[渐进阅读：卡片刷不完？拥抱优先级！](https://zhuanlan.zhihu.com/p/364351955)》中介绍过了，此处不再赘述。
+
+## 算法相关
+
+### 第一次复习后的遗忘曲线
+
+Forgetting - Stability: new
+
+![](https://picx.zhimg.com/v2-859cdd1f2bc908905b3069c6e23d9835_1440w.jpg)
+Image
+
+这条曲线表示的是，一张卡片被第一次记忆后的遗忘曲线。蓝色的点代表真实值，黄色的线代表拟合后的曲线。蓝色纵线表示的是保留率为 90% 所对应的间隔天数。
+
+一般来说，如果应用良好的制卡原则，黄色线会更加平缓，蓝色纵向也会更靠近右侧。
+
+### 第一个间隔与累积遗忘次数的关系
+
+Graphs - First Interval
+
+![](https://pic3.zhimg.com/v2-11dc811f9b821bbec8c8cdcd18a0ea9e_1440w.jpg)
+Image
+
+该曲线表示的是，不同累积遗忘次数的卡片，在被遗忘后（或者是第一次复习），最佳间隔天数与累积遗忘次数之间的关系。
+
+蓝色的点即统计值，点的相对大小表示该点统计样例数量的相对多少，黄色线是拟合结果。
+
+### 间隔矩阵
+
+Matrices - Intervals
+
+![](https://picx.zhimg.com/v2-3f627082ecb945171326f8e25d55cae3_1440w.jpg)
+Image
+
+本矩阵是由 SM-15 算法按照用户复习数据拟合出的间隔矩阵，横索引代表卡片难度，越大越简单，纵索引表示连续记住次数。
+
+本矩阵并未用于实际的复习安排，仅做参考。
+
+## 结语
+
+以上就是我认为值得了解的统计数据，更多数据的详细解释，可以参考官方文档：[https://help.supermemo.org/wiki/Analysis](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Analysis)
+
+不建议 SuperMemo 新手对这些图表了解太多，原因有二：
+
+其一，数据量太少偏差较大，没有参考价值；
+
+其二，用好 SuperMemo 的基本功能更重要。
+
+希望我的文章对大家有所帮助，谢谢！
+
+
+---
+
+
+<!-- 源文件: SuperMemo 自动备份.md -->
+
+# SuperMemo 自动备份
+
+> [原文链接](https://zhuanlan.zhihu.com/p/351606263)
+
+## 更新
+
+2021 年 10 月 28 日：推翻重写，不再使用 BitShelter，改用 Kopia 来备份。不再需要单独划分磁盘，并且设置非常好理解。
+
+## 警告
+
+千万不要用百度网盘自动备份或者坚果云同步之类的在线同步备份软件，很可能会搞错 SuperMemo 的文件版本，导致卡片丢失或者数据损坏。
+
+## **引入**
+
+SuperMemo 只有手动备份功能，使用者难免会忘记及时备份，当自己误删后想要回滚，才发现上次备份已经是几个月前，这期间的工作全部木大。为了预防这种情况出现，我建议日常使用 SuperMemo 的朋友掌握一下自动备份的方法，以防不测。
+
+## **效果预览**
+
+![](https://picx.zhimg.com/v2-b36b2bc5e89cd944c7bcd2ef701a174d_1440w.jpg)
+## **准备工作**
+
+下载 Kopia 并安装
+
+[https://ghproxy.com/https://github.com/kopia/kopia/releases/download/v0.9.4/KopiaUI-Setup-0.9.4.exe](https://link.zhihu.com/?target=https%3A//ghproxy.com/https%3A//github.com/kopia/kopia/releases/download/v0.9.4/KopiaUI-Setup-0.9.4.exe)
+
+打开 Kopia 并点击 Filesystem，我们这次就做本地备份。
+
+![](https://pica.zhimg.com/v2-2d1677aa654bbefa15f6119faba30f3a_1440w.jpg)
+随手找一个**空文件夹（最好新建一个）**来当备份目录：
+
+![](https://pic2.zhimg.com/v2-692a350bd6850d5b01dfcbc08936242b_1440w.jpg)
+设置一下备份加密密码
+
+![](https://picx.zhimg.com/v2-71a50f5841cb1f58712fd1fff854dba3_1440w.jpg)
+好了，接下来就可以开始设置备份计划了
+
+## 备份设置
+
+点 New Snapshot，开始设置
+
+![](https://pic3.zhimg.com/v2-33b34ca8b74364d97919d843690cc668_1440w.jpg)
+输入你的 sm18 路径，点一下 estimate 看看对不对。
+
+![](https://pic1.zhimg.com/v2-a79481a0dde96e02032308b46d3f54cc_1440w.jpg)
+然后点 snapshot now 就可以手动备份了。
+
+![](https://pic1.zhimg.com/v2-cb9df5ab04136416255db28b7bf82ec0_1440w.jpg)
+接下来我们改一下自动备份的设置，先到 Policies 点一下 edit
+
+![](https://pica.zhimg.com/v2-e31ccb355d33c1c111d2a130871dbc5e_1440w.jpg)
+retention 这里我设置为 4 3 2 1，意思就是保持最新的 4 份，最近 3 小时的 3 份，最近两天的 2 份，最近一周的 1 份。
+
+![](https://pic1.zhimg.com/v2-7721f10395116a77fecbdec658a7e52e_1440w.jpg)
+Scheduling 这边的 interval 设置为 300，就是 5 分钟备份一次。
+
+![](https://picx.zhimg.com/v2-a84104d0bbfe5031fb4a6a2833d8077d_1440w.jpg)
+最后点击 Save Policy 完成设置。
+
+## **恭喜**
+
+我们已经完成了每 5 分钟备份一次的设置。Kopia 会保留最新的 4 份备份，也就是 5 分钟前、10 分钟前、15 分钟前、20分钟前。还有最近 3 小时，1 小时前、2 小时前、3 小时前。还有 1 天前、2 天前和一周前。有这么多兜底，妈妈再也不怕我 SuperMemo 崩溃啦！
+
+如何恢复备份？先点击路径
+
+![](https://pic1.zhimg.com/v2-062493b48d1f3c4624c826898bd71df6_1440w.jpg)
+再选择一份备份
+
+![](https://picx.zhimg.com/v2-38979ee3db8b4895ca652ec74e8f1391_1440w.jpg)
+然后点 restore
+
+![](https://pic2.zhimg.com/v2-9e338b109d11d2228ce1bbaf67d3605b_1440w.jpg)
+填一下要恢复到哪个路径（建议先把你现在的 sm18 文件夹里面的东西都删掉），然后勾选一下 overwrite 覆盖，再 begin restore 即可。
+
+![](https://pic1.zhimg.com/v2-2dbfd3cf1d2fd5f7474d0cd368d44340_1440w.jpg)
+## 补充说明
+
+SuperMemo 正在运行时，Kopia 可能会备份失败，所以如果你要进行高危操作，最好先关闭 SuperMemo，然后点击 Snapshot Now 手动备份。
+
+![](https://pic3.zhimg.com/v2-754845629238a9b1d776e6a91e611c6c_1440w.jpg)
+另外最好将 Kopia 设置为开机自动启动。可以参考：
+
+[愿君学习狂热：如何设置让软件开机自启动？三步搞定！](https://zhuanlan.zhihu.com/p/265076894)## 拓展阅读
+
+默认设置下 kopia 无法在 supermemo 运行时进行备份，需要开启影子备份，感谢 [@荆慢慢2.2](https://www.zhihu.com/people/31cf1b829bffdcf9f8bed9bafa37d2ff) 提供的教程：
+
+[荆慢慢2.2：KOPIA 开启影子备份以及 SUPERMEMO 18 的数据修护方法](https://zhuanlan.zhihu.com/p/524574542)
+
+
+---
+
+
+<!-- 源文件: SuperMemo 的三大模块，解决记忆的三大问题！.md -->
+
+# SuperMemo 的三大模块，解决记忆的三大问题！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/369881954)
+
+> 本文使用 [Zhihu On VSCode](https://zhuanlan.zhihu.com/p/106057556) 创作并发布
+## 太长不看
+
+记忆算法：解决记忆的数量问题
+渐进阅读：解决记忆的质量问题
+优先队列：解决记忆的价值问题
+
+## 引言
+
+好久不见，读者朋友们！挺久没写原创了，今天有了灵感，就来写写。
+
+这次我们从更抽象的层次来看看 SuperMemo 是怎样解决记忆问题的。
+
+单看 SuperMemo 如今**浩如烟海的功能**和**上世纪风格的界面**，不少入门者都觉得 SuperMemo 非常复杂，完全搞不明白这些功能**对记忆有什么帮助**。
+
+![](https://picx.zhimg.com/v2-143bad318d1edf8ce06eb8365f7db3e9_1440w.png)
+Image
+
+为了更好地剖析 SuperMemo，我发现从**时间顺序**来分析是一条不错的路径。
+
+以下就是 SuperMemo 主要模块引入的时间：
+
+记忆算法(始于 [SuperMemo 1 (1987)](https://zhuanlan.zhihu.com/p/97887756))
+渐进阅读(始于 [SuperMemo 10 (2000)](https://link.zhihu.com/?target=https%3A//super-memory.com/articles/soft/sm10.htm))
+优先级队列(始于 [SuperMemo 13 (2006)](https://link.zhihu.com/?target=https%3A//super-memory.com/archive/help2006/new2006.htm))
+
+接下来我们就按照这个顺序分析一下，这些模块分别**解决了什么**问题，以及它们是**如何解决**的。
+
+## 记忆算法
+
+> 可能有些读者朋友不知道 SuperMemo 的记忆算法有多流行，其 1987 年发布的 SM-2 算法正是 Anki 算法的原型。
+那么记忆算法究竟解决了什么问题呢？我们先从**两个直觉**开始说起：
+
+如果我们复习两次，我们就能更好地记住它。这很明显，不是吗？如果我们把它复习三遍，我们可能会记得更清楚。
+如果我们记住一组知识，它们将逐渐从记忆中消失，即不是一次全部消失。这在生活中很容易观察到。记忆有不同的寿命。
+
+这两种直觉应该让每个人都想知道：我们失去了**多少**知识，速度有**多快**？我们下一次应该**什么时候**复习？
+
+当我们问出这些问题之时，人类记忆规律之门便打开了。
+
+记忆与遗忘本质上是一个**随机过程**。而记忆算法，则是对这个随机过程的建模与优化，从而计算出最佳的**复习间隔**。
+
+可能有人会问，这还需要建模？还需要算法？我自己安排个 1 3 5 7 天不就行了？
+
+诚然，只要有复习，就会有效果，复习的间隔无非是影响效果的一个变量罢了。
+
+但是这句话就跟「只要有努力，就会有效果，怎样努力无非是影响学习的一个变量罢了」一样无用。
+
+事实证明，复习间隔**太长**和**太短**，都会**加重复习**的负担。
+
+![](https://pic1.zhimg.com/v2-888d448cb6fc8544f14c0fbe7803d7a6_1440w.gif)
+Image
+
+如何理解？间隔短，可以保证自己忘得少，但是这是用时间换的。间隔长，看似可以节省时间，然而其造成的遗忘需要未来更多的复习。
+
+当我们通过算法，在遗忘与复习量之间计算出均衡点，便能最大化地提高复习的效率，也就是**记忆的数量**。
+
+### 小结
+
+**记忆算法**，解决的是记忆的**数量**问题，即如何用**有限**的时间记住**更多**的知识。
+
+**记忆算法**，通过对记忆的**建模**与**优化**，计算出最佳的**复习间隔**，从而解决上述问题。
+
+更多有关记忆算法的内容，请见我的收藏夹：
+
+[Spaced Repetition](https://www.zhihu.com/collection/644178787)## 渐进阅读
+
+渐进阅读又是解决个啥问题呢？我们先不提它，先讲讲有了记忆算法后，我们遇到了什么问题：
+
+我用「映射法」背单词，他用「例句法」背单词，为什么我忘得更快？
+同九年，汝何秀？为什么我用叶哥的牌组还是记不住？
+《批量制卡——从入门到删库》
+。。。
+
+从这些问题中，我们可以归纳出一个共同点：**记忆的质量**太差。
+
+即使我们使用相同的记忆算法，不同的记忆内容依然会造成差异；甚至对于相同的内容，是否是自己制作也能产生显著的不同。
+
+这正是记忆的**质量**问题。知识的表述方式、对知识的理解等等，都会影响我们记忆的**质量**。
+
+有阅读过这个收藏夹内文章的朋友应该能够明白，知识表述对记忆质量有很大的影响：
+
+[制卡原则与知识表述](https://www.zhihu.com/collection/614280525)而许多 Anki 用户在这个问题上有三种因对方式：
+
+用别人的牌组
+批量制卡
+自己做
+
+前两种方法就是放弃记忆的质量，节省自己前期的投入，然后在将来还债。
+
+**自己做**固然有助于提高记忆质量，但是由于我们的理解是不断改进的，制卡经常需要**频繁改动**，而且用自己的语言表述学到的知识，是一个**巨大的工程**。这使许多同学**望而却步**。
+
+而**渐进阅读**，解决正是解决这个问题的一大有力工具。
+
+渐进阅读将阅读、改写、制卡等环节打通，实现学习、理解、记忆的渐进过程，对记忆的质量有显著的提高。
+
+以我自己为例：
+
+![](https://pic1.zhimg.com/v2-a683f5a4db152ee0e0b8ed646a6ffaa4_1440w.jpg)
+Image
+
+SuperMemo 的算法通过对我个人复习情况的拟合，计算出了不同难度、不同复习次数下对应的最佳复习间隔。可以看到第一个间隔已经有 8 天左右，而如果我的卡片做得非常烂，那么这个间隔可能就只有 1 天。
+
+### 小结
+
+**渐进阅读**，解决的是记忆的**质量**问题，即如何提高让自己的记忆**更加稳固**，**更难遗忘**。
+
+**渐进阅读**，通过打通阅读到制卡的一系列环节，增进我们对知识的理解，从而解决上述问题。
+
+更多有关渐进阅读的内容，请见我的专栏：
+
+[SuperMemo—渐进学习最前沿！](https://www.zhihu.com/column/c_1308886122672484352)## 优先级队列
+
+什么？怎么还有问题？渐进+算法还不够用吗？
+
+哈哈，不同阶段有不同阶段的问题，这是个循序渐进的过程。当记忆算法解决了记忆的数量问题后，自然会有人开始重视记忆的质量问题。而渐进阅读解决了这一问题后，大量卡片能够轻松地通过摘抄、挖空产生。渐渐地，有些人发现，哪怕算法效率再高、记忆质量再好，自己也已经复习不过来了。
+
+怎么办呢？根据我们人类的天性，一个字：**拖**。
+
+别惊讶，[理性拖延](https://zhuanlan.zhihu.com/p/350725699)是现代人的必修课。我们总会把不那么紧急或者重要的事情往后拖。事后来看，有些拖延确实是正确的选择。
+
+通过拖延，我们把时间、精力投入到更有价值的事情上。在记忆上同样适用，我们想要解决的是**记忆的价值问题**。
+
+举个栗子：我喜欢看社科类的书，比如社会心理学、思考快与慢等等，我把它们放入 SuperMemo 中渐进阅读。同时我是计算机专业的学生，有很多关于操作系统、数据库的知识也同样放在 SuperMemo 里。而我每天的复习时间有限，不能把它们都学完。那该怎么办呢？
+
+![](https://pic2.zhimg.com/v2-1fbf04f985b173961405304c20a433b1_1440w.png)
+Image
+
+从我个人的角度来看，看社科书主要是业余爱好，而计算机才是主业，所以计算机相关知识的价值更高。
+
+如果我用 Anki，我可能会先学完计算机的牌组，然后再学社科牌组。并且社科牌组经常复习不完，不断堆积。
+
+如果我用 SuperMemo，我给计算机更高的优先级，那么我在复习时会更频繁地遇到计算机的卡片，但是也会随机地遇到一些社科类的卡片，从而更好的 balance 两者。
+
+更重要的是，即使是业余爱好，社科里也有高价值的知识，即使是专业，计算机里也有低价值的知识。
+
+通过牌组这种形式的组织方式，无法处理上述的情况。那么，优先级队列便有其不可替代的优势了。
+
+### 小结
+
+**优先级队列**，解决的是记忆的**价值**问题，即如何在有限的时间里记忆更多**有价值**的知识。
+
+**优先级队列**，通过对知识标记优先级，再根据优先级安排**每日复习的顺序**，从而解决上述问题。
+
+以下是另外一篇介绍优先级队列的文章，有兴趣不妨看看：
+
+[叶峻峣：渐进阅读：卡片刷不完？拥抱优先级！](https://zhuanlan.zhihu.com/p/364351955)## 结语
+
+记忆的数量、质量和价值，正是衡量我们学习效果的三个维度。SuperMemo 的历史，也是解决这些问题的发展史。任何学习软件，恐怕都绕不开这些问题。
+
+当然，不同的学习软件都有自己应对这些问题的解决方案，百花齐放，百家争鸣，最大的受益者便是我们这些热爱学习的人。
+
+不知道各位读者朋友们是否在自己的学习体系中考虑了上述问题，你们又是如何解决的？欢迎在评论区里交流讨论。
+
+感谢各位的阅读！
+
+2021 年 5 月 5 日
+
+叶峻峣
+
+
+---
+
+
+<!-- 源文件: 在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SuperMemo.md -->
+
+# 在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SuperMemo
+
+> [原文链接](https://zhuanlan.zhihu.com/p/279553703)
+
+## 声明
+
+本文不是在反对 Anki，我热爱 Anki，并为 Anki 写了很多教程，我觉得 Anki 是一个不错的间隔重复软件，也适合新手接触间隔重复[1]与知识表述[2]。我写此文是为了给一些有相同处境的同学提供我的见解。
+
+## 致敬
+
+本文是受 [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/) 一文启发，本来打算翻译，但是我的经历与作者相似，所以直接写我自己的版本或许更好，本文的部分段落翻译自该文。
+
+## 澄清
+
+本文中所提的 SuperMemo 是指 [SuperMemo 18](https://link.zhihu.com/?target=http%3A//super-memory.com/english/down.htm)，而非 [supermemo.com](https://link.zhihu.com/?target=http%3A//supermemo.com/)，还请不要搞混了。
+
+## 引子
+
+我的故事可能会对你有所帮助，因为：
+
+我从 2017 年 4 月开始使用 Anki（超过 3 年）[3]
+在 2020 年 7 月尝试 SuperMemo[4]（4 个月前）
+从停止往 Anki 里添加新卡片，到完全转用 SuperMemo
+## 我与 Anki 的故事
+
+2017 年年初，痴迷于研究学习方法的我，在知乎上寻找学习方法，找到了[@余时行](https://www.zhihu.com/people/f6e6eafd757577f7729919c8733f48fe)老师的 Anki 专栏教程[5]，从而与 Anki 结下了不解之缘。在 2017年 4 月 22 日，我创建了自己的 Anki 账户，开始了我的 Anki 使用之旅，后来成为了 Anki 高考的推广者[6]，那已经是两年前的事情了。
+
+### 我的 Anki 统计数据
+
+我使用 Anki 大概能分为两个阶段：
+
+高二下——高考前
+大一开始——大二结束
+复习次数：339,500 次
+
+复习时间：820.8 小时
+
+卡片总数：18,058 + 10,876 = 28,934
+
+![](https://pic2.zhimg.com/v2-7ef358d81a342ad839e5ed6f87586059_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-8be7ccb7d53d94507b7660bd033ff387_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-68de1336e4dabd013a62588d8857da5d_1440w.jpg)
+
+![](https://picx.zhimg.com/v2-bff8678f38c4df09ef3e58fc21846c3d_1440w.jpg)
+在写此文的时候，我才意识到，我在 Anki 上花了多少时间与精力（甚至还没把我在知乎写 Anki 相关内容的时间记进来）
+
+### 我对 Anki 的热情
+
+写了近 200 篇关于 Anki 的文章，一本教程书[7]，还有很多很多回答
+在 AppStore 上花了 163￥ 买了 iOS 版的 AnkiMobile（哪怕我不用苹果设备）
+给 Anki 贡献翻译、issue
+
+提这些数据与证据，我只想说：我永远不会忘记 Anki 在高中和大学对我的帮助，哪怕我不再继续使用它，我也不会去反对它。
+
+## 我入门 SuperMemo 的失败
+
+其实 18 年年底，我就试着开始使用 SuperMemo，那时我通过 Anki 的算法了解到了 SuperMemo，并开始了我的翻译计划[8]。
+
+那个时候，关于 SuperMemo，我几乎找不到任何中文教程，只有官方英文文档，无尽的文档。
+
+找到一个绿色版的压缩包，开始使用，emmm……
+
+我原以为 Anki 的 UI 够古老了。没想到 SuperMemo 还是 Win XP 风格的。
+
+我开始试着在 SuperMemo 里做我在 Anki 上做的事情。但是很快，我就陷入了一个怪圈：
+
+试着添加 Latex 公式（我用 Anki 学过高数、线代）
+找不到功能的位置 
+搜索，只有 SuperMemo 又臭又长的文档
+读完，发现就是不支持
+我丢！
+试着添加别的……
+……
+…
+当我想往 SuperMemo 里添加材料，发现困难重重时，除了 SuperMemo 的文档，网络上就只有“赶紧用 Anki 吧！”的回复。
+
+在往 SuperMemo 里添加材料的搏斗中，我只坚持了几天，就删除了它，回到了 Anki。
+
+从现在来回顾这段经历，我觉得抱怨 SuperMemo 对多媒体那糟糕的支持，相当无关紧要。我没有去真正尝试渐进阅读，而只是在为自己捍卫 Anki 来找借口。想要改正这种情况并不容易：
+
+### 认知失调和确认偏见
+
+### 1.认知失调
+
+转换意味着承认我一直以来都是错的。毕竟，我已经使用 Anki 1 年半了，换个工具意味着我本该用一个更好的工具，过去的工具浪费了我的时间。这样的认知失调很难克服。我一直在抵抗，拼命地坚持着我认为是真实和正确的东西（Anki 是最好的）。
+
+比如，当时我在阅读 Anki 的手册时，我发现 Anki 使用的是 SM-2 算法，而 SuperMemo 已经更新到了 SM-17 算法。但是我认同了 Anki 作者当时的说法：
+
+>  We’re inclined to believe SuperMemo when they say their newer algorithms are more efficient, but feel that to a certain extent, it is a case of diminishing returns. The gains achieved by moving from a traditional study routine to SM-2 are already great.[9]
+>  当 SuperMemo 说他们的新算法更高效时，我们倾向于相信他们的说法，但觉得在一定程度上，这是一个收益递减的案例。从传统的学习套路转向 SM-2，取得的收益已经很大了。
+很好！SM-2 已经足够好了，Anki 也是！
+
+本质上，SuperMemo 和 Anki 是相互排斥的：同意一方意味着不同意另一方。因为我是 Anki 的支持者，所以我很快压制住了对更好选择的怀疑。
+
+### 2.确认偏见
+
+每当我搜索的时候，每个人都在说 Anki 如何比 SuperMemo 好，问如何从 SuperMemo 切换到 Anki。
+
+上网搜 Anki 与 SuperMemo，你会看到两个对立面：Anki 用户的世界 vs SuperMemo 作者（下文简称博士）的世界。
+
+Anki 的受欢迎程度超过了 SuperMemo：
+
+ 不少公众号专门讲 Anki 在考研中的应用
+ 我的专栏在讲 Anki 在高考中的应用
+ 还有好多好多用 Anki 学习外语的贴子
+
+在另一边，有博士，也只有博士。他一直在更新他的 Wiki 和帮助网站。
+
+毫无疑问，他关于间隔重复和 SuperMemo 的言论是有偏见的。他毕竟是间隔重复算法和 SuperMemo 的创造者，也是出售 SuperMemo 的受益者。鉴于他的立场，我只是觉得他的话不可信。
+
+网上有一些关于 Anki 与 SuperMemo 的博文，但对我的帮助不大，也不够深入；有一个 Google 论坛，但大多已经死了：没有活跃的讨论，没有活跃的成员，什么都没有。
+
+我的观点是，在我看来。
+
+ 全世界都在使用 Anki，间隔重复软件=Anki
+ 大家都在反对 SuperMemo，SuperMemo 的用户都在改用 Anki。
+ 只有博士在维护他的软件
+
+就这样，我删除了 SuperMemo，继续使用 Anki。直到 1 年后，我才试着再试一次。
+
+## 为什么我转用 SuperMemo
+
+有两个耿耿于怀的原因：
+
+Anki 的大量复习让我倦怠
+相信 SM-17 算法的优越性
+然而，我焦头烂额的经历和算法还不足以让我转换。这两个原因是最后的推手：
+
+ 对 Anki 解决碎片化的失望
+ 认识到渐进阅读的好处
+我在 Anki 的倦怠是由于：
+
+Anki 的复习量太高
+看到了 Anki 参数的自由与算法的局限
+复习量太高，让我不得不去调整 Anki 的参数。调整后的确降低了复习量，但是对搞乱算法的担忧挥之不去，害怕降低了效率和效果。为了确定我的参数合适，我又会去做研究，导致了更多的困惑。
+
+### Anki 的复习量太高
+
+在我立下 flag，要背完雅思的单词时，Anki 中的大量复习向我涌来。如果我有一天没有完成复习安排，复习量会积累，甚至超过 1000 张到期卡片。
+
+![](https://pic3.zhimg.com/v2-73efdd5ef44b3dffa2cada70b91c2b6a_1440w.jpg)
+连续好几周，我需要每天复习 600 多张卡片，又由于强背单词的记忆效果太差，我一分钟过不了太多的卡片。
+
+大量的复习让我不敢添加新的卡片，连续几周的复习终于使复习量降了下去，但是如果我有一天太忙，没有时间处理 Anki，复习量就会爆炸。
+
+每一天，我在吃饭的时候、排电梯的时候、在教室间来回的路上，我只要有时间，就会打开我的 AnkiDroid，开始消灭今天的任务。
+
+这样坚持了两个月后，我真的累了。我想停止学习，但是我不想放弃学习。我脑子里总是这样想：
+
+“我该继续重复吗？还有好多好多卡片要复习……但是如果我不复习，复习会累积起来，隔一天我会更加难受”
+
+可能这不是学习英语的正确方法。但不管怎样，这次经历让我尝试去调整 Anki 的参数。
+
+### Anki 参数的自由与算法的局限
+
+### Anki 的参数很自由
+
+![](https://pic4.zhimg.com/v2-6aac1707fd5dc9e4dcc45bb1fa4229b9_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-cd04b6ad0d605f75b354fe430dcd96dd_1440w.jpg)
+“Anki 的一切都能交给用户自己来掌握！“可惜这句话现在看来就是把难题抛给了用户来解决。
+
+为了调整参数，我去阅读 Anki 的算法[10]，去查看记忆相关的论文，去使用 Anki 参数模拟器[11]，去研究别的用户提供的参数调整……似乎这些内容很有帮助，但是
+
+理论难以直接用于调整参数，而现成的参数又难以证明其正确。
+
+参数太多太多，而记忆的周期又太长太长。况且，大部分 Anki 用户不关心算法对长期记忆和每日复习量的重要性。
+
+我对算法和参数的调查只带来了更多的困惑和焦虑。Anki 中的参数很多：步伐，毕业间隔，简单间隔，开始简化，简单奖励，间隔修饰符等等。
+
+理解每个参数的含义并不太困难。真正的问题是每个参数如何相互影响。不同的参数彼此关联，改变其中之一可能会对复习安排产生巨大影响。
+
+以前我觉得这个可以靠统计数据来验证参数修改后的效率。但是我后来发现：我并没有任何标准能够确定修改后的参数对我学习的影响。连主观感觉也不可靠：
+
+## 1.多 ≠ 更好且更高的保留率
+
+我越是复习同一张卡片，就越可能伤害到我的长期记忆力：
+
+> *如果一个项目还没有过渡到学习状态，但是由于近期的原因可以在短期记忆中获得，那么学习该项目对其学习没有影响*
+> *“重要的是要认识到，不仅努力的检索可以提高学习，而且反之亦然：轻松的检索似乎基本上没有学习效果。”*[12]
+> *&#34;在太容易的条件下进行几次测试，破坏了测试的积极效果。在0-0-0条件下，要求被试者在基本上总是正确的条件下回忆三次项目。然而，这三次（容易的）检索导致后来的保留甚至比在更困难的条件下给予的单次测试（两种延迟的5种条件）更差。&#34;*
+
+![](https://pic1.zhimg.com/v2-0cdc2d8d79693fdead24f4bf302680dc_1440w.jpg)
+> *&#34;保持条件的恒定和可预测，以及在某一任务上进行大量试验等操作，往往在教学或训练期间似乎提高了学习速度，但随后通常无法支持长期的保持和转移。&#34;*
+> *如果文献在任何一点上是清楚的，那就是在容易检索的条件下重复测试会导致较差的长期记忆*[13]
+并不是所有的检索都是相等的。如果我降低间隔修饰符，我会更频繁地复习。更多的回顾会带来更好的表现(更成功的回忆) ，但这并不意味着更好的长期记忆。
+
+换句话说，如果我降低间隔修饰符，不仅会浪费我的时间，而且会伤害我的长期记忆力。因此，更多的工作和更糟糕的长期保留？还有什么比这更糟糕的呢！
+
+## 2.检索强度和存储强度之间的关系是反直觉的
+
+> *&#34;要理解&#39;回答一个问题所花的时间越长，以后就越有可能回忆起这个答案&#39;这一观点，就必须理解检索是一种学习活动，（成功的）检索越困难，学习就越有效果。*
+> *在新的废弃理论中，当需要学习(或重新学习)的信息具有较低的检索强度和较高的存储强度时，存储强度和检索强度的增量都最大*[12]
+这就是理想难度的概念：在你成功的前提下，你越是努力回忆答案，你的长期保持就越好，越强。所以，降低间隔修饰符会伤害我的长期保持力，因为他们是在让复习变得更容易，破坏了理想难度的效果。
+
+> *“不需要大量的学习，就可以在整个实践中实质性地提高表现。”*[14]
+## 小结
+
+我的观点是，我认为任何用户（包括我自己）都没有足够的知识或数据来确定如何更改任何参数，更不用说确定最佳时间间隔。你的“感觉”是没有根据的。知觉流畅性、把熟悉感和表现误认为学习、错误的学习判断都是对学习有害的认知偏差和元记忆错觉。
+
+### Anki 的算法很局限
+
+以前，每当我提到 Anki 的算法，我就会说：“Anki 的算法很智能，会根据用户的反馈来降低简单材料的复习频率，提高困难材料的复习频率，比死板的艾宾浩斯遗忘曲线高效多了”。
+
+确实，Anki 的算法要比固定间隔的所谓“艾宾浩斯”复习表格要高效，但是收敛的速度却是一个难以衡量的量。Anki 根据一张卡片的反馈来调整一张卡片的复习，难以做出更好的优化。更多关于 Anki 算法的局限，可以看我这篇文章：
+
+[06 1989: SuperMemo 适应用户记忆(下)](https://zhuanlan.zhihu.com/p/213170503)### SuperMemo 的优化算法
+
+SuperMemo 的算法是否优于 Anki？很可能，但相比这一点，这个算法的灵活性才是重点：
+
+![](https://pic2.zhimg.com/v2-b95b24170ddd4fd5c00748fe95323f2f_1440w.jpg)
+对提前复习和推迟[15]复习的完美支持，让我不再对每日爆表的复习量有太大的压力。
+
+更多关于 SuperMemo 的算法研究，可以看我翻译的文集：
+
+[间隔重复的历史](https://link.zhihu.com/?target=https%3A//www.kancloud.cn/ankigaokao/supermemo-guru-cn/1895505)## 碎片化的弊病
+
+先说说理想的学习情况吧：
+
+不断将知识转化为长期记忆
+练习提取这些知识
+将相关的知识提取到工作记忆
+想办法把它们联系起来
+叮！一个新的想法出现了或成功地应用了知识
+而碎片化，就是指我们卡在了第 3,4 步。Anki 的不断复习的确增长了我的长期记忆中的知识，也能让我能够把知识提取出来，但是我却难以把这些知识联系到一起。
+
+该如何用 Anki 来解决碎片化？
+
+做总结归纳是否比画思维导图更有助于理解？
+
+自我测试是否比自我解释更有利于解决碎片化？
+
+为了克服碎片化，我开始了在 Anki 中解决碎片化的探索：
+
+## 在 Anki 中解决碎片化的挫折
+
+之前的知乎圆桌里，就有同学提问，如何解决 Anki 碎片化的问题，如何对知识保持宏观的掌握[16]？
+
+例如，我学习了光环效应的概念，阅读了《批判性思维》中的一些例子。然后在 Anki 中，我会记住一些关于光环效应的关键词，总结出一些例子。通过这样做，我希望能够在现实生活中识别出光环效应的新事件和新情况，因此，重新校准我的判断，以便更好地进行批判性思维。
+
+我明白，我希望达到的目标是没有客观衡量的，因为“大局思考”、知识转移、创造性见解都是没有明确标准的模糊术语。尽管如此，我很快意识到，我可以回忆起那些挖空的关键词**并不等于**我就可以在需要的时候回忆起那个概念或想法。
+
+德里克•西弗斯(Derek Sivers)在接受《成为超人》(Becoming a Superhuman)采访时提到了类似的担忧：
+
+> *所以我的第一个想法就是这220本书的笔记，你们将看到的每一本都是一页又一页的笔记。我的第一个想法就是我该怎么把这个放进间隔重复里。比如我怎样用间隔重复记住我从这些书中学到的东西？说实话，我还没想出答案。实际上我玩过一些东西。我做了-我想你们称之为挖空技巧，你们省略了某些词。但即使那样，我还是觉得，“好吧，我想记住的不是这个句子。我不是在背诗歌。我想记住这个概念，这个想法，这样它就会像我之前说的那些“不管什么让你害怕，去做吧”或者你的10条原则清单一样内化。*[17]
+我认为他也是在克服碎片化，将知识连成整体。我记忆一个概念的关键词的时间越长，我就越觉得，emmm......我只是为了记忆而记忆。这些概念似乎是孤立存在的。了解“外部视图”或“可用性启发”的存在当然是有帮助的，但我希望得到的不仅仅是知道名称。
+
+说来也巧，在翻译 SuperMemo 算法文档的时候，我注意到博士对知识连贯性[18]的定义。SuperMemo 的渐进阅读[19]似乎能够建立知识之间的连接，克服碎片化的问题。
+
+这对我非常有吸引力，而且那时我正对 Anki 的参数与算法感到沮丧，并想要深入研究 SuperMemo 的算法，于是我再一次入门 SuperMemo。（顺便也入了 RemNote[20] 2333）
+
+我非常清楚，我想要达到的目标可能超出了 Anki 的范围。没有人能保证一个更好的算法或渐进阅读可以帮助我联系知识。但至少我相信这会有很大的帮助。知识的联系依赖于更多的背景知识。由于间隔重复在长期记忆中起着重要的作用，一个更好的长期记忆算法也应该有助于克服知识碎片化。
+
+## 理解 SuperMemo 的渐进阅读
+
+渐进阅读是阅读和复习之间的交织，这对理解大有帮助，因此，提供了一个更好的知识联系的机会。渐进阅读的巨大优势在于，它有助于避免快速达到工作记忆的瓶颈。工作记忆的容量非常有限：试着在 5 条新信息之间慢跑，你很可能会失去你的思路。
+
+另一方面，渐进阅读可以帮助你在进一步处理之前将一些信息组块化，这样你就有更多的思考空间。例如，在操作系统的进程调度算法中，假如你是这个领域的新手，不知道什么是 SJF，FCFS，RR，MLFQ，继续阅读可能是非常具有挑战性和令人沮丧的，因为当你继续阅读时，你经常会遇到这些缩写并忘记它们的意思。在渐进阅读期间，我会停止阅读，并作出以下项目：
+
+Q：SJF 的全称
+A：Shortest Job First
+
+Q：MLFQ 的全称
+A：Multilevel Feedback Queue
+
+Q：哪一种调度算法照顾短任务？
+A：SJF
+
+Q：哪一种调度算法而能使短任务、长任务和交互型任务都满意？
+A：MLFQ可能需要几天甚至几周的时间 SuperMemo 才会再次向我展示这篇文章。在此期间，我将回答问答和完成我从上面的段落。同样值得一提的是，这样间隔你的阅读和学习时间，可以让睡眠发挥它的作用：巩固记忆[21]。
+
+当我最终再次遇到这篇文章的时候，我已经理解了基本的事实，记住了基本的术语。这样，当我继续阅读的时候，我就不会在基础上挣扎了。理解了基础知识就意味着增加了先前的知识，从而减少了工作记忆的负荷，因此可以分配更多的工作记忆用于更深层次的理解。
+
+这与第三条基于 20 条知识表述法则的建立是一致的：从基础开始[22]。
+
+这就是量子物理学家迈克尔 · 尼尔森在 Anki 所做的[23]。他可能没有意识到他正在做渐进阅读。然而，在 Anki 中文章和相关卡片之间的间隔和交叉方面有一个严重的缺点。
+
+## 闭幕词
+
+这篇文章总结了我使用间隔重复软件的经历。写这篇文章是对我从用 Anki 复习到用 SuperMemo 学习过程的一个很好的总结。从那时起，我从未后悔转用 SuperMemo 的决定。我完全相信 SuperMemo 比 Anki 更适合我。我非常感激我和 Anki 在一起的美好的 3 年以及其间的每一次经历。
+
+## 鸣谢
+
+这里是 SuperMemo 群群友 [@临水斜箫](https://www.zhihu.com/people/193f4c99c74479f7af501804a896a6f7) 的视频教程：
+
+[「记忆软件」手把手教你用Supermemo系列](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1L741197iu)还有 SuperMemo 帮助文档的翻译：
+
+[SuperMemo 18帮助文档 · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/help)[@SuperDaniel](https://www.zhihu.com/people/dcd99817bb9f2281ac57a7901c82c151) 是组织者，非常感谢你们！
+
+2020 年 11 月 8 日
+
+叶峻峣
+
+## 更新
+
+此文介绍了 SuperMemo 的学习方法——渐进阅读（也称增量阅读[19]）
+
+[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)](https://zhuanlan.zhihu.com/p/307996163)##
+
+
+---
+
+
+<!-- 源文件: 水蛭.md -->
+
+# 水蛭
+
+> [原文链接](https://zhuanlan.zhihu.com/p/606491648)
+
+## 困难材料：水蛭
+
+材料学起来困难，可能怪材料本身（如数字、集合、枚举等），也可能得怪糟糕的表述。助记技巧等工具可用于处理本质上困难的材料（见：[学习中表述知识的 20 条规则](https://link.zhihu.com/?target=http%3A//super-memo.com/articles/20rules.htm)[1]）。
+
+**重点是！SuperMemo 中小部分难点会消耗大量时间**
+
+在 SuperMemo 中，**水蛭**这一术语被用来指代表述不当的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)。如果[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)符合用户定义的[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)标准（比如：卡片[遗忘次数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)和当前的[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)长度），这个卡片便称为水蛭。判断水蛭的参数可以使用[查看](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu)：[其他](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu%23Other)：[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)（*Shift+F3*）。如果一个[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的[遗忘次数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)超过被设置的范围，它就会被划定为水蛭。如果一个卡片再次记住并且其[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)超过一定天数，那么它就不再被叫作[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)（与遗忘次数无关）
+
+**困难卡片（水蛭）是人们放弃 SuperMemo 的首要原因之一，处理掉水蛭后，你就能用得更长久！**
+
+## 水蛭狩猎秘籍
+
+尽管 **[View](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu)：[Other](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu%23Other)：Leech**（*Shift+F3*）可以用来审查、删除和重新制定[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，但解决大多数“水蛭”的最佳方法是在学习过程中逐一详细审查。在 **[Toolkit](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Toolkit_menu) : [Options](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Options) : Leeches**，你可以选择以下“水蛭”管理选项：
+
+**None** - 不进行水蛭管理。在重复过程中，SuperMemo 将以处理其他[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)相同的方式处理[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)
+ 
+
+**Wizard** - 在重复学习过程中遇到[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)时，SuperMemo 将打开 **Leech Alert！**wizard（见下文）。这是对学习过程进行合理监督的推荐选择
+ 
+
+**Auto-forget** - 在重复过程中遇到[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)时，SuperMemo 会自动将“水蛭”从学习过程中移除，并将其放在[等待队列](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3APending_queue)的末尾（即等待记忆的卡片队列）。
+ 
+
+**Auto-postpone** - 在重复过程中遇到[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)时，SuperMemo 会自动重置[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的学习参数，并在足够长的[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)后安排其重复学习。很多时候，从重复[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)中休息一下可能有助于克服错误的记忆模式。例如，如果你会混淆非洲地图上的尼日利亚和尼日尔，休息 50-100 天，不对这个问题进行重复，记忆中的错误混淆痕迹可能会被清理。一旦你有意识地重新记忆这两个国家在地图上的位置，这个问题就可能一劳永逸地解决了。**重要的是！***自动推迟*也可能产生无限的“水蛭”循环，在这种情况下，你将无限期地试图推迟结构不良的材料，但实际上从未解决过这个问题
+ 
+
+![](https://pic4.zhimg.com/v2-6abf414850c487d94d1fbbf8244afa73_1440w.jpg)
+SuperMemo: Toolkit : Options : Leeches tab**Include semi-leeches **复选框也可以用来收紧水蛭警告的标准。*「准水蛭」是只差一次[忘记](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)就成为[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)。*例如，如果一个水蛭被定义为有 5 个或更多[忘记](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)和一个最多[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval) 60 天的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)，那么一个有 4 次忘记和 1000 天间隔的卡片将是一个*准水蛭*（因为在一个忘记后，它将达到五次忘记和一个短间隔从而成为一个困难卡片）。如果你的[学习集合](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ACollection)结构良好，并且没有遇到很多[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，你可以打开 **Include semi-leeches **打开以加强对水蛭的监视。
+
+## 水蛭解决界面（英文：wizard）
+
+如果你选择 **[Toolkit](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Toolkit_menu)：[Options](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Options)：Leeches：Wizard**，在重复过程中每次遇到[困难卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)时都会显示以下对话框。
+
+![](https://pic3.zhimg.com/v2-a675e72968524adc958152cf515c3cd4_1440w.jpg)
+SuperMemo: A Leech Alert raised for an item that has already been forgotten 30 times which qualifies it as an intractable one requiring user&#39;s attention and action> **图片：**此[项目](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)触发了水蛭警报，因为此项目已被遗忘 30 次。这是一张困难的[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)卡片，为了解决掉它，需要重新组织语言，或使用助记术。在这种情况下，用户或是要想办法在记忆中表示 proboscis，或是要找个放弃记忆单词的理由，比如这个单词是个低频词。这个例子来自一个学前儿童的[集合](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Collection)。有鉴于此，可以以难度过高为由删除这个项目，或者推迟 1 到 3 年。
+这是一个可以自主控制的功能：
+
+**继续** (*Esc*) - 继续重复而不采取任何行动
+ 
+**显示答案**（默认动作）- 显示[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)卡片问题的答案。
+ 
+**帮助** - 显示此页面
+ 
+**Lapses** - 以图形显示[遗忘](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)的数量
+ 
+**间隔** - 以图形显示当前[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)的长度
+ 
+**推迟** - 重置[水蛭卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，并根据**推迟间隔**字段中定义的[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)安排卡片。
+ 
+**编辑** - 编辑[困难卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)
+ 
+**忘记** - 从学习过程中排除[困难卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)
+ 
+**排除** - 从学习过程和[待办队列](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3APending_queue)中删除[困难卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)（即取消困难卡片学习）。
+ 
+**删除** - 删除[困难卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)及其所有[子卡](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AChild)。
+ 
+**自动推迟** - 打开自动推迟模式
+ 
+**自动遗忘** - 开启自动遗忘模式
+ 
+**包括准水蛭** - 允许对准水蛭卡片发出水蛭警报
+ 
+**参数** - 编辑[卡片参数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Element_parameters)(例如[遗忘指数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AForgetting_index))
+ 
+**重新安排** - 重新安排[水蛭卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，制定下一次重复的日期
+ 
+**保存布局** - 保存当前的[布局](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALayout)并保留**困难卡片警报的位置！**
+ 
+**好-坏** - 可用于评估你对[困难卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)提出的问题的回答的成绩（这些成绩的作用与[卡片窗口](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Element_window)中的成绩按钮相同）。
+
+## 我建议这么处理水蛭
+
+ 在严重过载的[渐进阅读](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AIncremental_reading)中，使用**自动排序**和**自动延期**，将[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)的流量减少到最低。
+ 
+ 如果你学习了大量的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)，并且你可以承受较低的[保留率](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ARetention)，请使用**自动忘记**。
+ 
+ 如果你对保留率要求较高，不确定你可以使用**自动忘记**，但仍然需要高速学习，使用**自动推迟**。
+ 
+ 如果你想消除[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，但不希望[保留率](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ARetention)下降，在水蛭管理选项中选择 **wizard**。
+ 
+
+如果你使用 wizard，在遇到“水蛭”时要做出以下选择：
+
+对于不太重要的水蛭，按照水蛭重要性的递增顺序，选择以下一项：
+
+**删除**或**排除**（如果[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)可能包括有价值的[子卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AChild)，或如果你想留下它供将来参考，请使用**排除**）
+ 
+**忘记**（只有整个[等待队列](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3APending_queue)记住之后，[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)才会回来）
+ 
+**推迟**（[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)将在一定间隔后重新出现，这个间隔由**推迟时间间隔**定义）
+ 
+**重新安排**（让[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)在指定的[时间间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)回来，可能比**推迟时间间隔**短）。
+ 
+ 如果只有回答水蛭卡片之后，才能想清楚如何处置这张卡片，请选择显示答案，然后再评估这张[水蛭卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)如何处置。如果能够正确回忆答案，那处置水蛭可推迟到下次，这次给卡片评分即可。（可能到那时候，这张水蛭卡片就不算做水蛭了）。
+
+处理[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)时，最高效的方法是编辑卡片。但是，只有经验丰富的人，才能弄清楚如何正确表述材料，切分为尽可能小的组分，并利用助记法（参见：[表述知识的 20 条原则](https://link.zhihu.com/?target=http%3A//super-memory.com/articles/20rules.htm)[1]）
+
+如果你不知道如何处理某张[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，那么你就只能按 Esc，然后继续重复。**警告！**这样很容易养成忽略水蛭的习惯，也是违背水蛭警报这一套理念的做法。在使用 *Esc* 形成习惯之前，请仔细阅读本文，并掌握处理水蛭的方法！
+ 
+## 定义和查看水蛭
+
+**[查看](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu)：[其他](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu%23Other)：水蛭**（*Shift+F3*）选项可以用来找出[集合](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ACollection)中的[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)。这个选项使用**[卡片过滤器](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Element_filter)**对话框，可以用来查找所有符合标准的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)，如重复次数、[错误](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)的次数、当前[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)的长度、状态（[已记忆](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AMemorized_element)、[待处理](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3APending_element)或[已驳回](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ADismissed_element) ）、类型（[问答卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)、[阅读卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ATopic) 或[任务](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ATask) ）等等。
+
+找出[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)的目的，是重新编辑最困难的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)，以便采取适当的[记忆术](https://link.zhihu.com/?target=http%3A//super-memory.com/articles/20rules.htm)来辅助记忆。你也可以重置[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的间隔（也就是过几天再处理卡片）。当然，你也可以[搁置](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ADismiss)（只将卡片用作参考材料，比如通过**[搜索](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Search_menu)： [查找卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Find_elements)**来查询卡片），再或者也可以删除。
+
+有一种新的高效方法可用来对抗[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，是将水蛭卡片发送到你的移动设备（参见：[口袋中的革命](https://link.zhihu.com/?target=http%3A//super-memory.com/articles/soft/pocket.htm)）。尽管移动设备上刷卡时，注意力不太高，但如果卡片都是水蛭，你的专注力会到达非常强的水平。如果能预期到自己对一张卡片的回忆可能会失败，你对待这张卡片的方式将会不同。在这段时间内，你能够充分理解这些比较困难的材料，并慢慢减少水蛭卡片的负担。
+
+为了让学习过程尽可能高效，你应该掌握**[查看](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu)：[其他](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/View_menu%23Other)：水蛭**，并定期删除[集合](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ACollection)中困难而结构不良的材料。
+
+![](https://pic2.zhimg.com/v2-42fbcdb9dbab26bcfca38a1ddec826ff_1440w.jpg)
+SuperMemo: Element filter dialog box which you can use to browse all elements that meet your search criteria (e.g. in leech hunting)以下字段可以指定困难[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)范围的最大值和最小值。
+
+**重复次数**（Repetitions） - 用来表示[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)被重复的次数。这个标准不适合用来定义[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，默认情况下是关闭的。
+ 
+
+**错误次数**（Lapses） - 特定[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)被遗忘的次数。这是定义[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)的主要方式。例如，如果你想找到所有被遗忘至少 5 次的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)，将**最小值**设为 5，**最大值**设为 100（或其他大于最大[错误次数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALapse)的值）。
+ 
+
+**间隔** - 最后一次重复和下一次重复之间的天数。你可能想限制[间隔](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AInterval)区间（例如 1 到 50 天之内的值），这样即使卡片被多次遗忘，如果这张卡片下次复习的间隔已经足够长，也就不算作[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)了。
+ 
+
+**最后一次重复** - 学习过程中第一天到最后一次重复日期之间的天数（见**[工具包](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Toolkit_menu)：[工作量](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Workload)**查看天数编号）。这个字段不应该用于搜索[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)
+ 
+
+**下一次重复** - 从学习过程的第一天到下一次重复日期之间的天数。这个字段不应该用于搜索[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)
+ 
+
+**A-系数** - 某个[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的 [A-系数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%23A-Factor)值。这不是定义[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)的好标准。如果你想使用它，请选择较低范围的 [A-系数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AA-Factor)（例如，从 1.2 到 1.5）。
+ 
+
+**遗忘指数** - 在每次重复中遗忘某个[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的概率。[遗忘指数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AForgetting_index)是由用户设置的，绝不反映[卡片难度](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ADifficulty)。然而，你可以用它来定位优先级较低的[项目](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)（例如，由较高的[遗忘指数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AForgetting_index)定义）。通过使用**遗忘指数**字段，你可能会对优先级较低的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的水蛭标准进行锐化。例如，你可以决定重置所有的[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)，并对重置[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)更加严格，因为你为其指定了更高的[遗忘指数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AForgetting_index)。
+ 
+
+**序数** - 被分配给[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的[序数](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AOrdinal_number)。序数是用户自行设置的，并不能反映卡片的[难度](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ADifficulty)。但你可以用序数表示低优先级的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)（比如用大序数表示低优先级）。这样你就能清晰表述低优先级作为水蛭[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AElement)的标准了。
+ 
+
+如果你不想按照既定标准筛选水蛭，取消勾选这个标准相关字段的复选框即可。如果你想依据某一标准筛查，就勾选复选框，并指定适当的**最小**和**最大**值。
+
+根据定义，所有[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)都是[经过学习](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AMemorized_element)的[卡片](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AItem)。这也是在卡片过滤器里「类型」和「状态」被禁用的原因。
+
+一旦你点击**OK**，所有符合指定标准的[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)将被找到，并在[查看器](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Browser)中显示。然后你可以在水蛭浏览器中使用**学习**（*Ctrl+L*），便可只在水蛭子集中进行重复学习。
+
+使用**[工具包](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Toolkit_menu) : [随机测试](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Toolkit_menu%23Random_test) : 水蛭**你可以对所有的[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)进行随机测试。然而，你应该记住，水蛭问题的一部分是过于频繁的重复（即产生[间隔效应](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ASpacing_effect)[2]）。这就是为什么**自动延期**和**自动遗忘**如此有效。这也是为什么[水蛭](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3ALeech)在负担更大的[渐进阅读](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Glossary%3AIncremental_reading)中的问题要小得多。
+
+每次学习之后，水蛭卡片的参数会存储在 [collection.ini](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/SuperMemo_files%23Collection_files) 文件的 Leech 小节中（注：ini 文件有多个小节，每个小节以 [] 开头，如 [Leech]）
+
+## 常见问题
+
+### *你可以用 Esc 清除水蛭警报*
+
+**From:** Jens Buurgaard Nielsen
+
+**国家：** 丹麦
+
+**发送时间：** 2001 年 8 月 9 日，周四，下午9:53
+
+**问题**
+
+我认为水蛭警报是非常好的功能，但我不喜欢默认设置会激活水蛭窗口。我不想把鼠标移到另一个窗口去评分。我经常使用空格键去触发默认的评分按钮，有时，在我打算去评分**好**时鼠标会自动移到 **延迟** 
+
+**回答**
+
+你可以在**选项**菜单中完全禁用水蛭警报，或者直接用 *Esc *关闭水蛭警报，并继续使用标准按键完成重复
+
+### *准水蛭不能自动遗忘*
+
+**From:** Mike Condron
+
+**国家:** 美国
+
+**发送时间：** 2001 年 8 月 9 日，周四，下午9:53
+
+**问题**
+
+为什么我不能在水蛭管理器中选择**包括准水蛭**来自动推迟或自动遗忘这些卡片？
+
+**回答**
+
+准水蛭不是水蛭。准水蛭卡片的间隔可以拉得很长。假如选择停止学习或者重新学习这些卡片，学习成本会极大提升
+
+> [Thoughts Memo](https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131) 汉化组译制
+> 感谢主要译者 Ada、校对 Shom
+> 原文：[Leeches - SuperMemo Help](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/Leeches)
+
+
+---
+
+
+<!-- 源文件: 渐进生活.md -->
+
+# 渐进生活
+
+> [原文链接](https://zhuanlan.zhihu.com/p/476435234)
+
+## 渐进策略
+
+我喜欢[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[1]，并想把它推荐给每个人。因为渐进阅读是[自由学习](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Free_learning)[2]理念的可行实践，同时也是渐进生活的一种象征。不过，我之前从来没有提到过我对**渐进锻炼**的思考。很少有人能意识到，在改变一个人或者内化新特质方面，渐进策略是一种相当通用的方法。它能帮助构建知识和[智力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Intelligence)，并有助于重塑思维（例如用于健康饮食，或者简单生活）。根据类似的原则，**渐进锻炼**有助于增强肌肉、骨骼、肌腱、关节和韧带，以及其他与运动相关的身体结构。
+
+## 本文的由来
+
+有次我的年轻朋友拉吉抱怨他的髌腱炎，于是我推荐了[赤脚慢跑](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Barefoot_jogging)。他很犹豫。尽管他来自印度，但采用全印度式的跑步方式，会让他感到尴尬。此外，拉吉没住在印度，他住在日本。日本有许多[蛰居族](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Hikikomori)，而且社会规则严苛，社会压力也特别大。于是我追加了一些建议，让拉吉循序渐进地提高他的「社交自信」，同时建议他的肌腱炎治疗也采用渐进策略。
+
+## 渐进转变
+
+在转变思维和个性时，我们需要认识到，[最佳推动区](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimum_push_zone)[3]也适用于推动自我转变。[自律](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Self-discipline)可以逐年提高，不过唯一健康的转变方式应该是渐进的（见：[生产力的微规则](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Micro-rules_of_productivity)）。
+
+思维会受[反抗](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Reactance)的影响，而且抵抗对思维造成的影响远大于强制学习或强制行为对思维的影响。当我们跃进式地实现新年目标时，往往会南辕北辙地对思维造成负面作用。新年伊始的节食可能很快就会变成之后的大吃大喝，节食期的成效很快就被抵消。
+
+刚开始在东京街头赤脚慢跑时，一个人不能指望避免犀利目光的注视，尤其是英俊的 Raj 肤色黝黑，这让他在人群中立即变得尤为显眼。不过，Raj 可以循序渐进地实践我的建议。他可以从傍晚夕阳下树林中的短途散步开始，继而将这一做法扩展到更具挑战的情形并加以适应。他将学会如何面对尴尬，以及如何不在意它。我已经如此实践几十年了，这确实可行，而且很容易。但在变得容易之前，社交调节是很困难的。
+
+2021 年 12 月更新：我很高兴收到 Raj 的报告，他把我的建议放在心上。这是一张快乐的照片：
+
+![](https://pic4.zhimg.com/v2-8c719e721b3358d02c82104fbc428101_1440w.jpg)
+> 图：日本的 Raj 正在逐步适应赤脚跑步
+## 渐进锻炼
+
+赤脚慢跑在很多方面都有疗效，比如对思维很有益，对整个肌肉骨骼系统也有很大的帮助。在坚硬的地面上跑步可能还有特殊的好处；在天寒地冻中跑步可以带来纯粹的生活乐趣（见：[幸福生活的简单公式](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Simple_formula_for_a_happy_life)）；在碎玻璃上跑步是相对安全的；在惊讶的人群中奔跑可能会很有趣。如果你不同意或者强烈反对，那可能是因为你低估了渐进适应的力量。
+
+如果你在大冷天走到繁忙的街道上，并试图在拥挤的街道跑上几公里，你可能会感觉很痛苦。你的脚会起泡，关节会开裂，人群似乎不太友善，你很可能会放弃，只为了把自己从这些痛苦中拯救出来。然而，如果你采取循序渐进的方法，你的慢跑技术将在数月的跑步中逐渐提高，你的关节将得到重塑和加强，肌腱更加稳固，脚底将如犀牛皮一样厚实。你将学会如何用微笑、挥手来解除路人的敌视，或是单纯通过不理睬来消解所有「社交霸凌」的企图。这样做的好处是如此之多，以至于如果你今天生活不乐，不确定未来会如何，你甚至可以尝试通过上街跑步来治疗自己！只要你像婴儿的步履一样以循序渐进的势头向前迈进。
+
+至于那些碎玻璃，只有赤脚跑者才知道，当你踩在玻璃上时，你的皮肤会表现出极大的弹性，此时玻璃很可能会把自己放平。这些碎玻璃不是最麻烦的破瓶子（我踩到过几个），而且还有那些难以注意到的指向天空的小针。不过经过二十多年的赤脚跑步，期间经常经过一个喧闹的酒馆，我大概只流了 3 到 4 次血，其中只有一次需要中途停下（以取出一块讨厌的玻璃片），并且从来没有缩短过我的跑步距离。活到老，学到老。你完全可以**适应在玻璃上跑步并从中感受快乐！**而且你不需要成为一个印度法基尔修士来实施某种神奇的生理改造。
+
+## 沃尔夫定律的普遍性
+
+沃尔夫定律指出，骨骼会沿着压力的方向得到加强和重塑。这表明了骨骼在发育过程中具有惊人的适应性。该定律于 19 世纪提出。沃尔夫定律在日常训练中起到的效果很小，因为它需要用一些数学方法来优化效果，以理解运动之后的休息可能使运动效果丧失。这个定律可以扩展到具有类似性质的其他组织（如肌腱、韧带、软骨、皮肤和其他软组织，见：戴维斯定律）。这些定律可以简化地表述为：利用渐近压力可以逐渐增加身体的强度。
+
+通过缓慢地逐步增加负荷，我们可以加强许多组织和器官。
+
+在实践中，对于一个挣扎着跑几百米的体弱之人，可以安全地让他在一年内通过准备完成一场超级马拉松比赛。如果我们从每天跑 100 米开始，以 365 天内跑完 100 公里为目标，我们需要以 1.9% 的增量来完成。这意味着我们今天需要跑 100 米，明天 102 米，两天后 104 米，一周后 114 米，一个月后 180 米，7 个月后 5 公里，以此类推。渐近训练自然地适用于能够逐步积累肌肉力量的健康人群。这种能力会随着年龄的增长而下降。不过，我的朋友兼导师 Zbigniew Malina Malinowski，在 63 岁时完成了他连续参赛的第 14 次的斯巴达超级马拉松比赛（246 公里，是世界上最长的连续参赛记录）。Malina 不是一般的马拉松运动员，75 公斤的他是一个不懈滚动的肌肉球。四十多岁时，他的女儿幸福地诞生，他才开始慢跑。他跑步地重要信条之一是在旅途中恢复伤病。在扶手椅上度过的日子近乎等于在他最喜欢的比赛中失败。2018 年，他最终因伤停赛，但仍在考虑大病后的回归。有趣的是，他的受伤是因为违反了渐进理念。马利纳决定在山区跑马拉松，而他居住的地区完全是平原。他没有践行渐进理念，并且在阿尔卑斯山的斜坡上受伤。
+
+## 最优推动区
+
+运动中的最优压力，学习中的[最佳推动区](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimum_push_zone)[3]，以及毒物兴奋曲线都显示了「最佳推动」的相同性质，即过量则有害（译注：毒物兴奋效应是指高剂量毒物对生物体有害，但低剂量毒物反而对生物体有益的现象）不过，不同场景对于完全无压力的反应不同。在学习上，无压力会导向纯粹的[自由学习](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Free_learning)[2]并收获显著的学习成果。在毒理学中，无毒性是完全中性的：没有影响，没有作用。在运动方面，完全不运动对于生命是很危险的。如果没有运动，人体会迅速衰弱。不过幸运的是，即使是从床上走到厕所的简单洗漱也是一种运动形式。宇航员在零重力环境下的骨密度会迅速下降。即使在太空中仅呆一周，回到地球后他们仍需要一段时间的缓慢行走。一个月内骨密度的损失相当于衰老了一年。骨骼在高压力的环境下变得紧密，而在无压力的环境下会失去了矿物质。
+
+个人轶事。[为什么使用轶事？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Why_use_anecdotes%253F)
+
+我一位年轻漂亮的女性朋友患有轻微脊柱侧弯。她用鞋垫垫高腿的一侧，以确保两条腿等长。在我看来，在这种垫高的「完美的平衡 」下，骨骼将永远无法矫正。她的骨架会完美地适应垫高。我让我的朋友问她的骨科医生，为什么他坚持这种 「完美 」的平衡。在社会中，孩子通常太害怕，不敢怀疑权威。学校培养出我们不敢怀疑权威的心态。另一方面，医生也同样讨厌被怀疑。多年的医学教育似乎赋予医生专业领域内的全知全能。谷歌搜索让他们特别疯狂。我不知道治疗脊柱侧弯的最佳方法，但我敢肯定运动对此具有绝佳的帮助。至于那些垫高鞋垫，粗略的搜索让我大吃一惊。专家们对此也不确定（[来源](https://link.zhihu.com/?target=https%3A//www.ncbi.nlm.nih.gov/pmc/articles/PMC7064353/), 2020）？
+
+> 一些研究表明，纠正腿长差异可减少盆腔失衡以及降低功能性脊柱侧弯的程度。然而，其他研究表明，人工诱导的腿长差异纠正对腰椎弯曲畸形康复的作用很小。
+我没有持续跟进这些论文，但我了解几十个脑科学、心理学领域的类似问题。研究可以选择曲线上最优值的不同方面，进而得出看似矛盾的结论。很明显，巨大的腿长差异可能会导致卡西莫多式的适应，而零差异则能完美地适用不均衡。我们需要寻求最佳状态，这不是很明显吗？为使矫正发生，必须通过不平衡的力重塑骨架。其次，研究应考虑到运动的形式。如果一个穿鞋垫的人唯一的「运动」是适度步行，那么他可能永远不会重新适应。应在各种运动的[多样性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Diversity)压力中寻求在各个方面和维度的骨骼纠正。第三，所有的研究都需要仔细考虑收益的冲突。骨科足弓填充是一件大事。如果你给我发送任何相关的研究，我将转发给我的朋友。她才 15 岁，还在快速成长。
+
+## 疼痛的价值
+
+在运动方面，负荷的渐进递增是至关重要的，而且身体里有一个完美的计量系统可用：疼痛。无论是为了从伤病中恢复还是新的追求，增加负荷可能会导致组织微小的损伤、炎症和疼痛。实际上，炎症可能在提升组织强度方面发挥了作用，这个过程中地一些疼痛是在所难免的。然而，为了不让疼痛积累，最好是在热身时让它消失。如果疼痛恰好在连续几天内增强，那么就表明负荷增加得太快了，可能需要停止增加负荷。万一在渐进过程中出现错误，也可能需要后退一步。但如许多医生所建议的那样：避免运动，只休息以寻求恢复的策略是肯定错误的。只有在严重失误或受伤的情况下才应该避免运动。在理想的渐进式健康管理中，睡眠是必要的恢复时间。即使只休息一天不运动，也可能对恢复进展产生负面影响。换句话说，最好是渐近地进步，但要做到坚持、连续和可持续。
+
+## 我的建议失效了
+
+假如年轻人怀揣对美好人生的愿景，并试图迅速将其实现，那么我对他们的建议便是有害的。对于提供用意良好的建议和提示，最后以失望告终，我已是惯犯了。人们无数次开展形形色色的追求，但总是用力过猛，缺少必要的渐进过渡。对于运动来说，这样做常会导致伤痛和感染。
+
+这是关于慢跑、冬泳、间隔重复、健康饮食，甚至是吸烟。我缠着我的一个家庭成员戒烟。我建议采取渐进的方式。然而，在一个美丽的圣诞节，她告诉我：「我已经戒烟了」。她一夜之间就戒了。一个月后，她死于心脏病发作。她当时只有 70 岁。我永远不知道我的好意是否促成了这场灾难。
+
+我总是力图保持理性，并希望帮助别人保持理性。多年来，我在励志谈话中经常吹嘘：**「无数人在多年后告诉我，我本该听了你的话，并践行你的建议 」**。然而，这有点像学校的影响。许多人认为自己本该更用心，或更努力。这并不意味着他们实际上应该这样做。自律也可能是有害的（见：[自律的危害](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Harms_of_self-discipline)[4]）。
+
+我经常说到最优状态，而花较少的时间讨论实现最优状态的最优轨迹。被[学习的乐趣](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_learning)[5]所引导时，风险似乎很小，但当完美的学习面对[强制学校教育](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Compulsory_schooling)[6]的现实时，它可能会导致挫折和损害精神健康的副作用。我自己的人生轨迹相当简单。被无知和缺乏远见所蒙蔽，我的进步天然是缓慢和渐进的。几十年后，现状似乎不错。我不愿意去想它也可能是一种海妖之歌（译注：即诱人或骗人的话语）。
+
+在你遵循 [SuperMemo Guru](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_Guru) 的任何建议之前，请检视它对你生活可能的改变。如果改变太剧烈，可能会有风险。
+
+## 例子
+
+## 卧推
+
+循序渐进地提高力量是很容易的，而且几乎没有受伤的风险。然而由于系统负荷的不断增加，以及如沃尔夫定律所表明的，与自然衰减的不断抗争是优化过程的一部分，因而进步总是随着时间的推移而减慢：
+
+个人轶事。[为什么使用轶事？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Why_use_anecdotes%253F)
+
+2001 年 11 月，我决定看看我在健身房里做卧推能有多大进步。40 岁的我敏锐地意识到，这项运动很容易受伤，必须严格地循序渐进。此外，为了保护我的肌腱和韧带，我选择记录能连续做 20 次卧推的重量，而不是单次卧推记录。换句话说，只有在我能连续卧推 20 次的情况下，重量才算数。这种方法更像是无氧运动，对健康有额外的好处。第一天，我小心翼翼地尝试了 20x20 公斤。第二天，20x40 公斤，有足够的力量储备。12 天后，我轻松地到达了 20x65 公斤（2001 年 12月4日）。花了一个月时间达到 20x70 公斤，又花了一个月时间达到 20x75 公斤。之后，我就在每次卧推时增加负荷，每 2~4 天从 10x80 公斤，到 11x80 公斤，再到 12x80 公斤，等等。花了 40 天才达到 20x80 公斤。而 10x85 公斤之后，我的进展甚至更缓慢。65 天后，我达到了 19x85 公斤。然而，到了从健身房转向慢跑的时刻了。为了告别，我测试了一次 110 公斤重的卧推，结果很容易。之后我再也没有回到健身房。我更喜欢在户外运动。我在提高力量方面的其他渐进努力是在露天的街头锻炼中测试的。
+
+## 改变生活的简单想法
+
+这段文字很好地阐述了一个简单的[抽象](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Abstract_knowledge)可以在诸多方面影响生活。
+
+### 爬山算法
+
+在本文中，这个抽象概念可能被称为 「爬山算法」，这是计算机优化中的一个著名概念。在爬山算法中，我们一小步一小步地对事物进行优化，就像爬山时四处寻找更好的选择。我不记得我是什么时候了解到这些优化技术的。可想而知，它是我自己独立思考的产物。在我 1985 年的硕士论文中，我需要计算生化反应的结果。解决微分方程实在是太复杂了。而且当时身边没有电脑。不过，我找到了一种方法，用铅笔和计算器以微小的步骤进行模拟。这个方法让我的教授们感到惊讶，因为我用漂亮的图表展示出化学药品浓度的变化。后来我有了第一台电脑 ZX Spectrum，我告诉 [Tomasz Kuehn](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Tomasz_Kuehn)：**「我写了一个能够解决任何微分方程的程序 」**，他感到很吃惊。因为他是周围最有才华的程序员之一，但他仍然不明白我是如何找到那些无法用符号解决的复杂方程的数值解的。
+
+我的第一个[间隔重复](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Spaced_repetition)[7]算法也是基于同样的爬山算法，而最新的 [SuperMemo 算法](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_Algorithm)也是以这种方式进行参数优化。
+
+至于**渐进阅读**，**渐进生活**，甚至于[如何解决任何问题？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/How_to_solve_any_problem%253F)[8]，用的也是同样老式的推理方法。
+
+**一条好的[抽象知识](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Abstract_knowledge)**[9]**规则可以让一个人终身受益**
+
+### 自由
+
+自由的力量使生活变得幸福和多产，这也是一个有用的抽象。
+
+没有比自己的探索更能接触到有影响力的抽象事物的方法了。这就是为什么我热衷于批评[强制学校教育](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Compulsory_schooling)[6]，因为它偷走了生活中很大一部分时间，而这些时间可以用来进行自己的调查和研究。
+
+**被[强制学校教育](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Compulsory_schooling)**[6]**所奴役，可能会导致我们成长路上缺乏有用的抽象**
+
+### 记忆模型
+
+虽然爬山算法是一个普遍适用的工具，存在于所有可以想到的科学和工程分支中，但还有一个我长期耕耘的概念：[长期记忆的双组分模型](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Two_component_model_of_long-term_memory)[10]。它影响了 [SuperMemo Guru](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_Guru) 上的大部分新想法。与爬山算法不同的是，我还没有看到我的记忆模型对其他人的思考产生重大影响，除了其衍生的更简单的想法，例如[间隔重复](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Spaced_repetition)[7]的影响。
+
+### 睡眠模型
+
+如果你经常阅读 [SuperMemo Guru](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_Guru)，你还会注意到我用以实现健康睡眠的昼夜节律方法都是来自 [Borbely](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Borbely) 的[睡眠调控的双进程理论](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Two-process_model_of_sleep_regulation)。这个理论很简单，但它有力地摧毁了数百个关于睡眠的迷思。这个理论可以节省数十亿美元和数十亿由不良睡眠引起的糟糕工时。但可悲的是，大多数人对这个理论一无所知。同样，这一切都源于一个[学校的坏习惯](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Bad_school_habit)——使用[闹钟](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Alarm_clock)来缩短睡眠时间。这个糟糕的做法制造了所有麻烦，但是 [Borbely](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Borbely) 的天才理论也许提供了解决方法，只要我们把更多的时间用于自我的探索，摒弃学校里的[填鸭教育](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cramming)[11]，并且[摆脱](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting)学校里不连贯的学习。
+
+### 学习内驱力
+
+如果更多人能够理解[学习内驱力的最优化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimality_of_the_learn_drive)[12]，我们很快就可以结束强制学校教育。基于[知识评估网络](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_valuation_network)[13]可以计算出奖励，而当我理解这些奖励是如何驱动学习时，我的学习和人生观都改变了。
+
+了解强迫的危害和[自律的危害](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Harms_of_self-discipline)[4]改变了我的生活，使之变得更好。
+
+**对神经科学的理解不足使社会对人脑的力量认识不足**
+
+我们对大脑控制机制的错误理解最初来源于学校，当时我们被告知：我们需要按照给定的建议来学习，而不是追求自己的探索。当我们遵循别人建议的时间越长，我们就越可能难以适应未来的世界。这增加了人类和[人工智能](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Artificial_intelligence)之间发生卢德冲突的可能性。这也许是我们对学习过程无知的遗憾结局。而造成这种悲剧只需要系统性地破坏人类的适应能力，从而剥夺社会的最佳力量：[智能](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Intelligence)。
+
+## 反馈
+
+在发表这篇文字的概述后不到一个月，另一位朋友报告了冬天赤脚行走的心理影响。
+
+> 过去的日子又回来了。我头脑中的某些东西转变了。我今天赤脚走了和昨天一样的距离。我将在一段时间内保持这个距离。希望在一两个星期内我能进步。我对成为**原始野兽**感到无比的热情！
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[Incremental life - supermemo.guru](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_life)（原文仍在渐进写作阶段，不代表最终质量）
+
+
+---
+
+
+<!-- 源文件: 【介绍】SuperMemo China 翻译计划.md -->
+
+# 【介绍】SuperMemo China 翻译计划
+
+> [原文链接](https://zhuanlan.zhihu.com/p/127030397)
+
+目标是翻译 SuperMemo 的文档，以及相关的学习文章。
+
+[SuperMemo China · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo)
+![](https://pic1.zhimg.com/v2-b97a11638b50bbc6500138df61b728f4_1440w.jpg)
+> **本项目*不是SuperMemo官方*发起并维护**
+> **本项目*非盈利*性经营，也未通过任何平台和渠道组织过付费项目，敬请警惕**
+> **本项目开启了“访客水印”，请勿诧异**
+> **本项目是为了更好的宣传和学习SuperMemo**
+> **欢迎对本项目进行协作，如有讹误，还请指正。**
+> **SuperMemo官方帮助文档地址：[https://help.supermemo.org](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/SuperMemo_18_Help)**
+想要上手 SuperMemo 的朋友，可以通过阅读中文文档学习啦！
+
+作为一名参与者，我也搬运了一些之前翻译好的文章过去。
+
+如果大家有兴趣，也可以来参加翻译。
+
+欢迎在评论区留言~
+
+
+---
+
+
+<!-- 源文件: 【翻译】SuperMemo 中渐进阅读的意义：第一部分.md -->
+
+# 【翻译】SuperMemo 中渐进阅读的意义：第一部分
+
+> [原文链接](https://zhuanlan.zhihu.com/p/322497441)
+
+原文：[The Significance of Incremental Reading in SuperMemo: Part I | Master How To Learn](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2018-10-30-the-significance-of-incremental-reading-part-i/)
+
+在[第一篇文章](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/)[1]中，我已经在「理解 SuperMemo 的渐进阅读」中简单介绍了渐进阅读。本篇文章旨在对渐进阅读（简称 IR）进行扩展和阐述。
+
+## **快速术语回顾**
+
+SRS = 间隔重复软件
+
+SM = [super-memo.com](https://link.zhihu.com/?target=http%3A//super-memo.com/) 的 SuperMemo；而不是 [supermemo.com](https://link.zhihu.com/?target=http%3A//supermemo.com/) 的课程、移动应用、应用。它们是不同的。
+
+SuperMemo 中的项目 = [Anki](https://link.zhihu.com/?target=https%3A//apps.ankiweb.net/) 中的卡片；IR = 渐进阅读。
+
+## **在您继续阅读之前**
+
+无论我把解释 IR 的意义做得多好，在你尝试之前，你可能还是不会有真正的把握。试一试，给它几个星期的时间吧。SM 15 是免费的。你可以在[这里](https://link.zhihu.com/?target=http%3A//supermemopedia.com/wiki/SuperMemo_15_Freeware)下载.
+
+我给你的建议是，你就试试 IR，自己看看它的好处。
+
+以下视频据说是 SuperMemo 的创造者 Woz 做的：
+
+[用渐进阅读学习第二次世界大战的历史](https://link.zhihu.com/?target=https%3A//youtu.be/XRuLV2_A3Ts)
+
+[渐进阅读：维基百科中的营养学(SuperMemo 17)](https://link.zhihu.com/?target=https%3A//youtu.be/DoQoeK53bP8)
+
+## **介绍**
+
+你想学习新的东西，你想记住你学到的东西。SuperMemo 提供了学习和记忆的完美工具。
+
+学习新的东西：通过渐进阅读
+
+记住你所学的知识：通过间隔检索练习（问答/填空）
+
+> 来自《[自我调节的学习：信念、技巧和幻想](https://link.zhihu.com/?target=http%3A//www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf)》:
+> 建立持久和灵活的信息获取方式是一个关于
+>   A. 实现有意义的编码
+>   B. 锻炼检索过程
+> 的问题
+间隔检索练习只是有效和高效学习的一半。无论算法的效率如何，Anki 都能完美地做到。另一半是渐进阅读。IR 可以极大地帮助实现有意义的编码。这是 Anki 无法模仿和替代的。我知道这可能是一句不公正的话，因为 Anki 可能从来没有打算帮助学习新事物。
+
+不管怎样，学习和记忆是密不可分的。一般来说，如果你没有学过，你就记不住；如果你没有学过，你就没有东西可记。在学习和记忆之间划清界限是没有用的。
+
+## **我与渐进阅读的第一次失败邂逅**
+
+当我还在使用 Anki 的时候，我记得我曾尝试过[渐进阅读的插件](https://link.zhihu.com/?target=https%3A//ankiweb.net/shared/info/935264945)
+
+我上网搜索了渐进阅读。果然不出所料，结果大多来自官网。这些文章冗长而技术性强。似乎没有什么是用户写的。
+
+结果呢？我还是搞不清楚到底是什么。我只知道有一些 SM 的用户在吹捧和大肆宣传 IR 的好处，而我却不知道为什么。
+
+事情的结果很有趣：现在我是那些会说「没有IR我就活不下去」的 SM 死忠用户之一。
+
+![](https://pic3.zhimg.com/v2-9493b4973df8447260a7d242362ea20c_1440w.png)
+> 来自[这篇博文](https://link.zhihu.com/?target=https%3A//web.archive.org/web/20120331232356/http%3A//www.jeenyus.net%3A80/supermemo/incremental.html)：
+> 我使用渐进阅读功能来阅读冗长、复杂的文档，它比我试过的任何其他方法都要好。 (作为数学博士，我肯定研究过我的那份文档！) 它迫使你仔细阅读重要的部分——但仍然通过帮助你忽略不那么重要的部分来节省你的时间。我对它的推荐力度是远远不够的。事实上，我愿意用我的左手去买一个支持渐进阅读的 Palm 应用程序！
+该死的。我不敢相信这个世界上有人像我之前写的邮件一样，打了个类似的比方。
+
+![](https://pic2.zhimg.com/v2-3a34fcc78072263197b0dce3bcbd87c9_1440w.jpg)
+## **我对渐进阅读的解读**
+
+我的理解是，渐进阅读 = 间隔阅读。
+
+并不是指同一个「时间点」，而是指同一个「时间段」。
+
+间隔重复是提高记忆力和理解力的关键之一。一般来说，凡事有了间隔重复，效果会更好。
+
+例如，我在读一篇关于[浅层加工与深层加工](https://link.zhihu.com/?target=http%3A//www.psych.utoronto.ca/Neuropsychologylab/PDF/Depth%2520of%2520processing%2C%2520retrieval%2520cues%2C%2520and.pdf)的论文。
+
+ 第1段：介绍深度加工（一般定义，关键词，基本观点）。
+ ​
+ 第2段：实验A
+ ​
+ 第3段：实验B
+ ​
+ 第4段：影响
+ ​
+ 第5段：结论在 IR 过程中，我首先阅读第 1 段。我摘抄重要的句子（关键词和定义、观点），把它们做成填空卡片，然后我停下来。
+
+然后，第二天(任意)，SM 会把文章中的填空卡片呈现给我。我会做复习的工作。
+
+然后，几天后（同样是任意），SM 会再次给我看这篇文章，我将像处理第 1 段一样，继续处理第 2 段（摘抄、制作问答/填空）。
+
+## **你为什么要这样读？**
+
+如果你对「深度加工」这个概念完全陌生，那么一次性读完整篇论文是非常不可取的。为什么要这样做呢？因为你还没有掌握基本的思想。当你在读到第 2 段和第 3 段的实验时，你可能并不明白为什么要用那种特殊的方式来做，因此，很多东西对你来说并没有什么意义。影响和结论也是一样的：当你还在摸索深度处理的基本思路时，你怎么能理解影响呢？
+
+## **类比：建造一个城市，拼图和乐高汽车**
+
+你应该先打好基础，再进行进一步的加工。
+
+在 SuperMemo 中，这个比喻是[拼图](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Jigsaw_puzzle_metaphor)[2]：
+
+> 为了建立一个好的世界模型，我们需要把一些小的知识碎片组装成一个连贯的结构。
+你不能把一个碎片放在其他关键碎片之前。这就像你不先学代数就不能学微积分一样。
+
+在《[A Mind for Number](https://link.zhihu.com/?target=https%3A//www.amazon.com/gp/product/039916524X/ref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D9325%26creativeASIN%3D039916524X%26linkCode%3Das2%26tag%3Dhnous927-20%26linkId%3D4d88fb20ef468bf8823869ef96180899)》中 ，比喻的也是，建造拼图：
+
+![](https://pic4.zhimg.com/v2-a590a8b47bb9dd86a025f620ad698079_1440w.jpg)
+> 当你第一次看到一个全新的科学或数学概念时，有时并没有太多意义，就像上面左边的拼图片所示。仅仅记住一个事实（中间），而不理解或上下文，并不能帮助你理解到底发生了什么，或者这个概念如何与你正在学习的其他概念结合在一起——请注意，这块拼图上没有互锁的拼图边缘，以帮助你融入其他碎片。分块（右）是一种心理上的飞跃，它帮助你通过意义将信息碎片联合在一起。新的逻辑整体让分块更容易记忆，也让你更容易将分块融入到你所学的大画面中。
+附注：阅读课程之间的间隔就是书中所说的「放松模式」。你要让概念和知识在脑海里酝酿。
+
+在《[Make It Stick](https://link.zhihu.com/?target=https%3A//www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)》这本书中，比喻的是建造一座城市：
+
+> 结构建设的理论与乐高积木搭建的村庄有相似之处。假设你正在学习一门新学科的调查课程。你从一本充满思想的教科书开始，你开始建立一个连贯的心理模型，以了解它们所包含的知识。在我们的乐高比喻中，你从一个装满乐高碎片的盒子开始，你开始建造盒子封面上所画的小镇。你把碎片倾倒出来，然后把它们分门别类地堆在一起。
+> 
+> 首先，你铺设出街道和人行道，定义出城市的周边和城市内的不同地方。然后，你把剩下的碎片按照它们构成的元素进行分类：公寓楼、学校、医院、体育场、商场、消防站。这些元素就像课本中的一个中心思想，随着增加的碎片扣在一起，每个元素都有了更多的形状和细微差别。这些中心思想共同构成了村庄的大结构。
+> 
+> 现在假设你的哥哥以前用过这套乐高，并把另一套乐高的一些碎片倒进了盒子里。当你找到这些碎片时，有些可能与你的积木不相配，你可以把它们当作无关紧要的东西放在一边。或者你可能会发现，有些新的碎片可以用来形成现有积木的子结构，使其更有深度和清晰度（门廊、天井和后甲板作为公寓的子结构；路灯、消防栓和林荫树作为街道的子结构）。你很高兴地把这些作品添加到你的村庄中，尽管最初的布景设计者并没有计划到这种事情。
+> 
+> 更简单的比喻可能是一个朋友想给你讲一个她认识的这个四岁男孩的罕见故事。她提到母亲是谁，他们是如何在书友会上成为朋友的，最后提到母亲在男孩生日的早上，巧合地给她的花园送来了一大堆肥料——母亲是个不可思议的园丁，她的茄子在县集市上拿了个奖杯，让她接受了早间电台的采访，她的肥料来自你们教堂里那个养克莱德代尔马的寡妇，她的儿子嫁给了--等等等等。你的朋友*不能从纷繁的不相关联的暴风雪中筛选出主要观点*，听众也就失去了故事的意义。故事，也是结构。
+你需要「确定基础概念及其关键的构件，并根据新信息是对大结构和自己的知识有所补充，还是无关紧要，可以放在一边，来进行分类」。这也说明了学习是高度个人化的。对于同一件事（类比、解释、故事等），我不能保证帮助我理解的东西也能帮助你理解。
+
+## **渐进阅读的知识结构构建**
+
+我的比喻是建造一辆乐高汽车。我认为这样的类比对解释 IR 是有帮助的。这些类比（城市、拼图、汽车）在根本上是等同的（知识结构构建）。
+
+![](https://pic3.zhimg.com/v2-5e409d4d67d5f9beb472d0399bc1e6c8_1440w.jpg)
+根据[表述知识的 20 条规则](https://link.zhihu.com/?target=https%3A//www.supermemo.com/en/articles/20rules)[3]，你应该建立在基础知识的基础上。通过 IR，你在组装整车之前，要先构建部件（车轮、车架、发动机、座椅）。构建部件是你对文章的基本理解：关键词、定义和一些已经在脑海中的例子。它们的作用是帮助你理解主旨和大局。准备好了这些部件，你就可以更轻松地组装汽车了。
+
+![](https://pic4.zhimg.com/v2-eb77218e864a1cf13e2aa21159dad0df_1440w.jpg)
+
+回到上面的例子，当我第一次处理第1段时，我了解了定义和关键词。在进行后续段落之前，了解它们对理解有极大的帮助。为什么这么说呢？因为我已经对整篇文章有了基本的了解，所以我不用再去思考定义、关键词等的含义（即浪费工作记忆），我可以集中精力去理解文章的主要思想。我可以把所有的注意力放在目标知识如何。如何用实验（第2段和第3段）来显示深层处理比浅层处理的优越性。这种高阶思维只有在我不是还在为基础知识苦恼的时候才能发生。
+
+一般来说，传统的阅读，你会从头到尾读完整篇文章。这就像用乐高砖块从头开始搭建乐高汽车一样。当然，你也可以用这种方式阅读（搭建），但在组装之前，先准备好各种零件，这样更容易。使用IR，可以更容易地从文章中获得最大的收获（思想的综合，更深的理解），而且花费的时间也更多（在一个环境中 5 个小时 VS 每天 1 个小时分布在 5 天内）。
+
+### **另一个例子**
+
+以下阅读材料来自《[经济学原理](https://link.zhihu.com/?target=https%3A//www.amazon.com/Principles-Economics-N-Gregory-Mankiw/dp/1305585127)》一书。
+
+第1段：
+
+> 一般来说，关于世界的表述有两种类型。第一种是实证表述，只是如实做出关于世界是什么样子的表述。第二种是规范表述，做出的是关于世界应该是什么样子的表述。
+第2段：
+
+> 实证表述与规范表述基本上是不同的，但在一个人的观念中，二者通常相互关联。特别是，人们关于世界如何运行的实证观点将影响人们关于什么政策合意的规范观点。如果甲关于最低工资法引起失业的说法正确，就会使其否定乙关于政府应该提高最低工资的结论。但人们的规范结论并不能仅根据实证分析，还要涉及价值判断。
+当我第一次读这两段时，我很难理解第 2 段，因为我还没有完全弄懂/记住第1段的基本观点。在读第 2 段的时候，我不断地问自己 「什么又是实证表述？」等问题。
+
+有了 IR，我会把整个第 2 段摘抄出来，在复习完第 1 段的基本内容后，再读一遍。
+
+所以，在下面的 7 天里：
+
+第1 - 6 天：制作和复习第 1 段的项目，如：
+
+ 问：表述的两种类型？
+ ​
+ 答：实证的和规范的填空：
+
+ [...]表述是描述性的。
+ ​
+ 规范表述是[...]。钻研了 6 天的基础知识，在第 7 天的时候，当我读到后面的第 2 段的时候，我一定会更容易理解这些概念。为什么这么说呢？因为我已经打好了基础，从而为理解腾出了工作记忆。
+
+## **结束语**
+
+我希望我已经提供了足够的类比（希望不要太多余！）和例子来告诉你渐进阅读对知识构建的巨大帮助。在接下来的[第二部分](https://zhuanlan.zhihu.com/p/322584755)，我将继续解释 IR。
+
+
+---
+
+
+<!-- 源文件: 【翻译】SuperMemo 中渐进阅读的意义：第二部分.md -->
+
+# 【翻译】SuperMemo 中渐进阅读的意义：第二部分
+
+> [原文链接](https://zhuanlan.zhihu.com/p/322584755)
+
+原文：[The Significance of Incremental Reading in SuperMemo: Part II | Master How To Learn](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2018-10-30-the-significance-of-incremental-reading-part-ii/)
+
+这是《SuperMemo 中渐进阅读的意义》的第二部分。如果您还没有阅读，请先阅读[第一部分](https://zhuanlan.zhihu.com/p/322497441)。
+
+## **快速术语回顾**
+
+SRS = 间隔重复软件
+
+SM = [super-memo.com](https://link.zhihu.com/?target=http%3A//super-memo.com/) 的 SuperMemo；而不是 [supermemo.com](https://link.zhihu.com/?target=http%3A//supermemo.com/) 的课程、移动应用、应用。它们是不同的。
+
+SuperMemo 中的项目 = [Anki](https://link.zhihu.com/?target=https%3A//apps.ankiweb.net/) 中的卡片；IR = [渐进阅读](https://link.zhihu.com/?target=https%3A//www.supermemo.com/help/read.htm)
+
+## **介紹**
+
+我认为传统使用 SRS（抽认卡的间隔检索练习）的好处背后的原因可以转化为并用来解释渐进阅读的好处。渐进阅读本质上是在「间隔重复」你的阅读，就像任何会「间隔重复」你复习抽认卡的 SRS 一样。你可能会认为渐进阅读只是 SRS 的另一种应用，这次是在阅读上。
+
+> 为什么你要用这种方式阅读？有什么好处？
+## **渐进阅读的好处**
+
+在实用性方面：
+
+读与记之间的无缝结合
+从学习科学的角度看，渐进阅读有：
+
+间隔效应（也是睡眠中的记忆巩固）；
+穿插效应（微观和宏观层面）
+### **1. 读与记之间的无缝结合**
+
+首先，我先明确一下我所说的「学习」是什么意思。
+
+学习 = 理解和阅读新事物
+记忆 = 理解和记忆所学的知识
+附注：学习和记忆是密不可分的，但明确地将它们分开，有助于我理解我关于渐进阅读的观点。
+
+在学习过程中，你首先要尝试理解一个新的想法或概念。然后，如果你认为这条信息值得被记住，你就会进入第二步：记忆：你通过制作抽认卡来记忆它。
+
+在 Anki 中，你只是在做记忆的部分。在 Anki 中，你没有读到任何新的东西。如果没有 SM（特别是渐进阅读），你需要用传统的方式学习（用硬拷贝、讲义、PDF 阅读），然后将重要的部分导入Anki。
+
+另一方面，SM 将这两部分无缝融合。通过 IR，学习和记忆融为一体：你同时阅读（学习）和复习（记忆）。
+
+### 我不必决定阅读的内容和时间
+
+在 SuperMemo 中：
+
+摘抄卡片保留你想学习的知识（即你想阅读的东西）
+问答卡片保留你想记住的知识（即你已经拥有但可能会忘记的知识）。
+在 SuperMemo 中，我会遇到我导入的阅读材料（在线文章、书籍章节、研究论文等）。在阅读时，我会摘抄部分文本，然后（立即）创建填空或问答。
+
+通过将所有的学习材料加载到 SM 中，我只需要确定优先级，SM 就会相应地将它们显示给我。有了这样的整合，我就不用决定读什么，什么时候读。这就等于有一个 SRS 帮你安排所有的卡片复习。
+
+我可以放心，我不会错过任何东西。如果它足够重要，就会提前出现。我可能会把一篇文章设置为低优先级，因为我还没有掌握足够的背景知识。在阅读了一个月的补充文章后，我可以继续阅读原文。如果没有 IR，我需要手动设置一个日历提醒，提醒自己一个月后再去阅读，这对于一篇文章来说是没有问题的。试想一下，如果有十几篇这样的文章，每次都要这样做吗？
+
+你可能会说：
+
+> 「我可以手动决定何时阅读某篇文章。我不需要一个软件来帮我决定。」
+是的，如果你有一个小的阅读集合，这是真的.……当你有很多阅读材料时，管理阅读材料的难度不断增加，可能会让你瘫痪。你应该什么时候读这篇文章？你读过那篇文章吗？我最后一次读这篇文章是在哪里？
+
+为了便于论证，我们假设你设法手动安排了阅读的优先级和时间。然而，这仍然不理想。你如何决定何时阅读一篇文章？仅仅因为你「觉得喜欢」？由于优先级的偏差，你总是会觉得新的阅读材料更重要、更有趣，因此，不得不先阅读它们。但你忘了，你的旧阅读材料也曾经是「新」的。
+
+「手动安排阅读的优先级和时间」是可以管理的，但并不意味着它是最优的。同样的道理，理论上可以有一万张文献卡片，并且每次复习都要计算个人的复习进度。你仍然可以说这是「可控」的，但没有人会说这是最优的、有效的、高效的。
+
+SM 之外的渐进阅读就像做纸质闪卡（莱特纳盒子系统）：你可以，但你就是不会这样做。
+
+此外，阅读和记忆之间的整合，不仅仅是知识管理和优先级排序的问题。渐进阅读是一种具有间隔效应的穿插练习形式。
+
+### **2. 间隔效应：间隔重读引入遗忘**
+
+根据罗伯特-比约克的《新废弃理论》，废弃是遗忘的一个关键因素。从《[让事情难为自己，但要用好的方式：创造理想的困难，以提高学习能力](https://link.zhihu.com/?target=http%3A//psycnet.apa.org/record/2011-19926-008)》：
+
+> 「遗忘（失去检索强度）为增加信息或技能的存储强度创造了机会」
+只有在你忘记了（至少在一定程度上）之后，你才能触发加强记忆的检索和编码活动，因为存储强度的收益是当前检索强度的递减函数。换句话说，「先忘一点，再刷新记忆」对记忆有很大的帮助。
+
+IR 是一种间隔重复的应用。因此，间隔重复的好处可以转化为 IR，用来解释 IR 的好处。当你在 3 月 3 日读了一篇文章，然后在 5 月 4 日(一个月后)再接上你离开的地方，必然会出现一些遗忘。你必须重新加载你的记忆，比如，通过检索相关的上下文，文章的主要内容是什么。你必须重新访问（检索）那些神经元群。间隔让遗忘有时间到来，这样你才能获得记忆（再）巩固的最大好处。
+
+宏观的穿插式练习（后面会详细介绍）也意味着同一主题的内容之间有更多的间隔。滞后效应告诉我们，滞后时间长的间隔比滞后时间短的间隔有优势。
+
+### 间隔重读比集中重读好
+
+摘自《[用有效的学习技术改善学生的学习](https://link.zhihu.com/?target=http%3A//www.indiana.edu/~pcl/rgoldsto/courses/dunloskyimprovinglearning.pdf)》：
+
+> 学习条件的一个方面确实显著地缓和了重读的效果，这涉及到初始阅读和重读之间的滞后。[......]间隔重读通常优于集中重读。
+换句话说，是什么使重读有效？第 1 次和第 2 次重读之间所经过的时间。
+
+> 在 Verkoeijen、Rikers 和 Ozsoy（2008）最近的一项研究中，学习者阅读了一篇长篇的论述性文章，然后紧接着、4 天后或 3.5 周后重读。重读两天后，所有参与者都完成了最终测试。滞后 4 天后重读的组比集中重读者的表现更好。
+我知道间隔重读和渐进阅读不一样：
+
+重读：把整篇文章从头到尾读一遍
+
+渐进阅读：从上一次落下的地方开始读起
+
+这是一种信仰的飞跃，所以要慎重对待。我相信，重读的好处可以转化为渐进阅读。它们在本质上是相似的：都包括阅读环节之间的间隔。我相信 IR 更胜一筹：在阅读过程中和阅读之间有很多主动的处理和复习，而在重读中你只是在进行被动的重读。
+
+就像复习一次抽认卡是远远不够的，读一次文章也是不够的。但是没有人愿意把同一篇文章读 5 遍，哪怕是隔一段时间，比如说跨越 5 个月。那么，如果你把这篇文章读一次，间隔 5 个月呢？这就是渐进阅读：在不重读的情况下享受间隔的好处。当你从上一个阅读点继续阅读时，摘抄卡片和后续的填空和问答是支持和提供上下文的基础。
+
+### &#34;睡上一觉&#34;：从睡眠中巩固记忆
+
+预言家罗马修辞学家昆提良说：
+
+> 这是一个奇怪的事实，其中的原因并不明显， 一个晚上的间隔会大大增加记忆的强度……不管是什么原因，不能当场回忆的事情在第二天很容易协调起来，而时间本身，通常被认为是遗忘的原因之一，实际上是为了加强记忆。
+对同一篇文章进行跨天、跨周、甚至跨月的处理，实现记忆巩固的最强方式之一：睡眠。我可能会写关于睡眠对记忆形成和巩固的关键。但现在，只要意识到，有了 IR，就像任何间隔的重复一样，睡眠会自动融入其中。培养创造性和洞察力的想法，实现知识的转移需要时间。其中一个神奇的成分就是睡眠。
+
+### **3. 穿插练习（包括微观和宏观层面）**
+
+穿插练习是在不同种类的项目之间交替进行。与此相反的是集中练习，即先学习同一主题或类型的内容，然后再进入下一个主题或类型。
+
+基本上，穿插练习就是把东西混在一起。使用 IR，你是在阅读（摘抄卡片）和记忆（问答和填空等项目）之间进行穿插。IR 是在微观和宏观两个层面上的穿插。这种学与记的穿插练习是的极好的。
+
+微观层面：阅读一篇文章和记忆文章中产生的项目（如问答和填空）之间的穿插。
+宏观层面：阅读不同的文章和记忆其对应的项目之间的穿插。
+### 微观层面（同一阅读材料）：
+
+文章 A 不同项目之间的穿插：填空 A4→问答 A2→填空 A5
+穿插阅读文章 A 和记忆文章 A 中的项目：阅读摘抄 A1→问答 A2→填空 A5→继续阅读文章 A→摘抄 A5。
+### 宏观层面（不同阅读材料）：
+
+在1.和2.之间穿插不同的阅读和复习材料。当你很多不同的阅读材料时，你就是在宏观层面上的穿插。
+SM 中的渐进阅读是所有阅读和复习材料的穿插。不仅仅是穿插项目，而是包括所有的阅读材料。你边学边复习，边复习边学习。
+
+例如，SM 会按照这样的顺序向我展示以下内容。
+
+一篇文章 A 的摘抄-->一篇关于历史的文章-->一篇关于营养学的文章-->整篇文章 A（最后阅读点）-->一篇关于分子生物学的文章-->整篇文章B（最后阅读定点）-->文章A的另一篇摘抄。
+
+就像把所有的东西都扔进搅拌机里一样：
+
+微观层面：把苹果、橙子、西瓜等水果扔进搅拌机里。果味冰沙。
+
+宏观层面：把水果，蔬菜，土豆，肉，鸡蛋，蜂蜜扔进搅拌机里。一个可能味道怪异的代餐。
+
+简单来说，渐进阅读=「阅读与复习穿插」的间隔重复。
+
+> 在 SuperMemo 中，学习过程中会把阅读新文章和复习你的项目穿插在一起。
+> 算法决定了（1）重复问答材料和（2）复习阅读材料的时间。
+算法会决定何时向你展示某篇阅读材料、其摘抄和其项目。一般来说，SM 对填空和问答的优先级较高，所以它们总是会在其对应的文章之前显示出来。在进一步阅读文章之前，你总会先回顾它们。
+
+### 为什么要把所有的东西都混在一起？
+
+从《[用有效的学习技术改善学生的学习](https://link.zhihu.com/?target=http%3A//www.indiana.edu/~pcl/rgoldsto/courses/dunloskyimprovinglearning.pdf)》 出发，穿插练习是比集中练习更好的学习策略。宏观穿插练习比微观穿插练习好吗？这又是一个跳跃性的问题。我相信宏观穿插练习同样比微观穿插练习有益，甚至更有益。据我所知，研究只阐明了微观穿插的好处，比如解决不同的固体（立方体、球体、棱柱），而不是一次学习中的集中练习（所有球体→所有立方体→所有棱柱）。
+
+### 整体性学习与顺序性学习
+
+我始终认为，整体的方法比顺序的方法更好。同时缓慢地推进多个主题，比按顺序快速地推进一个主题要好。
+
+每一天：
+
+生理学： 前进 1 步
+
+编程：前进 1 步
+
+历史：前进 1 步
+
+胜过
+
+生理学：前进 3 步，隔一天：
+
+编程： 前进 3 步
+
+隔一天：
+
+历史： 前进 3 步
+
+### 这个整体性学习与顺序性学习与渐进阅读的关系如何？
+
+顺序性学习是大范围的集中练习。整体性学习是大范围的穿插练习。渐进阅读是整体性学习。
+
+想象一下，你有 3 个容量相同的杯子。你只能给每个杯子装上特定的液体。每个杯子每天都会被清空。你的目标是尽可能地把它们装满。
+
+第一：水 
+
+第二：茶叶
+
+第三：咖啡
+
+![](https://pic2.zhimg.com/v2-8996f5304a97430a0b7cc0beccdcac03_1440w.jpg)
+
+在容量有限的情况下，在溢出之前，某一个杯子只能装满这么多。如何最大限度地增加液体的填充量？把三个杯子都装满，而不是一个杯子。
+
+如果你一直往水杯里注水，超过它的容量后，多余的水就会全部浪费掉。你让其他杯子空着，浪费了装满它们的机会。这和学习同一门科目一天（集中练习）是一样的。在某一科目的学习容量「超负荷」之前，你只能塞进这么多概念和信息。
+
+换句话说，我认为你能从短期记忆转移到长期记忆中的某一科目的信息量是有限的。你对某一学科的学习能力必须与其先前知识的增长相结合。增加你对某一学科的专业知识和积累先前的知识是需要时间的。专业知识的积累需要思想的整合和知识的转移，这需要大量的时间。你就是不能着急。
+
+这可能是一个蹩脚的比喻，但我希望你能明白这个道理。
+
+## **闭幕词**
+
+有了第一部分和这第二部分，它们就是我要说的关于渐进阅读的全部内容。希望这篇文章能说服你认真尝试一下 IR。
+
+## 下一篇
+
+[叶峻峣：【翻译】示范：我的渐进阅读工作流程](https://zhuanlan.zhihu.com/p/322673517)
+
+
+---
+
+
+<!-- 源文件: 【原稿】用 SuperMemo 打通阅读、理解与记忆.md -->
+
+# 【原稿】用 SuperMemo 打通阅读、理解与记忆
+
+> [原文链接](https://zhuanlan.zhihu.com/p/452546378)
+
+直播回放：
+
+[叶峻峣：用 SuperMemo 打通阅读、理解与记忆_哔哩哔哩_bilibili](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1jL411V7GD)这次直播大部分内容我在知乎上都有介绍，不过这次全部串在一起，可能会有意想不到的效果，大家可以看看哦。
+
+下文是我写的原稿，直播时有一些即兴发挥，想要获得完整体验，还是推荐看直播回放哈哈。
+
+不过主线还是相同的，没时间看视频，或者不喜欢看视频的朋友，请继续阅读！
+
+![](https://pic3.zhimg.com/v2-0defdb95969bb67d2223fe86d78603e6_1440w.jpg)
+## **本期介绍的内容**
+
+观众朋友们大家好，我是叶峻峣，目前就读于哈尔滨工业大学（深圳）计算机系，同时在墨墨背单词负责研发语言学习记忆预测与复习规划算法。
+
+我的主力学习软件是 SuperMemo，本次直播想要给大家分享一下 SuperMemo 的学习方法论，以及我的入门失败经验和现在的实践流程。
+
+本期分享将从 SuperMemo 的发展史说起，重点介绍几个关键功能的开发节点，以反映 SuperMemo 的创造者所遇到的学习问题，和相应的解决方案。
+
+![](https://pic3.zhimg.com/v2-10f5478d5b187e7afbe8d7148b07f1a8_1440w.jpg)
+## **SuperMemo 简单介绍**
+
+在场应该有不少听说过 SuperMemo，即使没听过，也应该知道 Anki ，还没听过的话。。。那各种背单词的软件总用过吧？他们的祖宗的祖宗，就是 SuperMemo。Anki 至今用的是它在 1987 年开源的算法，叫 SM-2[1]，现在 SuperMemo 本身已经发展到 SM-18 了。
+
+第一个记忆研究中的里程碑式的人，大家应该有所耳闻，是艾宾浩斯，以遗忘曲线出名。那第二个是谁呢？我认为是 SuperMemo 的作者，彼得·沃兹尼亚克[2]（下称 woz/沃兹），他开发的 SuperMemo 是第一款面向个人用户的复习软件。他本人为了证明 SuperMemo 的强大，从生物本科读到了计算机硕士，然后又去读了经济学博士。
+
+在 1985 年，他还是一个苦于大学学业的本科生，但在那个时候，一些关于 SuperMemo 的初步想法，已经形成了。
+
+![](https://pic1.zhimg.com/v2-3a0f06c57ee974afd835be3ceead8006_1440w.jpg)
+## **1985 年：反复看书记不住，怎么办**
+
+不知道有多少小伙伴用下面这套流程学习的：看书或者上课，然后记笔记，再不断回顾，你们觉得效果怎么样呢？
+
+我不知道你们的体验怎么样，但是就我个人而言，我获得了「掌握知识的错觉」：我觉得阅读的内容很熟悉，但倘若有人询问我相关的问题，我却发现自己只能说出只言片语，几乎不记得细节，更别说答道重点了。
+
+在 Woz 的大学生活中，观察到了这一现象。他发现，被动地阅读书本，对于学习来说是远远不够的。为了解决这个问题，woz 开始在学习过程中**主动回忆**自己所学内容。
+
+什么是主动回忆呢？就是用一些有关学习材料的问题来考考自己，然后努力回忆问题的答案。
+
+![](https://pic3.zhimg.com/v2-fc026124c3e9d5794b0da2889a5aeae2_1440w.jpg)
+为了主动回忆，woz 将所学内容用问答对（类似于 flashcard/抽认卡，下称问答卡片）的形式记录下来。[3]
+
+左边是问题，右边是回答。woz 写下了大量如上图所示的笔记。通过遮盖右侧的回答，看着左侧的问题回忆答案，让 woz 能够清楚地评估自己有没有记住这些知识。
+
+这种手段很快见效了，他又快又好地学了大量的内容，然后通过了考试。到这里，我们感到他和现在的我们没什么不同，考前突击什么的。
+
+![](https://picx.zhimg.com/v2-e146b87ae55048cfb1862497f7ee597f_1440w.jpg)
+但是 woz 在考后几个月重新拿出这些笔记尝试回忆时，他惊恐的发现，他忘了。他所学的知识最终还是离他而去了。他觉得有用的知识不应该被这样遗忘，自己过去所花的时间，也不应该仅仅为了一次考试而浪费。他痛定思痛，开始思考一个问题：我该怎么永远地记住它。
+
+这里大家可以看到，SM 最初的愿景了：让你永远地记住东西，而不是说突击完就忘掉。我们在想想，很多人是怎么做的，他们觉得长期记住东西，是个人智商、个人能力的问题。是听天由命的，但 woz 偏不，supermemo 希望每个人都有掌控自己记忆的权利。他也是这么做的。
+
+Woz 继续实践他的主动回忆法，和之前不同的是，他开始关心长期记忆，开始多次复习。他观察到，每隔几天，就复习一次，能让他记得更牢。同时，知识是被逐渐遗忘的，而不是一下子全部忘记。
+
+这让他有信心来解决遗忘的问题。他开始了他的实验，在不同的复习间隔下回忆知识，并测量自己还记得多少。最终他确定了最佳的复习间隔，并将这一套方法打包，成为一种学习方法——间隔重复。[4]
+
+![](https://pic1.zhimg.com/v2-80b886dce0a9b5e8b4fcd6ef83db27be_1440w.jpg)
+在这两年后 woz 开发了 SuperMemo for DOS（SuperMemo 1.0），用户可以将学习内容制作成问答对，并输入到 SuperMemo 中，SuperMemo 会使用间隔重复算法来安排复习时间，并根据用户对复习的打分来调整复习计划。[1]
+
+![](https://picx.zhimg.com/v2-d7da05710162dbc59786a9ea0b528a6f_1440w.jpg)
+### **小结**
+
+SuperMemo 最初想要解决的问题很简单：记不住学过的知识。为了解决这个问题，woz 使用主动回忆和间隔复习。这些方法综合起来，就是**间隔重复**。
+
+主动回忆：相比被动阅读，尝试回忆所学内容可以增强我们对知识的记忆。
+
+间隔复习：只记忆一次，终究会遗忘，每隔几天就复习一下才能记得更牢。
+
+![](https://pic3.zhimg.com/v2-fa23263a0da79183ccccea91f696413c_1440w.jpg)
+## **补充：间隔重复动画演示**
+
+为了让大家对间隔重复有更加形象的理解，这里用一个交互动画给大家演示一下。[5]
+
+![](https://pic4.zhimg.com/v2-04f8ca6f47f42387be4c495c54f1e573_1440w.jpg)
+## **1994 年：不理解的内容记不住，怎么办**
+
+随着 SuperMemo 的发行，越来越多的人开始使用 SuperMemo。在 woz 不断改进的间隔重复算法的帮助下，学习者已经不再需要担心自己该什么时候复习了。
+
+但是，有一些用户碰上了新难题：就算间隔重复了好多次，还是记不住。
+
+Woz 调查了这些用户，从他们的复习习惯，到所学习的内容，一个不落的研究了过去。最终，他确定了问题所在：记忆的内容——问答卡片。
+
+他发现，这些用户：
+
+使用别人制作的卡片，自己没有仔细理解，就直接上手记忆
+自己编写的卡片内容冗长，措辞模糊不清，与实际缺乏联系
+
+总的来说，就是对知识缺乏理解，对着一堆文字符号死记硬背，徒增记忆的复杂度。为了解决这个问题，woz 开始研究如何编写问答卡片，能让内容更好地被理解和记忆。
+
+> 注：直播的时候介绍了下面右图的例子。
+
+![](https://pic3.zhimg.com/v2-bf32d7ecbb99233db34a2787d80f9bea_1440w.jpg)
+这个问题在 1994 年 woz 所著的博士论文《学习经济学》[6]中得到了较为详尽的论述，我在此处简单概述如下：
+
+由浅入深：对问答卡片的编写和记忆应当先从基础开始，然后深入复杂的内容。通常来说，一个知识被引用得越为频繁，就越基础。
+最小信息：问答卡片不能过于复杂，要对信息进行拆分，每张卡片聚焦于一个细节。因为细节太多的卡片容易让人分心，还很难察觉自己的记忆是否全面。
+使用例子：通过例子缩小范围是一种非常有效的方法，可以使与问题有关的刺激更具体，从而更成功地留下持久的记忆。
+引入术语：很多时候，一长串啰嗦的解释可以用一个简单的术语替换。还有在数学、物理中，许多运算符号将复杂的内容封装起来。我们也可以通过引入术语来减轻记忆的负担。
+
+> 这里还有其他的例子，我是临时想的，在录播里面有。
+
+![](https://picx.zhimg.com/v2-475d72e324502fc1a6795b51d34b2343_1440w.jpg)
+woz 还讨论了很多增进理解、简化记忆的方式，此处就不赘述了。这些原则其实都是为间隔重复的一个核心机制——提取练习[7]——服务。
+
+提取练习，简单来说就是：你的回忆即对记忆的提取，提取行为往往会强化记忆，并且这个效应会减缓遗忘。从这个角度来看，很多原则的作用就很好理解了。
+
+> 注：原稿里面没有加下面右侧的图，录播里面解释了。
+
+![](https://pic4.zhimg.com/v2-b07e443991e07caa1ec104f03fddec33_1440w.jpg)
+
+为什么要由浅入深？在脑科学实验中发现，当受试者在记忆无意义的内容时，会有大量神经活动，而记忆有意义的信息时，则相反。也就是说，记忆不理解的内容时，我们无法准确地刺激相关的神经元，也就难以强化记忆。
+为什么要最小信息？包含太多细节的问答，并不能在回答时完整地刺激所有细节的记忆，因此有些细节的记忆就丢失了。
+为什么要使用例子？例子可以有效地缩小问题的范围，让大脑在回忆时容易以相同的方式处理，从而反复强化对应的记忆。
+为什么要引入术语？本质上也是为了缩小需要记忆的焦点，用更大的组块来封装过多的细节，从而更准确地强化相关记忆。
+
+![](https://pic1.zhimg.com/v2-725d57171aa069a91da865af73fe2b36_1440w.jpg)
+### **小结**
+
+SuperMemo 的使用者常常将间隔重复当作死记硬背的工具。然而，死记硬背非常浪费时间，难以形成长期记忆。为了更好的记忆，我们需要理解知识，由浅入深、最小信息、使用例子、引入术语等等。这些综合起来，就是**制卡原则**[8]。
+
+![](https://pic4.zhimg.com/v2-b6292cf0e5421e65334a8a4116a5d591_1440w.jpg)
+## **2000 年：编写问答与阅读过程很割裂，怎么办**
+
+回想一下，在间隔重复方法中，我们如何使用 SuperMemo 进行学习？
+
+首先，我们会阅读教科书、听讲座，再把所学内容以问答的形式输入 SuperMemo，然后在 SuperMemo 上完成复习。
+
+听起来很简单，对吧？但是实践中却有很多阻力。
+
+比如，在阅读过程中写卡片，常常会打断思考，导致阅读体验极差。有些卡片还需要多次阅读，深入理解，才能写得出来。
+
+还有，输入卡片是个很费力的过程。打字、编辑、排版、样式等等，令人头大。
+
+最后，问答卡片是很难写的。想要写出一张好卡片，需要理解知识，遵循制卡原则，不断打磨。
+
+这都限制了 SuperMemo 和间隔重复的使用。woz 想要打通阅读、制卡和复习的流程。
+
+巧合的是，2000 年，也是互联网开始兴起的一年，Wikipedia 也是 2001 年诞生的。网络上的学习材料开始慢慢变多，这为将阅读材料放进 SuperMemo 中降低了阻力。
+
+SuperMemo 2000（SuperMemo 10.0）加入了渐进阅读[9]功能。也就是在 SuperMemo 中，能够使用间隔阅读来安排文章阅读了。
+
+![](https://pic1.zhimg.com/v2-d3b96b5b1964cdd71ec430dcb7170b00_1440w.jpg)
+那么，在 SuperMemo 中，阅读过程是如何与制卡过程结合起来的呢？
+
+woz 提出了**摘录**和**挖空**两大工具。
+
+摘录，就是让读者可以在阅读文章的过程中，给介绍知识的片段划重点，SuperMemo 就会生成一张摘录卡片，完整地保留了所划的重点，并安排下一次阅读的时间。
+
+> 这样做还起到了精读与泛读相结合的作用。长文可以泛读，将自己感兴趣的片段摘录出来，留到以后精读。
+挖空，则是让读者可以在摘录卡片上标记重点。SuperMemo 会为此生成一张问答卡片，标记内容成为答案，剩余部分则作为题干保留。
+
+摘录让我们不必为了避免错过重要内容而立刻停下来做卡片，挖空则让我们能从片段中生成大量问答卡片而不需要太多的编辑。
+
+这两个工具大大提高了用户的制卡速度。导入一篇文章，摘录几个重点片段，对几个关键词挖空，制卡变得极其廉价。
+
+但这也导致低质卡片泛滥。woz 的解决方案是：迭代改卡——在每次复习时，按照制卡原则，对卡片的措辞进行渐进改进。因为理解是逐步深入的，只有对细节和背景的了解更加深入，我们才有办法对卡片做出更符合自己理解的修改。
+
+> 注：下面的图本来是动图，截图就没有动态效果了，可以看录播。
+
+![](https://pica.zhimg.com/v2-f5556db55a23d9580b15ac7e170e3530_1440w.jpg)
+### **渐进阅读的作用**
+
+你不能指望第一次接触新的知识，就能轻松写出优质的卡片。此时的你尚在建立把握、区分重点的意识（无论是客观还是个人意义的重点）。因此你难以知道哪些内容特别难记（并特别关照），也可能不太了解作者的想法。所以编写的卡片要么无法连通其「本质」，要么不能捕捉其中微妙。因此，你还需和新学的知识 “相处” 一些时日，你才能写出好卡片，并与自己的情况鲜活地联系起来。[10]
+
+当你刚做了一张摘录卡片时，你对如何处理它没有准确和足够的元记忆判断。如果你立即处理摘录卡，你将倾向于犯错误，比如挖了太多的空。这也剥夺了你通过渐进摘录处理获得的间隔重复的好处和更好的填空/问答卡片的机会。由于间隔重复的力量，在一段时间后，你将更好地知道如何处理摘录卡片。[11]
+
+获得新知识的限制因素之一是理解障碍。在大脑中积累知识就像组装拼图游戏。有些碎片不能提前放在拼图中。有些碎片会借助其他碎片放入拼图。在我们了解*标准模型*是什么之前，记住*希格斯玻色子*的事实是没有意义的，反过来，应该遵循对*粒子物理学*的一般理解，而*粒子物理学*本身就需要一些*物理学的基础知识*。在渐进阅读中，如果遇到与*希格斯玻色子*有关的文本，则可以手动将其推迟到学习*物理学的基础知识*之后，这一举动会为学习玻色子奠定基础。在传统阅读中，我们会浪费时间在阅读*希格斯玻色子*材料上，只是因为我们没有工具可以在较长的文章中有效地重新安排阅读时间并重新安排阅读的优先级。在传统阅读中，我们如果决定先跳过该材料，则不会有相应的策略保证我们将来可以再回到被跳过的材料。使用渐进阅读，我们可以将时间浪费在阅读不懂的材料上。我们可以大胆地跳过部分材料，以后在合适的时机再返回。我们将成为有意识的知识构建过程的主人。我们可以逐步建立对复杂现象的理解。[12]
+
+> 注：这里在直播的时候简化了，没有上面这么多详细介绍，怕朋友们听睡着了，2333
+
+![](https://pica.zhimg.com/v2-adfc165943fea9015615b31108f5313a_1440w.jpg)
+### **小结**
+
+随着间隔重复在越来越多学习领域的应用，它的缺点也随之暴露出来：制作问答会打断阅读思考，打字也很花时间，并且大部分人都很难写出很好的问答卡片。为了解决这些问题，SuperMemo 增加了文章导入、阅读排期、摘录、挖空等功能，并允许用户迭代写卡，这一切综合起来，就是**渐进阅读**。
+
+文章导入、阅读排期：用户可以在 SuperMemo 中阅读
+
+摘录、挖空：用户可以从文本中快速制作问答卡片
+
+迭代改卡：用户可以在每次复习时改进卡片
+
+![](https://pic4.zhimg.com/v2-15b54329509562b7d3d26b3bbd0b6277_1440w.jpg)
+## **2006 年：想读想记的知识太多，怎么办**
+
+不知道朋友们有没有做过任务管理。用清单记录自己需要完成的事情。在任务很少的时候，我们大多能完成清单上的所有任务。但是，当我们遇到临时任务的增加、时间被占用等情况时，就会有不少任务无法按时完成。
+
+在 SuperMemo 中，记忆也面临着同样的问题。我们想学的知识很多，但是时间又很有限。SuperMemo 的复习安排很可能会超过我们能够处理的上限。并且由于渐进阅读让制卡变得非常轻松，使得我们卡片数量的增长变得更快了。
+
+我们必须做出取舍，优先复习那些高价值的知识，这样我们才能最大化利用时间。
+
+为了实现这一点，SuperMemo 2006 加入了**优先级队列**[13]。
+
+我们可以手动给卡片设置优先级，或者让 SuperMemo 设置默认优先级。然后 SuperMemo 就会根据优先级对复习进行排序了。
+
+同时，SuperMemo 会在摘录和挖空时对卡片优先级进行自动调整，省去我们一张张卡片调整优先级的时间。
+
+> 注：直播的时候也即兴发挥了一点。
+
+![](https://picx.zhimg.com/v2-e187eee922344d95ff402ff5e7fe7dd3_1440w.jpg)
+### **小结**
+
+随着渐进阅读的引入，我们的制卡速度能够跟上我们对知识的渴望，但同时也超过了我们的记忆速度。为了让更重要的知识得到优先记忆，SuperMemo 增加了优先级的概念，让阅读、制卡、记忆都可以按照优先级进行安排。
+
+## **失败经验分享**
+
+我是在去年的 7 月底开始入门 SuperMemo 的。还特地使用它来复习操作系统和计算机网络。那个时候我已经用了 Anki 三年多，觉得自己已经把间隔重复这一套吃的透透的了，没有仔细查看 SuperMemo 的入门教程，直接自己开始上手折腾。过程十分惨痛，可以说把所有可能踩的坑都踩了个遍。以下是我自己细数的三宗罪：
+
+![](https://pic3.zhimg.com/v2-3fd2fbee758a0b4b5d298026a4916a60_1440w.jpg)
+### **贪婪：超饱和导入阅读材料**
+
+当初 SuperMemo 最吸引我的一点就是能够在间隔重复的基础上进行阅读，还能同时阅读成千上万本书。我刚装好 SuperMemo，就迫不及待地开始折腾书籍导入，一下把我找来的操作系统和计算机网络教材导入进去，还有 Python 官方手册。
+
+其结果是，我浪费了大量时间在处理这些材料的格式上，还有微操我的阅读进度。我经常嫌 SuperMemo 给我安排的阅读量太少，就直接主动把材料安排到当天来读，没想到一周内我的阅读队列长度就突破天际了，然后我当时又是个追求当日事当日毕的人，花了很多时间把这些阅读安排全部解决，把自己搞得很累。
+
+而且，我当时也没有遵守由浅入深的原则，直接对阅读内容大段大段地摘录，不求甚解。导致后面去看那些大段地内容时，对上下文的印象很浅，而文中的前置概念我也没有搞清楚，感觉很糟糕。
+
+![](https://pic4.zhimg.com/v2-98cf1be1ea1a58901ac866f8c921f9a1_1440w.jpg)
+### **虚荣：试图在知识树上雕花**
+
+在这个过程中，我还犯下了另一个错误：把我的知识树搞的井井有条。
+
+当时我把知识树当做分类来用，导入的每一份材料都会进行分类。这经常让我在导入的时候很纠结，一开始阅读材料少的时候还好，后面材料变多了，就需要加入新类别，还可能和以前的类别有重叠，导致我疲于整理这些分类结构，而忘记了最重要的是理解和记忆。
+
+不仅如此，那个时候我还非常沉迷于把一本书的每一小节都独立摘录出来，把知识树整理成完美的大纲目录。然而事实证明，我整理完后就不会去看知识树了。这对我理解和记忆知识一点帮助都没有。
+
+![](https://pic1.zhimg.com/v2-e301a90a9b4d6fffe77af7357801d9a0_1440w.jpg)
+### **傲慢：错的不是我，是软件！**
+
+当然，新手入门总会犯各种各样的错，只要能改正，问题都不会太大。但是那个时候我心高气傲，觉得 Anki 那么复杂的软件我都能用好，SuperMemo 却用不好，肯定是软件的问题，而不是我的问题。然后在自己错误的道路上越走越远。要不是后面 SuperMemo 彻底崩溃了一次，我可能都不会停下来反思自己吧。
+
+最后我花时间看完了 SuperMemo 的渐进阅读文档，看到 Woz 对各种功能的解释，我才慢慢明白之前自己做对了什么、做错了什么。
+
+![](https://picx.zhimg.com/v2-0e700207a6eaeeede5e42d8a6dde011d_1440w.jpg)
+## **现场演示**
+
+说了那么多，不如直接打开 SuperMemo 演示一下，看看我的 SuperMemo 工作流是怎样的。
+
+> 注：这里就没有稿子了，完全取决于我那天 SuperMemo 给我安排什么，我就讲什么。
+## 答疑
+
+> 注：这个也是看大家对什么问题感兴趣，没有事先准备。
+## **总结**
+
+本期直播分享，我们从 SuperMemo 的历史说起，依次介绍间隔重复、制卡原则、渐进阅读和优先级队列。它们分别解决了记忆、理解、阅读和权衡的问题。
+
+然后，我回过头看了看自己当初入门 SuperMemo 犯下的错误，希望能够帮助大家避坑。
+
+最后，通过现场演示 SuperMemo 的日常使用，希望能够让大家对 SuperMemo 有个具体的印象，能与之前介绍的方法结合起来。
+
+![](https://picx.zhimg.com/v2-9477f6ec94946c425f6f97ebd85a1af5_1440w.jpg)
+好了，以上就是我为本次直播分享写的稿子了，其实有些纰漏，不过学业和工作繁忙，无暇打磨，还请谅解。
+
+希望下一次也有机会和大家继续分享！
+
+
+---
+
+
+<!-- 源文件: 如何阅读（用 Anki 渐进阅读）.md -->
+
+# 如何阅读（用 Anki 渐进阅读）
+
+> [原文链接](https://zhuanlan.zhihu.com/p/519549411)
+
+五年前我发现，对于我读过的大部分书，我几乎什么也没有记下来。我当时会阅读各种非虚构书籍——通俗心理学，通俗经济学，通俗社会学，五花八门——并自认为算是个多方位精通的自学者了。但是有一天，我和朋友大谈特谈我非常喜欢阅读《思考，快与慢》，我讲完后他想让我简单总结一下此书的主要观点。我思考了一阵子，结果只能嘟囔出一些什么系统一和系统二的话。我解释我只是为了补充背景知识而阅读这本书，并巧妙地转移了话题。当晚正待我要进入梦乡，我突然想到，自诩为自学者，并不意味你有所学。
+
+![](https://pic4.zhimg.com/v2-03d4c83b1047bf46f828be0547615c3f_1440w.jpg)
+很多人记不住学校教的东西，并以此而自嘲。如果你上过大学，你毕业之后应该很久没有用过你在大学学过的任何东西了。你会将上大学的这段时间合理化，称之为学习思维方式的宝贵一课，以及通往职业道路的愚蠢一站。我知道泡利有个不相容原理，但我说不出他和谁水火不相容，或者为什么。我们似乎觉得这样没什么问题。
+
+成年人阅读非虚构书籍的动机，一方面是消遣，另一方面是想要了解并记住书中的要领。然而，我们记不住大部分我们阅读过的东西，这也不是新鲜事。重复是学习之母，然而假如你阅读完了《二十一世纪的资本论》，没有多少场合能让你考虑资本收入比率。更没有多少人会在阅读《时间简史》后还会全身心投入在黑洞理论里。 
+
+面对这个事实，有一个完全合理的办法是坦然处之。阅读《制造共识》本身就是很愉快的体验，为了阅读这本书而阅读这本书是合情合理的；把所有休闲活动都拿到投入-收益分析的透镜之下审视，实在是没必要。你读完法官朱迪的故事，也不在意你记住了多少，乔姆斯基也不例外。我需要指出的是，我没读过乔姆斯基写的书，我在这里提到他是把他当作智力高峰。
+
+我目前在大量学习经济学的知识。我很关注我这个学习项目，因此我有充分的动机，选择一种学习效果优先于乐趣的方式，在经济学上付出我有限的阅读时间。我逐步设计出一套系统，来帮助我记住更多我所读到的东西。这套系统收效不错，我听到过「你到底是从哪里读到这些东西的？」和「显然有人读过《国家为什么会失败》。」我的这个系统显然是我全盘编造的，并没有多年的（或者任何）科学验证支撑，但我觉得很有效。下面是一个简短的总结。
+
+## 基本理念
+
+学习来自于重复，但书本上的内容冗长而繁琐，并没有考虑到这点。阅读相同话题下的多本书，可以实现更高阶，更宏观的重复，但这样的重复并不能保证你能记住想要记住的具体知识，或者知识如何一步步构建起来的。
+
+为了实现更频繁的重复，我认为读书应该分成两个阶段：
+
+ 读书并批注，注意批注要让读完之后容易扫视重点并消化
+ 
+ 读完这本书就要写「读后总结」（writeup）。其内容包括总结这本书，进一步研究，制作抽认卡（使用 [Anki](https://link.zhihu.com/?target=https%3A//ankiweb.net/)）
+ 
+
+![](https://picx.zhimg.com/v2-31321bd546265d76f496d280bb8703f7_1440w.jpg)
+读后总结通常需要一到四个小时，有三个目的：
+
+ 对整本书来一次大范围重复
+ 
+ 将书中的重要部分提炼成闪卡，从而永久重复下去
+ 
+ 提供了一本书内容的精简摘要，以及你对它的看法，便于未来参考
+ 
+阅读总结有种种好处，但你必须先踏实地读书才行。
+
+## 1. 阅读这本书
+
+阅读时别忘记拿根笔。在书上涂涂画画，阅读会更加有效，同时也容易写读后总结——这点更重要。写读后总结时要纵览全书，总结要点，这时候优质的批注是给你自己提供的提示，能起到引导作用。你只需要将批注收集起来，并完成批注指示的行动即可。
+
+注释最直接也最基本的形式是下划线。一旦一句话，一个词，或者一段文字抓住了你的眼球，在文字下面画上一大条线。但还有更好的做法。写下批注来说明一下，为什么你被这些吸引了注意，你想如何处理这条批注。是因为你看到了未来研究的线索？是这句话挺漂亮，还是这句话提纲挈领，简直是串起前面十页书的关键？
+
+我发现，我可以用一小套符号来回答这些问题：
+
+Q写读后总结时将这个事实做成卡片?读后总结时，先做些研究，再把这个观点做成卡片r?需要进一步研究*很重要。也许做成卡片的话太过宽泛，但在读后总结中的总结一栏中应该记下...这个问题很复杂——在总结的时候要多考虑一下。lol好的引用——在写读后总结时把这句话抄下来，并添加到一份总的「好的引用」列表中。（我开始使用这个符号只是为了表示有趣的名言，但后来演变成表示所有类型的好的引用。这导致了一叠证据，无疑有一天会在法庭上困扰我——「随着他的心落入黑色的深渊，托马斯扣动了扳机」LOL）我也有一些符号，用来作为常用笔记的速记：
+
+orly我不相信你。R如果你打算[写一个评论]([https://robertheaton.com/2015/10/12/three-body-problem-the-cultural-revolution-in-space/](https://link.zhihu.com/?target=https%3A//robertheaton.com/2015/10/12/three-body-problem-the-cultural-revolution-in-space/))的话，这一部分尤其重要。这可能包含一些非常好的或非常愚蠢的东西此外，把较长的句子写在空白处，并用大箭头指向他们所涉及的文本部分，用这些句子来：
+
+ 把重要内容换个方法描述，或复制过来
+ 
+
+ 「欧盟中的贫穷国家怒火中烧，因为他们需要救助比他们更富裕的希腊，并支付希腊老人的高额养老金」
+
+ 写下想到的任何其他想法或联系
+
+ 「我猜测，如果你高估了你的风险管理模型的力量，不管这些模型有多好，都会坏事」
+
+ 写下你想出的一些问题，而作者没有回答的。把问号放在方格中（见下文）。
+
+ 「为什么小经济体愿意加入欧盟？」
+ 
+
+这些手写笔记迫使你更深入地琢磨你所阅读的内容，并将构成读后总结的摘要部分的基础。最后，在每一章结束时，重新翻阅该章，并简单写份内容概要。读完一章不要忘记写总结——如果你这时不写，就永远不会写了。
+
+一旦你读完了这本书，并且对你所读的内容有所理解，书中也写满了各种符号、笔记、总结，那么万事俱备，你可以开始在读后总结中巩固你的知识了。
+
+## 2. 读后总结
+
+开始（最好是完成）读后总结的最佳时间是当天，或最多是在你读完一本书后的第二天，这样知识在你脑海中还很鲜活，正适合重复。开始写总结要比继续阅读清单上的下一本书难得多，所以保持势头很重要。
+
+用模板开始你的总结。我的模板中有下列标题：
+
+ 评论
+ 
+ 摘要
+ 
+ 引用
+ 
+ 问题
+ 
+ 我的想法
+ 
+
+从阅读评论开始，在上面做简短的笔记。接下来，翻开书，把你给自己留下的所有注释都扫一遍。大部分内容应该是意识流的总结（写在「总结」部分），以书中的要点为指导，你要么在旁边写一个大 * 号，要么在空白处手写出来。我在那些原文的文本注释前面加一个箭头（=>）来区分我自己的理解笔记。我用引号来表示作者与我想法不合的地方。你可以添加章节标题和偶尔的页码，以便在需要时从你的笔记中找到书中的相关章节。
+
+>  「这些富得流油的民主党人根本不鸟平等问题，除非选举年到了，要把平等问题当作口号」（P92）。
+>  
+> => 这是非常绝对的声明——他是怎么知道的？
+除了写摘要之外，你还应该：
+
+ 将所有好的引用（在书中用 lol 标记的）添加到「引言」部分
+ 
+ 在 Anki 中把每个要记住的要点（用 Q 标记）添加到抽认卡中
+ 
+ 在「问题」部分添加每一个研究点（用「?」标记）
+ 
+
+![](https://pic3.zhimg.com/v2-9119a12acce9399b7ee42995dbae61b6_1440w.jpg)
+在这之后，回到你的「问题」列表，研究每一个问题并制作更多的闪卡。如果你觉得很感动，那么你可以在「思考」部分用意识流来结束你对这本书的总体反应。我还喜欢把「引言」列表复制到一个漂亮片段的主列表中，并注明它们来自哪里。
+
+> 每个人都应该在手边放上一堆格言——你永远不知道什么时候会用到。
+> 
+> —— Robert Heaton
+
+![](https://pic2.zhimg.com/v2-4ff103ad1e6409436c8b2e0dab6191b3_1440w.jpg)
+## 结论
+
+如果你遵循这个过程并坚持复习你的抽认卡，你会记住更多你所读的内容。你还可以找到其他方法来增加重复次数。找一些人和他们讲讲你所学习的东西。如果我的经历可以作为参考，那么我的妻子会非常乐意与你交谈，特别是如果你记得她父亲的生日。如果你能对一本书说出一些连贯的话，就写一篇评论。如果一本书足够好，那么一年后再读一遍（我没有经常这样做）。
+
+另一方面，如果一本书很无聊或很肤浅，那么就不必再花时间了。如果你决定不在乎记住任何你刚读过的东西，就不要费心写了，直接去读更好的书。如果你想把一本书作为「一般常识」来读，而不花太多时间在上面，那么我觉得也没有问题，但我觉得你有点自欺欺人。我每周会听几个小时的播客。如果我记得播客中一个参议员的名字，以及听某个我不记得名字的女人描述的马来西亚经济的大致状况，我就觉得很好。但我对此无所谓——我喜欢主持人的声音，也许毕竟有「一般常识」这回事。
+
+我确实认为，最重要的是对自己诚实。如果你读书纯粹是为了好玩，那就尽可能多地去玩，不要回头看。但如果你是为了知识而读书，请注意这是完全不同的事情。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制 
+> 题图 by nyanbabubabu 
+> 原文：[How to read | Robert Heaton](https://link.zhihu.com/?target=https%3A//robertheaton.com/2018/06/25/how-to-read/) 
+> 2018 年 6 月 25 日
+
+
+---
+
+
+<!-- 源文件: 【重新发布】SuperMemo 18 中文懒人包.md -->
+
+# 【重新发布】SuperMemo 18 中文懒人包
+
+> [原文链接](https://zhuanlan.zhihu.com/p/444110498)
+
+## 版权声明⚠️
+
+目前已经从懒人包中清除了方正字体和 SuperMemo 密钥，希望大家支持正版。
+
+## 简介
+
+本项目旨在提供开箱即用的 SuperMemo 18 程序，方便学习者快速上手 SuperMemo 和渐进阅读。
+
+## 鸣谢
+
+感谢 [@外接式赛博格](https://www.zhihu.com/people/0a95419f5dafdedf6ba306df39df7210)帮忙调整默认设置，以及添加预设语言学习模板。
+
+## 下载
+
+### GitHub
+
+[https://github.com/L-M-Sherlock/sm18-lazy-package/releases/](https://link.zhihu.com/?target=https%3A//github.com/L-M-Sherlock/sm18-lazy-package/releases/)### 百度网盘
+
+链接：[https://pan.baidu.com/s/1deK5w_zfwUhS7oLJ0jF0qQ](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1deK5w_zfwUhS7oLJ0jF0qQ) 
+
+提取码：cw8t 
+
+## 使用方法
+
+解压后得到三个文件夹
+
+![](https://pic2.zhimg.com/v2-8fc6e43b067512a847288a7a500a56c7_1440w.jpg)
+先打开字体文件夹安装里面的两个字体。
+
+然后打开 sm18 文件夹，运行 sm18.exe 开箱即用。
+
+Quicker 文件夹中有相关的动作推荐，仅供参考。
+
+## 特色
+
+本懒人包实现了：
+
+界面完全汉化
+教程完全汉化
+修改默认主题
+修改启动画面
+预设护眼样式
+关闭巩固练习
+关闭算法提醒
+开启自动推迟
+开启按钮提示
+开启模板自动应用
+添加语言学习模板
+添加TODO概念组
+添加Quicker动作推荐列表
+
+## 预览
+
+![](https://pic3.zhimg.com/v2-e17aa2c7a6935f744967ad7bd002161a_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-fad8816b2d4daaadddb1dd7bea0e7dae_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-1716718068d1687e44b853b1f2d06076_1440w.jpg)
+
+![](https://pic1.zhimg.com/v2-5bdfbdd32ac32d13a51b4848f3d2bdf4_1440w.jpg)
+欢迎各位反馈意见或建议。
+
+
+---
+
+
+<!-- 源文件: 渐进阅读懒人样式.md -->
+
+# 渐进阅读懒人样式
+
+> [原文链接](https://zhuanlan.zhihu.com/p/318653942)
+
+## 声明
+
+渐进阅读没有太复杂的地方，我们在渐进中的所有操作只为了尽可能好地做到以下两点：
+
+理解
+记忆
+理解要求我们选择合适的阅读材料，进行适当的拆分[1]和改写[2]，建立连贯[3]的知识结构；记忆要求我们将理解的内容表述得简洁、易记[4]，并科学地复习，在知识间产生丰富的联想。
+
+当然，这两点说起来简单，做起来难。这并不像软件操作那样一学就会，而是需要大量实践才能逐步提高。沃兹博士[5]写了大量关于理解和记忆的学说和方法，实践这些学说和方法才是核心。
+
+我写了以上两百多字的偏题内容，只是想强调一下本文的目的：为了更好地渐进阅读。SuperMemo 已经成为我的主力阅读器，本文将分享我的阅读样式以及快速统一格式的操作。
+
+我的阅读样式不以美观为目标，而是以最佳的可读性和舒适度为目标，方便大家长时间渐进阅读。而我分享的操作，也是为了尽可能在调整格式上省时间，以便大家专注于学习本身。切忌成为样式上的完美主义，而要做学习上的完美主义[6]。
+
+建议大家采用我的样式和操作之后不要再继续折腾这些东西，而要把精力放到渐进的「核心环节」——阅读、提取、改写、挖空、复习、优先级——之上
+
+好了，不偏题了，咋们开始讲正事吧！
+
+## 准备工作
+
+确保已经阅读前文并开始导入一些文本内容，开始实践渐进阅读。
+
+建议先下载好 Quicker、Notepad++，之后一键调整格式需要用到。
+
+## 全局样式与布局
+
+SuperMemo 会对没有自带样式的内容（比如你是从文本编辑器里复制到 SuperMemo 里的）自动应用全局样式。
+
+全局样式的文件在路径「 你安装的位置\sm18\bin」下。主要有两个文件：「supermemo.css」和「layout.ini」。
+
+![](https://pic4.zhimg.com/v2-e9a7f47dbe2b95ce49c1c1d7ffeb6181_1440w.jpg)
+
+supermemo.css 就是所有卡片的默认样式了，涉及卡片内容的字体、字号、背景颜色、字体颜色等等。
+
+![](https://pic1.zhimg.com/v2-a461341c5d5486f19af9034bbbcda2a4_1440w.jpg)
+
+layout.ini 是 SuperMemo 的各窗口布局，比如卡片窗口的位置和大小、知识树窗口的位置和大小等等。
+
+![](https://pic3.zhimg.com/v2-aa1079f5f197fc25de600447dbc0c368_1440w.jpg)
+
+这里建议直接使用我的样式和布局文件，覆盖一下原来的文件即可。字体文件则需要打开安装：
+
+![](https://pic3.zhimg.com/v2-65f4ef558b93b448e14566446b829f60_1440w.jpg)
+
+下载地址：
+
+[https://pan.baidu.com/s/1u4x0neKhDA1MoWn5hpIo-Q](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1u4x0neKhDA1MoWn5hpIo-Q)提取码：xsv1 
+
+## 主题
+
+我用的主题是 TabletDark：
+
+![](https://pic2.zhimg.com/v2-67115679bccb96702f826e223e9aac17_1440w.jpg)
+
+请到菜单栏-Window-Themes 设置：
+
+![](https://pic1.zhimg.com/v2-e5dde3beaac5b8f9a8fc1a7b6dd33654_1440w.jpg)
+## 效果预览
+
+摘抄
+
+![](https://pic2.zhimg.com/v2-86d8e6ecf4b5aca1fb0492cdfdb55975_1440w.jpg)
+
+挖空和参考
+
+![](https://pica.zhimg.com/v2-b6abf04e58f456610c96c7562bcb09ce_1440w.jpg)
+
+注意：由于 layout 与屏幕分辨率有关，大家用我的 layout 可能出现窗口高度太小的情况，请自行拉伸，并点击 window》layout》save custom layout 保存布局：
+
+![](https://pic4.zhimg.com/v2-ea4fc4c99ee37ef89800ce603ce2c979_1440w.jpg)
+
+补充：如果发现字体边缘有锯齿感，请右键 sm18.exe，兼容性》更改高 DPI 设置，将高 DPI 缩放替代打开，选择**应用程序**即可。（2021/11/01 更新）
+
+![](https://pic4.zhimg.com/v2-6dbc397af3330378cf03b83cbc98210d_1440w.jpg)
+## 统一格式
+
+由于我们经常会从网页中复制内容到 SuperMemo，而这些内容通常来说都是自带样式的。
+
+为了尽可能让大部分内容的样式保持一致，我们需要去除这些样式，让全局样式发挥作用。
+
+SuperMemo 自带的格式清除功能的快捷键是 Shift+Ctrl+F12。
+
+但是这个功能有时候并不能完全去除格式。为此我写了一个 Quicker 动作，大家只需要按照下面链接中的步骤进行设置即可。
+
+[统一格式 - 已分享的动作 - Quicker](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3D859bda04-fe78-4385-1b37-08d88a0dba1c)
+
+效果：
+
+![](https://pic1.zhimg.com/v2-5e68c73200991efede80cdf53d11f566_1440w.gif)
+## 结语
+
+结合本文和[上一期文章](https://zhuanlan.zhihu.com/p/313684185)，大家已经可以在 SuperMemo 中较为顺利地进行渐进阅读了。
+
+下一期可能会介绍如何批量导入阅读材料，但是建议读者先用好手头的工具，渐进阅读几篇在自己收藏夹里吃灰的文章，再开始处理大量阅读材料。入门渐进阅读，也应该是渐进的[7]。
+
+
+---
+
+
+<!-- 源文件: 渐进摘录处理的原因(I)：更好的元记忆判断.md -->
+
+# 渐进摘录处理的原因(I)：更好的元记忆判断
+
+> [原文链接](https://zhuanlan.zhihu.com/p/352763959)
+
+> 原文：[MasterHowToLearn - Reasons for Incremental Extract Processing (I): Superior Metamemory Judgments](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2019-07-17-reasons-for-incremental-extract-processing/)
+这篇文章是关于我介绍的[渐进摘录处理](https://zhuanlan.zhihu.com/p/352611888)[1]背后的基本原理。我把原因从那篇文章中分离出来，因为我不认为每个人都有兴趣知道为什么，他们只对怎么样做和是什么感兴趣。在本文中，我将进一步阐述渐进摘录处理的第一个好处。
+
+太长不看：当你刚做了一张摘录卡片时，你对如何处理它没有准确和足够的元记忆判断。如果你立即处理摘录卡，你将倾向于犯错误，比如挖了太多的空。这也剥夺了你通过渐进摘录处理获得的间隔重复的好处和更好的填空/问答卡片的机会。由于间隔重复的力量，在一段时间后，你将更好地知道如何处理摘录卡片。
+
+## **1. 通过间隔重复的力量改进元记忆判断**
+
+### **元记忆判断**
+
+摘自《元记忆与记忆手册》:
+
+> 元记忆是指人们对自己的学习和记忆过程的认识、监控和控制。
+
+![](https://pic4.zhimg.com/v2-d152308db251123f8ec75beb7b10770d_1440w.jpg)
+## **处理**摘录**卡片过程中的元记忆判断**
+
+不管你是否意识到，所有这些元记忆判断和控制过程基本上都是你如何处理摘录卡片的潜在思维过程。例如：
+
+易学性(EOL)判断：如果你认为一个题目容易学，那么你就会少挖空，或者不值得做问答卡片。
+
+学习判断和知觉(FOK)判断：如何给卡片打分。
+
+加工种类选择：是加工摘录卡片，还是做填空卡片或问答卡片。
+
+这些思维过程体现在这些行动中：
+
+A. 搁置：
+
+> “我原以为它很重要，但现在当我重读它时，我却不这么认为。”
+> 
+> 虽然它还没有重要到需要进一步处理的程度，但能再读一遍还是很不错的。现在我已经读过了，我将搁置它。”
+B. 重写它，用你自己的话总结，以后再看张摘录卡片：
+
+> “我知道这件事很重要，需要进一步处理，但目前我不知道如何才能最好地这样做。”
+C. 将其转换为填空/问答卡片：
+
+> “这很重要，我对该怎么做有明确的想法。”
+你对如何处理它的决定在很大程度上取决于元记忆判断。这些操作极大地影响了你的学习质量和效率。
+
+## **关于劣质元记忆判断的问题**
+
+### **缺乏足够的信息来做出正确的决策**
+
+最初，你做摘录是因为“它看起来很重要”。然而，在什么程度上(填空/问答卡片的数量)和什么格式(填空/问答/两者)上，大多是模糊的。你不能明智地决定如何处理摘录卡片，因为你缺乏确定它的清晰度和相关信息。换句话说，你不知道摘录卡片(或一般情况下，整篇文章)是否足够好，不知道如何处理它。
+
+在这种情况下，如果你立即处理摘录卡片，则往往会出错。例如，如果是一张你应该搁置的摘录卡片，但你却做了两个填空卡片；你可能在当时不知道的情况下，当它对你来说实际上非常重要的时候，你已经搁置了它。随着元记忆判断质量的降低，以及所有认知偏见的歪曲，由此产生的填空/问答卡片远远不是最优的。
+
+## **过早创建填空/问答卡片带来的心理屏障**
+
+一旦摘录卡片转换成填空/问答卡片，它就几乎定稿了。当然，你仍然可以修改它。但对我来说，它已经跨过了“做完”的心理门槛：
+
+如果是摘录卡片，我需要进一步处理：理解它，缩短它，提供上下文提示等等。自然而然的行动过程是修改。
+
+如果是填空/问答卡片，主要的焦点是回忆答案。自然而然的行动过程是回忆答案。
+
+因此，修改大多是在它变成填空/问答卡片之前完成的。我通常不会考虑是否应该搁置填空/问答卡片，但我考虑搁置摘录卡片。如果它足够重要，可以做成填空/问答卡片，我为什么要考虑搁置它呢？但我可能没有意识到的是，我的决定——把它变成填空/问答——从一开始就可能是歪曲和错误的。当过早地将摘录卡片变成填空/问答卡片时，我就会从劣质卡片中学习，甚至从一开始就不应该创建卡片。
+
+**由于对**摘录**卡片的理解不充分或远未达到最佳水平，所有随后产生的填空/问答卡片都只是不成熟的创作。**这就像污染的血统：后来生产的东西质量低劣。糟糕的摘录决策会产生糟糕的填空/问答卡片。然后你将从糟糕的填空/问答卡片中学习和记忆。
+
+## **解决方法：让时间流逝，即渐进**摘录**处理**
+
+渐进摘录处理本质上包括在间隔重复中：在一段时间内重复阅读相同的摘录正是间隔重复的定义。当你让时间流逝时，你将拥有更高质量的元记忆判断和控制过程。另一方面，处理摘录卡片会立即剥夺你间隔重复的好处。
+
+> 每次你重新思考结构和表述时，你都会磨练记忆中给定知识的表示和“连通性”。此外，随着学习的进行，你的优先级也会发生变化。有时，你会在一项很快变得无关紧要或过时的知识上过度投资。渐进方式将减少过度投资的影响。——渐进阅读
+### **像对待第一次约会一样对待**摘录**卡片**
+
+一张摘录卡片很像第一次约会。你无法决定是否要和这个人结婚，因为你缺乏相关的重要信息，无法做出良好的判断。你如何获得这些关键的信息？通过更好地了解这个人。摘录卡片也是如此。当你摘录的时候，你没有很好地把握你和它的关系，在更大的计划中，比如:
+
+> 我真的需要这件东西吗？在我(想要的)整个知识范围中，这个卡片诚实的优先顺序是什么？这个卡片很难记住吗？若有，原因为何？这是真实的吗？它是不是尽可能的简单明了呢？我真的需要现在就知道吗？你需要补充知识才能理解卡片的所有分支吗？——渐进阅读
+如果你想很好地处理摘录卡片，就需要让时间流逝，才能获得更多、更准确的元记忆判断。随着时间的推移，你会变得清晰，更清楚地知道该怎么做。
+
+**我的观点是，由于间隔重复的力量，在一段时间后，你将更高质量的元记忆判断和控制处理。**
+
+## **案例研究：两次被动复习就足够了**
+
+有些摘录卡片值得多读几遍，但不值得做成填空/问答卡片。
+
+例如，我从尤瓦尔·诺亚·哈拉里(Yuval Noah Harari)的21节课中摘录了以下关于冥想的内容：
+
+> 我不是首席执行官--我只是个守门人。我被要求站在我身体的入口处——鼻孔——只观察任何进出的东西。然而，过了一会儿，我就失去了注意力，离开了我的岗位。
+
+![](https://pic1.zhimg.com/v2-a514d3420727d73c1f330472057a2426_1440w.jpg)
+
+正如你所看到的，在一个月的时间里，我做了摘录卡片，重读了两遍，然后搁置了它。我不记得一开始我为什么要摘录它，可能是因为我喜欢这个比喻。我本可以把它做成填空或问答卡片，但我没有。如果我立即处理这张摘录卡片，我可能会做这样的问答：
+
+ 问：把注意力放在鼻孔上的比喻是什么？(有了参考资料，我会知道相关的上下文)
+ 答：做身体的守门人重读了两遍后，我觉得不值得进一步处理，所以就将其搁置了。在以后被动地复习摘录卡片时，即使我不把它变成填空/问答卡片，但我仍然可以通过间隔重复的方式再次阅读它，因此我仍然可以受益于再次阅读，从而更多地“记住”，或者至少，哪怕是一点点丰富记忆的痕迹。
+
+## **我以前的心态**
+
+我以前并没有意识到渐进摘录处理的好处。我有在渐进阅读时立即处理摘录的坏习惯。我的步骤：
+
+一边读一篇文章，一边做摘录。
+在进入下一个元素之前，如果我已经做了 4 个摘录卡片，我会把这 4 个摘录卡片变成填空卡片或(很少)问答卡片。
+我过去的想法是，我想要“完成”摘录卡片。我以为最终的结局是把摘录卡片变成一个填空/问答卡片。把这些段落“挂着”就像没有完成一项任务，所以为什么不马上去做呢?
+
+但现在我意识到这不是真的。当 SuperMemo 向我展示它时，我甚至可以将其搁置。如果我不搁置它，我甚至不用一口气处理一张摘录卡片。与其压缩时间跨度，不如反其道而行之：延长时间跨度，利用间隔效应的力量。时间允许我戴上一副新眼镜，以新的视角复习材料。随着时间的推移，在区分信号和噪声时所需的判断力会更好地揭示出来。
+
+让时间发挥它的魔力。
+
+## **结束语**
+
+在校对了这篇文章之后，我意识到这是相当复杂的。我试着在不丢失太多细节的情况下简化它。我希望这不会太让人困惑。
+
+
+---
+
+
+<!-- 源文件: 渐进学习专栏导读（SuperMemo 使用教程）.md -->
+
+# 渐进学习专栏导读（SuperMemo 使用教程）
+
+> [原文链接](https://zhuanlan.zhihu.com/p/374403541)
+
+## 更新
+
+已经将专栏重新编辑成电子书：
+
+[SuperMemo 渐进学习大型指北](https://link.zhihu.com/?target=https%3A//www.kancloud.cn/ankigaokao/incremental_learning)也可以下载到本地阅读（EPUB 体验比 PDF 好）：
+
+[SuperMemo 渐进学习大型指北 - 叶峻峣 - 20210918.epub](https://pan.baidu.com/link/zhihu/7whkzYuSh1iEdHJHhHU4IhdHZjWChXZQQfRH==)[SuperMemo 渐进学习大型指北-09171826.pdf](https://pan.baidu.com/link/zhihu/7RhFzWuahui1ar5kREVtV4YzS5axMmawZ2pn==)SuperMemo 下载：
+
+[叶峻峣：【重新发布】SuperMemo 18 中文懒人包](https://zhuanlan.zhihu.com/p/444110498)SuperMemo 视频介绍：
+
+[叶峻峣：【原稿】用 SuperMemo 打通阅读、理解与记忆](https://zhuanlan.zhihu.com/p/452546378)初次见面的朋友初次见面，好久不见的朋友好久不见，这里是周六放假也还在码字的学委叶哥（逃
+
+之前说过，渐进学习专栏想要走精华路线，降低文章数量，提高文章质量，不过现在专栏中已经有二十来篇文章了，有些读者朋友已经反馈有点看不过来。
+
+为了方便大家有选择地阅读自己想看的文章，这里开坑维护一个阅读目录，省得每次看文章还得把专栏从头拉到底。
+
+废话不多说，我将专栏里的文章划分为以下几个部分：
+
+## **渐进学习是什么？**
+
+高中生视角：《[传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。](https://zhuanlan.zhihu.com/p/56048163)》
+
+程序员视角：《[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)](https://zhuanlan.zhihu.com/p/307996163)》
+
+心理学视角：SuperMemo 中渐进阅读的意义：《[第一部分](https://zhuanlan.zhihu.com/p/322497441)》 + 《[第二部分](https://zhuanlan.zhihu.com/p/322584755)》
+
+## **为什么渐进学习？**
+
+为什么从 Anki 转 SuperMemo：《[在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo](https://zhuanlan.zhihu.com/p/279553703)》
+
+为什么从传统笔记转 SuperMemo：《[为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote)](https://zhuanlan.zhihu.com/p/352176551)》
+
+SuperMemo 解决了哪些问题：《[SuperMemo 的三大模块，解决记忆的三大问题！](https://zhuanlan.zhihu.com/p/369881954)》
+
+## **入门渐进学习**
+
+基本概念与操作：《[渐进阅读基本概念与操作介绍](https://zhuanlan.zhihu.com/p/313684185)》
+
+样式统一：《[渐进阅读懒人样式](https://zhuanlan.zhihu.com/p/318653942)》
+
+导入材料：《[渐进阅读材料导入与预处理](https://zhuanlan.zhihu.com/p/321701995)》
+
+做好备份：《[SuperMemo 自动备份](https://zhuanlan.zhihu.com/p/351606263)》
+
+工作流示范：《[示范：我的渐进阅读工作流程](https://zhuanlan.zhihu.com/p/322673517)》
+
+## **更进一步**
+
+怎样选择渐进学习的材料：《[渐进学习之信息摄入指北（上）：理论篇](https://zhuanlan.zhihu.com/p/365604007)》
+
+做好摘录卡片后该做什么，以及为什么这样做：《[在渐进阅读中，创建摘录卡片后该做什么？](https://zhuanlan.zhihu.com/p/352611888)》 + 《[渐进摘录处理的原因(I)：更好的元记忆判断](https://zhuanlan.zhihu.com/p/352763959)》
+
+怎样最方便地添加卡片和管理概念组：《[渐进阅读概念组最佳实践](https://zhuanlan.zhihu.com/p/360355624)》
+
+为什么用优先级，怎样用：《[卡片刷不完？拥抱优先级！](https://zhuanlan.zhihu.com/p/364351955)》
+
+知识树怎么用？神经复习是什么？《[SuperMemo 知识树与神经复习](https://zhuanlan.zhihu.com/p/364622932)》
+
+链接和概念？渐进写作？《[supermemo【知识树】【概念】和【链接】的作用和使用](https://zhuanlan.zhihu.com/p/377680572)》
+
+## **奇淫巧技**
+
+《[QuickerMemo：以思考的速度渐进学习](https://zhuanlan.zhihu.com/p/374212495)》
+
+《[怎样将Anki牌组（deck）导入到SuperMemo（anki2sm使用方法）](https://zhuanlan.zhihu.com/p/325966893)》
+
+《[怎样使用SuperMemo插件SuperMemo Assistant（SMA使用指南）](https://zhuanlan.zhihu.com/p/328137848)》
+
+《[SuperMemo之ImageOcclusionEditor插件安装教程](https://zhuanlan.zhihu.com/p/326168555)》
+
+《[SuperMemo: 知识树快转思维导图](https://zhuanlan.zhihu.com/p/368976134)》
+
+《[SuperMemo包容万物：SM图片快速遮挡保姆级教程](https://zhuanlan.zhihu.com/p/377280556)》
+
+## **其他**
+
+《[简评 Dendro：极简渐进阅读 web 应用](https://zhuanlan.zhihu.com/p/373005210)》
+
+## **结语**
+
+以上就是本专栏的导读指引，希望对大家有所帮助，接下来来点友情链接：
+
+官方文档的中文翻译，超级详细：
+
+[帮助文档 · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki)提高制卡能力，千万不要错过：
+
+[制卡原则与知识表述](https://www.zhihu.com/collection/614280525)学习一定一定要让自己快乐：
+
+[普通人怎么才会像打游戏一样爱上学习？](https://www.zhihu.com/question/429432467/answer/1578551193)Telegram 订阅频道：
+
+[https://t.me/anki_keeper](https://link.zhihu.com/?target=https%3A//t.me/anki_keeper)QQ 交流频道：
+
+[QQ频道【高效学习的间隔重复】](https://link.zhihu.com/?target=https%3A//qun.qq.com/qqweb/qunpro/share%3F_wv%3D3%26_wwv%3D128%26inviteCode%3D1qJTCn%26from%3D181074%26biz%3Dka%26shareSource%3D5)感谢各位的支持！
+
+2021 年 5 月 22 日
+
+叶峻峣
+
+
+---
+
+
+<!-- 源文件: 传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。.md -->
+
+# 传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。
+
+> [原文链接](https://zhuanlan.zhihu.com/p/56048163)
+
+## **引子**
+
+许多读者都问我，该怎样制卡，我也写过挺多相关的文章。但是后来发现，实际上问题并不在此。
+
+为什么？难道不是因为不会制卡吗？我原来是这么想的，后来终于明白，其实读者真正**困惑**的是：
+
+## **哪些材料需要制卡？**
+
+这个问题我思考了很久，一直难以用言语表述。直到我在大学的第一年试着全用 Anki 来学习后，才有了较为明确的答案。
+
+可能有些只是对 Anki 有所了解，却没有自己做过卡的读者会说：这个问题还用问？当然是教科书/教辅/错题啊。
+
+然而，面对这些材料上的大量文字，初次尝试自己制卡的读者往往会无从下手。
+
+这里我先给出我的回答：
+
+## **没有标准答案！**
+
+什么？那这篇文章说个啥？等等，你这前面写的一大堆跟标题一点关系也没有啊！
+
+不要着急，没有标准答案并不妨碍每一位读者找到自己需要制作成卡片的材料。在此，标题内容正式引入。
+
+**划重点**、**记笔记**、**做练习**，这或许是每一位高中读者都用过传统学习方法。
+
+其实我们真正要制成卡片的，就是来源于传统学习中得到的知识。
+
+A. 根据**老师**授课时**强调**的内容和**自己**的**理解**，**划**出书上的**重点**，这就是对学习材料的初步**收集**（有时候老师还会补充书上没有的，直接转 B 记笔记）
+B. 将重点内容改写提炼，变成**笔记**，这是将文字背后的知识进行初步的**提炼**
+C. 做对应的**练习**，逐步发现自己知识的漏洞，从而继续**收集**、继续**提炼**，形成一个知识迭代的闭环。
+
+在传统学习中，这看似没有什么问题，但是很快我们就会发现，曾经收集、提炼的知识变的陌生。这时候，传统学习的解决办法有很多，比如**重新**看重点、看笔记、看错题等等。
+
+以上三种方法的问题，就是[被动复习](https://zhuanlan.zhihu.com/p/57113246)和非[间隔重复](https://zhuanlan.zhihu.com/p/57020308)，这里不再赘述。
+
+刷更多的题也是一种传统解决方法，其解决了被动复习的问题，但是对非间隔重复还是束手无策（除非老师的经验非常丰富，并且材料也很有针对性，读者的掌握程度也较高）。
+
+所以这时候就可以请 Anki 出场了。具体做法是，每次完成 ABC 后就进行制卡，材料是自己的笔记，而制卡指导则是练习。即：
+
+D. 将自己的笔记进行设问或者挖空。而设问的**角度**和挖空的**关键词**，则参考练习的考查角度。
+
+由于有了练习作为指导，我们能够信心满满地确定需要制卡的笔记范围（当然，也有可能发现要增加划的重点和记的笔记），并且对卡片内容的理解也更加深刻。（记得参考[制卡 20 原则](https://zhuanlan.zhihu.com/p/52369009)）
+
+这样一来，Anki 就无缝对接了传统学习，并且解决了复习问题，极大的增强了学习的效率。
+
+好吧，既然你都给出了方法，为什么还说没有标准答案呢？
+
+因为 ABCD 的每个环节都极具个人特色！更不用说如果我们把不同学科的学习 ABCD [穿插在一起](https://zhuanlan.zhihu.com/p/57139724)，还能进一步提高学习效果。
+
+到此，伏笔已收，可以结题了，但是我还想多讲讲怎样在此基础上更进一步。
+
+> **⚠警告：下文需要有 Anki 使用经验才能较好地理解**
+## **灵活学习 ABCD**
+
+先说说 ABCD 和学校教学进度的关系。这里读者很可能会犯的错误是，根据学校的学习进度，对每次学习的内容进行一次 ABCD 。
+
+问题出在哪？有谁发现了吗？真正尝试这么做的人可能会发现问题。那就是很难一气呵成的做完 ABCD ！
+
+划重点需要时间理解
+
+记笔记需要时间理解
+
+做练习需要时间理解
+
+更不用说做完练习后发现，前面的 A 和 B 没做好，需要补充/改进/精简。
+
+那怎么办呢？我的个人经验是，睡一觉，再做 D。要问我有什么科学依据，那就是睡觉有助于抽象记忆，也就是可以释放我们对文本措辞的记忆，这对我们继续多角度设问和确定挖空关键词有很大的帮助。（所以一定要睡好）
+
+除此之外，还有一个问题。而且在理科上特别突出。
+
+想到了吗？问题出在 ABCD 不是每一步都要按顺序来！我相信很多人会有这么一种体验，在学后面的章节时，突然对前面的知识有了新的理解，找到了新的重点、新的关系、新的角度、新的知识（特别是如果你有好好复习，把之前的知识都记住了）
+
+这时候完全可以去做
+
+A. 把重点划一下
+B. 把想法记录下来（或者改进之前的笔记）
+C. 试试新角度
+D. 制卡
+
+所以 ABCD 是非常灵活的，这也是为什么没有标准答案的原因。
+
+最后，再引进 SuperMemo 的[渐进学习](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/incremental_learning)
+
+> **⚠警告：下文内容过于 hardcore**
+## **渐进学习 ABCD**
+
+其实对熟悉 Anki 的人来说，渐进学习没有太多新奇的地方。说句大白话，渐进学习就是把间隔重复也运用到学习过程（即不限于复习）
+
+为什么这么做呢？举个栗子来说：
+
+看到一篇文章，不是很理解，但是应该很重要，我需要安排一下，先掌握一下前置知识，再划这篇的重点；
+
+好的，这里我们需要安排做 A 的时间，继续；
+
+划了好多重点，但是目前我还没有头绪来提炼笔记，我得安排一下，先看看其它重点/做点题/复习前面的内容；
+
+好的，这里我们该安排做 B 的时间；
+
+这道题没有头绪啊。。。。（明天得交，还是得做）；
+
+行吧，这个安排不了了（自己刷题还是能安排一下 C 的），下一个；
+
+emmm，还是不会做卡片；
+
+安排一下做 D 的时间。
+
+如果我们学的速度不太快，材料不太多，我们还能安排得过来，但是一旦材料过多，处理过载，ABCD 就很难不遗漏。
+
+而渐进学习则能把 ABCD 都用间隔重复来安排，依然是举栗环节：
+
+先把要学的文章一股脑全部放进 SuperMemo，变成一张张文章卡片；
+
+开始学习这些文章卡片，我们阅读并划重点，每一条重点都会形成新的重点卡片；
+
+遇到重点卡片时，我们可以进行改写提炼，变成笔记卡片（其实文章卡片、重点卡片还有笔记卡片都是一样的，纯文本卡片，没有问答也没有填空）；
+
+然后继续，直到我们将某张文本卡片拿来设问或者挖空时，SuperMemo 的间隔重复队列中就有了 Anki 中常见的 Basic/Cloze 卡片了；
+
+文本卡片依然会按照算法出现，不过我们可以设置优先级或者直接暂停/删除，到最后只留下Basic/Cloze 卡片。
+
+听起来是不是非常有诱惑力？不过我建议还是不要去研究能够实现这个渐进学习的 SuperMemo 了，能做好日常的 ABCD 即可，然后学习一下这个方法的精神，在课本/笔记/练习/卡片上做一些标记来帮助自己安排进一步的处理即可（锦上添花）。并且这个流程我也在自我实验中，形成成熟的方法后再与大家分享。
+
+谢谢阅读，希望对你有所帮助。
+
+## 更新
+
+2021年5月7日，翻看着老文章的我，发现当年被SuperMemo劝退后的自己竟然还写过这些内容，不由得有些感慨。
+
+现在SuperMemo是我的主力学习工具，渐进学习的相关知识也成了我的科普方向。
+
+对渐进学习感兴趣的读者朋友们，不妨可以看看这篇文章：[在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo](https://zhuanlan.zhihu.com/p/279553703)，说不定，你也会想试试SuperMemo 
+
+## **彩蛋**
+
+Basic
+正面：ABCD 是否构成完整回路？
+反面：还有个 E 啦！
+
+Cloze
+正面：E 是[…]
+Hint：可以在评论区给出你的答案哦
+
+
+---
+
+
+<!-- 源文件: 为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote).md -->
+
+# 为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote)
+
+> [原文链接](https://zhuanlan.zhihu.com/p/352176551)
+
+> 原文：[MasterHowToLearn - Why SuperMemo Trashes Any Note-taking System (Including OneNote and Evernote)](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-%28including-onenote-and-evernote%29/)
+太长不看：
+
+OneNote/Evernote：单向交互：你可以查找和阅读信息（即你的笔记），软件相当于本地搜索引擎, 可以用于整理索引信息
+
+SuperMemo：双向交互：信息找到你；你把信息转化成知识
+
+注意：如果对你而言，笔记系统的用途只是名为知识管理的笔记存储，那么这样比较并不公平。然而，如果你不止步于此，而且还希望能有助于学习（我认为应该是这样），那么 SuperMemo 比任何笔记系统强得不在一个数量级上。请继续读下去。
+
+## **任何笔记系统的预期用途(摘要、高亮和重新阅读)**
+
+参见另一个类似的讨论：[为什么学习的同时不该记笔记！—— 三个致命的原因](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2019-08-29-3-fatal-reasons-why-you-shouldnt-be-taking-notes-when-studying/)[1]
+
+两种典型使用场景：
+
+你在读课程要求的书。你在 OneNote/Evernote 中写下提要。做完笔记后，你在考试前（下个星期或一个月）「频繁」重新阅读。
+
+另一场景：你为你读的每一本书做笔记。你有一个你这些年读过的所有书的笔记集合。你经常或「偶尔」回顾它们。
+
+*有什么问题吗？*
+
+## **任何笔记系统中的两个关键缺陷**
+
+上述两种情景包含两个步骤：
+
+创建笔记（通过总结和高亮）
+复习笔记（通过重新阅读）
+### **1. 创建笔记**
+
+请参阅下表。摘要和高亮是低效的。
+
+### **2. 复习笔记**
+
+### **I. 重新阅读是低效的**
+
+![](https://pic3.zhimg.com/v2-d771c01dbb240a592813066904a734ae_1440w.jpg)
+图片来源：[Improving Students’ Learning With Effective Learning Techniques](https://link.zhihu.com/?target=https%3A//www.researchgate.net/publication/258180568_Improving_Students)
+
+### **II. 不可持续的复习计划**
+
+从长远来看，「经常复习」是不可持续的。随着你的笔记越来越多，重读笔记的计划不可能持续。当然，大多数人没有意识到复习笔记的必要。即使他们有意识，在大多数情况下也「两到三次」（一年内吗？）。他们没有复习安排系统。
+
+例如，你的「图书笔记」集合中有 30 本书，你打算什么时候重新阅读每个读书笔记？如果你是一个专心致志的学习者，如果没有复习安排系统，你不得不手动跟踪所有的复习安排。也许你会提醒自己（通过一些日历通知）重新阅读你的读书笔记。因为「不定期复习」意味着不止一次，比如 3 次：30 本书 x 3 次 = 90 次日历事件。这相当于实现一个纸笔版[莱特纳系统](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Leitner_system)：你怎么能维护 10,000 张纸质抽认卡？笔记越多，这项工作越繁重而难以企及。在大多数情况下，你所有的笔记一经创建便只是在积灰（数字灰尘）。
+
+在「[为什么 Obsidian 将超越 Roam](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D_x54XJrECvk)」（[6:12]）视频中，他说：「Evernote 让我肆无忌惮地囤积内容，草率地收集别人的思考。」
+
+> 同样的道理也适用于书签管理。我们偶然发现了一个有趣的网页，不想错过信息，所以我们留下书签。这一堆数字书签，和一堆感觉值得了解的论文，没什么不同。不过，在这里，保存的内容也没有被阅读。——[收藏家的谬论](https://link.zhihu.com/?target=https%3A//zettelkasten.de/posts/collectors-fallacy/)
+[奥利·洛维尔](https://link.zhihu.com/?target=https%3A//www.ollielovell.com/ollielearns/spaced-repetition-incremental-reading-anki-dendro/)是这样说的：
+
+> 最初，我会在 Word 文档中做笔记，但我再也不重温它们了。然后我在谷歌文档中制作了它们，但我再也不会再次访问它们了。然后我在 Evernote 制作了它们，但我再也不会去看它们了。最近，我把笔记写成邮件发给自己。这个方法稍微好一点，但我仍然面对繁重琐碎的工作：重温我在某次会议中做的大量笔记，点进所有链接，并为有价值的部分制作 Anki 卡片（通常在记忆之前没有深入学习）。
+因此，通过摘要和高亮来创建笔记是无效的（#1）。通过重新阅读复习笔记也是无效的（#2.1），同时也是不可维护，不可持续的（#2.2）。因此，任何笔记系统提供的价值都很小，而且大部分都是徒劳无功。在大多数情况下，任何笔记系统都只是这样：一堆有组织的笔记。
+
+## **任何笔记系统 vs SuperMemo**
+
+何时复习（手动 vs 自动）
+交互程度（被动 vs 主动）
+做笔记的目标（本身就是目的 vs 抽认卡的起点）
+### **1. 何时复习**
+
+**安排复习时间：**
+
+**任何笔记系统：手动查找信息来复习。但这带来了元判断的问题：**
+
+> 你怎么知道什么时候应该复习笔记呢？
+你不知道。我们不知道什么是我们不知道的，什么是我们需要知道的。格温的《[有效学习的间隔重复](https://link.zhihu.com/?target=https%3A//www.gwern.net/Spaced-repetition)[2]》一文精辟地描述了这一悖论：
+
+> 我们很难知道什么时候应该复习——最好的时机是将忘未忘的时候。但这就是症结：如果你即将忘记它，你应该怎么记得要复习它呢？你只记得要复习你知道的内容，但你已经知道的内容又不需要复习！
+**SuperMemo：自动安排复习（分散练习）：基于[优先级队列](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Priority_queue)和反馈给出所需信息的算法**
+
+分散练习意味着明确的复习安排：对于一份读书笔记，在之后的几周或几月内安排多次复习。分散练习只关心**何时**，而不是**如何**。换句话说，即使你没有任何「抽认卡-回忆」，没有主动回忆，SuperMemo 也会安排你的每个读书笔记在未来几周或几个月后重新阅读。这避免了上面的「不可持续的手动复习安排」问题。
+
+被动：有一个书签网站列表或一个似乎没完没了的阅读清单。
+
+主动：将它们导入到 SuperMemo 中，这样它们就可以在将来展示自己。
+
+**在任何笔记系统中，你都必须寻找信息。在 SuperMemo 中，信息会寻找你。**
+
+![](https://pica.zhimg.com/v2-a6b86dcce003822df2af4e9cdc6efa7c_1440w.jpg)
+*我读了一篇一年前我导入 SuperMemo 的文章。*
+
+### **2. 交互（被动 vs 主动）**
+
+**任何笔记系统：被动交互**
+
+正如我在上面的「任何笔记系统中的两个关键缺陷」中提到的：摘要不是被动的，而高亮和重新阅读是被动的。
+
+在笔记系统中，你不会主动维护你的信息。你不会用它进行主动回忆。大多数情况下，你不会重写、扩展、详述或修改内容，只有一摊静止的数字化笔记。
+
+**SuperMemo：主动交互**
+
+在 SuperMemo 中，你有一个待办的队列。 可以将其视为一条传送带：你会收到很多信息。 他们来找你。 对于每条信息，你都必须积极维护：
+
+对于摘抄卡片（文章）[渐进阅读]：
+
+通过点击 Next 忽略它（即，另一个时间再读）
+删除它（不再需要）
+阅读后决定：
+
+摘抄重要信息
+如果你还没读完，设置阅读点（Ctrl + F7）
+
+对于问答卡片（抽认卡）：
+
+回忆答案，并提供反馈评分：
+回忆失败：（自动安排重试）
+回忆成功：SuperMemo 将其安排在未来数周、数月或数年之后
+重新措辞、精简、删除不必要的内容
+删除它
+你有没有看到你与 SuperMemo 的交互比笔记系统多了多少？也许你可以在笔记系统中手动做这些，但这不是「标准实践的一部分」，关键的缺陷是缺乏复习安排系统。正如我在上面提到的，典型的案例是「摘要并重新阅读一次或两次」。
+
+任何笔记系统：你对它做点什么。SuperMemo：你和它打成一片。
+
+附注：Anki 介于笔记系统和 SuperMemo 之间：
+
+Anki 有主动回忆卡片的功能，但没有处理源材料/笔记（渐进阅读）的方法。如果没有源材料的安排算法（渐进阅读），你很可能会将所有笔记批量导入 Anki，然后一口气用它们制作抽认卡。
+
+### **3. 做笔记的目标（本身就是目的 vs 抽认卡的起点）**
+
+**任何笔记系统：本身就是目的：记笔记就是最终目标**
+
+**SuperMemo：进一步处理（变成抽认卡）**
+
+做笔记的最终目标不是要有一套精美的摘要、高亮和重新组织的笔记，以便以后被动地复习。如果你认为做笔记意味着「已经获得了知识」，那么你就会恍然大悟。例如，谷歌是一个庞大的信息图书馆，但访问知识并不意味着习得知识。出于同样的原因，你可以访问个性化材料……就是这样。这并不意味着你已经学会了。
+
+**如果做笔记不应该是最终目标，那么什么才是最终目标呢？**
+
+这是下一步的起点：将相关信息转化为可测试的材料（又名抽认卡）。你将所有信息分解成可测试的小块，以便自我测试。从这个角度来看，做笔记就为抽认卡收集信息。做笔记的目的应该是从中制作抽认卡。人们认为做笔记本身就是目的。不，这是下一步的手段：
+
+> 学习资源（讲座 PDF、教程视频、阅读材料）—>做笔记—>抽认卡
+> 渐进阅读：从源材料做笔记—>提取制卡
+### 做笔记就是选取相关信息
+
+就《[作为生成性活动的学习：促进理解的八个学习策略](https://link.zhihu.com/?target=https%3A//www.amazon.com/Learning-Generative-Activity-Strategies-Understanding/dp/1107069912)》中的 SOI 模型而言，做笔记主要是第一步，S：从感觉记忆中选取相关信息（从指导材料中，即你的学习材料）。
+
+![](https://pic4.zhimg.com/v2-bf9bb64dc1cb703d34621d1d353f99b7_1440w.jpg)
+做笔记只是用来记录你认为重要或相关的信息。例如，你在一次重要考试中所做的笔记将与你在休闲阅读中所做的笔记大不相同。你将如何处理捕获的信息则是另一回事。
+
+### **为什么是抽认卡？**
+
+再看看上表。抽认卡综合运用了**练习测试**（高效）、**分散练习**（高效）和交叉练习（中效）等学习策略，即这些策略的最佳实现方式是通过抽认卡；使用抽认卡的最佳方式是……你猜对了，是通过 SRS（SuperMemo/Anki）。
+
+### 在笔记系统中进行知识管理是白费功夫
+
+在使用 SuperMemo 之前，我使用的是 OneNote。我有文件夹、章节、笔记，有组织，有标记。这是我 2016 年 OneNote 的截图。这是我为《[认知天性](https://link.zhihu.com/?target=https%3A//www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)》做的笔记：
+
+![](https://pic1.zhimg.com/v2-7bd51e3f4bbd1881841a9ef0822c3eca_1440w.jpg)
+诚然，OneNote（或 Evernote）有许多 SuperMemo 没有的功能：同步、内置 OCR、现代美观的 UI 设计和界面、移动版本可以「随时随地查找和查看」。
+
+笔记系统中固然可以给你干净、详尽、细致分类、可即时搜索、标签加好的、组织有序的笔记，并可在 5 台设备上同步。然而，这些笔记几乎毫无用处，因为最关键要素缺失了，即间隔提取练习（上面讨论的三点），它。所有这些都只是花里胡哨，因为**重要的是你如何处理这些信息**。
+
+任何笔记系统都只是一堆可供书写的空白电子纸。他们本质上没有促进学习的功能：主动回忆，分散练习（安排稍后复习），与储存信息交互的反馈系统。如果没有与知识系统的丰富交互，你或多或少就只是为各种信息编制索引的人类谷歌，而这些信息并非知识。
+
+> 你在抨击任何不是 SuperMemo 的笔记系统。
+我认为它们都属于同一个类别（学习工具），所以这种比较并不是越界的（至少在我看来是这样）。SuperMemo 不仅仅是笔记系统，尽管如此，它也是笔记系统。此外，如果有一个最好的学习策略（这里有），那么任何不是这样的策略都是次优的。请回过头来参考上面的实用方法评估表：
+
+SuperMemo:
+
+练习测试: ✔
+
+分散练习: ✔
+
+交叉练习: ✔
+
+只有两种技术被评为高分，SuperMemo（或 Anki 就这一点而言）拥有这一点。
+
+## **结束语**
+
+至此，我意识到这次讨论体现了我们对学习的不同信念，这体现在我们使用的工具中：
+
+笔记系统：从原始材料中摘要和高亮；「偶尔」或「经常」重新阅读。
+
+间隔复习软件（SuperMemo/Anki）：提取练习（主动回忆）、分散练习、交叉练习
+
+我不是在抨击任何特定的笔记系统（OneNote 或 Evernote）。直截了当地说，我在抨击所有的笔记系统。只是做笔记的「标准做法」没有用，也没有效果。推而广之，支持这一目标的系统也不是很有用和有效。换句话说，SuperMemo 彻底改变了我思考学习、信息和知识的方式，以至于现在我认为任何笔记系统（OneNote 或 Evernote）都几乎毫无用处。
+
+
+---
+
+
+<!-- 源文件: 规划一个轻松的高效日.md -->
+
+# 规划一个轻松的高效日
+
+> [原文链接](https://zhuanlan.zhihu.com/p/574512601)
+
+## 1 计划出有创造力的一天
+
+在需要创造力的职业中，有一个强大的工具可以确保高效率和低压力：日程表。最好的创造者在他们的最佳创意时期采用[精心调整的日程表](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Darwin_intuitively_followed_the_natural_creativity_cycle)。这样的日程表必须始终根据[自然创造周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Natural_creativity_cycle)[1]进行完美调整，以达到最佳效果。日程表的可重复性使其很容易做出**小的**调整而产生**大的**后果。现代的生活方式可以被想象成在颠簸的道路上蜿蜒的旅行，经常发生交通堵塞，而创造性的生活方式更像是一枚火箭，在轨道上的细微调整可以确保稳定地驶向遥远的目标。[SuperMemo for Windows](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_for_Windows)[2] 包括一个被称为 [Plan](https://link.zhihu.com/?target=http%3A//help.supermemo.org/wiki/Plan) 的日程安排管理器。这个简单的日程安排管理器提供了一个逃离现代性混乱的机会。通过保护创造性的生活方式，**Plan** 对生产力和压力有着强大的影响。
+
+**Plan** 背后的一些大体的思路可以在没有电脑的情况下实现。如果你不想使用电脑或 [SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo)[2]，请阅读[自然创造周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Natural_creativity_cycle)[1]和/或[如何解决任何问题？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/How_to_solve_any_problem%253F)[3]两者都解释了如何运用[昼夜循环](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_cycle)的力量来实现最大的创造力。
+
+## 2 Plan 的魅力
+
+[SuperMemo](https://link.zhihu.com/?target=http%3A//help.supermemo.org/wiki/SuperMemo)[2] 中的选项 [Plan](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Plan) 具有**魔力**！许多用户认为它是多余的。很少有人尝试使用它。那些尝试过的人常常失败。那些坚持下来的人则承认：**Plan** 有魔力，**Plan** 让人上瘾。
+
+**Plan** 有一种不可思议的能力，可以把单调的生活变成源源不断的生产乐趣。**Plan** 将使一天中的哪怕是最后一个细节都被事无巨细地安排稳妥。它可能感觉像是用来设定机器人的，而不是人类的工具。那么，它是如何发挥其魔力的呢？
+
+要真正爱上 **Plan**，你必须是差不多半个效率狂魔。如果你喜欢学习、解决问题、打破记录或完成阶段目标，那么很有可能 **Plan** 会为你带来神奇的效果。它将在不影响你的精神或身体健康或幸福的情况下做到这一点。如果你喜欢高效的感觉，但又患有拖延症，那么计划带来的快乐可能会更大。
+
+**免责声明**：Plan 对我有效。我周围的许多人尝试过，但没有体验到它的神奇力量。这有点像我的[避免感冒和流感的公式](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Formula_for_common_cold_prevention)：它非常有效，但没有几个信徒。然而，我从几十个例子中看到，对我有效的东西，在我的周围几乎总是遭到怀疑。同样的事情，如果被完整记录保存下来，几十年后也会有追随者，甚至可能变成一种世界性的现象。这种情况发生在[间隔重复](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Spaced_repetition)[4]上，起初它被嘲笑，甚至在我自己的家庭中也是如此，到现在 30 多年来，它的流行度一直在逐步提高。
+
+Plan 的神奇力量主要来自于**将人类的生产力需求与**[昼夜节律周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_cycle)**相匹配**。昼夜周期是人类生理学中最不被重视的事情之一。对一个人来说，一项活动此时或许令人倍感煎熬，同一天换个时间去做却可能让人快乐无比。我们感知到的快乐上的巨大差异由此因素导致：[昼夜节律相位](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_phase)。如果我们违背这一周期规律，就可能会在一天之内从天才变成傻子，从英雄变为弱者，从灵感四溢的艺术家沦为脑子空空的僵尸。
+
+为什么没有更多的人遵循昼夜循环节律？因为在现代生活的混乱中，这个周期可能会被影响，被打乱，或者对大多数人来说是混乱的。一个早上 6 点赶着送孩子幼儿园的职业女性不可能利用她最大的大脑潜力来取得创造性成就的喜悦。正是这种生活方式和必要性压制了生命中最美好的部分。对大多数孩子来说，[学校完全毁掉了](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Problem_of_Schooling)[5]他们一天里快乐的机会。对于被公司的严格要求压制的个人来说，几乎没有自由的创造性思维的空间，而这种思维可以使身心恢复活力。我意识到，只能有一小部分人实现按照本文的建议规划一天——即那些足够自由、健康和坚定的人。然而，所概述的想法至少应该被当成是好主意。最重要的是，我想建立对昼夜节律周期的力量的欣赏。
+
+## 3 Plan 背后的主要理念
+
+**Plan** 的核心理念非常简单：列出你想做的事情，以及你想为各个活动分配的时长。**Plan** 将把你的想做的事情安排到一天中清醒的时候。它将帮助你锚定在特定时间的必须活动（如[午睡](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Siesta)），并且为无法压缩时间的活动分配确切的时间（如洗澡）。它还将弥补在执行日程安排过程中必然会出现的意外和非常规活动。
+
+详见：[Plan](https://link.zhihu.com/?target=http%3A//help.supermemo.org/wiki/Plan)。
+
+## 4 Plan 的优势
+
+完美的[活动和昼夜周期之间的匹配](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Circadian_perfection)[6]
+ 
+对[自然创造力周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Natural_creativity_cycle)[1]的完美保护
+ 
+对优先事项和[突发事件](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Emergencies)[7]的完美调整
+ 
+平衡学习、创造、运动、饮食、睡眠等。
+ 
+以牺牲低优先活动为代价的[高生产力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23high_productivity)[8]
+ 
+采用[解压行为](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Stress_valves)来对抗[急性压力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Acute_stress)[9]
+ 
+运用[良性压力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Eustress)来增加能量和动力（见：[良性压力的机制](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Mechanics_of_eustress)）
+ 
+享受每一分钟。因此：自律是没有问题的，拖延症也没有了
+ 
+充满创造性的爱好，使得单调的日常活动变得有趣
+ 
+[不需要休息](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23no_breaks_needed)[10]
+ 
+告诉这个世界，[你的时间很重要](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Mobile_phones)[11]。建立一个应对来自社会压力的方式.
+ 
+训练自己[分秒必争](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23The_value_of_1_minute)[12]的心态
+ 
+易于调整、变化优先事件
+ 
+易于调整以应对突发事件
+ 
+易于调整，使得过剩的创造力不被浪费
+ 
+易于管理[状态不好的日子](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Imperfect_days)[13]
+ 
+易于管理[情绪不好的一天](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Imperfect_days)[13]
+ 
+通过渐进的方式轻松进步：重复性的日程安排更容易养成许多小习惯
+ 
+良好的进展能培养人们的热情
+ 
+少量的分配更利于专注
+ 
+易于弥补昼夜节律带来的效率损失（如选择精力充沛的时段）
+ 
+为特殊的日子或有紧急情况的日子制定专门的日程安排
+ 
+睡过头[不成问题](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Oversleeping)[14]
+ 
+易于管理时间治疗法（如产生相位偏移，[避免失眠](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/DSPS)、计划未来事件等）
+ 
+每月和每年的工作表现统计
+ 
+实现低成本日常活动记录的工作日程
+ 
+未来：昼夜节律分析。我希望看到 SuperMemo 为个人活动绘制昼夜节律图。有一天，也许有可能将生产力指数与昼夜节律的变量联系起来。
+ 
+
+## 5 完美的昼夜节律
+
+Plan 的魔力的最大部分是根据[昼夜节律的循环](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_cycle)调整日程安排。所有的学习、创造、解决问题、写作等都必须在良好的睡眠或良好的[午睡](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Siesta)后立即进行。睡醒后的前 3 个小时才是最重要的。如果错过了这个最佳时段，创造性的追求被推迟了，效率就会下降，乐趣就会骤减，热情可能只有三分之一的可能。如果孩子们能在早上进入他们自己喜欢的学习，那么一天中的其它时间会是愉悦的。如果他们不得不早起去上学，他们就会遇到另一个极端：折磨！在无知的人眼中：折磨也算学习。实际上，在清爽的、准备好的、有兴趣的和渴望的头脑中，真正的学习与折磨截然不同。
+
+强调一天从创造性的生产开始，并不意味着一天中其余部分是浪费事件或者枯燥乏味。有许多不同的乐趣无需占用清晨机敏的大脑，例如运动、社交、家庭、订购、DIY、浏览社交媒体、待办杂事等等。可以在日程安排中加入一定程度的[良性压力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Eustress)，以推动思想的发展。最后，在睡觉之前，仍然有很大的空间可以折腾。当大脑思考速度减慢，不太乐意继续接受新的脑力挑战时，不妨试试被动学习。我喜欢在睡觉前 2 小时听讲座和采访。因为听讲不需要灯光，有助于保持健康的[睡眠相位](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Sleep_phase)。新闻或电影也很有趣。对于那些不因深夜阅读而挣扎于[睡眠相位延迟](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Phase_delay)的人来说，一本小说也不错。这些被动且不费力的活动与晚上的时间完美匹配。现在有太多的人，白天忙于工作，晚上忙于家庭，试图把费神劳心的活动挤到睡觉前的时间。但由于压力、强光、电脑屏幕等原因，这不仅影响睡眠质量，也违反大脑健康的规律，最终徒劳无功。准备睡觉的大脑，仅显示出部分创造性解决问题的能力。大脑可以因生活所迫而被鞭打着行动，然而，Plan 的魅力正是来自于避免这种不愉快。活动必须与[昼夜周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_cycle)相匹配！
+
+另见：[自然创造周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Natural_creativity_cycle)[1]
+
+## 6 最大限度地提高注意力和精力
+
+诸如[番茄工作法](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pomodoro)等时间管理方法的主要优势之一是，小块的时间往往能提高注意力和精力。这对于那些不那么令人愉快的工作来说尤其如此，如果在计时器上清楚地标明工作的结束时间，就可以更容易地解决这个问题。Timeboxing（一种时间管理方法）是对付[拖延症](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Procrastination)的一剂良药。
+
+[Plan](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Plan) 允许我们按照需求与能力来调整日程安排中事件的长度。如果某个事件令人不快且低效，可以考虑缩短这个时间槽。即使只是少量的进展也比陷入拖延怪圈有更大的意义。如果可以专注工作的时间延长（例如，由于对生产力的认识提高），时间槽的长度可以逐步延长。
+
+## 7 每 1 分钟的价值
+
+在使用 [Plan](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Plan) 的过程中，生命中每一分钟的价值在你眼里会发生巨大的变化。如果一个朋友在上午 10 点给你打电话，而你有一整天的时间，一分钟并不觉得有多么重要。然而，如果一个朋友在你分配给处理电子邮件的 10 分钟时间内给你打电话，你很可能会相当不高兴。需要回复的电子邮件总是无穷无尽。每一次中断都会增加积压的工作和压力。在 **Plan** 中，紧凑的日程安排会让人感到非常紧张。它们甚至会让你难受。不过，你迟早会学会所有避免打断的技巧，这只是个时间问题。为了避免打断积累的压力，你会很快采取一些简单的技巧，例如，[关闭手机](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Mobile_phones)。如果你正在使用 **Plan** 日程，你会珍惜每一分钟。一段时间后，你的压力水平会远远低于均值。你和你周围的世界会得到调整，尊重你的时间。从长远来看，**Plan** 可以减少压力，并增加生产力的乐趣。
+
+## 8 无需休息
+
+所有的生产力大师都告诉你要[休息](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pomodoro_technique)或**给自己留出空间**。这在 **Plan** 中是不需要的。这是因为只有两种类型的休息是你真正需要的。
+
+通过睡眠来休息
+ 
+因疲劳而休息
+ 
+
+夜间睡眠和午睡的休息时间已经在你的日程安排中编排好了。它们是你计划的一部分，不会对计划造成破坏。
+
+由于疲劳而导致的休息可以很容易地通过改变活动来补救。如果是运动性疲劳，你可以通过脑力工作来轻松休息。如果是大脑疲劳，你可以通过改变活动的类型来轻松补救。如果你进入一个良好的节奏，你可以非常准确地知道什么时候会出现什么样的疲劳。然后，你可以计划你的一天，使一种类型的活动成为另一种类型活动的休息。
+
+自然，也有不完美的日子和糟糕的日子。这些可能需要对日程安排进行一些改变。
+
+## 9 高生产力
+
+有个朋友注意到我浴室的灯太亮，不符合我的 [DSPS](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/DSPS) 原则时，他建议我干脆换成亮度较低的灯泡。他没有意识到，**Plan** 使我患上了严重的**执行瘫痪**。像换灯泡这样简单的工作可能会在我的任务清单上徘徊数月之久。如果这项工作不够重要，或者耗时太长，那这个任务就会一直停滞。你可能会问「换个灯泡需要多少 Woz-days？」。
+
+我周围的朋友们都很井井有条。他们及时把孩子送到学校。他们有时间去看医生。他们的家也干净整洁。他们在晚上有一些闲暇时间，例如看一些电视。然而，在我朋友的身上，我也看到了**生产力的瘫痪**。他们的生活被任务和家务挤得满满的，他们没有空间或精力去自主学习，或实践创造性项目。
+
+**Plan **能够无情地增加生产力，使人们可以专注于一个大项目。不过这牺牲了小事的进展——小事似乎都被压缩成蜗牛般的进度。这对于完美主义者来说可能相当痛苦。不过多年以来，习惯了牺牲小事、关注大项目之后，我解开了这种完美主义心态（见：[理性拖延](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Rational_procrastination)[15]）。
+
+虽然要改掉完美主义做法，更多地尊重自己仍然很困难。近来，即使采用[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[16]也很难在计划分配好的 20-30 分钟内处理完电子邮件。这不可避免地在处理邮件上引入一定程度的混乱——我经常难以答复绝妙的想法，因为我总是花大多数时间来处理对那些对我当前项目至关重要的邮件。我有专门的时间块用于创造，让我能理解邮件内容并且详尽地回复。然而，这些精妙的邮件只是邮件总量的一小部分。我又一次用生产力的瘫痪换取了执行力的瘫痪。我保持生产力，但在许多潜藏奇妙的领域，我痛苦地瘫痪了。这与[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)没有多大区别。然而，当文章在[学习集](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Collection)中徘徊时，我可以轻易忽略积压的文章。当人们在邮件线索中徘徊时，当重大想法不能吸引我的[注意](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Attention)时，我就会不时地痛苦地想到它。我对此感到歉意。
+
+## 10 不完美的日子
+
+在理想情况下，应该按照规划良好的日程表一板一眼地执行活动。然而，现实总是不尽如人意。每一天都略有不同。即使是日程安排上最微小的细节也会影响日程的执行。高创造力可能需要更长的时间块。如果创造力不常涌现，则显得尤为珍贵。创造力不足时可能需要改变时间的分配，增加一些不太有灵感的时段。高创造力可能会推迟睡眠，也许会引起昼夜节律的连锁反应，并且降低之后几天的创造力。而且，总有一些健康风险难以固定，即使是饮食稍微破戒也会对日程的执行产生一定影响。另外，还需要考虑到其他人和他们的需求。不过，面对这些不完美，我们仍有不少预防措施，[交换活动](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23swapping_activities)就是其中一个。
+
+然后是特别糟糕的日子，也许是由睡眠不好、身体不好、心情不好等因素引起。如果疲劳来得猝不及防，我建议的补救措施是加快日程安排的执行。
+
+## 11 加快进度
+
+不理想的一天，疲劳来得更快，你可以尝试加快进度。你可以不做 90 分钟的阅读，改为做 60 分钟的阅读。这种方法可以给之后的活动减压——这些活动抑或不需要那么高的投入，抑或更具活力。这样你就可以花更多的时间在那些后续活动上，或者花更多的时间在你特别喜欢的活动上，或者只是更快地入睡。我们最不该考虑的，是插入无效「休息」，例如「看社交媒体」，「浏览八卦网站」。不过，你仍然可以争取插入一些有价值的东西：瑜伽、运动、冥想等。你会更清楚什么对你有用。
+
+## 12 交换活动顺序
+
+在 Plan 中通过拖放可以很容易地交换活动顺序，而不改变给每个活动分配的时间。如果出现如下临时困难，交换活动顺序也许有所帮助：
+
+昼夜节律失调：即使是最好的日程安排也会被昼夜节律失调所扰乱。不过，稍稍调整日程安排顺序可以解决这个问题，例如将压力较大的任务安排到能量较低的时段。
+ 
+自稳态疲劳：长时间的学习或高创造力的活动可能会导致自稳态疲劳，可以通过做些低优先级但高乐趣的任务来缓解。
+ 
+暂时的病痛。例如，胃痛时可以在沙发上做伸展运动，或者也可以打个重要的电话，总之是可以在躺着不动的情况下做的事情。
+ 
+
+通常，即使遵从最规律的生活方式，也难以避免这些偶发的小问题。更糟的是健康状况不佳或心情不好。即便如此，Plan 也能带来一些帮助。当你觉得**「这一天我什么都做不了，我恰好不在状态 」**时，看一眼日程安排就会发现，你仍然可以与生病的自己妥协一个目前可以接受的时间段，做些事情。很有可能，这个时间段恰好让你的心态转好。小的生产力活动带来更多的生产力。对于那些希望把生命花在有意义的事情上的人来说，这是一个自我延续的过程。有了 **Plan**，你的生活永远不会停滞或者浪费时间。
+
+## 13 手机
+
+在[如何解决任何问题？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/How_to_solve_any_problem%253F)[3]中，我得出结论，分心和多任务处理可能是解决耗时巨大的问题的主要障碍。
+
+Friedrich August Kekulé  需要在概念上迈出一小步，才能认识到苯是环形的。一串原子和一个环之间的区别似乎微不足道。然而，对大脑来说，要跳出一个既定概念的局部极小值往往非常困难。对于 Kekulé 来说，睡眠孕育了突破的种子。但不妨想象一下， Kekulé 坐下来吃早餐，脑子里有一个「即将成型的想法」，但却被朋友的电话铃声打断，讨论一些名人轶事。幸运的是，在 1865 年还没有电话。
+
+手机可以带来福祉，但也有可能成为创造性工作的破坏者。**Plan** 让你明白为何要尊重一天中的每一分钟。同时也让别人意识到你对时间的尊重。也许在关机数月后，你的手机在你创作时内永远不会响，也许你所有的朋友和家人都会知道这不是一个找你的合适时机。
+
+## 14 紧急情况
+
+紧急事件和干扰是难以避免的。也许因为你没有听从我关于手机的建议，也许出于生物学的原因你还是得[上厕所](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23bathroom_break)，此时你需要在日程安排中插入一个额外的活动。如果这是早上的 5 分钟，你可以很容易地插入一个新的时段，其余的时段会被相应压缩。你可能只会少几秒钟去干最重要的活动。但如果你在晚间插入一个紧急时段，压缩可能会更痛苦，你可能会失去一两个较短的时段。如果是在较长的活动期间插入，你将需要 **Split** 选项，将活动切成两个子时段。
+
+如果你保留了太多不能压缩的刚性时间槽（R），即使是微小的紧急情况也会对日程安排造成破坏。如果你在固定时间槽前插入紧急任务（F），固定时间槽的压缩可能会非常严重，以至于你会失去一个时间槽（或需要把它移到固定活动之外）。所有这些小的不便都有一个美妙的副作用：你使自己有条件地避免紧急情况的发生。**你为你生命中的每一分钟建立了尊重！**
+
+紧急情况会毁掉日程安排。**Plan** 失效的典型情况，是在上午的时段上花费太多时间，或者插入太多紧急时段。最后，一天中的后半部分从未得到执行。这违背了 **Plan** 的目的。如果这种情况经常发生在你身上，很遗憾， **Plan** 不适合你。一些自律是必要的，直到计划完美地适应你的需求并弥补你的弱点。在开始的时候，保持你的时段长和放松是有意义的。
+
+早上，人们很容易感觉：**我今天有很多时间，可以干许多工作**。然而，也很容易在晚上意识到：**整整一天过去了，我却没有什么收获**！
+
+## 15 洗手间休息
+
+如果你在日程安排中记录了上厕所的时间，你可能会想，这是否是过于极端地追求生产力，而且，完美实际上导致了徒劳的优化。曾经有一些极端的强迫症记录者的案例，他们几十年来记录了所有的上厕所时间。他们的统计数字都有生动的描述来装饰。
+
+如果你的上厕所时间是按照特定的习惯进行的，你肯定应该有一个专门用于该特定习惯或其组成部分的时段。然而，在 **Plan** 的情况下，即使是计划外的紧急上厕所时段也可能有意义。在 **Plan** 中插入一个槽，需要花费大约 4 秒钟。用一个新的活动来分割一个较长的时段大约需要 11 秒。如果你为极端的生产力做计划，你也必须采用极端的精确测量。为了计划未来，你需要了解你的过去。** Plan** 最珍贵的功能之一是统计。它们使你有可能在每月或每年的基础上比较你的努力。
+
+我记录了我花在写像这样的文章上的所有时间。这有助于我了解一年中能有多少时间用于写作，以及我可以从这些努力中期待什么结果。如果我碰巧有 40 分钟的时间用于写作，而这个时间段被 7 分钟的厕所休息打断，我最终完成了 33 分钟。这可能会导致 21% 的高估，在我看来这是一个惊人的数字。检查一下你的数字，上厕所所占用的时间实际上可能比你慢跑或游泳的时间还要多。这可能只意味着你没有严谨对待这些形式的运动。
+
+此外，日程安排的优化是以**延迟**为基础的。这是为了确保有足够的空间用于计划活动，重要的是，有足够的自由以健康的心态执行计划。**Plan** 是关于和谐，而不是关于[生产力的压力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Harms_of_self-discipline)[17]。小的例外情况，如上厕所，应该反映在个人活动时间的宽松设置上。如果我没有这个空间，我可能经常因为运动前时间不够而被迫跳过回复电子邮件。
+
+最后但并非最不重要的是，厕所可能是纸质书的最后避难所。只要在厕所休息时阅读，你每年就可以轻松地读几本书。这也应该算作生产力。即使是效率狂人也应该放轻松。厕所不是一个匆忙的地方。
+
+## 16 睡过头了
+
+在创造性的生活方式中，没有「睡过头」这一概念的空间。为了获得最大的创造力，睡眠必须是自然的。因此，它不能被计划为一个特定的醒来时间，或被闹钟打断。争取每天早上 8 点起床是可能的，但自然睡眠很少会在理想的时间终止。我曾记录过一些人的案例，他们有一种不可思议的能力，每天醒来的时间只有 2-4 分钟的变化。然而，这些人是有着完美的仪式感的老人。爆炸性的创造力与正常的睡眠发生争吵。如果你撞上了一个伟大的想法，你的睡眠被推迟和/或缩短是正常的。我毫不怀疑，创造力对 [DSPS](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/DSPS) 流行病有贡献。**Plan** 使你很容易处理睡眠的不规则性。如果你醒得晚，你只需相应地调整你的日程安排。你不会「睡过头」。你只是多睡一会儿，调整你的日程安排。
+
+## 17 时间锚
+
+在 **Plan** 中，固定活动的概念可以用来安排约会和其他必须在特定时间发生的事件。固定活动一般不受欢迎。当生活没有干扰、义务、约会和最后期限时，生活是最令人愉快和富有成效的。然而，在没有干扰的完美生活方式中，仍然需要固定活动。一些固定活动可能会起到**时间锚**的作用，确保疯长的创造力不会干扰到[昼夜节律循环](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_cycle)。
+
+**时间锚**确保你在理想的时间完成特定的活动。即使你相信你正在一条通往伟大创造性突破的道路上，以牺牲睡眠或和谐的昼夜节律为代价也是没有意义的。暂停创造性工作的最佳策略是记录进展的要点，然后休息一下。为了睡眠而推迟的创造力是加倍的创造力。
+
+**时间锚**可以划定日程安排的重要组成部分，是昼夜协调的基础。例如：运动时段、[午睡时段](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Siesta)、保护睡眠的[晚间程序](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/How_to_solve_any_problem%253F)，等等。自然，最重要的锚点是睡觉时间。在 **Plan **中，上床时间总是由醒着的一天的最佳长度决定的，你只需经过几周的实验就可以轻松地确定（例如，通过使用[睡眠图表](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SleepChart)）。最佳的醒着的一天的长度对睡眠质量至关重要。如果一天的时间太短，你有可能[失眠](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Insomnia)。如果一天的时间太长，你就会有 [DSPS](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/DSPS) 或[睡眠不足](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Sleep_deficit)。
+
+如果你醒晚了（或早了），你所有的**时间锚**可以在 **Plan** 中位移，以便将变化的影响降到最低。晚起可以通过**把剩余时间按比例减少**。这对发生在时间较晚的锚产生减少的位移。这是使你的整个日程安排回到你的昼夜节律最佳状态的方法。自然，较长的睡眠时间对早上的时段伤害最大。如果你早起，如果早起是一种稳定周期的罕见情况，那么**均等位移全部**可能是受欢迎的。
+
+![](https://pic4.zhimg.com/v2-f62b22e4e7e1493edca807a6d9e9c72f_1440w.jpg)
+因睡过头而调整日程安排管理>  图：[SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 中的日程安排管理器，可以在起床晚的情况下轻松调整日程。**Unfix** 是默认的：让你的日程安排像什么都没发生一样。如果你的某些固定活动不能被移动（例如会议），则可能需要使用 **Leave unchanged**。**按比例位移**对于那些在[相位偏移](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/DSPS)方面有困难的人来说是很有用的：它压缩了早期的时间段，为后期的时间段提供了更多的空间。换句话说，**按比例位移**逐渐使你的活动回到最佳的昼夜节律框架。最重要的是，你的晚间活动将被延长，以促进提前睡眠。
+## 18 Plan 是监狱
+
+许多我所敬佩的伟人，如 David Deutsch、[Tom Durrie](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Tom_Durrie) 或 Nassim Taleb，都说他们不喜欢计划时间，他们认为时间计划表限制了他们。他们有一个诀窍，就是根据本能来安排自己的时间。计划和本能的界限也许是模糊的。Charles Darwin 究竟是遵循时间计划表，还是说时间计划表就是他自然需求的反映（见：[达尔文的一天](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Darwin_intuitively_followed_the_natural_creativity_cycle)）。
+
+我们都是各种限制的囚徒——例如冬天、夜晚或[昼夜节律](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Circadian_cycle)。我们需要节约时间用以睡眠、吃饭和锻炼。糟糕的时间安排会极大地损害效率和健康。不过，我在白天有很多个人技巧，可以相应地调整日程。
+
+为了最大限度地提高生产力，我把所有关于学习、创意和解决问题的任务放在早上的一个受保护的时间块中。为了让自己尽快完成某些小事（如处理坏掉的椅子，或有问题的路由器），当我情绪高涨且总是匆匆忙忙时，我会把这些任务安排在锻炼之前。这可以促进行动，而且不影响早晨的创造力。依照类似的原则，我坚持[最佳饮食](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimum_diet)，我最大限度地提高处理电子邮件的速度和[良性压力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Eustress)，并在[睡眠](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Sleep)之前最大限度地提高困意，等等。见：[完美的昼夜节律](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress%23Circadian_perfection)。
+
+另一方面，我会避免各种干扰，如任务的截止期限、预定的会议、电话、研讨会、意外访问等。这些都是真正的束缚和干扰！我的一般做法是远离那些可以摆脱的干扰（如电话）。然而，有些干扰因素是我们作为生物的一部分：睡眠、吃饭、运动，以及最重要的[自然创造力周期](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Natural_creativity_cycle)[1]。这些生物本能最好能得到尊重。
+
+远离干扰并不意味着我不与他人会面。我喜欢在昼夜节律框架里合适的时间内，将会面转变为边走边说的头脑风暴。至于任务的截止期限，我更喜欢用「足够好」的标准来完成所有项目——因为完美主义是一种[学校的坏习惯](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Bad_school_habit)[18]。
+
+## 19 Plan 的起源
+
+个人轶事。[为什么使用轶事？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Why_use_anecdotes%253F)
+
+大约二十年前，当 **Plan** 出现在 [SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 中时，它就被誉为与该程序不协调的「垫桌脚的选项」。相比之下，我一直是一个热情的用户。在整个 2017 年，没有一天我会「临时抱佛脚」。在太平盛世，只有在远离电脑的假期中，我偶尔会跳过 **Plan**。即便如此，我也会根据「肌肉记忆」来运行我的日程安排，也就是说，我将遵循类似的昼夜节律，用一本书来代替渐进阅读，等等。早在 SuperMemo 之前，我需要两个主要的东西来提高生产力。(1）井然有序的一天，和（2）更好的记忆。在我的第一台电脑 ZX Spectrum上，我首先采用了 **Plan**。我在 1985 年开始编程，也就是说，在我的桌子上还没有微型计算机的时候。在那些日子里，**Plan** 在计算上太难了。我试图将算法与我生活中的混乱相匹配。我想让计算机来组织这些乱七八糟的东西，希望能提取更多的价值。结果 ZX Spectrum 对于实现这个想法来说太慢了。一个好的日程安排需要 2-3 个小时的计算，而我在早上很难坚持 10 分钟。十年后，我更聪明地理解到，消除生活中「混乱」的随机性是解决低生产率问题的关键。今天，**Plan** 变异为一个简单的按比例分配时间的工具。复杂性已经消失了。至于 [SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 中的[间隔重复](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Spaced_repetition)[4]，必须等到我有了[我的第一台带软盘驱动器的 PC](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_1.0_for_DOS_%281987%29)（360 kB）。为了保持记忆中的东西，我第一次把永久记忆的方案在计算机上尝试。直到现在，**Plan** 还可以作为一个独立的应用程序生存。这一点希望能够改变。正如我需要 [SleepChart](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SleepChart) 与 [SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 集成，以寻找[睡眠和学习](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Sleep_and_learning)[19]之间的相关性一样，**Plan** 也需要用于分析生产力的昼夜变化方面。
+
+## 20 Plan 的发展
+
+个人轶事。[为什么使用轶事？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Why_use_anecdotes%253F)
+
+我对生产力思考的发展经历了以下几个阶段：
+
+1976 年（14 岁）-1980 年（18 岁）：我的生产力是由[学习内驱力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Learn_drive)[20]、对体育的兴趣等推动的。
+ 
+1980-1983 年：由于学校和大学的强制任务、疲惫的日程安排，以及由此导致的[学习内驱力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Learn_drive)减弱，我开始发觉我没有发挥出我的潜力：「我是谁？」和「我想成为谁？」之间的差距越来越大。
+ 
+1983 年 7 月：开始逐步提高生产力，制定一套简单的微观规则，如「每天学习 30 分钟」，「每天锻炼 10 分钟」等。
+ 
+1983-1990 年：在严格化生产力规则方面取得了系统性进展，增加了学习、锻炼、改善睡眠等方面的强制指标。
+
+ 
+1991-1993 年：由于工作任务，疲惫的日程安排，以及由此导致的[学习内驱力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Learn_drive)下降，我对自己的工作效率越来越不满意。
+ 
+1994 年：按照固定的全天日程安排开始工作（例如，8:00 起床，9:00 用 SuperMemo 学习，等等）
+ 
+2000 年：在 [Plan](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Plan) 中开始灵活的日程安排，这对我来说是一个真正的突破
+ 
+2000 年至今：基于 [Plan](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Plan) 的高生产力
+ 
+
+从上述历史中得出的首要结论是，从低生产率到高生产率的进展必须是循序渐进的。从小事做起，不懈地取得进步是有好处的。这使得从基于自律的生活过渡到基于做好事的乐趣的和谐生活成为可能。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131) 汉化组译制
+> 感谢主要译者 Leee_
+> 原文：[Planning a perfect productive day without stress - supermemo.guru](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
+
+
+---
+
+
+<!-- 源文件: 渐进阅读概念组最佳实践.md -->
+
+# 渐进阅读概念组最佳实践
+
+> [原文链接](https://zhuanlan.zhihu.com/p/360355624)
+
+> 本文使用 [Zhihu On VSCode](https://zhuanlan.zhihu.com/p/106057556) 创作并发布
+读者朋友们好久不见！离上次写《[渐进阅读材料导入与预处理](https://zhuanlan.zhihu.com/p/321701995)》已经过去 4 个多月了，还翻译了一篇[外国博主的渐进阅读工作流程](https://zhuanlan.zhihu.com/p/322673517)。我想大家应该已经逐步上手 SuperMemo 了。不过这些文章都没有提及怎样设置概念组，本期我们就简单介绍一下最懒但又最高效的概念组设置方式吧！
+
+## 前置知识
+
+[叶峻峣：渐进阅读基本概念与操作介绍](https://zhuanlan.zhihu.com/p/313684185)## TODO 概念组
+
+用过 Anki 的朋友应该都知道，在 Anki 里，我们往往会设置多个牌组，平时制卡也会放在不同的牌组之中。而在 SuperMemo 中，概念组扮演着类似牌组的角色。
+
+我想大部分 SuperMemo 初学者都会像使用 Anki 那样，设置不少概念组。但是，在 SuperMemo 中，我们只需要一个 TODO 概念组，就能满足大部分日常使用的需求了。
+
+### 是什么？
+
+TODO，即 to do，待办的意思。TODO 概念组就是我们日常添加材料的汇集处，这些材料等待着我们去处理。
+
+### 为什么？
+
+原因很简单，SuperMemo 每天的学习队列（复习+阅读）是不区分概念组的！看过《[SuperMemo 中渐进阅读的意义：第二部分](https://zhuanlan.zhihu.com/p/322584755)》这篇文章的都知道，这是为了实现穿插练习，好处我们就不多赘述了。
+
+### 怎么做？
+
+首先，打开知识树(Alt + C)，右键点击根节点——New——Folder，建立一个新的空节点：
+
+![](https://pic1.zhimg.com/v2-fe460b90a745c1caeb081931363e1930_1440w.png)
+Image
+
+然后，右键点击新节点——Concept——Create，建立一个新概念：
+
+![](https://picx.zhimg.com/v2-d91844e95c64836092f7f1ae599c7fd9_1440w.png)
+Image
+
+回到主界面，点击 Search——Concepts，打开概念管理器：
+
+![](https://pica.zhimg.com/v2-999ab61f2ff38c6fa13bc652b4a7809a_1440w.png)
+Image
+
+设置一下 Default priority 和 Auto-apply，可以节省不少以后调整优先级和模板的时间：
+
+![](https://pic2.zhimg.com/v2-08bf3d1f297d7dbb7ea5b743a2a3a18f_1440w.png)
+Image
+
+完成以上操作以后，平时就可以愉快地使用 Alt + A 和 Alt + N 来添加问答卡片和摘抄卡片了！
+
+下面就是我的知识树：
+
+![](https://picx.zhimg.com/v2-c184be490ea178b76ce3083b6ef28109_1440w.png)
+Image
+
+## 常见问题
+
+**问：你的知识树明明还有别的概念组，为什么推荐只用一个 TODO 概念组？**
+
+答：我的工作流是所有新内容都导入 TODO 概念组，只有在 TODO 概念组中经历几次间隔重复，经过多次加工后，才会移动到特定的其它概念组中。这样可以节省平时切换默认概念组的时间，还方便查看自己最近添加了哪些内容。
+
+**问：加工后再移动？不会很麻烦吗？你看如果在 Anki 中用一个 TODO 牌组，那移动卡片要把人逼疯了。**
+
+答：有两个重要区别让 SuperMemo 在移动卡片上比 Anki 方便的多：
+
+摘抄与挖空操作都会自动形成树形结构，拖动根节点就可以一起移动，而 Anki 是一张一张散开的；
+导入材料多为文章，粒度要比 Anki 的卡片大得多，这也使导入的频次显著减少，短时间内 TODO 中不会有很多内容。
+所以实际上并不会移动到疯。
+
+**问：既然之前你提到 SuperMemo 的待办队列是与概念组无关的，那为什么还要设置别的概念组？**
+
+答：首先，当 TODO 概念组日积月累，积攒了太多内容后，想要查找自己学习的某一领域内容，会很不方便。其次，SuperMemo 可以基于概念组进行筛选学习（类似 Anki 的筛选牌组）。最后，SuperMemo 的语义/神经复习是基于知识树结构和概念组的（这个已经超纲了，下次再详细介绍）。
+
+**问：我添加了别的概念组之后，为什么新添加的材料都到新概念组下面去了？该怎么改回来？**
+
+答：SuperMemo 会将最新添加的概念组设置为默认概念组。改回来也很简单，点击主界面右上角的默认概念组框框，输入你要设置的概念组名称，然后点击一个像锚一样的图标即可。如图所示：
+
+![](https://pic1.zhimg.com/v2-1ec20851d9a1c3ded8897c0e70255c9e_1440w.png)
+Image
+
+**问：为什么 TODO 概念组的默认优先级要改成 33？**
+
+答：为了避免新鲜感偏见，具体请见：
+
+[supermemo的优先级如何合理的调整?](https://www.zhihu.com/question/439603827/answer/1796163729)## 结语
+
+以上就是本期的全部内容，如有任何疑问或者建议，欢迎在评论区讨论！
+
+## 题外话
+
+用了几个月 SuperMemo，发现批量导入害人啊 233。建议多用复制粘贴，方便控制每日的新材料数量。另外，真的能用网页材料就别碰 PDF，会浪费不少时间的。
+
+当然，如果实在需要阅读 PDF 材料，建议看看这篇：
+
+[老强：怎样使用SuperMemo插件SuperMemo Assistant（SMA使用指南）](https://zhuanlan.zhihu.com/p/328137848)祝大家学习快乐！
+
+2021 年 3 月 27 日
+
+学委叶哥
+
+
+---
+
+
+<!-- 源文件: 渐进阅读材料导入与预处理.md -->
+
+# 渐进阅读材料导入与预处理
+
+> [原文链接](https://zhuanlan.zhihu.com/p/321701995)
+
+通过前几期的教程介绍，渐进阅读所必须的操作已经教给大家了，希望大家已经开始实践渐进阅读。本文将介绍几种常见阅读材料的导入方法，并介绍如何管理大量导入的材料。
+
+希望各位已经掌握渐进阅读的基础操作后再阅读本文。
+
+对于已经掌握操作，但是还不知道如何处理自己手头材料的朋友，可以阅读渐进阅读中加工知识的示范：
+
+[06 示范：增量学习中的实际操作 · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/examples)再次强调：材料本身的样式远远没有知识表述重要，在 SuperMemo 里折腾样式就是买椟还珠了。很多卡片不值得你去花时间改样式，请大家自己考虑成本与收益。
+
+> 如果你仍然不能忍受不完美的卡片样式，那就专心将他们美化吧。没有什么能阻止它们变得完美，这些完美的卡片可能倍受你的喜爱，但你的学习速度肯定也会降低了。[1]
+## 选择最合适的导入材料
+
+不同材料的导入难度不同，我推荐大家在导入材料前先找找看有没有更合适的替代材料。以下是我对材料格式的推荐顺序：
+
+网页（Wiki、Blog、『知乎专栏』）
+电子书（EPUB）
+有文字层的 PDF（就是可以复制文本的那种）
+扫描版的 PDF
+SuperMemo 官方文档也是这样提倡的：
+
+> 与其为了增量阅读而扫描纸质书籍和进行OCR，还不如从寻找电子图书开始。在大多数基础知识领域，都有多种学习材料来源。需要扫描的情况越来越少。现在，你甚至可以更挑剔一些，搜索HTML文本来代替PDF材料（以避免将PDF转换为HTML的痛苦）[2]
+接下来，我会逐个介绍上述材料的导入方式，希望对大家进一步使用 SuperMemo 进行渐进阅读有所帮助。
+
+注意：
+
+先从网页材料开始
+先从你感兴趣的材料开始
+先从你收藏夹里吃灰的材料开始
+
+## 复制粘贴
+
+复制粘贴绝对是首选的添加材料的方式。这里注意一下，请勿使用 IE 浏览器打开网页复制内容，极有可能遇到图片无法在 SuperMemo 中正常显示的问题。
+
+粘贴快捷键 Ctrl + N，使用方法为：选中你想要阅读的文字内容，复制，再打开 SuperMemo，Ctrl + N 即可自动创建相应的摘抄卡片。
+
+![](https://pic1.zhimg.com/v2-eb0dc6bdee65b768c403931a46dc8682_1440w.jpg)
+如果遇到文本格式问题，请使用我编写的 Quicker 动作：
+
+[统一格式 - 已分享的动作 - Quicker](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3D859bda04-fe78-4385-1b37-08d88a0dba1c)## 网页批量导入（IE 快要没了，不推荐）
+
+由于历史原因，SuperMemo 还是基于 IE 核的，所以 SuperMemo 的批量导入也是针对 IE 浏览器的。
+
+![](https://pic2.zhimg.com/v2-f98c4583ac10198f7389f988bac1f729_1440w.jpg)
+
+想要导入多个网页的内容，请用 IE 打开它们。
+
+![](https://pic3.zhimg.com/v2-98b6c8bd40fb49edde083aa2995c82ca_1440w.jpg)
+
+然后在 SuperMemo 中使用快键键 Ctrl + Shift + A，或在菜单里找到这个：
+
+![](https://pica.zhimg.com/v2-0454ade0ae1296b23caae2c438b9ec1a_1440w.jpg)
+
+呼出批量导入页面后，
+
+点击 Check all 可以勾选所有要导入的牌组；
+在 Concept group 可以选择要导入到哪一个概念组；
+mode 选择 Local page (whole web pages) 即可；
+priority 有一个最大值和最小值，根据自己对优先级的判断进行修改即可。
+
+最后点击 Import 即可导入
+
+![](https://pica.zhimg.com/v2-3d18b3c8b58ee17d67e5fe65452551f2_1440w.jpg)
+
+导入后的效果如下，配合前文《[渐进阅读懒人样式 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/318653942)》的样式去除动作可以获得更好的阅读体验。
+
+SuperMemo 自带的格式去除快捷键是 Ctrl + Shift + F12
+
+![](https://pic2.zhimg.com/v2-6dbf79ebbcc320241688a77c81010b73_1440w.jpg)
+## 电子书导入
+
+对应 EPUB 格式的电子书，最方便的导入方法就是，将电子书的后缀改成 zip，然后用解压软件解压，就会得到一个装着一堆 html 的文件夹。用 IE 打开这些 html 文件，再用前面介绍的 web import 导入即可。
+
+![](https://pic1.zhimg.com/v2-823269cc51c6a59b13025e97cf77ed14_1440w.jpg)
+
+azw3 和 mobi 类型的电子书请先转换成 epub，我自己平时用 calibre。
+
+如果没有 IE 了，请参考：
+
+[如何在supermemo中阅读一本书?](https://www.zhihu.com/question/504615912/answer/2262381968)## PDF 导入
+
+大部分教科书的电子版都是 PDF，关于这一点，SuperMemo wiki 是这样提示大家的：
+
+> 如果你迫于考试的最后期限，仍然不能很好地进行增量阅读，那么并行地进行一些新-老方法混合的学习会更有意义。例如，30%的增量阅读和70%的传统学习。你一定会在安排学习计划上犯很多错误，或许探索时间比距离考试的时间还长。一开始你需要花费很多成本（学习计划，选择学习材料，表达方式，学习使用SuperMemo等等）。如果你第一次考试真的考砸了，那就不足为奇了！你可以选择一些你特别喜欢的章节，并在你的增量学习实践中使用它们。然后，您再使用旧方法处理其余的材料。你不可能在感觉到如何做得对之前，就着手把教科书大规模地转换成SuperMemo里的学习材料！它会适得其反，并使你厌恶SuperMemo。请谨慎地、循序渐进地进行。[2]
+PDF 在之前一直是我的噩梦，建议非专业人士能复制就靠复制吧，今天看哪一章就复制哪一章的内容进去。不过这可能会遇到换行问题，也就是 pdf 复制出来可能会一行一段，非常影响阅读。这里推荐一个阅读器：Xodo
+
+![](https://picx.zhimg.com/v2-cb47552e91b46c5c295317938b0b3171_1440w.png)
+
+从 Xodo 中复制出来的文本会智能分行（当然，没有 ABBYY 准，但是它免费啊），这样贴到 SuperMemo 中就方便许多。
+
+如果觉得这样复制粘贴太慢了，建议用一些 PDF OCR 软件将 PDF 转换成 TXT，比如这样：
+
+![](https://pic3.zhimg.com/v2-761a04300e5bdbb3d17146645ede2238_1440w.jpg)
+
+然后再把 txt 里的内容粘贴到 SuperMemo，一次可以贴很多。
+
+当然，由于这个 txt 会非常长，建议分段粘贴。
+
+如果还嫌这样麻烦的话，我这里可以分享一下我写的 python 脚本（非程序员可以退避了，这里提供我的思路），仅供参考：
+
+import re
+
+filename = &#34;人工智能&#34; # 文件名
+
+with open(filename + &#34;.txt&#34;, &#39;r&#39;, encoding=&#34;utf-8&#34;) as f:
+    split_txt = None
+    for line in f:
+        if re.match(r&#34;[0-9]\.[0-9]\.[0-9]&#34;, line): # 按照三级标题切分
+            split_txt = open(filename+&#34;/&#34; + re.sub(r&#39;[\/:*?&#34;<>|\t\n]&#39;, &#39;&#39;, line) + &#39;.html&#39;, &#39;w&#39;, encoding=&#34;utf-8&#34;) # 写入 html 文件
+            split_txt.write(&#39;&#39;+re.sub(r&#39;[\t\n]&#39;, &#39;&#39;, line)+&#39;&#39;)
+        else:
+            if split_txt:
+                split_txt.write(&#39;&#39;+re.sub(r&#39;[\t\n]&#39;, &#39;&#39;, line)+&#39;&#39;)
+            else:
+                continue
+
+切分后的效果图：
+
+![](https://pic4.zhimg.com/v2-3e30c5a3d74276ef4997e8d728d2f95b_1440w.jpg)
+
+导入效果：
+
+![](https://picx.zhimg.com/v2-a5255c4240ae54340ad5358f5c7a206b_1440w.jpg)
+
+这样虽然效果很好，但是又引来了下面这个问题：
+
+## 管理大量导入材料
+
+如果我们平时导入个十几篇文章，互相之间没有太多的依赖关系（就是没有严格的阅读顺序）的话，那么 SuperMemo 自动安排的阅读间隔就足够用了。
+
+但是假如我们导入了一整本书，再用 SuperMemo 的自动安排可能就不太合适了，需要我们自己动手做一些处理。
+
+首先，在知识树中右键点击导入文章的父节点，再点击 Process branch，对这个分支做批量处理。
+
+![](https://pica.zhimg.com/v2-6cc1458f99eb6bf39d6c273ae82c6b26_1440w.jpg)
+
+点击 Process branch 后会有一个新菜单，点击 Learning > Forget，就可以将这个分支下的所有卡片设为新材料，不会自动加入待办队列进行复习。
+
+![](https://pic2.zhimg.com/v2-d7193898b967965313cbf48d5281e05b_1440w.jpg)
+
+那么，我们该如何学习这些被 Forget 的材料呢？点击 Learn》Stages》New material 即可切换学习新材料的队列：
+
+![](https://pica.zhimg.com/v2-79615208e44b3b41a53716db57efaa86_1440w.jpg)
+
+## 总结
+
+**导入一时爽，复习火葬场。**希望大家先导入少量自己感兴趣的材料实践渐进阅读，找到自己的节奏，再考虑导入大量材料。
+
+毕竟，当有大量材料需要渐进阅读时，调整优先级就成为一个很重要的渐进阅读技能了。
+
+希望大家多多实践，渐进学习。
+
+有关材料导入和样式处理的教程就告一段落了，之后会详细介绍：
+
+阅读文章中做摘抄的几种情况
+改写原文应当注意的几个原则
+拆分时如何保持知识间的联系
+怎样挖空可以做到最好的效果
+
+这些才是渐进阅读的核心，希望大家在实践过程中能够体会到它们的重要性，这远远比样式重要得多。
+
+
+---
+
+
+<!-- 源文件: 熟练的阅读通常是非线性的.md -->
+
+# 熟练的阅读通常是非线性的
+
+> [原文链接](https://zhuanlan.zhihu.com/p/466411832)
+
+书籍的结构几乎总是高度线性的，书籍这一媒介本身的形式也鼓励读者线性地阅读文本。但掌握阅读技巧的读者很少以线性方式阅读——他们要么带着目的阅读，寻找书中能帮他们解决问题的内容；要么在第一次阅读时理解这本书的结构（见[检视阅读](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7nGeuP4x5jheM35njJFkr1Ss5CAu1S5WmwPg)）；或者从索引开始，只关注其中最重要的段落。
+
+McCutcheon（2015）有一个有趣的反面观点：
+
+> 古代作者将卷轴的线性特点作为文本解释中的一个维度（译者注：古代的西方解释学即是解释神话、圣经、法典等的技艺之学）。他们在卷轴上写就的诗集没有明确的线索来串连一首首诗歌，但是卷轴的特点迫使读者对内容变化做出解释，因为他们必须以线性方式来阅读诗集。
+## 参考文献
+
+Edwards, P. N. (2005). How to Read a Book.
+
+> 阅读这类书籍的目的是获得信息。此时干脆利落地找出事由主因才是主要目标。因此，除非你被困在监狱里无事可做，否则**千万**不要从头到尾读非虚构类书籍。
+> 
+> 为获取信息而阅读时，你更应该始终跳在前面，跳来跳去，并使用一切可用的策略来**发现**，然后是**理解**，最后是**记住**作者要表达的内容。这样便能在最短的时间里从书中汲取最多的营养。
+McCutcheon, R. W. (2015). Silent Reading in Antiquity and the Future History of the Book. Book History, 18(1), 1–32. [https://doi.org/10.1353/bh.2015.0011](https://link.zhihu.com/?target=https%3A//doi.org/10.1353/bh.2015.0011)
+
+## 链接至本文（已汉化）
+
+[多数人的阅读成效不大](http://zhuanlan.zhihu.com/p/451515311)
+[最好的阅读方式是高度语境化的](https://zhuanlan.zhihu.com/p/481236886)
+[在电子阅读中，糟糕的性能会破坏非线性阅读](https://zhuanlan.zhihu.com/p/618911794)
+[程序教学](https://zhuanlan.zhihu.com/p/719498216)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[Skillful reading is generally non-linear (andymatuschak.org)](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3S7mmbydSX5Kx3V8mvkWLBcRGCgtroaY8XPz)
+
+
+---
+
+
+<!-- 源文件: 为什么我不再向我的朋友介绍 Anki _ SuperMemo？.md -->
+
+# 为什么我不再向我的朋友介绍 Anki / SuperMemo？
+
+> [原文链接](https://zhuanlan.zhihu.com/p/413907414)
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+原文：[MasterHowToLearn - Why I No Longer Tell My Friends about Anki/SuperMemo](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-10-31-why-i-no-longer-tell-my-friends-about-anki-supermemo/)
+
+Eliezer Yudkowsky 的这篇文章《[Beware of Other-Optimizing](https://link.zhihu.com/?target=https%3A//www.lesswrong.com/posts/6NvbSwuSAooQxxf7f/beware-of-other-optimizing)》[1]极具启发性。我建议你从「向朋友推荐 Anki」的角度来读它。本文是关于提供学习建议的问题。
+
+## 向世界传播“福音”
+
+如果你深深地相信某件事情，感觉好像「如果每个人都这样做，世界就会好得多」，并试图说服其他人去做这件事，那么你会意识到，要改变别人的观点或行为几乎是不可能的。
+
+也许你没有那么雄心勃勃地想要说服每个人，所以你从小事做起：你把自己确信的事分享给你的朋友，但后来发现没有人真正关心它，或者意识到它很重要。用一个温和点的例子来说，就像[播放你最喜欢的电视节目，他们却毫不在乎](https://link.zhihu.com/?target=https%3A//www.deathbulge.com/comics/206)。
+
+![](https://pic2.zhimg.com/v2-8aad6c3cf2e1066a37faa27aac90e461_1440w.jpg)
+
+我对实证学习策略的信心来自于我的个人经验和[我的元学习清单](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-02-25-how-to-learn-about-meta-learning-my-resource-list)。我全心全意地相信，像 SuperMemo 和 Anki 这样的间隔重复软件（SRS），是有效学习和高效学习的关键。如果你相信教育是未来，那么无论是对于个人还是集体，实证学习策略的知识就是开启这个未来的一把大钥匙。
+
+## 「每天都这样做似乎很累。」
+
+两年前，我正在用 Anki 复习。有位朋友瞥了一眼，对我正在做的事情起了兴趣。
+
+![](https://pic4.zhimg.com/v2-4bf2b2cf1adec43da404f6d502c70659_1440w.jpg)
+
+我们一边吃午饭，我一边给她简单演示。我**非常热情地谈论了**间隔重复和基本的记忆科学以及 Anki 的操作。当然，我还给她看了那条臭名昭著的遗忘曲线：
+
+![](https://pic2.zhimg.com/v2-12c6dc6d02f8e6759b014361efaffa6f_1440w.jpg)
+
+她听到终于有可能掌握一门外语的时候很兴奋。但有一点她很困惑：
+
+> 「如果我没有学过，我怎么能回忆起它呢？」
+所以我解释说，**为了**学习的评估（测试作为学习的手段）与**对**学习的评估（检查你学到了什么）是不同的。「从记忆中回想」的行为本身就是一个学习过程。然后我意识到，她的困惑可能是由于对记忆的普遍误解，误认为人的记忆就像电脑内存一样：
+
+> 人类遗忘、记忆和学习的功能结构与人造设备的对应过程是**不同**的。 [......] 我们认为自己像计算机一样活动，我们容易认为，将自己暴露在信息和步骤中，这些信息或步骤便会存储（即记录）到我们的记忆中——信息会自发写入记忆里。
+> 
+> 如果我们认为人类的记忆等同于计算机中的记忆，我们就不可能理解，从我们的记忆中提取信息会增加该信息之后的可提取性，而从计算机记忆中检索信息则对信息的状态没有影响。
+> ——[论记忆、遗忘和学习的共生关系](https://link.zhihu.com/?target=https%3A//www.taylorfrancis.com/books/e/9780203842539/chapters/10.4324%252F9780203842539-6)
+题外话：这个故事可能让你感觉我喜欢炫耀自己的知识。并非如此。我喜欢被证据说服，我以为其他人也是如此。但事实显然不是这样的。另外，我引用上述引文是为了说服读者。我没有用**为了**学习的评估和**对**学习的评估这样的短语来进一步混淆主题。
+
+她看起来......很茫然。有点像这样：
+
+![](https://picx.zhimg.com/v2-d121c79ee7ea7b869eded7ae583618bf_1440w.jpg)
+
+我记得我当时非常兴奋，同时也很紧张，我甚至要斟酌用词，试图尽可能地简化这些道理。现在回想起来，我却适得其反了。
+
+她很认真地听我说，说明她在思考并试图弄清楚，但我可以看出她仍然很困惑。而我越解释，她不知道的好像就更多 (就像在维基百科中不断点击超链接)，她就越困惑，所以我就不再说话，不再让整个情况变得不舒服。下面的独白是我对她当时的想法的想象：
+
+> 「他对这些东西这么热情，对自己这么自信，我觉得他是对的。」
+> 
+> 「但我还是不太清楚他指的是什么。我确实想学习日语，然而他说的东西太令人困惑了......」
+> 
+> 「我一开始确实很感兴趣，但我现在什么都不关心了。我干脆就假装我明白了，赶紧结束这场对话吧。」
+我永远不会忘记她那时说的，
+
+>  「每天这样做似乎很累。」
+我当时像是说「嗯......」我之后没再问过她尝试 SRS 的进展。我想，如果她真感兴趣的话，遇到问题时她会向我寻求帮助的。不出所料，我们再也没有谈论过这个问题，我也再也没提过 Anki。
+
+![](https://pic3.zhimg.com/v2-3a749c862cd297f550e678e27c54dde6_1440w.jpg)
+
+这些情况已经发生了无数次。我通常在外表上看起来平静如水，但内里却心如死灰。大家装作感兴趣 (可能是由于我很热情，看起来不感兴趣是不礼貌的)，却从来没有真正花力气去使用 Anki。有些人会真的去尝试，做几张卡片，复习了几天，然后说，「我试过了，Anki 没用。」
+
+可能是我想多了，但有时我感觉他们认为我说的东西没有价值，这像是对我的人身攻击。我知道这不是真的，它们当然是有价值的——我花了好几年时间来学习研究科学，并获得了使用 Anki/SuperMemo 的经验。可他们否定这个软件的时候，就像在否定我的知识和经验。
+
+## 如何给出学习的建议？这是个难题。
+
+### #1. 没有人关心**那么**多，好吗？
+
+当我第一次发现 Anki 时，我就想，「为什么我周围没有人知道这个？我得把这个分享给大家！」所以我就跟我的朋友们说起 Anki，但是没有人感兴趣。我向别人介绍过 Anki，每次都是非常令人沮丧的经历。(没想到吧，我还没说 SuperMemo呢。Anki 的学习曲线要平缓得多。Anki 都让他们觉得太难用了，如果我安利 SuperMemo，那还能成功吗？)
+
+更新：我从来都不是一个传教士，而是碰巧有机会才跟别人讲讲 Anki ，就像这样：
+
+![](https://pic4.zhimg.com/v2-1349f6fe5580c9c12f2856672f2216ff_1440w.jpg)
+来源 https://thejenkinscomic.wordpress.com/在很早的时候，我的确有一次主动提起 Anki，给我最好的朋友提供些自发的建议。后来，我确实也在不少场合提到 Anki，但只是在时机合适的时候，就像上文的故事。
+
+人们可能会对你精进技能或精通外语的方法感兴趣，但就是没有**那么**大的兴趣。他们当然也不希望突然进入小课堂去听学习和记忆的工作原理。
+
+我从来不喜欢安利之后再跟进，问「Anki 怎么样？你用它了吗？」这感觉就像是传销。而且，由于大多数人甚至懒得购买和下载这个 App，他们的回答通常是：「我忘了。我之后会去试试的。」然后谈话就在尴尬中结束了。
+
+### #2. 我不确定我是否真的需要，好吗？
+
+有时人们不断感叹「我想学习 X 或者我想获得更好的成绩」。你有多少次听到人们说他们想学习第二种外语？这就像那个一直说「我想减肥」的朋友。毕竟，他们可能只是在感叹，还没有准备好付出努力去改变。
+
+试图说服别人使用 Anki/SuperMemo 就像试图说服你的朋友定期去健身房。你可以谈论运动/举重的好处，谈论运动后的感觉有多好，谈论你的工作效率会有多高，等等。但是，如果他们不首先尝试，什么都不管用，而且更糟的是间隔重复在短期不见效，因为使用间隔重复软件是一个终身的追求 (就像学习一样) ：
+
+> 间隔重复关注长远，这或许可以解释为什么显式的间隔重复很不普及：很久才能收获回报，而且这种回报不好理解，却需要当即付出自律的代价，然而这个代价却很实在。
+> ——[Gwern《高效学习的间隔重复》](https://link.zhihu.com/?target=https%3A//www.gwern.net/Spaced-repetition)[2]
+### #3. 你为什么对它如此热衷？
+
+能够在 10 分钟的闲聊中，理解并意识到间隔重复软件的意义和应用的人，是非常罕见的。这与它的复杂性无关 (毕竟不是火箭科学)，而是关于意识：目前的学习方法是否存在的问题以及 Anki/SuperMemo 如何能解决这些问题。换句话说，如果我没有看到这些问题，为什么还要去改变？
+
+我有一个朋友正在学习德语。她的笔记本上一侧抄上德语词汇，另一侧抄上了对应的英语词汇。我便给她看了我的韩语 Anki 卡片：「看看这些美丽的图像！动图！句子卡！音频剪辑！大量沉浸式教学法！(曾用名：All Japanese All The Time (AJATT))，斯蒂芬·克拉申的输入假说！」然后我有另一个朋友，他正在为成为护士而学习。我便跟他讲 Anki的事：「为了解剖学可以用图像遮挡！」我觉得我对他隐瞒 Anki（具体来说是[图像遮挡](https://link.zhihu.com/?target=https%3A//ankiweb.net/shared/info/1374772155)）是错误的。在内心深处我想把这张表格拍他们脸上：
+
+![](https://pic4.zhimg.com/v2-3e28b8c275fa743da1226618132821af_1440w.jpg)
+图片来源：用有效的学习技巧提高学生的学习能力 https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full这是夸大其词，但你明白我的意思： 10 分钟的闲聊不足以传达这一切的意义和应用。事后看来，我所有的尝试本可以做得更好。
+
+ 也许我太过笃信间隔重复软件，结果我表现得居高临下，全然一股「你不懂学习，得我来教你 」的气场。
+ 
+
+ 也许是那些大胆的说法：「你将事半功倍。」(每当你听到这种说法时，有多少是真的呢？)
+ 
+
+ 也许是这样的情况：他或她想要的只是有人倾听学习的困难，而不是一些真正的意见或建议。
+ 
+
+这是《[我如何在没有去意大利便能通过非常困难的 [...] 意大利语考试——小贴士：326,538 次抽认卡复习很管用](https://link.zhihu.com/?target=http%3A//brianjx.altervista.org/)》帖子里的楼主所言：
+
+>  像许多语言教师一样，V. 从未听说过 Anki (但她知道 Reverso Context )。我向她展示了我如何学习意大利语词汇，以及一些学日语的方法。值得称赞的是，她确实下载了这个软件和一些牌组来自己试试。我相当肯定我离开两天后她就停止了。她声称对话是学习语言中最重要的事情。虽然我在某些方面同意，但对话不可能涵盖一种语言的所有词汇。
+### #4. 你的朋友需要亲自体验 Anki/SuperMemo 的魅力
+
+这一点是上面的推论：你的朋友不理解你的炒作，因为他们没有亲自体验过 Anki/SuperMemo 的魅力。即使是 [Michael Nielsen](https://link.zhihu.com/?target=https%3A//michaelnielsen.org/) 也很难坚持使用 Anki。正如他在《[增强长期记忆](https://link.zhihu.com/?target=http%3A//augmentingcognition.com/ltm.html)[3]》中提到的：
+
+> 我在开始使用 Anki 时遇到了困难。几个熟人强烈推荐它（或类似的系统），多年来我多次尝试使用它，但每次都很快放弃。现在回想起来，如果你想让它成为一种习惯，有很多障碍需要克服。
+> 
+> 是什么让 Anki 最终「扎根」成为我的习惯？是我开玩笑启动的一个项目。多年来，我一直没有真正学会 Unix 的命令行，而我对此很沮丧。我只学到了最基本的命令。掌握命令行对编程的人来说如有神助，所以学好命令行非常值得。所以，为了好玩，我想知道是否能用 Anki 完全记住一本关于 Unix 命令行的（薄）册子。
+> 
+> Anki 能做到！
+> 
+> 我选择了 O&#39;Reilly Media 的《Macintosh 终端袖珍指南》，Daniel Barrett 著。我并不是说我真的记住了这本书的全部内容。但我确实记住了书中的许多概念性知识，以及书中大多数命令的名称、语法和选项。没记住的命令都是我想象不出什么场景下能用上的。但我确实记住了大多数我可以想象出用途的命令。最后，我大概完成了书中 60% 到 70% 的内容，跳过或略过了那些与我无关的部分。不过，我的命令行知识还是大幅增加了许多。
+> 
+> 选择这个相当可笑但非常有用的目标，让我对 Anki 有了很大的信心。这让我很兴奋，让我明显感觉到 Anki 会让我很容易地学会那些以前对我来说相当乏味和困难的东西。这种自信反过来又使我更容易养成 Anki 的习惯。
+这与 SuperMemo 的[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading_step_by_step)[4]、Emacs 的[Org mode](https://link.zhihu.com/?target=https%3A//orgmode.org/)、[Vim](https://link.zhihu.com/?target=https%3A//www.vim.org/)、[Obsidian](https://link.zhihu.com/?target=https%3A//obsidian.md/)、[Roam Research](https://link.zhihu.com/?target=https%3A//roamresearch.com/)、[Arch Linux](https://link.zhihu.com/?target=https%3A//www.archlinux.org/) 或使用 SSD 而不是 HDD 的情况相同：你的朋友需要亲自体验这种魔力，才能被说服。这让我想起了这个 AskReddit 帖子：[你能用不到 100 美元买到什么改变生活的东西？](https://link.zhihu.com/?target=https%3A//www.reddit.com/r/AskReddit/comments/hvbvpz/what_life_changing_item_can_you_buy_for_less_than/)。当你看到这些评论时，你肯定会感到困惑：
+
+> 弯曲的淋浴杆怎么能改变生活？
+> 
+> 特大号的毯子？厨房里的锋利刀具？加重的毯子？垂直鼠标？改变生活？
+你不认为它们能够改变生活，因为它们没有改变你的生活，但它确实改变了评论者的生活。甚至更普遍的是，你可能不理解为什么你的朋友对新的园艺技术感到兴奋，觉得刺绣很有趣，ASMR 很放松，或者火车很迷人。这和 Anki/SuperMemo 的情况一样。当然如果 Anki/SuperMemo 把他/她的成绩提高了几个数量级，其好处不言自明。
+
+## 典型的 15 分钟对话是如何展开的
+
+比如说，你的朋友很慷慨，愿意听你絮叨 15 分钟的 Anki。
+
+1. 5 分钟讨论当前方法（重复阅读/逐字抄写笔记）的问题
+
+2. 5 分钟介绍间隔重复的优越性。这是你展示遗忘曲线和 Anki 如何解决遗忘的地方。
+
+3. 5 分钟介绍 Anki 的基本操作：如何给卡片打分，如何用两种基本的卡片类型（填空和问答）制作卡片
+
+根据我的经验，15 分钟是不够的，或者说，花多久都不够。说服本身就是一门艺术。我纯粹是出于利他主义才告诉别人 Anki 的。我很快就意识到劝说别人给我带来的挫折远比价值多，所以我就释怀了。
+
+>  错误的直觉和偏见（关于学习）的问题是，它们是众所周知的难以纠正。
+> ——[了解我们如何学习：一个视觉指南](https://link.zhihu.com/?target=https%3A//www.learningscientists.org/book)
+### 我同样存在认知偏差
+
+我自己就不太接受别人的推荐和建议。人们有时会谈论并与我分享他们所热衷的东西。我就想，「好吧......然后呢......？」我会遵循他们的建议吗？不可能。我会做他们宣扬的那件事吗？通常不会。所以，当我在向大家传播 Anki 的福音时，我也受到了同样的待遇，我很理解。以其人之道，还治其人之身而已。我想说的是，人都很难改变自己的观点。如果你告诉我 SuperMemo/Anki 是一坨屎，我简直会气炸了。
+
+## 结论
+
+你应该停止向朋友推荐 Anki/SuperMemo 吗？我不了解你和你的朋友，所以我不能简单推而广之。那么，有什么启示呢？如果你向朋友介绍 Anki/SuperMemo，不要显得太热情 ，否则他们会吓跑的 ([来源](https://link.zhihu.com/?target=https%3A//www.reddit.com/r/gaming/comments/ccr8c8/take_your_time_you_got_this/))：
+
+![](https://pic2.zhimg.com/v2-af1ec2749dbee05447917f8f52bee807_1440w.jpg)
+
+这是我开这个博客的原因之一：如果人们意识到我所说内容的价值，他们自然会被我的内容所吸引，所以我决定在网上分享我所知道的。也许有些人会遇见我的网站；然后有一部分人会感兴趣，并真的去试一试；然后另一部分人会发现学习的乐趣，体验到 SRS 的真正力量。
+
+如果你想了解更多，请查看我的文章[为什么 99% 的人从未学会如何学习以及如何成为那 1% 的人 (I)](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-03-19-why-99-people-never-learned-how-to-learn-and-how-to-become-that-1-i)和 [(II)](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-03-19-why-99-people-never-learned-how-to-learn-and-how-to-become-that-1-i)。
+
+
+---
+
+
+<!-- 源文件: 渐进阅读基本概念与操作介绍.md -->
+
+# 渐进阅读基本概念与操作介绍
+
+> [原文链接](https://zhuanlan.zhihu.com/p/313684185)
+
+在前文《[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)](https://zhuanlan.zhihu.com/p/307996163?utm_source=cn.wiz.note)》中，我通过类比进程切换，介绍了渐进阅读的整体概念和 6 个动作。
+
+本文将在此基础上引入 SuperMemo 中渐进阅读的细节概念和具体操作，带大家过一遍在 SuperMemo 里实践渐进阅读的流程。
+
+注：本文不提供下载资源，且以英文界面作为示例。并且，本文介绍的主要操作都是基于快捷键的，相信我，在渐进阅读中你不怎么会用到你的鼠标。
+
+## **概念**
+
+### **卡片**
+
+在 SuperMemo 中，卡片是我们每次阅读、摘录、改写、挖空、复习的基本单位。最常见的两种卡片是摘录卡片（Topic）和问答卡片（Item）。让我们先来了解一下它们吧！
+
+### 摘录**卡片 Topic**
+
+摘录卡片，就是用于阅读的文本。它可以是一整篇文章，也可以是几个段落，甚至是一句话。
+
+![](https://picx.zhimg.com/v2-ed2fbf25b61fd37d46c80c65f63fba47_1440w.jpg)
+
+![](https://pic2.zhimg.com/v2-8536b0d9dfefeebb3e9246e38f56180d_1440w.jpg)
+摘录卡片是我们用于生成问答卡片的基础。在渐进阅读中，摘录卡片会随着我们的深入理解，从完整的文章生成多个独立的片段，再逐步拆分出大量能够完整说明一个简单知识的句子。
+
+每一次摘录（高亮）文本，SuperMemo 就会生成一张对应的摘录卡片，以供后续阅读和处理。
+
+当一张摘录卡片已经提炼到满意的程度时，我们就可以对其进行挖空，生成问答卡片。
+
+### **问答卡片 Item**
+
+问答卡片，就是用于自我测试的问题-答案-对。在渐进阅读中，问答卡片通常是用挖空创建的。
+
+![](https://pic3.zhimg.com/v2-ec0383ff503824201d11e9f049550210_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-eddaaacc5a23a21964a9a82ed3c97840_1440w.jpg)
+问答卡片和摘录卡片的主要区别是，问答卡片需要我们主动回忆来测试自己是否记住该知识，而摘录卡片只用于被动阅读、改写、摘录。
+
+### **知识树 Knowledge Tree**
+
+知识树是渐进阅读中，随着我们的摘录、挖空而自动生成的大纲结构。
+
+![](https://pic3.zhimg.com/v2-d1914edd6878e6ef8717917b2c2c06aa_1440w.jpg)
+通过拖动、添加，我们可以手动调整知识树的结构，或添加新的卡片。
+
+### **优先级 Priority**
+
+优先级是指卡片在你的知识集合中的优先程度。渐进阅读使学习大量知识变得容易，但是如果我们不能有效的处理所有导入的知识，我们可能会浪费时间在低优先的材料上，而忽略了高优先的材料。
+
+在渐进阅读中，所有卡片都会按照优先级排序（有一定的随机化），这样就形成了一个优先级队列。
+
+当我们每天学习的时间用完时，没有处理完的待办材料将会被延迟。因此，只有优先级较高的卡片能够达到期望的保留率水平。
+
+如果我们某天没有完成 SuperMemo 安排的学习，不要有压力。有了优先级队列，我们已经做到了最好。只有优先级较低的材料会落下。
+
+![](https://pic1.zhimg.com/v2-96d2ea52310e70242af955defbb3c984_1440w.jpg)
+详情请见：[Priority queue 优先级队列 · 语雀 (yuque.com)](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/priority_queue%238092dba3)
+
+### **待办队列 Outstanding Queue**
+
+待办队列由所有已经到期的卡片组成。默认情况下，每处理 4 张问答卡片，就会出现 1 张摘录卡片。如果到期的所有问答卡片都被处理完毕，将安排剩下的摘录卡片。
+
+通常待办队列里的卡片会根据优先级排序，并加入一点的随机性。
+
+待办队列的完成进度将会显示在状态栏（Status bar）中：
+
+![](https://pic3.zhimg.com/v2-625dd9a115a21ca342d70750a3febaf0_1440w.png)
+这些数字分别代表：
+
+3360 it：集合中的问答卡片数
+2052 top：集合中的摘录卡片数
+188：待处理的问答卡片数
+233：待处理的摘录卡片数
+560：今天到期的所有卡片数（注：包括被自动延迟的卡片、今日新增的卡片）
+24.8%：目前的学习进度
+
+### **概念组 Concept Group**
+
+概念组就类似于 Anki 中的牌组，可以用来归类不同的卡片。
+
+![](https://pic4.zhimg.com/v2-700e62c0c20b20070d2bc3314e36c3e1_1440w.jpg)
+同时，概念组还可以设置对应的卡片模板和默认优先级。所有新增的卡片都会设为概念组默认的模板和优先级。
+
+## **操作**
+
+了解了基础概念后，让我们学习一下在 SuperMemo 中实践渐进阅读的几个具体操作吧！
+
+### **添加概念组**
+
+Alt + C，打开知识树的窗口。右键一个节点，建立一个文件夹（Folder）
+
+![](https://picx.zhimg.com/v2-08d7a5fc5a160d4572d2e538b673bd4d_1440w.jpg)
+
+点击文件夹节点，Ctrl + K 或右键，创建概念：
+
+![](https://pic3.zhimg.com/v2-1d7552de8065b23f88616e3d34409cf8_1440w.jpg)
+输入概念的名字，点击 OK 即可：
+
+![](https://pica.zhimg.com/v2-9016ff7f9219da283d01c13bc0e91e4c_1440w.jpg)
+注：新建的概念组会成为默认的概念组
+
+### **设置默认概念组**
+
+点击菜单栏上的电灯泡：
+
+![](https://pic1.zhimg.com/v2-9efb6e5a5d58e1b1fdd2313905ea360e_1440w.png)
+在左侧选择一个概念组，再点击 Accept
+
+![](https://picx.zhimg.com/v2-be956c83936029f5dcdf5fbe18e051c5_1440w.jpg)
+恭喜你，你已经设置好了默认的概念组，之后导入的文章都会添加到该概念组之中。
+
+注：勾选 Auto-apply 可以帮助你自动设置模板，这样新建卡片的时候就不用自己设置了。
+
+### **导入文章**
+
+这里只介绍导入可复制材料的最简单方式，其他材料的导入将会在后续文章中专门介绍。
+
+注：大部分操作只要有快捷键我就只会用快捷键。掌握快捷键是进行沉浸式渐进阅读的重要一环。
+
+一步一步来：
+
+在任何地方，Ctrl + C，复制你感兴趣的内容
+在 SuperMemo 中，Alt + N，添加一个新的摘录卡片
+在新生成的空白摘录卡片中，Ctrl + V，粘贴你复制好的文本
+
+![](https://picx.zhimg.com/v2-74fc12ae2313056c3178ccdb6e2fe0ab_1440w.gif)
+恭喜，你已经导入好了一篇文章！
+
+默认情况下，这篇文章会在 15 天内(不含当天)安排你阅读。
+
+如果你已经急不可待，Ctrl + Shift + J，然后输入一个数字，将卡片插入当天的待办队列的特定位置。
+
+![](https://pic3.zhimg.com/v2-55df129bfa01028cb92a26ffc1f07310_1440w.jpg)
+PS：这里你可能会对粘贴后的格式感到困扰，关于如何便捷的处理 SuperMemo 中的文本格式，我会将在后续教程中补充。
+
+### **阅读文章**
+
+Ctrl + L，开始你的学习，如果出现了一张摘录卡片，那么我们就可以开始阅读了。
+
+![](https://picx.zhimg.com/v2-25729548bb6f57f885fe7c1b53a5be1d_1440w.jpg)
+可能用到的快键键：
+
+E（或点击文本）：进入编辑模式
+Ctrl + F7：设置阅读点，下一次遇到这篇文章时，SuperMemo 会自动跳到阅读点（默认的阅读点是你最后一个进行摘录的位置）
+Esc：退出编辑模式，
+Enter（在退出编辑模式情况下）：完成阅读并处理下一张待办卡片
+Ctrl + D：忽略该卡片，SuperMemo 将不会再安排你复习该卡
+Ctrl + Shift + Enter：忽略并删除卡片内容
+Delete：删除卡片及其分支（就是说从这张卡片摘录或挖空生成的卡片也会一起删掉，慎用）
+
+如果在阅读中遇到很困难的片段，可以参考以下做法：
+
+> 来源：[处理难以理解的文章 · 语雀 (yuque.com)](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/additional_skills_in_il%23AlnQS)
+> 
+> 在增量阅读中，我们经常会遇到难以理解的材料。我们将需要提高分析能力，以帮助我们确定困难的原因。如果罪魁祸首是作者，则删除该文章。如果我们需要先巩固集合中的其他学习材料，则延迟阅读文章。如果我们需要更多知识储备，则延迟文章并导入更多相关知识的文章，以增进理解。别忘了**有些文本并不适合增量阅读**（例如，科学实验的描述，数学推导，源代码中的编程示例，案例研究等）。在这种情况下，请使用传统的全面分析方法，汇总分析结果，并使用SuperMemo跟踪自己的总结。
+> 
+> 这是解决增量阅读中复杂性的方法：
+> 
+> 从开头开始阅读文章。找到困难片段后，对其进行分析，并诊断出理解问题的原因
+> 
+> 如果本文的其余部分不太依赖困难片段，请将其摘录出来并继续阅读
+> 
+> 如果在不理解困难片段的情况下无法理解本文的其余部分，请选择以下选项之一：
+> 
+> 如果我们需要更多的知识来理解片段，请推迟文章（从元素菜单选择**Learning >> Reschedule** 或Ctrl+J **重新安排**时间）
+> 
+> 如果该片段过于复杂且没有阅读欲望（例如，由于语法，措辞，表述，逻辑等方面的错误），请删除该文章，并寻找替代材料
+> 
+> 如果决定使用Ctrl+J 推迟文章，请先确定需要哪些新知识，然后再返回困难的片段。
+> 
+> 列出字典条目、百科全书文章、网络上需要进一步处理的文章。将搜索的材料安排为单独的摘录卡片，或尝试立即搜索新知识
+> 
+> 当我们感觉自己能理解困难的文章时，估算所需的时间间隔，并且使用Ctrl+J设置间隔。如果文章包含高优先级知识，那么最好还是谨慎一点并安排尽早复习。
+### 摘录** Extract**
+
+选中你认为重要的内容， Alt + X，选中的文本会被蓝色高亮，并生成一张以选中文本为内容的摘录卡片。
+
+新生成的摘录卡片会在几日内安排再次阅读，这取决于原文本的优先级。
+
+> Shift + Alt + X 可以在摘录后直接设置摘录部分的阅读时间、优先级，不过普通的摘录一般够用了。
+关于摘录什么样的内容，这里有几点经验：
+
+不需要预备知识的事实内容
+有一定理解的知识片段
+重要的片段（可能不太理解，摘录出来只是为了后续处理）
+
+其实就是划重点，大家应该都划过，按照自己的习惯来即可。
+
+如果遇到难以摘录内容，可以直接编辑原文，写下自己的总结，然后摘录自己的笔记即可。
+
+简化卡片的技巧，请参考：
+
+[20 条知识表述规则（20 周年版）](https://zhuanlan.zhihu.com/p/269997143)
+[Anki高考的20条原则—来自《有效的学习：组织知识的20条原则》](https://zhuanlan.zhihu.com/p/219996956)
+[基于主动回忆的学习中的知识结构与表述](https://zhuanlan.zhihu.com/p/297790034)
+[间隔重复中的简化与冗余](https://zhuanlan.zhihu.com/p/283017134)
+
+### **挖空 Cloze**
+
+选中要挖空的关键词或短语，Alt + Z，选中的文本会被橙色高亮，并生成一张正面为挖空句子，背面为挖空内容的问答卡片。
+
+![](https://pic3.zhimg.com/v2-c158fbc2b3cae7740e29273951b38ac8_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-e93cbe5ba911bfd9d36375a234860bc7_1440w.jpg)
+该问答卡片也会在 1~30 天内安排复习（一般优先级高的都会在 5 天内复习）
+
+### **主动回忆**
+
+在使用渐进阅读几天后，我们可能会遇到第一张问答卡片。只需要先看正面回忆背面，然后查看答案自觉打分即可。
+
+![](https://picx.zhimg.com/v2-9917fc429a070c532f8abfd708bcc161_1440w.jpg)
+SuperMemo 的评分有 5 个档次，其中 1, 2 对应遗忘，3,4,5 对应想起，具体的评分标准有人总结为下图：
+
+![](https://pic1.zhimg.com/v2-a065a515087ad1340a327fff58c71dc6_1440w.jpg)
+当然，你也可以设定自己的标准，算法会解决背后的复习问题。
+
+### **设置优先级**
+
+新增卡片的优先级是由对应的概念组默认设置的。当然，我们可以做出自己的决定，设置一切卡片的优先级。
+
+Alt + P，呼出优先级设置菜单：
+
+![](https://pic1.zhimg.com/v2-9503c59f7dbe11b895fc47dd72b4f8e4_1440w.jpg)
+拖动滑块即可调整优先级。左边是高优先，右边是低优先。
+
+### **其他技巧**
+
+这里是一些不太好分类，但是可能会比较常用的技巧：
+
+### **常用快捷键**
+
+Ctrl + ↑：查看上一级，通常是你摘录出来的摘录卡片和问答卡片的原文。
+Alt + ←：查看上一张卡片，如果你做了摘录或挖空，上一张卡片就是你刚刚摘录或挖空的卡片。
+Ctrl + Shift + M：为当前卡片选择模板
+Ctrl + Shift + R：为当前卡片设置下一次查看的时间（一般不用，除非你觉得这个卡片很重要或者很不重要）
+Ctrl + Shift + 1：将选中内容统一格式。例如，一段文字为 12**3456**，选中 1 到 6，按下组合键，文字将统一格式，变成 123456。
+
+### **自动排序和自动延迟**
+
+自动排序是默认开启的：
+
+![](https://pic3.zhimg.com/v2-bdec35b281ccba6347ec39f100248b48_1440w.jpg)
+自动延迟需要自己手动开启：
+
+![](https://pica.zhimg.com/v2-53796ec1009b15d80dc03f03db6ca918_1440w.jpg)
+### **窗口布局**
+
+SuperMemo 的窗口非常多，我一般在复习时只留一个显示卡片的窗口：
+
+![](https://picx.zhimg.com/v2-02d3a3145dd048d74519af821029d3c1_1440w.jpg)
+可以通过拖动边框来调整窗口大小，在 Window 菜单中设置要出现的窗口，并用 Save custom layout 保存调整好的窗口：
+
+![](https://pic1.zhimg.com/v2-00bbdac0bdd147d5cf50ca6ad0919c02_1440w.jpg)
+### **参数设置**
+
+Tookit》Options 打开参数设置
+
+![](https://pic1.zhimg.com/v2-3114e29dcde380fd1b7afa9b22bc8acc_1440w.jpg)
+SuperMemo 就没什么参数好设置了，一个全局的遗忘指数（Forgetting index），默认为 10%，即每个卡片只有到遗忘率为 10% 时才会安排复习。
+
+Mdinight shift 就是更新每日待办队列的时间。默认是 0h，也就是午夜更新，熬夜党可以把这个调到 6h，也就是早上 6 点。
+
+Skip final drill 默认是不勾选的，也就是说，当你完成每日复习任务后，会进入 final drill 模式，final drill 会收集当天评分小于 4 的所有卡片，让你加强练习。但是在我看来，死记硬背是不好的，我就跳过了
+
+至于 Interval 这个，默认好像是 7 天，意思是如果间隔大于 7 天就会提示你一下，我嫌它烦人，就把间隔改成 36500 了。
+
+![](https://pica.zhimg.com/v2-abeeb554061b14cd698a373c95901666_1440w.jpg)
+## **结语**
+
+以上就是本期介绍的全部内容，这些操作是 SuperMemo 中最常用也是最有用的。如果你有任何疑问，欢迎评论区讨论。
+
+也欢迎阅读 SuperMemo China 志愿者维护的 SM18 中文帮助手册：
+
+[SuperMemo 18帮助文档 · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/help)
+
+
+---
+
+
+<!-- 源文件: 示范：我的渐进阅读工作流程.md -->
+
+# 示范：我的渐进阅读工作流程
+
+> [原文链接](https://zhuanlan.zhihu.com/p/322673517)
+
+原文：[Demonstration: My Workflow of Incremental Reading | Master How To Learn](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2018-12-09-demonstration-my-workflow-of-incremental-reading/)
+
+在我之前的《SuperMemo 中渐进阅读的意义》：[第一部分](https://zhuanlan.zhihu.com/p/322497441)和[第二部分](https://zhuanlan.zhihu.com/p/322584755)中，我尽力解释了渐进阅读。在这篇文章中，我将向你展示我的 IR 工作流程。
+
+注意：
+
+这是对渐进阅读的基本介绍。这个演示有些简化。将此视为渐进阅读 101。
+有很多方法，没有一个完全正确的方法。我希望你能在阅读后创建和定制自己的工作流程。
+## **快速术语回顾**
+
+SM = [super-memo.com](https://link.zhihu.com/?target=http%3A//super-memo.com/) 的 SuperMemo；而不是 [supermemo.com](https://link.zhihu.com/?target=http%3A//supermemo.com/) 的课程、移动应用、应用。它们是不同的。
+
+SuperMemo 中的项目 = [Anki](https://link.zhihu.com/?target=https%3A//apps.ankiweb.net/) 中的卡片；IR = [渐进阅读](https://link.zhihu.com/?target=https%3A//www.supermemo.com/help/read.htm)[1]
+
+## **概要**
+
+导入原材料
+处理
+第 1 次处理（摘抄重要片段）
+第 2 次处理(可选：根据上下文修改，改变措辞等)
+第 3 次处理（将重要的部分转化为问答/填空）。
+渐进阅读的 5 个基本技巧
+我就用[这篇文章](https://link.zhihu.com/?target=https%3A//www.ncbi.nlm.nih.gov/pmc/articles/PMC6131264/)来做示范，也就是我在《[知识迁移介绍](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2018-10-30-introduction-of-transfer-of-knowledge)》中用的那篇文章。
+
+## **1. 导入原材料**
+
+TL;DR：只要将整篇文章选中，Ctrl+C 复制，然后打开 SuperMemo，Ctrl+N 粘贴即可。
+
+选中整篇文章或你想要的部分。然后用 Ctrl+C 复制
+
+![](https://pica.zhimg.com/v2-23fb923c9f017aaffbbb21ecfdc8a3dc_1440w.jpg)
+
+2. 打开 SuperMemo。按 Ctrl+N 导入文章
+
+![](https://pic3.zhimg.com/v2-3fb083cd0ef4449d9b3c7b8f69f90d10_1440w.jpg)
+
+3. 导入的文章有很多 HTML 标签。用 F6 过滤一下。在字体、间距和样式之间进行实验。不过，我并没有真正使用这个过滤功能。
+
+这时你要设置参考标签：标题，日期，作者，来源，链接等。要做到这一点，选中文字，Alt+Q 设置相应的类别。最起码的就是标题，我大多数时候都是这样设置的。
+
+![](https://picx.zhimg.com/v2-c3a5eb3648e15ee35a5f6a52e04f2b97_1440w.jpg)
+
+我在所有文本中都使用了统一的字体风格和大小。我的 SuperMemo 集合中的所有内容都是常规的 Calibri 和 17 号。所以无论原材料的字体样式和大小，导入时都是常规的 Calibri 和 17 号。这样就避免了字体样式和大小的不规范，也避免了 「摘抄和填空字号变得比原文大」的问题。
+
+做同样的事情：
+
+Tools → Options → Fonts → Stylesheet → edit
+
+这是[我的样式表](https://link.zhihu.com/?target=https%3A//github.com/MasterHowToLearn/SuperMemo/blob/master/stylesheet.css)
+
+> 译者注：可以试试我的《[渐进阅读懒人样式](https://zhuanlan.zhihu.com/p/318653942)》
+注意：这也会改变其他一些样式。谨慎使用。在进行任何修改之前，请先保存一份原件。
+
+如果因为某些原因，你无法获得正确的格式，我建议先用记事本冲洗一下。在 Ctrl+N 到 SuperMemo 之前，先粘贴到记事本上，把所有的 HTML 格式剥离掉就可以了。
+
+> 译者注：更多材料的导入方法，可以参考《[渐进阅读材料导入与预处理](https://zhuanlan.zhihu.com/p/321701995)》
+### **一定要用 IE 浏览器吗？**
+
+官方指南建议并使用 Internet Explorer。但这不是必须的。我使用的是 Firefox。Chrome 也可以。据我所知，最大的区别是，用 Internet Explorer，你可以从所有打开的标签页中导入所有的文章，而用 Firefox/Chrome，你必须一个一个导入。我一个一个导入，更喜欢手动选择我想要的部分。如果你的所有来源都是来自Wiki，那么一次导入是很好的；如果不是这样，就会变得很混乱。
+
+### **带有图片的文章**
+
+你导入一篇文章的图片，只有在有互联网连接的情况下，它们才会出现。当你不这样做的时候，它们会变成 X 这样。
+
+![](https://pic2.zhimg.com/v2-455761a8844352785d91f3e1d2110f63_1440w.jpg)
+
+这个问题我花了很长时间，也花了很多运气才弄明白：[如何在离线时，在渐进阅读时显示文章中的嵌入图片？](https://link.zhihu.com/?target=http%3A//supermemopedia.com/wiki/How_do_I_display_embedded_images_in_articles_during_Incremental_Reading_when_offline%253F)
+
+tl;dr：在线时，保存文章。然后，打开保存的文章，复制并粘贴到 SuperMemo 中。即使离线时也会显示图片。不需要下载图片。有一点要注意：你不能移动你保存的 html 及其文件夹的位置。一旦移动了，SuperMemo 中的图片将不会再显示。
+
+## 2 处理
+
+### **初步处理**
+
+导入后，我按 Alt+P 定义其优先级。
+
+> _使用 Alt+P 来设置每个元素的优先级，从 0% 到 100%。注意，0% 对应的是高优先级。
+注意：这是另一个不直观的操作。当你在调整元素优先级时，请记住 0% 意味着最高的优先级，而 100% 意味着最低的优先级。
+
+![](https://picx.zhimg.com/v2-8c884cfcccf110ba3b08d8ac1641b41f_1440w.jpg)
+
+如果你不想记住这种反直觉的规则，你可以直接滑动条。重要的就往左滑，不重要的就往右滑。我大多数时候都是直接滑动条。
+
+如果是一篇比较难的文章，我会 Ctrl+J 安排在 2 周以后。为什么是 2 周呢？个人喜好。对于某一篇文章，我可能认为 2 周的时间足够我在处理它之前获得足够的预备知识。如果是一篇重要的文章，我就会把滑块向左滑动；如果是一篇有点意思但不重要的网络文章，我就会把滑块滑到最右边。
+
+### **阅读文章**
+
+你可以立即开始阅读文章，也可以等到 SuperMemo 给你看（默认间隔是一天，也就是说 SuperMemo 明天就会给你看那篇文章）。你自己决定。为了演示的目的，我现在就阅读它。
+
+在阅读的过程中，我会摘抄（Alt +X）重要的句子或段落。摘抄的句子或段落仍然是摘抄卡片。记住你的最终目标是将摘抄卡片转化为项目。
+
+这就是结果：
+
+![](https://pic2.zhimg.com/v2-dde8b15eb3e47295056105a1a216ff13_1440w.jpg)
+
+![](https://pic3.zhimg.com/v2-f3f5de641d1321c4db2daee37abf4f34_1440w.jpg)
+
+这就像你在传统的阅读中所做的那样：当你看到重要的东西时，你会用荧光笔来突出它。这在 SuperMemo 中没有什么区别。那些蓝色的摘抄是我认为重要的部分。
+
+![](https://pic2.zhimg.com/v2-3fd07b9d49169978970b3d31745a2ded_1440w.jpg)
+
+摘抄整段的原因：
+
+对目前的我来说，太难理解了
+我想跳过这一段继续读，但我觉得其中有重要的内容
+匆匆一瞥之后，我会摘抄整个段落。SuperMemo 会在以后（几天或几周）将它作为一个摘抄卡片显示给我。然后我可以阅读它，并决定它是否真的重要到可以变成项目。如果不重要，我可以直接按删除键删除该摘抄卡片的段落（不使用活动窗口）。
+
+### **你的回合**
+
+记住，哪些句子要摘抄，哪些句子要省略，完全取决于你。我们有不同的先验知识：我认为重要的东西可能与你无关；你可能认为某些东西很重要，但我没有摘抄；你可能会少做许多填空。这完全没问题。这一切都取决于你。
+
+在这个阅读环节结束后（我还没读/读完整篇文章），在进入下一个元素之前，记得用 Ctrl+F7 设置阅读点。下次看到同一篇文章时，SuperMemo 会显示你最后的阅读点，这样你就可以继续阅读了。
+
+### **第 2 次处理**
+
+你可以在其摘抄后立即开始处理你的摘抄卡片，或者等到 SuperMemo 向你展示它们。同样，你的决定。就我个人而言，如果我知道如何将一个特定的摘抄卡片（句子）变成一个项目，我会立即这样做；对于整个段落的摘抄卡片，我通常会等到 SuperMemo 向我展示它们。
+
+再参考一下这个例子：
+
+![](https://pic1.zhimg.com/v2-a27f14f8b2e0eaf57573bcb09ca07e6c_1440w.jpg)
+
+下面是第一句话的演示：
+
+这是原汁原味的，没有任何修改：
+
+![](https://picx.zhimg.com/v2-231b4ef01814bb64c5f7b39a1d16d9df_1440w.jpg)
+
+改写成：
+
+![](https://pica.zhimg.com/v2-f5204979233b9ddb32373096a0ac761e_1440w.jpg)
+
+然后我做了两个填空（Alt+Z）。
+
+![](https://picx.zhimg.com/v2-7eecfd4631ea18f6cfd9be128bb350ff_1440w.jpg)
+
+产生两个填空：
+
+![](https://pic3.zhimg.com/v2-af52e47268f157b2b82b6d3a29cabf44_1440w.jpg)
+
+![](https://picx.zhimg.com/v2-8db86f32c7ea0b10c41340ed85f60f7d_1440w.jpg)
+
+另一个例子：
+
+![](https://pica.zhimg.com/v2-4d83666a72e1a08a51fcb100c3bb94c4_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-2b93b4e6f666ba1c8d536d5ccfc0c06f_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-ced9e97cad319a1ef8277c42cd350ff1_1440w.jpg)
+
+对于每一个经过处理的摘抄卡片，无论是通过制作填空还是问答，你都必须通过 Ctrl+D 来忽略该摘抄卡片。忽略意味着SuperMemo 将不会再向你展示该摘抄卡片。它的目的已经达到了，你已经把它变成了可再调用的信息。
+
+你的目标是把所有的摘抄卡片变成填空或问答。这是我的知识树的最终结果：
+
+![](https://pic2.zhimg.com/v2-8e362bb3c9460f2de685c1b3d94cb17f_1440w.jpg)
+
+你看所有的 T 都是黄色的，意思是所有的摘抄卡片都被忽略了。蓝色的 L 是指项目，我在记忆这些项目。
+
+一开始可能看起来令人生畏，这样的过程需要很多时间。但你可以循序渐进，分几个星期甚至几个月来做。IR 最突出的特点是间隔算法。SuperMemo 为你安排好一切。你不必一气呵成，从头到尾地编辑。我主要是根据间隔算法把摘抄卡片变成填空和问答。
+
+### **第 3 次加工**
+
+过了一段时间（大概几天），复习的时候，SuperMemo 会给我看我从摘抄卡片中制作的填空/问答。我将对这些项目进行复习和评分。你可以重新制定措辞，删除它，把它做成更多的填空，随你喜欢。
+
+然后再过一段时间，SuperMemo 会给我显示原文最后的阅读点。我该怎么办呢？继续阅读文章，摘抄我认为重要的部分。第 3 次处理基本上是重复和交替第 1 次和第 2 次处理。
+
+当你真正读完整篇文章后，按 Ctrl+D 忽略文章。
+
+恭喜你！你已经完成了渐进阅读。
+
+## **3. 渐进阅读的5个基本技巧**
+
+### **1. 渐进阅读的渐进**
+
+记住每个步骤和过程之间是有间隔的：
+
+导入原材料
+处理：摘抄重要片段；根据上下文修改，改变措辞等；将重要片段转化为问答/填空
+导入一篇文章后，通常是一天后才可以开始阅读。
+
+在第一次阅读之后，可能是一周之后才能在复习环节看到并阅读同一篇文章。
+
+摘抄完重要的句子后，可能要一周后才能在复习环节上看到你的摘抄卡片。
+
+在知道如何将摘抄卡片变成填空或问答之前，你可能需要几次被动复习（几周）。在制作填空或问答之前，你要允许一些时间来沉淀。有时，我在决定一个摘抄卡片值得变成填空或知道如何挖空之前，会被动地复习多次。有时候，我曾摘抄过一些我认为很重要的句子；然后第二天，当 SuperMemo 呈现在我面前时，我认为它不重要，会直接删除。
+
+所有这些间隔的好处是选项：你可以决定在一个小时内压缩所有这些步骤，或者让 SuperMemo 为你安排这些步骤。所以叫渐进阅读。
+
+当你刚开始，原始资料少的时候，似乎并没有什么好处，甚至不喜欢等上一天才能再读同一篇文章。但是，随着时间的推移，拥有越来越多的文章、研究论文、参考书等收藏，你就会明白和体会到让 SuperMemo 自动为你安排复习任务的意义和必要性。排期的事情交给 SuperMemo 来做，你可以专注于重要的部分：阅读和记忆。
+
+### **2. 摘抄的终极目标：填空或问答**
+
+主动回忆——所有的信息片段最终都将转化为主动回忆的材料，如问答对、隐语删除、图片识别测试等。
+
+复习摘抄卡片属于被动复习。这与填空或问答有明显的区别，因为你不会从中检索答案。你可以被动地复习几遍摘抄卡片，但它的最终归宿是填空或问答。
+
+对于一篇文章：
+
+文章→（可选：段落）→摘抄（句子）→缩短和修改的句子→填空/问答。
+
+摘抄卡片可能很长（段落）或很短（单句）。对于较长的摘抄卡片，你要阅读并摘抄更多的摘抄卡片（句子）；对于非常短的摘抄卡片，你可以立即生成填空或问答。无论怎样，它们的最终目的都是要转化为填空或问答。
+
+这就是知识提炼。想象一下，就像把一块石头雕琢成雕塑一样：你必须削去多余的部分。
+
+### **3. 夯实基础**
+
+《[有效学习：形成知识的二十条规则](https://link.zhihu.com/?target=https%3A//www.supermemo.com/en/articles/20rules)[2]》的规则 3 适用于渐进阅读：
+
+> 学习整体的大局越简单越好。简单的模型更容易理解和吸收。你以后总可以在它们的基础上继续发展。
+> 不要忽视基础知识。记忆看似明显的东西并不是浪费时间。
+从上面的例子中可以看出，我总是从基本概念、术语、中心思想开始摘抄，然后再往上走。这与 Michael Nielsen 在《增强长期记忆[3]》中提到的他使用 Anki 的做法很类似：
+
+> 我关于 AlphaGo 的问题从简单的“围棋棋盘的大小？”发展到关于系统设计的高阶概念性问题——AlphaGo 是如何避免过度推广训练数据的，卷积神经网络的局限性等等。
+这与我在《[SuperMemo 中渐进阅读的意义：第一部分](https://zhuanlan.zhihu.com/p/322497441)》中提到的想法类似
+
+![](https://pic4.zhimg.com/v2-eb77218e864a1cf13e2aa21159dad0df_1440w.jpg)
+
+### **4. 添加上下文**
+
+由于你是从文章的一段话中摘抄句子，上下文必然会丢失。你必须自己添加，才能提供足够的检索线索。
+
+比如说
+
+> 「骨鱼最早出现在志留纪」
+> 「骨鱼最早出现在[...](纪)」
+如果没有检索线索（纪），答案也可以是一个地方。这种歧义是非常不可取的。当复习时，你的脑海中开始出现其他类型的答案时，你就知道你应该增加更多的上下文提示。
+
+你不一定要在第一次就把它完美地独立出来。我是循序渐进的。顾名思义，关键是循序渐进。
+
+> 渐进主义——所有的改变都会随着时间的推移而逐渐发生，与你选择的材料的优先级有关，并与逐渐增加的记忆痕迹的强度相一致。
+### **5. 简化你的摘抄卡片/填空/问答**
+
+以下修改后的文字来自《[渐进阅读导论](https://link.zhihu.com/?target=https%3A//www.supermemo.com/help/read.htm)[1]》：
+
+> 在将摘抄卡片转换成问答的同时，你应该确保你的问题简单明了。
+例如，如果你有以下摘抄卡片：
+
+> 互联网是在1969年由高级研究计划局（ARPA）签订的一份合同下建立的，该公司连接了美国西南部大学（UCLA、斯坦福研究所、UCSB和犹他大学）的四台主要计算机
+你可能会发现，当复习间隔变得足够长时，你可能实际上无法回忆起ARPA机构的名称，甚至忘记互联网开始的年份。然后，您可以选择一个重要的关键字，例如1969，并使用挖空生成以下问答：
+
+> **问题**：互联网是在**[…]** 年根据高级研究计划署（ARPA）的合同开始的，该机构将美国西南部大学（UCLA、斯坦福研究所、UCSB和犹他大学）的四台主要计算机连接起来。
+> **答案**：1969年
+在学习过程中，您需要通过手动编辑将上述问答卡片修改成更简洁易懂的形式：
+
+> **问题**：互联网是根据ARPA代理的一份合同于**[…]** **年**启动的
+> **答案**：1969年
+或者更好：
+
+> **问题**：互联网始于**[…]** **年**
+> **答案**：1969年
+主要原因是简洁。去掉不相关的信息，你就不会把时间浪费在被动复习那些不可能被记住的信息上，因为只有主动回忆的材料才会被记住。
+
+## **结束语**
+
+就当这是《渐进阅读101》吧。这是我希望在我刚开始探索渐进阅读时读到和知道的。希望这能澄清「到底什么是渐进阅读？」，这些技巧对你有帮助。
+
+## 下一篇
+
+[叶峻峣：【翻译】在渐进阅读中，创建摘录卡片后该做什么？](https://zhuanlan.zhihu.com/p/352611888)
+
+
+---
+
+
+<!-- 源文件: 最好的阅读方式是高度语境化的.md -->
+
+# 最好的阅读方式是高度语境化的
+
+> [原文链接](https://zhuanlan.zhihu.com/p/481236886)
+
+一本书应该如何阅读，在很大程度上取决于这本书、读者和背景。你读的有些文本基本上只是为了娱乐；有些文本你会跳过，只挑重点（[熟练的阅读通常是非线性的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3S7mmbydSX5Kx3V8mvkWLBcRGCgtroaY8XPz)[1]）；有些文本你会想深入地内化（例如[写你所读，以求内化](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo)[2]）。这种差异有些是由作品本身导致的，但大部分取决于你读书时的动机和感受。
+
+正如 Adler 和 van Doren 所言：「每本书的阅读速度不应慢于它所值得的速度，也不应超过能让你理解、带给你满足感的速度。」（第 43 页）我发现这在实践中非常难做到！这需要积极的监督和自我控制，根据我当时的注意力和理解力来调整速度。
+
+数字化阅读体验往往不能让人认识到这种灵活性，反而强化了线性、完成主义阅读的隐性预设。
+
+## 参考文献
+
+Adler, M., & van Doren, C. (1972). *How to Read a Book*. Simon & Schuster, Inc.[3]
+
+## 链接至本文（已汉化）
+
+[写你所读，以求内化](https://zhuanlan.zhihu.com/p/446944151)
+[助记媒介应该允许读者对他们收集的卡片进行控制](https://zhuanlan.zhihu.com/p/481230325)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[The best way to read is highly contextual (andymatuschak.org)](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6e3AFda6oSsusEmf8vWevMaNLggQ9bCEgFkf)
+
+
+---
+
+
+<!-- 源文件: 为什么学习的同时不该记笔记！—— 三个致命的原因.md -->
+
+# 为什么学习的同时不该记笔记！—— 三个致命的原因
+
+> [原文链接](https://zhuanlan.zhihu.com/p/441291579)
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+原文：[3 Fatal Reasons Why You SHOULDN&#39;T Be Taking Notes When Studying - Master How To Learn](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2019-08-29-3-fatal-reasons-why-you-shouldnt-be-taking-notes-when-studying/)
+
+## 摘要
+
+3 个原因：
+
+ 忽略机会成本 —— 还有更多学习方法远胜于记笔记
+ 
+
+ 行动与目标不一致
+ 
+
+ 把「忙碌」当作「有用」。
+ 
+### 补充信息
+
+这里所说的「记笔记」是指自学时做笔记：写课本内容的摘要，在笔记上标记重点，之后反复阅读来复习。我指的不是在课上或讲座上记笔记，总结教授或者老师的课堂内容。
+
+标记重点：在这篇文章中，特指在笔记上标记重点，而不是在课本上标记，因为有的文献指的是这个
+
+摘要：将教科书的内容重写为你自己的简化版本。
+
+反复阅读：反复阅读笔记来复习。
+
+## 「记笔记」的文献综述
+
+让我们再来看看这篇论文，[用有效的学习技巧提高学生的学习能力](https://link.zhihu.com/?target=https%3A//journals.sagepub.com/doi/10.1177/1529100612453266)。从这个表格中，你可以看到，「标记重点」、「摘要」、「反复阅读」的效用均评定为「低」。
+
+![](https://pic2.zhimg.com/v2-6f17cb0e52b981ea7acd4155964f31bd_1440w.jpg)
+记笔记则把雷踩了个遍，因为其中有三种最无用的学习方法：标记重点、摘要、反复阅读。坦率地说，记笔记完全是在浪费时间。你不必相信我的话，自己看看这篇论文的结果吧。
+
+## 1. 机会成本
+
+许多年前，我不断研究如何更好地记笔记。遇到[康奈尔笔记法](https://link.zhihu.com/?target=https%3A//pdf.wondershare.com/mobile-app/cornell-note-taking-system.html)后，我笃定这是最佳的记笔记方法。但 …… 我从未质疑这方法本身的有效性：
+
+>  我到底应不应该记笔记？
+你每一次选择都要付出机会成本：选择一个机会，便舍弃其他潜在机会的最高价值。考虑到这一点，问题便不是「如何做笔记」，或「怎么记才更好」，而是「应不应该记笔记」。
+
+在本案例中，当你记笔记的时候，机会成本就是做练习题或复习抽认卡。你放弃了其他效用高的学习方法（如间隔重复[1]、测试练习[2]），乃至效用中等的方法（如详尽询问、自我解释和穿插练习[3]），而采用了效用低的学习方法，即标记重点、摘要和反复阅读。「记笔记」就像在你面前摆放一堆金子，一堆银子，然而你却选择了空塑料瓶 ......显然是不值的。
+
+### 注意
+
+如果你执着于做笔记，请使用[康奈尔笔记法](https://link.zhihu.com/?target=https%3A//pdf.wondershare.com/mobile-app/cornell-note-taking-system.html)，其笔记结构迫使你去思考和处理文本。这比通常的要点法要好（右）。
+
+![](https://pica.zhimg.com/v2-dca91c78698afceea11957d698f8a5f2_1440w.jpg)
+[来源](https://link.zhihu.com/?target=https%3A//pdf.wondershare.com/mobile-app/cornell-note-taking-system.html)和[来源](https://link.zhihu.com/?target=https%3A//www.pinterest.com/pin/783626403884345442/)
+
+## 2. 南辕北辙、瞄日射月（非故意）
+
+对记笔记本身有个问题 —— 你为什么要记笔记？「因为我想为我的考试做准备，以获得更好的成绩。」但现实是，你所做的事情对你的目标没有任何帮助（即使有也不多）。你的目标（更好的成绩）和你采取的行动（记笔记和随后的重复阅读）是不一致的；记笔记不会让你获得更好的成绩。
+
+假设你正在学习生物学，必须了解心脏的解剖结构。你照着课本临摹，在笔记本上画出你自己的版本，认为这会帮助你学习。实际上并非如此。
+
+摘自[学习是生成性活动：促进理解的八种学习策略](https://link.zhihu.com/?target=https%3A//www.amazon.com/Learning-Generative-Activity-Strategies-Understanding/dp/1107069912)：
+
+>  虽然绘图的目的是促进生成性的处理，但学习者可能不善于绘画，进而可能会产生不相干的认知加工，浪费了有限的加工能力，却对学习目标毫无用处。
+在这篇文献中，绘图只意味着将心脏的描述转化为图形表示。如果你只是把心脏从课本上临摹到你的笔记上，那就更糟糕了——这对你的目标几乎无用。无论它多么逼真漂亮，都无济于事。为什么呢？想想你的目标：希望在考试时能回忆起心室（心房、心室）的名称，记住血液流动的方向，了解背后的机制。但你正浪费时间在笔记上复制、美化心脏。你要做的是练习对目标答案的提取，而不是（对一个心脏）完善你的绘画技巧。它没有任何作用，除非是为了画画 —— 而你的笔记上现在有它。除了图形笔记，要点笔记也是如此。（请看第二部分的进一步阐述）
+
+![](https://pic1.zhimg.com/v2-c44e2e3d9ba7db7dce5d734af9746740_1440w.jpg)
+[来源](https://link.zhihu.com/?target=https%3A//www.reddit.com/r/SketchDaily/comments/44q4sj/february_8th_the_human_heart/)
+
+### 那什么是真正有效的？
+
+对于概念性知识，你要通过[渐进阅读](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2019-08-06-supermemos-incremental-reading-explained)[4]来一边阅读一边学习，然后在 Anki 或 SuperMemo 中创建填空/问答题，记住所读内容。
+
+对于图形性质的图画，使用 Anki 中的[图片遮挡插件](https://link.zhihu.com/?target=https%3A//ankiweb.net/shared/info/1374772155)或 SuperMemo 中的图片遮挡模板。当天先测试一次，隔几天后再来一次，然后是几周后。之后，你可以来一次「头脑倾泻」：在不参考课本的情况下，纯粹凭记忆画出心脏。这么做与单纯把图形从课本抄到笔记本上截然不同。
+
+![](https://pica.zhimg.com/v2-ac22e8f4116c4ae7470ed3f763345e2c_1440w.jpg)
+
+![](https://pic3.zhimg.com/v2-4c75298a7d184af399e5e725027b9c06_1440w.jpg)
+## 3. 认知偏差：「水磨工夫」，以为有功
+
+无功之劳感觉像是下功夫了，但并不有价值或者有用。多任务处理是完美的例子：在各种任务之间来回切换会让你感到忙碌和富有成效，但其实完成没有多少（高质量的）工作。做笔记也是如此。
+
+这种感觉危害尤甚，而且难以克服，因为虚假的成就感和进步感会笼罩着你。你记了整整一个小时的笔记，看到你的劳动成果（一页又一页的漂亮笔记）摆在你面前，便感觉极佳，成果满满，着实辛苦。你认为「我已经学习了」或「我已经看过一遍材料了」，但这种感觉受到你对学习的错误判断影响，已然被全盘误导了。
+
+用荧光笔标记重点是「水磨工夫」，写要点是（很大程度上）也是「水磨工夫」，反复阅读你的笔记也是「水磨工夫」。你抄了多少重点或是高亮了多少笔记，均不是学习效果的有效指标。学习 ≠ 无功之劳；完成任务 ≠ 完成「合适」的任务。
+
+![](https://pic4.zhimg.com/v2-98bc5d25d28439883e4678c2faad1709_1440w.jpg)
+[来源](https://link.zhihu.com/?target=https%3A//aminoapps.com/c/studying-amino/page/blog/my-notes/QdZe_aPhXuebdL8w4pkpKJJWKpLMRl3z2YS1)
+
+## 解决方案？
+
+干脆不记笔记，开始用 Anki[5] 或 SuperMemo[6] 吧。参考上面的表格，选择效用高的方法，比如间隔重复、练习测试；或效用中等的方法，如详细询问、自我解释、穿插练习。看看我的其他文章以了解有关 Anki 或 SuperMemo 的内容。
+
+
+---
+
+
+<!-- 源文件: 渐进阅读：卡片刷不完？拥抱优先级！.md -->
+
+# 渐进阅读：卡片刷不完？拥抱优先级！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/364351955)
+
+> 本文使用 [Zhihu On VSCode](https://zhuanlan.zhihu.com/p/106057556) 创作并发布
+## 刷完每日卡片：这真的值得吗？
+
+不知道各位读者是否有这样的经历：自己的 Anki/SM 每天有几百张卡片需要刷，刷完可能已经过了好几个小时，想想明天起来后又要面对这么大的复习量，很烦躁，觉得生活失去了希望。哪天时间不够充裕，没有刷完，剩下的卡片被积压到明天，感觉自己再也学不动了……
+
+在高三，我几乎每天都要刷 600+ 张卡片，那时我把刷完卡片叫做“日清”，意为每日清空卡片。在用 SuperMemo 之前，我一直是一个日清派，认为这样才能发挥算法的全部潜力，保持自己的遗忘率始终不高于 10%。
+
+![](https://pic2.zhimg.com/v2-59f41209ceea51c8fbc3b53e869bb771_1440w.jpg)
+可当我步入大学，各种各样的突发任务、数不尽的 deadline，让我难以继续维持日清的节奏。往往自己用课余时间、排队时间、吃饭时间刷完了一天的卡片，却发现只有睡觉前的一丁点时间来完成学校的作业、推动项目的进展。
+
+这显然是有问题的，Anki 侵占了我太多时间。但是 Anki 确实对我有很大的帮助，这事肯定不是非黑即白的。于是乎，问题就转化成了如何在 Anki 和个人学业、工作、生活中达到平衡。
+
+这样一来，我们就告别了日清，但也要开始思考，每天到底要刷多少卡片，剩下多少卡片，才是合适的。
+
+## 联锁悖论：如果每类任务不可拆分，那该怎么平衡？
+
+当我们有了扬弃日清的念头后，就必须直面一个问题：刷多少卡片才是平衡？刷哪些卡片才是平衡？假如我们将日清的策略放在 Anki 之外，也就是当其它事情都做完了，再来刷 Anki，刷多少是多少。
+
+这样看似解决了平衡的问题，但本质上和前者没有区别，我们做完了一天的事情，然后剩下一点时间刷 Anki，可能会错过很多重要的复习。
+
+这就是联锁悖论，如果我们把写作业、看书、预习、刷卡片都看作独立的块，它们内部是联锁在一起的，那么总会有个块/多个块做不完。
+
+![](https://pica.zhimg.com/v2-550438d99afbd57eb17e0afeccc5e9c6_1440w.jpg)
+而且，大部分事情都是边际效益递减的，每刷一张 Anki 卡片，后续卡片的价值会不断下降。那么，将这些块打散，穿插在一起似乎就能解决问题了？是不是很神奇？
+
+![](https://pica.zhimg.com/v2-0281f9a7797a6343fd5bef5367e827d4_1440w.jpg)
+## 问题未解决：卡片的价值是不同的！
+
+哈哈，细心的读者是不是觉得被耍了？边际递减不能这么用。如果排在后面的卡片涉及重要的考试，显然它的价值要高于前面复习的卡片！
+
+但是它也启发了我一点：不同卡片的价值确实是不一样的，就跟我们日常生活中不同任务的价值也是不同的一样。思路逐渐清晰起来，我们实际上并不是想要平衡什么工作量、卡片量，而是想要平衡价值！
+
+一天只有 24 小时，人人平等。我们实际上想要的是在有限的时间中，获得尽可能多的价值。如果我们专注于学习领域，那么做题是有价值的，刷卡片是有价值的，看书是有价值的。但是这些事情都需要花时间，一个小时用来做题，就无法用来刷卡片。
+
+那么，日清的本质问题就浮出水面了：日清过程中，有很多时间花在了价值较低的卡片上（相较于做题、看书）。
+
+解决这个问题的思路就是：多复习高价值的卡片，剩下的卡片可以推迟，把省下来的时间花在看书、做题等可能更有价值的事情上。
+
+## 点题：优先级是个好东西。
+
+然而，卡片那么多，怎么才能确定自己能复习到高价值的卡片呢？Anki 确实做不到，但是 SuperMemo 的优先级队列能够实现这一点。
+
+在 SuperMemo 中，每张摘抄卡片和问答卡片，在导入的时候，就有了自己的优先级（可以自己调整）。
+
+结合 SuperMemo 的渐进阅读，这个优势更加明显：摘抄或挖空产生的卡片，其默认优先级是与原文的优先级有关的。
+
+这使得我们只需要在导入的时候定好优先级，之后只需微调一些卡片即可。
+
+## SuperMemo 优先级重点介绍
+
+当 SuperMemo 引入了优先级的概念之后，围绕优先级的复习安排变成了重点。以下会介绍一下一些关于优先级的重点内容。
+
+### 优先级保护
+
+什么是优先级保护？这个术语有点绕，我们先看一个具体的实例吧！
+
+![](https://picx.zhimg.com/v2-ca0dd5e3bc9b7bac2401aeea5f70e3f9_1440w.png)
+Image左侧统计栏中有一个 Protection 属性，其值为 I=12.779 T=25.5498。
+
+什么意思呢？
+
+可以理解为，目前待处理的问答卡片中优先级最高的是 12.779，摘抄卡片中优先级最高的是 25.5498（SuperMemo 中优先级数值越小越优先，可以理解为段位，即这张卡片的优先级排在前 xx%）。
+
+优先级保护的值越低，说明有越重要的卡片还没被复习，越高即剩下的卡片不太重要。
+
+这样一来，我们便可以参考优先级保护，来决定是否停下 SuperMemo 的复习，切换去做别的学习任务。
+
+这也要求我们对别的学习任务定优先级，不过这个就不需要定得太细致了，能够实现任务切换即可。
+
+### 排序规则
+
+可能有些明锐的读者会发现优先级排序的一个严重问题：如果每天都学不完，是不是低优先级的内容永远都不会被复习到？
+
+为了解决这个问题，SuperMemo 加入了随机因子。其设置处在这里：
+
+![](https://picx.zhimg.com/v2-7b07a63a1c2a505cb6eacaefcc5e4857_1440w.png)
+Image打开后是以下内容，我们重点看见其中的第 2、3 项：
+
+![](https://pic2.zhimg.com/v2-477ffe832a2162fd5dd8056d15744d01_1440w.png)
+Image当第 2 项的滑块靠左并 Sort Now 时，我们看到底部的优先级排序总体而言是从高到低的。假如我们把滑块拉到右侧：
+
+![](https://pica.zhimg.com/v2-7d72e92aaa2dd3c04457f0e1d48e028a_1440w.png)
+Image其优先级的排序就没有什么规律了。这样一来我们就能控制优先级排序的随机程度，避免出现低优先级永远学不到的情况。
+
+当然，由于队尾的内容常常会被剩下，所以低优先级的内容被复习到的频率肯定是小于高优先级的卡片的。
+
+### 自动延迟
+
+自动延迟这个功能，则是为了解决没有日清后，之前没有完成的卡片会积压的问题。其开启方式在这里：
+
+![](https://pic3.zhimg.com/v2-5ec3cbdf5febb2db5215fe0a850a6166_1440w.png)
+Image开启后，每天打开 SuperMemo 时，前一天没有学完的卡片，会根据其自身的优先级，按照不同间隔进行延迟。SuperMemo 让高优先级的内容少延迟几天，低优先级的内容多延迟几天。这样就缓解了看到大量堆积卡片而产生的心理压力，也能让优先级队列的安排更加合理。
+
+## 结语
+
+优先级也是我选择 SuperMemo 而非 Anki 的另一个重要原因。现在我也算是半个打工人了，经常没法日清，如果用 Anki 的话，恐怕会因积压的卡片焦虑吧。
+
+有了 SuperMemo 的优先级之后，在工作、学习等事情中做权衡就方便了许多，也不会太担心自己错过重要的复习。
+
+看了我的介绍而入门的读者们，最好不要错过 SuperMemo 的这个功能哦。虽然去掉它当 Anki 用也可以，但是有的话会更好！
+
+一不小心码字就到深夜了，先溜了，小命要紧。
+
+祝大家学习快乐，日日精进！
+
+2021 年 4 月 13 日
+
+叶峻峣
+
+
+---
+
+
+<!-- 源文件: 想记住你所学的一切？服从这个算法吧！.md -->
+
+# 想记住你所学的一切？服从这个算法吧！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/651472821)
+
+**波兰科洛布热格的冬日夕阳**在午后西沉，但黄昏的到来并没有阻止人们进行常规的户外散步活动。来自德国的淡季游客裹着带毛边兜帽的大衣，戴着连指手套沿着波罗的海的边缘漫步，当他们看到一个高大、健壮、几乎全裸的男人在沙地上跑来跑去时，张口结舌地停下来。
+
+「**Kalt？Kalt？**」其中一个人叫道。这名男子给出了一个礼貌但模糊的回答，然后转身跳入海浪中。在 4 摄氏度的水中来回游了几分钟后，他从海浪中浮出，沿着岸边慢跑一会。风很大，但这名男子没有表现出要穿衣服的样子。路人继续指指点点。「这就是我喜欢匿名的原因之一。」他用英语告诉我。「你做的事情哪怕是稍微有点不正常，都会引起轰动。」
+
+彼得·沃兹尼亚克对匿名的追求获得了成功。在这一连串小海滩度假胜地，没有人知道他发明了能把人变为天才的技术。这一技术部分体现在名为 [SuperMemo](https://link.zhihu.com/?target=https%3A//web.archive.org/web/20151026020259/http%3A//www.supermemo.com/) 的软件程序中，其热情的用户遍布全世界。他们主要将其应用于语言学习，而且在那些希望习得流利语言的人中很受欢迎——来自波兰或其他贫穷国家的学生，他们的目标是在英语考试中取得足够的分数以出国学习。他们中相当多的人没有为它付费，盗版在中国的软件论坛上无处不在，在那里它与 SugarMemo 等山寨产品竞争。
+
+SuperMemo 的出发点是：复习一定有一个最理想的时间点。复习得太早，你会浪费你的时间。复习得太晚，你就会忘记这些材料，不得不重新学习它。复习的正确时间点是在你即将遗忘的时刻。不幸的是，这个时刻对每个人和每个信息点都是不同的。想象一下，有一堆成千上万的抽认卡。在这堆卡片中，有一些是你现在应该复习的。它们是哪些呢？
+
+幸运的是，人类的遗忘遵循一个模式。我们的遗忘是指数级的。有数据显示，我们在测验中答出正确答案的可能性随着时间的推移迅速下降，然后趋于平稳。认知心理学早就知道这种模式，但却很难将其应用于实际。它太复杂了，我们无法用我们只靠我们的大脑来运用它。
+
+20 年前，沃兹尼亚克意识到，如果他能找到正确的算法，计算机可以轻松计算出人会在什么时候遗忘.SuperMemo 就是他研究的成果。它可以预测一个人未来的记忆状态，并在最佳时间安排信息回顾。其效果是惊人的。用户可以将大量的词汇塞进他们的大脑。但对于 46 岁的沃兹尼亚克来说，帮助人们快速学习外语只是他目标中最微小的一部分。当我们规划我们生命中的几天、几周、甚至几年时，他将让我们不仅依靠我们传统的自我知识来源——内省、直觉和有意识的思考，而且还要依靠新的东西：在机器中编码的、关于我们自己的预测。
+
+倘若给计算机一个机会观察我们的行为，它们便能运行模拟，对我们在世界中所走过的不同路径的各种版本进行建模。通过调整这些模型得到最佳效果，计算机将为我们提供生活规则。它们将能告诉我们何时醒来、何时入睡、何时学习、何时锻炼；它们会提醒我们记住我们所读过的内容，帮助我们追踪我们遇到过的人，并提醒我们的目标。在沃兹尼亚克的构想中，计算机将提高我们的智力，增强我们的理性自控力。
+
+SuperMemo 的发明者之所以追求极端的匿名性，要求我隐瞒他的确切位置，甚至回避被他的软件用户偶然认出，并不是因为他是个偏执狂或厌世者，而是因为他想避免随机事件打断他正在自己身上进行的一项长期实验。沃兹尼亚克是一个遵循算法生活的人。他正在探索严格服从理性的生活是什么样子。初次见面时，他似乎是我见过的最快乐的人之一。
+
+**19 世纪末，**一位德国科学家，赫尔曼·艾宾浩斯，编制了一份无意义的音节清单，并测量了遗忘和再次学习它们所需的时间。（以下是他所使用清单的一个示例：bes dek fel gup huf jeik mek meun pon daus dor gim ke4k be4p bCn hes。）在这些令人惊叹的严谨和单调乏味的实验中，艾宾浩斯以每秒 2.5 个无意义音节的速度练习并凭记忆背诵，然后稍作休息，再次开始。他以一种所有学习外语动词变位的学生都会肃然起敬的死记硬背的精神运动速度，如此训练了一年多。然后，为了证明他得到的结果不是偶然，他三年后重复了整套实验。最终，在 1885 年，他出版了一部名为《记忆：实验心理学的贡献》的专著。这本书成为了一门新学科的奠基经典之作。
+
+艾宾浩斯发现了精神生活的许多法则般的规律。他是第一个绘制学习曲线的人。在他的原始观察中，记载了一个奇怪的现象，这个现象在接下来的一个世纪里让他的后继者们感到困扰不已：间隔效应。
+
+艾宾浩斯展示了通过正确安排练习时间，能够大幅提高学习效率的可能性。在某种层面上，这一发现并不新鲜；所有学生都被告诫不要临时抱佛脚。但精确的时间安排所带来的效益之大，以及表现提高的程度之可预测，从艾宾浩斯描述间隔效应的那一刻起，心理学家就一直在敦促教育工作者运用它，以加速人类进步。毕竟，我们想要了解的知识有许多，光阴似箭，时不我待。
+
+## **SuperMemo 是如何工作的** 
+
+SuperMemo 是一款能够追踪你已学习并希望记住的离散信息的软件。例如，假设你正在学习西班牙语。你在需要时想起某个单词的几率，会随时间推移按可预见的模式减少。SuperMemo 就追踪这种被称为「遗忘曲线」的现象，并在你回想起的几率降到，譬如说，90%的时候提醒你温习。初学一个新的词汇时，你想起它的几率会迅速下降。但 SuperMemo 提醒你那个词后，遗忘的速度就会趋于平稳。该[程序](https://link.zhihu.com/?target=https%3A//web.archive.org/web/20151026020259/http%3A//www.supermemo.com/articles/soft/smnet.htm)会追踪这一新的减缓趋势，并在下次测验前等待更长时间。
+
+![](https://pic2.zhimg.com/v2-a7af9ede0384e73707f6a46b2f06aed3_1440w.jpg)
+然而，这种技术从未流行起来。间隔效应是「从学习的实验室研究中涌现出来的显著的现象之一」，心理学家 Frank Dempster 于 1988 年在《美国心理学家》下发表的一篇悼词中这样写道，题目是《间隔效应：心理学研究成果未能付诸实践的案例研究》。这种悲哀的语气并不难理解。如果人们在工程计算中仍继续使用算盘，计算机科学家会作何感想？如果在眼镜发明几个世纪后，人们仍然通过把东西拿得离眼睛更近来处理近视问题，会是怎样一番景象？研究间隔效应的心理学家们认为，他们掌握了一个解决方案，能解决自书面语言之前就一直困扰着人类的问题：如何记住所学的东西。但相反，间隔效应成为了实验室心理学无能为力的证明。
+
+20 世纪 80 年代，作为波兰西部波兹南工业大学的学生，沃兹尼亚克被要学的大量知识所淹没。但这并不是最困扰他的问题。他不只是想通过考试；他还想学习、理解。他痛苦地发现，在结束一门课程的几个月后，曾经费尽周折才学会的知识，只有一小部分留存在他的记忆中。沃兹尼亚克对间隔效应一窍不通，但他清楚地知道，现有的学习方式不管用。
+
+最为艰巨的挑战是英语。沃兹尼亚克对那些许多聪明的学生止步不前、止于蹩脚的英语水平不甘心满足。于是，他以一问一答的形式，用纸张创建了一种模拟数据库。每当复习一个单词、短语或事实时，他都会精确记录日期，注明自己是否忘记了它。每个学习阶段结束后，他都会对记住和遗忘的项目进行统计。到了 1984 年，也就是艾宾浩斯完成关于无意义音节第二系列实验整整一百年后，沃兹尼亚克的数据库已经涵盖了 3000 个英语单词和短语，以及从生物学领域提炼出的 1400 个事实，每一项都有详细的复习记录。他现在准备好了向自己提出一个重要问题：他需要多长时间才能掌握他想知道的东西？
+
+答案是：太长了。事实上，答案比太长还糟糕。沃兹尼亚克最初的计算显示，成功简直是不可能的。问题不在于掌握知识，而在于如何保持。他发现，40% 的英语词汇随着时间的流逝而消失，生物学也有 60% 的知识烟消云散了。他粗略计算了一下，按他通常的学习方式，要掌握且保持 15000 个英语词汇，每天得花两个小时练习。要学 30000 个词，时间就得翻一番。这样做根本不现实。
+
+沃兹尼亚克的这些令人气馁的数据与艾宾浩斯的实验记录相符，几十年来也得到了其他心理学家的验证。如果学生们能在他们所学的某些方面成为专家，那并不是因为他们从课堂上学到了什么，而是因为他们专注于一个相对狭窄的领域，通过不断练习保持记忆活跃。说到语言，人们普遍认为，要想流利掌握，就必须进行沉浸式学习——通常等同于直接移民。一方面，这个建议颇有裨益；另一方面，这对于无数课堂时间的价值来说却是一个悲哀的注释。学东西容易，但要记住它们——这时候，人们就会感到一种无望的沮丧。
+
+正如沃兹尼亚克后来在描述他早期学习系统的失败时写道。「数据库的规模逐渐提高，但却付出了知识保留的代价」。换句话说，随着他的清单越来越长，他的遗忘也越来越多。他就像在攀登一座满是松动碎石的山坡，每一步都进展得越来越少。
+
+![](https://pic3.zhimg.com/v2-ab7d98d08b0e66a68a5e65482f307f76_1440w.jpg)
+如果我们能够说服自己，记忆并不重要，那么**遗忘之困**可能不会如此折磨我们。我们所学的那些东西——词汇、日期、公式、历史和人物的细节——也许并不重要。事实总是能查到，这就是网络的用处。在学习过程中，真正关键的是如何将事物联系在一起。我们精通各种故事、结构、体系、模式；我们熟练掌握各种行话；我们沉浸在知识的海洋之中。
+
+然而，这个让人心安的想法却是站不住脚的。「那些对背诵嗤之以鼻的人，」洛杉矶加州大学心理学系主任、记忆研究的杰出学者 Robert Bjork 问，「如果每读一个字都要一个字母一个字母地拼出来，他们会高兴吗？」毕竟，Bjork 注意到，孩子们是通过不懈的练习学会了阅读整个单词，每当我们进入一个新领域，我们又变得像孩子一样。「你无法逃避记忆的束缚，」他说，「最初学习事物名称的过程，是我们每个人都必须经历的阶段。迅速通过这一阶段尤为关键。」人脑在联想加工方面堪称奇迹，但要想建立关联，首先必须将数据载入记忆之中。
+
+一旦我们放弃「记忆是无用功」的借口，一个奇妙的疑团就浮现了眼前。许多信息虽然我们回想不起，却实实在在地留在了我们的记忆中。Bjork 说：「直到今天，人们还将遗忘视作渐渐消逝，就像沙滩上被风吹散的足迹。然而，大量的研究已经推翻了这个观点。你觉得记忆消失了，只因为你回想不起，但我们能证明它其实还在那里。就拿识别『被遗忘的』物品为例，你还能在一堆里认出它。没错，如果不继续运用，记忆就会变得触不可及，但它们并未真正消失。」
+
+鱼类学家 David Starr Jordan 在 19 世纪 90 年代担任斯坦福大学第一任校长之后，留给了记忆研究者一句至理名言：每次他记住一个学生的名字，就会抱怨自己忘了一种鱼的名字。但 Jordan 毕生致力于研究的那些鱼，依然藏匿在意识的深处。难题在于如何从脑海中捕获它们。
+
+在沃兹尼亚克挣扎着学习英语的那些年里，Bjork 和他的合作者 Elizabeth Bjork（她也是一名心理学教授；两人从 1969 年开始共结连理），正在致力于遗忘的新理论。他们深谙记忆的实验室研究历史，他们的目标之一就是深究间隔效应的根本原理。他们还对一个似是而非的现象感到好奇，即为何随着时间流逝，旧记忆愈发深入人心，而新记忆却逐渐消失。他们的解释涉及了一个极富洞见但又相当违反直觉的模型。
+
+Bjork 夫妇指出，长期记忆可以由两部分组成，他们称之为「提取强度」和「存储强度」。提取强度用来衡量你现在回忆起某事的可能性，也就是它离你意识的表层有多近。储存强度则衡量记忆扎根的深度。有些记忆的储存强度可能很高，但提取强度很低。比如一个旧地址或电话号码，你试着去想它，可能会觉得它已经消失了。但一个简单的提示就可能让它恢复几个月甚至几年。相反，有些记忆的提取强度很高，但储存强度很低。也许你刚被告知一个新朋友孩子的名字，此刻它们可能轻易就能回想起，但几天之后就可能完全遗忘，一个月后的一次重复也未必能增强它们。
+
+Bjork 夫妇并非首批提出这一区分的心理学家，但他们和一系列合作者利用了广泛的实验数据，展示了这些记忆规律如何困扰学生和教师。其中一个问题是，通过练习获得的储存强度与当前的提取强度成反比。换句话说，你得付出多大的努力才能找到正确答案，这个答案在记忆中就会越牢固。恰恰是那些预示着我们学得不错的信号——练习中的轻松表现、课上的流利演说、甚至自认为掌握了知识的感觉—— 在预测我们未来是否会记住它时，却都是虚假的。Robert Bjork 说：「最有动力和创新精神的教师，如果他们以当前的表现为依据，就会走错方向。这真是让人犯难。」
+
+当今市面上最流行的学习系统——比如说，外语软件「罗赛塔石碑」——对心理学家的忠告全然不顾，充耳不闻。这款软件时刻给出反馈和容易获得的线索，聪明地营造了一种进步的感觉。当我问首席技术官格 Greg Keim，有什么证据表明人们真的记住了他们学到的东西时，他回答说：「上亚马逊看看那些评论吧，那就是关于用户成就感的最实在的评价。」然而，从心理学家的立场来看，唯一的问题在于，我们最应质疑的正是用户的成就感。
+
+在实验室经过检验的技术与传统教学法之间的战斗已经持续了几十年，可以说，心理学家一败涂地。所有那些在实验室里对人类记忆进行的研究——不管是无意义的音节、随机的数字、图画、地图、外语词汇还是散点等等——对实践影响甚微，最终因其与现实脱节而引发反弹。上世纪 70 年代末，认知心理学的先驱 Ulric Neisser，对艾宾浩斯及其科学伙伴的方法展开了全面抨击。
+
+「我们虽然确立了一些牢固的经验规律，但大多数人人皆知，哪怕是十岁的孩子也了然于胸，」Neisser 抱怨道。「我们虽然拥有一堆高深莫测的理论，但历史已经证明，这些理论对于深入洞察自然行为并没有多大意义。」Neisser 敦促心理学家走出实验室，以生态学家的方式，在真实环境中探索记忆。他并不怀疑实验室理论在有限范围内的正确性，但他渴望得到能够改变世界的有力结果。
+
+有许多心理学家效仿了 Neisser。但还有一些人坚持他们的实验室方式。间隔效应是实验室引以为豪的发现之一，正因为它不那么直观，即便对于专业教师来说也同样如此。就在 Neisser 反抗的同一年，Robert Bjork 和贝尔实验室的 Thomas Landauer 发布了涉及近 700 名本科生的两项实验结果。Landauer 和 Bjork 试图找到巩固记忆的最佳复习时机。他们的发现堪称惊人：当你即将忘记某事时学习它，效果最好。然而，就如 Neisser 可能已经预见的那样，这一见解在现实生活中完全无用。在日常生活中，要确定遗忘的确切时刻几乎是不可能的。
+
+显然，计算机是解决方案，自上世纪六十年代以来，人们时不时就会提到使用它们。但除了一些试验性的软件，其他什么也没弄出来。心理学家主要研究理论和模型，教师则想看到眼前的成功，学生则拼命为了考试而死记硬背。真正进步的回报太虚无缥缈、太漫长，以至于不能及时回馈到整个体系。这里需要的不是学究式的心理学家，而是一位乐于动手的实干者，一个有大把时间、精于数学，还特立独行地认为应该真心实意记住所学之人。
+
+**第一次和沃兹尼亚克见面的那天，**我们沿着风急浪高的海滩走了七英里。我穿着一身商务装，因时差反应而神志恍惚；他却穿着运动服，脚步轻快，仿佛随时要飞起来似的。他让我走在离水边远的一侧。「人们都说我一激动就会朝着他们靠近，所以还是让我离海近点儿，这样就不会不小心把你推进水里了，」他这样说。
+
+沃兹尼亚克对理智有一种近乎肉体的愉悦。他喜欢与人攀谈，深入观察他们的性格，并乐于给出建议——特别是用英语。他衷心希望世界上能有一种共同的语言和货币，这样一切都能处理得更为顺畅。他对波兰至今仍未加入欧元区感到不解。他对美国人不使用公制感到费解。他甚至用世界语记了两年日记。
+
+尽管世界语是他普世梦想的理想体现，但英语才是真正被世界所接受的语言。虽然他从未踏足过英语国家，但他却能流利地使用这门语言。有一次，我们俩人独自在一个海滨小餐馆里，边品尝着掺了覆盆子糖浆的啤酒，边聊天。「**perspicuous** 和 **perspicacious** 这两个词，曾经让我挠头不已。」他坦白说，「然后我找到了一个助记口诀，输到了 SuperMemo 里：clear/clever。现在我从不用错它们。」
+
+沃兹尼亚克的英语造诣，可谓是一系列大胆尝试的结晶，继承了艾宾浩斯的传统。他投身于连续不断的自我观察，长达数年。最初，他遇到了一个根本性的难题：要学的东西太多，时间却少得可怜。他首先找的答案是依靠民间智慧。「大家都觉得，」沃兹尼亚克后来回忆说，「随着复习次数的增多，知识就会更牢固，需要温习的频率就会减少。」
+
+这一见解已被 Landauer 和 Bjork 证实，但沃兹尼亚克对他们的遗忘学说一无所知，对记忆实验室研究的重要突破也毫无了解。这种茫然或许是一种福气，让他不得不依赖于实用主义的办法。1985 年，他将资料库分成三等份，针对每部分制定了学习计划。其中一部分，他每五天学一次；另一部分，每十八天学一次；第三部分则不断增加复习的间隔，每答对一次，就增加下次学习的时间。
+
+这项试验证明，沃兹尼亚克最初的直觉过于简单。他在任何一次回顾测试中都没有显示出比他通常采用的朴素学习方法有显著提升。但他并未泄气，反倒继续深入研究学习间隔，先将第二个间隔改为两天，然后是四天，再是六天，如此等等。然后他改变了第三个间隔，接着是第四个，并继续测验和计量，一次又一次，长达近十年。他深信忘却可以通过遵循规则来控制，这种信念给了他继续寻找这些规则的坚定勇气。他执着地追寻了一条又一条路径，就像一个在丛林中迷失方向的人，踽踽独行。
+
+他早期的所有工作都是手写在纸上完成的。在波兹南工业大学的计算机科学系里，沃兹尼亚克回想道：「我们只有一台波兰和俄罗斯联合设计的大型主机，需要用打孔卡片。」他接着说，「如果你能忍受排队等待打孔的漫长时光，你还得再等上几天，让机器处理你的卡片，然后终于你可以拿到一张打印出来的纸，那就是你的输出。」
+
+当沃兹尼亚克设法搞到一台通过曲线救国的手段从德国汉堡引进的 Amstrad PC 1512 时，美国的个人电脑革命已进入热火朝天的阶段。有了这台电脑，他在 SuperMemo 方面实现了重大突破，能够精确计算任何知识点的难度，并为每个项目和用户量身定制预测遗忘的曲线。沃兹尼亚克的一位朋友巧妙地将软件改编成了雅达利机器上运行的版本，随着个人电脑终于在学生之间蔚然成风，SuperMemo 也随之风靡一时。
+
+波兰共产主义崩溃后，沃兹尼亚克与一批同窗好友共同创办了 SuperMemo World 公司。到 1995 年，他们的程序成了该国新兴软件界的佼佼者之一，他们正寻觅融资以便一飞冲天，直奔硅谷。那一年，在拉斯维加斯的 Comdex 展上，有 20 万人见证了索尼的新 DVD 科技、平板显示器的雏形，还有沃兹尼亚克的 SuperMemo，后者成了这一科技盛宴上首个亮相的波兰产品，当时正值其影响力达到巅峰。在欧洲，共产主义人力优化的尝试已然成为昨日黄花。沃兹尼亚克深信，在这个人人平等竞技的时代，一个能加速学习的科学工具，势必会受到四海追捧。
+
+沃兹尼亚克与 Krzysztof Biedalak 共同致力于通过 SuperMemo 改变全球的学习方法，他们曾是工大的同学。两人经常跑六英里去附近湖泳，尽管冰冷刺骨。Biedalak 对沃兹尼亚克说冬泳有益心智健康深以为然，他也赞同 SuperMemo 能带来极致的学习效果。然而，他却不完全赞同沃兹尼亚克的所有观点。他说：「我并不全盘采用他的技巧，在我的处境下，他的技巧并不可行。」
+
+Biedalak 所说的沃兹尼亚克的技巧，指的是把算法优化运用到生活的方方面面。Biedalak 是 SuperMemo World 的 CEO，专营沃兹尼亚克的这项发明。如今，SuperMemo World 只有 25 名员工，风险投资没有兑现，公司也未迁往加州。2006 年，SuperMemo 卖了大约 50,000 份，大部分不过 30 美元。据说还有更多被非法复制的。
+
+我与 Biedalak 在华沙闹市的一家餐馆相见并攀谈，餐馆的架子上铺着格子布，墙上挂满了腌菜罐。他看起来机智而有些沮丧，让人想起年轻时的 Walter Matthau，说话的语调与沃兹尼亚克的急躁形成鲜明对比。除非我无意间泄露消息，否则他甚至不知道他的合伙人和朋友的具体下落。
+
+「彼得从不出去宣传产品，不与记者交谈，也很少愿意和人碰面。」Biedalak 说，「他是幕后的推手，但我不得不承认，你无法像与他人交流那样与他沟通。」
+
+问题不在于他比较羞涩，而是他无法忍受对精神资源无效消耗，这也正是 SuperMemo 最初诞生的缘由。到了上世纪 90 年代中期，随着 SuperMemo 的名声日隆，沃兹尼亚克感到他对生活的理智掌控渐渐溜走。「每天有 80 个电话要应付，没有时间学习，没有时间编程，甚至连睡觉的时间都没有，」他回忆说。1994 年，他突然消失了两个星期，未留下丝毫行踪。第二年他又消失了整整 100 天。从那以后，他每年消失的时间都在增加。他不用电话，常常几个月不查看电子邮件。尽管他是博士，也在学术刊物上发表过文章，但他从不出席学术会议或科学座谈会。
+
+沃兹尼亚克并未满足于现状，反而借助 SuperMemo 探索了自我实验的新领域。自 1999 年起，他便开始精确记录自己的睡眠时间，并如今正致力于将这些数据与每日记忆练习的表现相匹配。心理学家们早就认为睡眠与记忆有关，但尚未找到具体的数学关系。沃兹尼亚克还独创了一种方法，让他能将学习系统运用到从书籍和文章中吸收的非结构化信息中，筛选文字材料，使其化整为零，便于记忆，并随后安排高效的学习。他挑选他正在阅读的部分内容，将其复制到 SuperMemo 应用中，应用程序则预测何时他需要再次阅读以便记忆。他会将未读过的材料剪切粘贴进系统，并为之分配优先级。SuperMemo 将他所有潜在的知识编排成队，待时机成熟时展示在学习屏幕上。沃兹尼亚克能查看他即将学习的内容图表，并随时调整优先级，以配合目标的变化。
+
+这些技巧旨在通过自动化步骤来克服陡峭的学习曲线，就像山坡上的台阶一样。他称之为渐进阅读，这已经成了他智力活动的主轴。沃兹尼亚克不再为未能读到想看的文章而烦恼；一旦导入系统，他便深信他的算法会在合适的时候将其带入他的意识。
+
+适当的时候，也就是对他来说。将思想生活交付给电脑系统后，他不愿被随机的输入和请求左右。自然，这让那些消息容易沉到底部的人觉得不悦。「四个月后，」Biedalak 伤感地说，「你偶尔会收到他对一封已在渐进阅读过程中被打乱的电子邮件中的某句的回应。」
+
+对于沃兹尼亚克来说，这些“哑火”不是混乱的产物，而是目标之间不可避免的冲突。一个明白学习与时间确切关系的人，不得不谨慎地衡量他的时光。SuperMemo 宛如一个实现沃兹尼亚克心愿的精灵，赋予他前所未有的记忆能力。但他所记得的价值，却紧紧依附于他所学之事，而他所学之事则取决于他的目标，他目标的选择则依赖于知识的高效吸收，这一递归函数不断驱使他沿着所选之路坚持不懈。确保他不会忘记所学，既是一种恩赐，也是一种要求，迫使他舍弃所有与此无关的琐事。
+
+从 SuperMemo 的业务方面来看，沃兹尼亚克的优先事项有时会显得很自私。沃兹尼亚克的朋友之一 Janusz Murakowski 曾在公司初创时期担任经理，他认为沃兹尼亚克一门心思投入于自己的学习，阻碍了他的发明的发展。「Piotr 是为自己写了这个软件，」Murakowski 说，他现在是特拉华大学电子工程教授。「SuperMemo 的界面简直不可理喻」。这个说法也许有点不公平。SuperMemo 有八种版本，其中一些是授权由他人编写的。适用于 Windows 的 SuperMemo ，适用于 Palm 设备的，适用于几种手机的，甚至还有一个互联网版本。的确，沃兹尼亚克不是史蒂夫 · 乔布斯，他的软件不像 Nintendo DS 上的 Brain Age，完全不够友好，也就火不起来。尽管如此，它也很难被描述为世界上最难使用的程序。毕竟摄影师们可以在 Photoshop 中学习制作最神秘的效果。为什么不能让更多人掌握 SuperMemo 呢？
+
+Murakowski 说：「这产品从来就不讨人喜欢。」在这里，他或许更接近了真正的矛盾核心，那是一个深入到智力优化斗争本质，触及到一些人性奇妙真相的冲突。我们人人都能理解普通人完成惊人体育壮举的想法。大家都知道有人跑过马拉松，或者骑车走遍半个国家。但要说变得更聪明，那就不同了。我们常把智力等同于天赋，专业学习和遥远的学生时代紧紧相连。学一门难搞的语言，成为技术大牛，或在新领域出一份力，这些看起来都不是一般人能做到的事。确实如此，但也许并非我们想象的那样罕见。
+
+SuperMemo 在改变学习方面的失败，不约而同地重复了认知心理学早期在影响教师和学生方面的失败。我们的学习能力是惊人的大。但是，最佳的学习需要一种对自己的理性控制，这并不容易。即使是对规律性的基本要求也是令人生畏的。如果你跳过几天，间隔效应，以及它在记忆中封存知识的稳步前进，开始失去其力量。进度就会变慢。在提高智力方面，我们的大脑可以胜任，我们的技术可以胜任。问题在于我们的态度。
+
+**波罗的海**黑得像一面不亮的镜子。沃兹尼亚克和我沿着海岸行走，经过那些木屋小吃店，这些店春天才会开张。他告诉我他如何管理自己的生活。他结婚了，他的妻子与他的生活方式相同。他们一起在冬天游泳，虽然波兰语是他们的母语，但他们用英语交流，她用 SuperMemo 学英语。沃兹尼亚克的每一天都分为不同的时期：创作期、阅读和学习期、运动期、饮食期、休息期，然后是第二个创作期。他没有固定的起床时间，并极度反对闹钟。如果他对研究非常着迷，结果工作到了半夜，他就干脆在白天睡觉。当他坐下来进行渐进阅读时，电脑会在屏幕上自动弹出内容，而他对此照单全收。他在开始分神或理解力下降时立即停止，然后转到队列中的下一个项目。SuperMemo 绘制优先级的分布图，他可以边学边调整。当他遇到一个段落，而他他认为需要记住，他就把它标记出来；然后它就进入一个间隔重复的模式，它所包含的信息将无限期地留在他的大脑中。
+
+「一旦你得到你需要的片段，」沃兹尼亚克说，「书本身就不存在了，它已经被蒸馏成知识」。
+
+作为科幻迷的我，总以为当电脑辅助我们的智力时，是因为我们把部分记忆托付给了机器。我们提出问题，机器就会给出玄奥或极实用的回答。沃兹尼亚克却开辟了另一条路。当他把精神生活交给一台机器时，目的不是摆脱思考的重担，而是让他的思维更加敏捷。极致的知识并不是他为电脑编程的内容，反而是电脑在为他编程。
+
+我已经告诉沃兹尼亚克，我觉得为了优化知识而克制根深蒂固的阅读习惯，是很困难的一件事。对我来说，书本不仅仅在于提供我或许想记住的信息，更是我内心中的同伴，几乎相当于人类。我也很难理解，为什么我要把书拆成碎片来记住知识。尽管如此，我告诉他我愿意试一试。
+
+「你是主张亲自动手试一试的人吗？」他发问。
+
+「是的。」
+
+他来劲了。「既然如此，我们去游泳吧。」
+
+在海的边缘，我害怕起来。我是游泳健将，但站在沙滩上，身上不过是东欧折扣度假村常见的缩水版泳衣，而眼前行人穿着羽绒派克大衣大步流星，我嗅到危险的味道。
+
+「我光是想着就已经欢喜雀跃了。」沃兹尼亚克说。
+
+「我会不会突发心脏病？」
+
+「风险远比你开车来的路上要小。」他回答。
+
+我意识到他一定是正确的。波兰的高速公路很少，在北部农村，一排排的汽车在共产主义时代的农机后面争先恐后地行驶，直到它们不顾一切地试图通过。有不少壮观的车祸。沃兹尼亚克对致命风险的定性估计给予了密切关注。通过在 SuperMemo 中绘制知识获取的图表，他已经意识到，人一生充其量只能习得几百万个新项目。这是由死亡定义的智力成就的绝对极限。所以他守护着自己的健康。他很少坐车。海滩上的德国人都在盯着我。我跳入水中。
+
+哲学家 William James 曾写道：人的精神生活，就是被注意力所驾驭。当我从海中爬上风吹沙飞的海滩，皮肤紫得吓人，思绪也因震撼而飘向遐想，我发现自己想到了沃兹尼亚克几年前写的一份描述如何成为天才的清单。他的劝诫既直接又让人战栗：你必须明确你的目标，通过间隔重复积累知识，保持健康，稳定工作，减少压力，拒绝干扰，疲惫时绝不抗拒睡眠。遵循这些，智慧与创造力必能大幅飞跃。唯一的代价是：背弃社会生活的每一个惯例。这个处方开的是一剂猛药。然而，现在，当我咧开嘴笑，向围观者挥手致意之际，我突然意识到，他的这一冷静理性的方法，也许仅仅是表层现象，与真实的回报相结合时，即便是最冷漠的体系也可能引人注目。他将极致记忆的成就与遗忘曲线相连，把遥远的未来——届时我们将豁然贯通——与今日用来学习的短短几分钟紧密相连，沃兹尼亚克寻得了一条能调控他性情与记忆的路。他让未来生色，不仅是为了多学些什么，更是要让学习这件事温暖起来，充满一种乌托邦式的欢愉。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131) 汉化组译制
+> 感谢主要译者 panda、Shom、GPT-4、Pariance、ahikz-l，校对 JarrettYe
+> 原文：[Want to Remember Everything You&#39;ll Ever Learn? Surrender to This Algorithm | WIRED](https://link.zhihu.com/?target=https%3A//www.wired.com/2008/04/ff-wozniak/)
+> 作者：*Gary Wolf*
+> 发表日期：2008 年 4 月 21 日 
+> 发表时间：中午 12:00
+
+
+---
+
+
+<!-- 源文件: 在渐进阅读中，创建摘录卡片后该做什么？.md -->
+
+# 在渐进阅读中，创建摘录卡片后该做什么？
+
+> [原文链接](https://zhuanlan.zhihu.com/p/352611888)
+
+> 原文：[MasterHowToLearn - What to Do After Creating Extracts In Incremental Reading?](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2019-07-11-what-to-do-after-creating-extracts-in-incremental-reading/)
+译者注：本文所用术语的中文解释，请参考[渐进阅读基本概念与操作介绍](https://zhuanlan.zhihu.com/p/313684185)
+
+太长不看：渐进摘录处理。在渐进阅读过程中，摘录后，只需保留摘录卡片(迷你文章)即可。继续阅读或移动到下一个卡片。仅当 SuperMemo 向你显示摘录卡片时才查看摘录卡片。只有在你完全确定如何做到这一点的情况下，才能立即处理摘录卡片。
+
+## **引入**
+
+本文是关于渐进阅读的子模块：查看摘录卡片的方式和时间。如果你不知道或不了解渐进阅读，请先阅读[我的渐进阅读工作流程](https://zhuanlan.zhihu.com/p/322673517)和[渐进阅读的意义(第一部分)](https://zhuanlan.zhihu.com/p/322497441)和[渐进阅读的意义(第二部分)](https://zhuanlan.zhihu.com/p/322584755)。然后实际使用渐进阅读。如果你不使用渐进阅读，本文将毫无意义。
+
+如果我已经让你相信渐进阅读是最好的学习/阅读工具(我全心全意相信这一点)，那么如何最好地使用它，如何最大限度地发挥它的效力和效率，那就是你下一步的优先事项。换句话说，为你拥有的最好的工具进行优化。我还在边走边学，所以对任何事情都要持保留态度。
+
+PS：迷你文章=摘录卡片
+
+## **「渐进**摘录**处理」是什么？**
+
+渐进阅读的一个主要原则，顾名思义，就是渐进。循序渐进。累积。每件事都被分解成跨越(很长)一段时间的步骤和部分。在渐进阅读的过程中，你在积极地阅读和摘录。一个关键问题是，
+
+> 在创建了这些摘录卡片后，你会做些什么？你是继续阅读，即忽略摘录卡片，还是立即处理它们？
+以下是官方答案(稍作编辑)。来自[渐进阅读](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/incremental_reading)：
+
+> 阅读完一篇文章的一部分后，选择“学习”或“下一步重复”继续阅读其他文章。[我：所以你不会立即处理摘录卡片。]
+> 
+> 在摘录时，你已经形成了摘录句子的被动记忆痕迹。**因此，最佳策略不是继续挖空，而是转到队列中的其他卡片或同一文章中的其他**摘录**卡片**(如果文章的高优先级证明这是合理的)
+> 
+> 下次复习时，返回到阅读主题[我：在此上下文中，主题=迷你文章=摘录卡片]。
+> 
+> 使用Alt+向左箭头编辑新创建的填空卡片(例如，添加上下文线索、缩短文本、改进措辞等)。不过，如果可能的话，**你应该渐进地做这样的小工作**，也就是在下一次遇到填空卡片时。
+> 
+> 请注意，从原文分解到单个填空卡片的过程可能需要数年时间。整个过程是渐进的，并由记忆力下降的痕迹来控制。
+> 
+> **不仅要在阅读时使用渐进主义，在知识的后续加工和表述中也要使用渐进主义。**
+> 
+> 你在摘录片段、生成填空卡片和编辑它们方面的工作应该是渐进的。在每一次复习中，只对学习材料做必要的工作！
+以上选择是我对“在渐进阅读中创建摘录卡片后该怎么做？”的回答。
+
+问：“你什么时候处理摘录卡片？”
+
+答：不是在摘录后立即处理。只有在 SuperMemo 向你展示摘录卡片时，才进一步处理摘录卡片，即解释、总结或挖空。
+
+我称之为“渐进摘录处理”。在渐进阅读过程中，在大多数情况下，你不必也不应该立即处理摘录卡片。**简单地说，不要做进一步的处理，比如改写，总结，在**摘录**后立即将**摘录**卡片变成填空/问答卡片。**把摘录卡片放在一边，只有在 SuperMemo 给你看的时候才处理它们，这是一个更好的策略。正如官方回答所建议的，我建议的是本质上是渐进阅读的“标准过程”；我写这篇文章只是为了强调渐进主义的另一个方面：不仅是针对阅读材料，也是针对摘录卡片。
+
+这段使用 Dendro[1] 演示渐进阅读和间隔重复的视频是一个很好的介绍。我认为软件 Dendro 是一个 SuperMemo 渐进阅读的实现。
+
+## **渐进**摘录**处理的好处**
+
+利用间隔重复的能力改进元记忆判断
+尽量减少新颖性偏见和优先级偏见
+从根本上说，渐进摘录处理试图在[知识冗余](https://zhuanlan.zhihu.com/p/283017134)、时间成本和机会成本之间取得平衡。
+
+我已经把这部分分成另一篇文章了，否则就太长了。如果你对渐进摘录处理背后的原理感兴趣，请继续关注！
+
+## **结束语**
+
+下面这句话概括了整篇文章的内容：
+
+> 不仅要在阅读时使用渐进主义，在知识的后续加工和表述中也要使用渐进主义。
+我希望这篇文章能让你认识到渐进阅读的这个子组成部分。是的，阅读你收集的学习材料应该是渐进的，但处理产生的摘录卡片也是如此。对我来说，要意识到并遵循这种渐进摘录处理的思维方式并不容易。
+
+## 下一篇
+
+[Thoughts Memo：渐进摘录处理的原因(I)：更好的元记忆判断](https://zhuanlan.zhihu.com/p/352763959)
+
+
+---
+
+
+<!-- 源文件: 同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP).md -->
+
+# 同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)
+
+> [原文链接](https://zhuanlan.zhihu.com/p/307996163)
+
+> 前文《[在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo](https://zhuanlan.zhihu.com/p/279553703)》中简单地提到了渐进阅读，本文将进行更详细的介绍。
+作为一名计算机的学生，渐进阅读令我非常印象深刻。因为**渐进阅读**(incremental reading)让我看到了，在学习上实现**并发**(concurrency)的可能性。
+
+> 注：渐进阅读是我的翻译习惯，在其他文本中也被译作增量阅读[1]
+当然，考虑到本文读者并非都是计算机专业，也不一定都学过操作系统，笔者尽可能用最通俗的语言来介绍——什么是渐进阅读。
+
+注：本文**不会**介绍 SuperMemo 的具体操作，留个坑下次填。
+
+> PS：留个彩蛋，猜一下题目中的 IRAPP 是什么的缩写？
+## 回顾线性阅读
+
+**渐进阅读**是从传统的**线性阅读**发展而来的，想要介绍渐进阅读就避不开对线性阅读的分析。
+
+让我们从一个例子说起：
+
+小叶是一名计算机专业的学生，想要学习操作系统相关的知识。于是他拿起一本《计算机操作系统》开始阅读：
+
+第三章 处理机调度与死锁
+3.1 处理机调度的层次 ......................................84 
+3.1.1 高级调度...............................................84 
+3.1.2 低级调度...............................................86 
+3.1.3 中级调度...............................................87
+3.2 调度队列模型和调度准则...........................88 
+3.2.1 调度队列模型.......................................88 
+3.2.2 选择调度方式和调度算法的若干准则......................................................90
+3.3 调度算法 .....................................................91 
+3.3.1 先来先服务和短作业(进程)优先调度算法...............................................91
+3.3.2 高优先权优先调度算法........................93 
+3.3.3 基于时间片的轮转调度算法.................95
+3.4 实时调度 .....................................................97 
+3.4.1 实现实时调度的基本条件.....................97
+3.4.2 实时调度算法的分类 ............................99 
+3.4.3 常用的几种实时调度算法...................100
+。。。小叶今天非常有时间，想要一口气学完这些内容。于是他开始从 3.3 节读到了 3.4 节。他遇到了个问题：
+
+如选择太长的时间片，使得每个进程都能在一个时间片内完成， 时间片轮转算法便退化为 FCFS 算法，无法满足交互式用户的需求。？？？FCFS **是啥来着**？？
+
+![](https://pic4.zhimg.com/v2-f02fbba766adca2f167631abcf202037_1440w.png)
+好像前面的 3.1.1 有讲过，赶紧**回去翻一下**。哦，原来 FCFS 是先来先服务啊，好的我晓得了，继续看。
+
+对于一些小型实时系统，如果能预知任务的开始截止时间，则对实时任务的调度可采用非抢占调度机制，以简化调度程序和对任务调度时所花费的系统开销。但在设计这种调度机制时，应使所有的实时任务都比较小，并在执行完关键性程序和临界区后，能及时地 将自己阻塞起来，以便释放出处理机，供调度程序去调度那种开始截止时间即将到达的 任务。嗯？临界区？
+
+![](https://pic2.zhimg.com/v2-3f072b36c840360571355a7ffcbf6e17_1440w.jpeg)
+好像有印象，不管了，**先记住再说**。
+
+几个小时后，小叶筋疲力尽地看完了这个章节，却觉得自己脑中**一团乱麻**，好像没有学会什么。
+
+。。。
+
+大家在线性阅读时是不是经常遇到这种问题：
+
+后文要求前文作为**预备知识**，而我们老是**看了后文忘前文**，需要经常回去看前文，浪费不少时间？而且**一直记着**几个关键词，总会影响自己**深入思考**正在阅读的文本？
+
+这就是线性阅读的问题：被动的阅读让知识在我们的**工作记忆**中短暂停留，又很快的溜走。一旦忘记了**预备知识**，就会增大**理解**后文的难度。
+
+> 类比
+> 
+> 试着把我们的大脑当做一个计算机，那么阅读就像进行** I/0 操作**。通过阅读，我们把信息从书本、网页上读入大脑的**工作记忆**。
+> 
+> 而工作记忆，就像**缓存**，**读写速度快**，但是**容量**极其**有限**。
+> 
+> 当我们进行线性阅读时，很快就会达到工作记忆的**瓶颈**。就像 I/O 操作已经用掉了大部分缓存。
+> 
+> 如果我们遇到需要**预备知识**，但是在工作记忆里**找不到**时，我们就需要**返回**前文重新阅读。就像 CPU 处理发现所需数据**不在**缓存里，需要**重新进行 I/0 操作**。
+> 
+> 显而易见的是，I/0 操作的速度比读取缓存慢几个数量级。
+当然，这里我们忘记了一种更为关键的记忆——**长期记忆**。如果我们能把前文的知识转入长期记忆，就可以避免返回前文阅读，直接把长期记忆调入**工作记忆**即可。
+
+>  类比
+> 
+>  长期记忆可以比作**内存**，从内存中读写虽然没有缓存快，但是要远比 I/O 操作快得多。
+那么我们该怎么把知识装入**长期记忆**？答案是**主动回忆**[2]+**间隔重复**[3]。
+
+唉？这个不是用 Anki 就行了，为啥还要 SuperMemo？
+
+别急，接下来就是 SuperMemo 核心功能的介绍啦！
+
+## 初识渐进阅读
+
+把知识装入长期记忆，并不是一件简单的事情，需要主动回忆和间隔重复。主动回忆，需要我们针对知识提问，明确知识的用途和使用条件。间隔重复，需要我们在日后时不时来回顾知识，让知识保留的更长久。
+
+所以，知识进入长期记忆需要不少时间，甚至可以说这个时间是**以天为单位**计算的。而我们在线性阅读中没有把**预备知识**装入长期记忆，阅读后文时必然遇到**理解障碍**。
+
+如果我们不顾**理解障碍**继续阅读，会**越来越懵**。如果再把这种不理解的知识强行记住，不仅会很快忘记，还会损害我们的**学习动力**[4]。
+
+而且，其实**知识碎片化**也是理解障碍的一个负面结果。没有理解的死记硬背，导致知识之间的联系不能形成连贯[5]的记忆，我们只记住了知识的形式（即字面表述）。
+
+> 详见：[不要在没有理解之前就去记忆 (zhihu.com)](https://zhuanlan.zhihu.com/p/281085595)
+那么该怎么办呢？让我们看看计算机是怎么做的：
+
+> 类比
+> 
+> 把阅读一篇文章视作一个进程（称为进程 R），遇到需要前置知识而在记忆中又找不到，就像一个进程请求不到它所需要的资源。
+> 
+> 请求不到资源的进程 R 会占用 CPU，但它又不干活，白白浪费 CPU 的时间。
+> 
+> 为了提高 CPU 的利用率，我们需要将进程 R 阻塞，转而让其他进程（比如阅读另一篇文章）使用 CPU。
+> 
+> 阻塞的进程 R 则需等待请求的资源（预备知识）安排到位，才可继续执行。
+> 
+> 那么我们可以把形成长期记忆视为另一个进程（称为进程 M）。形成长期记忆需要睡眠巩固、主动回忆和间隔重复。睡眠巩固并不占用白天的时间，所以进程 M 会在间隔重复时和进程 R 在白天交替使用 CPU 来做主动回忆。
+> 
+> 当进程 M 执行后，知识进入了长期记忆，进程 R 就可以准备就绪，等待运行了。
+> 
+> 总结一下，阅读文章和间隔重复需要互相合作，阅读文章可以提供所需要记忆的知识，但也需要预备知识的帮助，间隔重复则可以把知识装入长期记忆，以供后续阅读使用。
+
+![](https://picx.zhimg.com/v2-491ccfd8b5df89bdeb38e0fbb07ac0df_1440w.jpg)
+
+渐进阅读，其实就是这个思想的体现：阅读一篇文章，把目前可以理解的内容（即那些已经有预备知识帮助的内容）制作成问答卡片，以供间隔重复和主动回忆来将新的知识装入长期记忆。当读到不理解的内容，停止阅读，开始阅读其他文章。
+
+等等，阅读其他文章？那之前的文章怎么办？
+
+放心，我们只是暂时不继续阅读，直到我们做好准备，再进行下一次阅读。
+
+这就是渐进阅读的意思——**循序渐进**，保证每一次阅读都建立在**理解**和**记忆**预备知识的基础之上。
+
+>  类比
+> 
+> 当我们有很多文章要阅读时，就像计算机中有大量进程 R 要处理。
+> 
+> 阅读的过程中，我们需要对每个能够理解的知识点进行长期记忆。就像计算机中需要对进程 R 中得到的知识调用进程 M 来将知识装入内存。
+> 
+> 为了避免在阅读中因为没有预备知识而卡住，我们需要换一篇文章阅读。就像计算机将请求资源的进程 R 阻塞，让其他进程 R 使用 CPU。
+> 
+> 形成长期记忆需要睡眠、主动回忆和间隔重复，就像计算机调用进程 M 将知识写入并保持在内存。
+这么一看，渐进阅读似乎挺简单的，但是要明白，并发并不是免费的，并发带来了极大的收益，也带来了不少相关的问题：
+
+跳过的文章什么时候阅读？
+该怎么制作易于记忆和使用的问答卡片？
+怎么安排问答卡片的间隔重复？
+怎么交错阅读与记忆？
+我想读和想记的东西太多了，怎么权衡？
+现在想来，Anki 本身只能解决问题 3，其他环节只能由使用者自己解决。而 SuperMemo 能解决 1,3,4,5，并且辅助使用者解决问题 2。
+
+## 深入渐进阅读
+
+关于问题 3，笔者已经翻译或介绍了很多相关理论和技术，在此处不再赘述，详情请见：[记忆的双组分模型](https://zhuanlan.zhihu.com/p/179076885)。
+
+关于问题 1,4,5，SuperMemo 提出了优先级队列的概念。（是不是很像操作系统里的进程调度？[沃兹](https://zhuanlan.zhihu.com/p/303204832)博士果然是计算机专业出身233）
+
+关于问题 2，SuperMemo 将渐进阅读划分为 6 个动作：导入、阅读、改写、摘录、挖空、回忆。这是渐进的重中之重。
+
+### 优先级队列[6]
+
+在优先级队列中，所有的问答卡片和文章都会有不同的优先级，根据优先级大小排序。
+
+通过优先级队列，SuperMemo 会保证高优先级（排名靠前）的内容优先出现。如果我们无法完成每天的所有阅读和记忆，SuperMemo 可以自动延迟低优先级的内容，帮助我们权衡学习与时间。
+
+![](https://pica.zhimg.com/v2-8d2470e612f3adcb9c79babec79f6880_1440w.jpg)
+
+注：T 表示文章，L 表示问答卡片
+
+详情请见：[Priority queue 优先级队列 · 语雀 (yuque.com)](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/priority_queue)
+
+### 渐进的 6 个动作
+
+### 导入
+
+导入，是我们渐进的第一步。导入什么内容，之后的一系列加工都会以此为基础。
+
+如果我们把 SuperMemo 视作我们每日的学习工具，我们就必须慎重选择导入的材料，因为低质的文章只会浪费我们的时间。
+
+同时，这也是我们学习动力的表现。我们的学习动力会驱使我们选择感兴趣的材料，但是我们依然要对学习内容进行一些挑选，这里是几个我认为比较有用的挑选标准：
+
+基础先于实用
+兴趣先于功利
+第一条很好理解，知识不仅在一本书中有前后依赖关系，在一个领域中也是如此。打好基础对学会后续实用的内容有很大帮助，甚至可以说没有基础就难以学习后续的知识。举个例子，就比如只有学习了 C 语言、计算机组成原理、数据结构，我们才有办法理解操作系统中的知识。
+
+第二条怎么理解呢？这又是一个很大的话题了，这里就简单说一下真正的兴趣该怎么判断：
+
+三分钟热度、动机带有【功利】因素、来自【外在】的动机、【纯感官】的刺激导致的行为、【被动】的行为、始终停留在【心理舒适区】，不是真正的兴趣。
+
+动机来自内心、持续时间长达多年、思维高度参与、愿意付出较高的代价、持续的自我提升（走出心理舒适区）存在【心流】（物我两忘）的现象，才是真正的兴趣。
+
+这样看来，可能我对 Anki 和 SuperMemo 这类学习工具可能有着真正的兴趣，2333（当然，写知乎也很快乐哈哈）
+
+关于学习的乐趣，详情请见：[6 Learn drive and reward 学习内驱力和奖励 (zhihu.com)](https://zhuanlan.zhihu.com/p/64571517)
+
+### 阅读
+
+导入了文章，自然是要阅读。关于如何阅读，大家读了这么多年书应该都有自己的习惯，我就只讲几个要点：
+
+注意概念和方法
+注意论题和结论
+第一点很好理解，概念和方法都属于抽象知识，适用的范围很广泛（比如进程的概念被用于理解学习和记忆，进程调度的方法被用于渐进阅读），这种内容是阅读中最需要理解的内容。
+
+第二点也很好理解，抓住文章主旨，可以让我们更好判断哪些是作者偏题的信息（233，作者也不是完美的），选择与主题最相关的内容阅读，并要尽快明白文章的结论，方便后续分析论证。
+
+### 改写
+
+改写往往是被人忽略的一个关键步骤。有时候我们对一段内容十分熟悉，但是真要运用的时候却发挥不出来。这就是“熟悉感”在欺骗我们，以为我们学会了。
+
+另外，改写也是为了方便后续处理，比如补充一下文章里的指代。将代词替换为指代对象，避免之后复习时看到他、它、她，一脸懵逼。
+
+改写还有一个好处，就是能把句子的组织逻辑拆散，还原为知识本身的逻辑。如何理解？看看这个例子就懂了：
+
+![](https://picx.zhimg.com/v2-715b584f4ed3d044c04b32fd45881383_1440w.jpg)
+改写还能显著降低我们的记忆难度，详情请见：[基于主动回忆的学习中的知识结构与表述 (zhihu.com)](https://zhuanlan.zhihu.com/p/297790034)
+
+### 摘录
+
+渐进里的摘录就像画重点：
+
+![](https://picx.zhimg.com/v2-23bc0e33c808c862d2c587feac3e2bef_1440w.jpg)
+不过与划重点不同之处在于，渐进阅读中摘录的重点会变成一篇新的文章，加入队列等待阅读。
+
+![](https://pic3.zhimg.com/v2-3a87ba973fe093a700676c26093cff56_1440w.jpg)
+这样的好处就是，我们可以不必马上制作问答卡片，而是让这些片段再飞一会儿，这些复杂的片段会在不断的改写和摘录中变成表述良好的知识。
+
+### 挖空
+
+挖空可以说是制作问答卡片最方便的方法：
+
+![](https://pic2.zhimg.com/v2-6ec45815c4dacb8d47bac3a84703c4ff_1440w.jpg)
+在制作问答卡片时，我们往往要复制很多相同的内容。而通过挖空，我们只需要在原句上一键生成。
+
+当然，挖空也有它的问题所在：太多的提示信息、不明的提问指向，等等。这需要我们进一步改写才能解决。
+
+但是改写要花的时间可能比低优先级知识的复习时间还长，这显然是不合算的，所以在渐进中我们还要做出取舍。
+
+详情请见：[间隔重复中的简化与冗余 (zhihu.com)](https://zhuanlan.zhihu.com/p/283017134)
+
+### 回忆
+
+主动回忆、测试效应这些内容说过很多了，他们的效果是有科学证明的，详情请见：[【理论】测试效应——什么？考试有助于我的学习？ (zhihu.com)](https://zhuanlan.zhihu.com/p/57113246)
+
+我想强调的重点是，知识是自己的，对知识负责，也是对自己负责。根据自己的反馈严格打分，对算法和对自己都有好处。
+
+## 结语
+
+渐进学习其实并不是一个复杂的概念，但是在学习上实现并发确实很反直觉。希望本文能够帮大家理清思路，理解到渐进学习的核心。哪怕不使用 SuperMemo，渐进学习的思想或许也能在大家的学习生活中发挥作用。
+
+祝大家学习顺利！
+
+2020 年 11 月 23 日
+
+叶峻峣
+
+> 彩蛋揭晓：
+> 
+> IRAPP 就是 Incremental Reading: A Programmer&#39;s Perspective，致敬一下 CSAPP，23333
+
+## 更新
+
+第一篇渐进阅读的入门教程已发布
+
+[叶峻峣：渐进阅读基本概念与操作介绍](https://zhuanlan.zhihu.com/p/313684185)

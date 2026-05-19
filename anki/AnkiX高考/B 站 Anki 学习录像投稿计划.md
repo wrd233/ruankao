@@ -1,0 +1,8 @@
+# B 站 Anki 学习录像投稿计划
+
+> [原文链接](https://zhuanlan.zhihu.com/p/48531333)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+[https://www.bilibili.com/video/av35255289](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av35255289)[https://www.bilibili.com/video/av35333457](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av35333457)[https://www.bilibili.com/video/av35398328](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av35398328)上面这个视频的我今天早上用 Anki 学习的录像。
+
+之后我会在 B 站定期更新，希望能够让更多人知道用 Anki 学习的高效之处1

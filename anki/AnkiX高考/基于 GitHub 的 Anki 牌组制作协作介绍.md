@@ -1,0 +1,157 @@
+# 基于 GitHub 的 Anki 牌组制作协作介绍
+
+> [原文链接](https://zhuanlan.zhihu.com/p/60876949)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+GitHub Anki 插件项目地址：[Stvad/CrowdAnki](https://link.zhihu.com/?target=https%3A//github.com/Stvad/CrowdAnki) 
+
+CrowdAnki 插件下载代码及地址：[1788670778](https://link.zhihu.com/?target=https%3A//ankiweb.net/shared/info/1788670778) 
+
+示范牌组仓库地址：[L-M-Sherlock/Ankigaokao-ScienceComprehensive-Biology-MoleculesAndCells](https://link.zhihu.com/?target=https%3A//github.com/L-M-Sherlock/Ankigaokao-ScienceComprehensive-Biology-MoleculesAndCells)
+
+## 协作流程介绍(翻译自README)
+
+## **如何通过 GitHub 进行协作**
+
+本节说明使用 GitHub 的协作工作流程。
+
+假设你有一个名为牌组X的牌组，并且你想与其它人协作改进它。为了实现这一目标，你需要：
+
+导出牌组X。你可以在 Anki 上：文件>导出>导出格式：CrowdAnki Json Representation (*directory)、包含：牌组X
+为你自己创建一个 GitHub 账号，并请你的协作者们也这么做 (参见：[https://github.com/join](https://link.zhihu.com/?target=https%3A//github.com/join))。
+根据这个[指南](https://link.zhihu.com/?target=https%3A//guides.github.com/activities/hello-world/%23repository)为你的牌组创建仓库。仓库的名称必须与牌组导出时创建的目录的名称相对应。在本案例下，仓库应该被命名为牌组X。(译者注：其实没必要两者名称相同，况且中文无法作为仓库名)
+为这个仓库添加协作者：[https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/](https://link.zhihu.com/?target=https%3A//help.github.com/articles/inviting-collaborators-to-a-personal-repository/)。
+### **图形界面工作流程**
+
+**前言**：
+
+我的目标是提供一个便于用户理解的协作工作流程描述。为了做到这一点，我试了很多图形界面的 Git 客户端。为了我们的目的，我认为 **GitHub Desktop** 是最好的选择(作为对用户最为友好的客户端)。但是 GitHub Desktop 存在一个问题—— 它没有 Linux 版本。这令我特别难过，因为我主要使用 Linux 作为我的操作系统。我曾考虑过在本教程中使用 Gitkraken ，但是它存在一些问题而不符合我们的目的。(但如果你是 Linux 用户或者由于某种原因你不喜欢 GitHub Desktop  —— 你仍可以考虑使用它)
+
+### 协作准备
+
+在电脑上安装 [Github Desktop](https://link.zhihu.com/?target=https%3A//desktop.github.com/) 。
+登录之前你创建的 GitHub 账号。
+创建一个新仓库：File>Create a new repository. &#34;Local path&#34; 应该指向你导出牌组的地方，&#34;repository name&#34;应该与导出的文件夹名称相同。(译者注：考虑到中文不能作为仓库名，大家可以参考我的项目：[L-M-Sherlock/Ankigaokao-ScienceComprehensive-Biology-MoleculesAndCells](https://link.zhihu.com/?target=https%3A//github.com/L-M-Sherlock/Ankigaokao-ScienceComprehensive-Biology-MoleculesAndCells)，先用 GitHub Desktop 在任意文件夹创建一个仓库，仓库名为英文，然后把导出的文件夹中的 media 文件夹和牌组X.json 文件移至该仓库，即与 .git 文件夹和 .gitattributes 文件同目录。) 
+
+![](https://pic3.zhimg.com/v2-2f96a3aeb74f9ed949e2c6786ff17030_1440w.jpg)
+
+将你的目录下的内容添加至仓库，通过选中所有文件，添加一些评论在评论区并点击 &#34;Commit to **master**&#34; 。 
+
+![](https://pic4.zhimg.com/v2-cbc265fad6fccd9ce45a9adf5e86ffab_1440w.jpg)
+点击 &#34;Publish repository&#34; 将你刚才做的更改上传到 GitHub 。在本案例，你不需要提前在 GitHub 上创建仓库，GitHub Desktop 将帮你自动完成。(译者注： GitHub Desktop 更新后默认将仓库设为私有，需要在 Publish repository 界面将 Keep this code private 这个勾选去掉) 
+
+![](https://pica.zhimg.com/v2-e3f83d9340215623d8bd7ed2684834b8_1440w.jpg)
+### 为了开始在此牌组工作，你的协作者需要：
+
+在他们的电脑安装 [Github Desktop](https://link.zhihu.com/?target=https%3A//desktop.github.com/) 。
+克隆你已经创建的仓库。他们可以通过在 GitHub 仓库页面点击 &#34;Clone or download -> Open in Desktop&#34; 做到这一点。 
+
+![](https://pic2.zhimg.com/v2-2c43b85f34615dee4ceab026bfb543a9_1440w.jpg)
+[导入牌组](https://zhuanlan.zhihu.com/p/60876949/edit#%E5%AF%BC%E5%85%A5).
+如果有些人**只是想使用**你在 GitHub 上上传的**牌组**，他们可以[直接从仓库导入牌组](https://zhuanlan.zhihu.com/p/60876949/edit)。
+
+### 如何上传更改
+
+当你或你的一个协作者想将你们做出的更改上传到 GitHub 时，你们需要：
+
+通过点击 &#34;Fetch Origin&#34; 从 GitHub 获取其他人的提交历史，如果有新的更改，则可以点击 &#34;Pull Origin&#34; 获取最新的更改。 
+
+![](https://pic3.zhimg.com/v2-a310cfe1a34f9da241c9ca2e163787ca_1440w.jpg)
+为了合并你和其他人做出的更改，请[导入牌组](https://zhuanlan.zhihu.com/p/60876949/edit#%E5%AF%BC%E5%85%A5)。
+导出牌组到你仓库的本地目录，然后导出将覆盖 media 文件夹和 json 文件。(替代选项是，你可以将牌组导出到其他地方，然后将 media 文件夹和 json 文件复制到仓库目录下，然后选择合并同名文件夹，替换已存在的文件。)
+在评论区添加 comment ，点击 &#34;Commit to master&#34; 上传你做出的更改。 
+
+![](https://pica.zhimg.com/v2-fa60cc8348938dc268dabeef51504d92_1440w.jpg)
+点击 &#34;Push Origin&#34; 上传你做出的更改到 GitHub 。
+如果你只想**获取别人做出的最新更改**，你只需要执行第一步和第二步。
+
+### **命令行工作流程**
+
+### 协作准备
+
+在你的电脑上安装 git 。
+2. 到导出的目录。
+
+3. 用下面的命令初始化仓库：
+
+ git init
+ git remote add origin git@github.com:/.git 是你的 GitHub 用户名 (我的是 Stvad) ，  是仓库的名字 (DeckX)。 所以本案例中的命令应该是：
+
+ git remote add origin git@github.com:Stvad/DeckX.git4. 添加目录下的所有内容到仓库：
+
+ git add *
+ git commit -m &#34;initial export&#34;5. 上传你做出的更改到 GitHub：
+
+ git push origin master### 为了开始在此牌组工作，你的协作者需要：
+
+在他们的电脑室安装 git
+2. 克隆你创建好的仓库：
+
+ git clone https://github.com/Stvad/DeckX.git3. [导入牌组](https://zhuanlan.zhihu.com/p/60876949/edit#%E5%AF%BC%E5%85%A5).
+
+如果有些人**只是想使用**你在 GitHub 上上传的**牌组**，他们可以[直接从仓库导入牌组](https://zhuanlan.zhihu.com/p/60876949/edit)。
+
+### 如何上传更改
+
+当你或你的一个协作者想将你们做出的更改上传到 GitHub 时，你们需要：
+
+从 GitHub 获取最新的更改：
+ git pull2. 为了合并你和其他人做出的更改，请[导入牌组](https://zhuanlan.zhihu.com/p/60876949/edit#%E5%AF%BC%E5%85%A5)。
+
+3. 导出牌组到你仓库的本地目录，然后导出将覆盖 media 文件夹和 json 文件。(替代选项是，你可以将牌组导出到其他地方，然后将 media 文件夹和 json 文件复制到仓库目录下，然后选择合并同名文件夹，替换已存在的文件。)
+
+4. 将更改添加到仓库：
+
+ git add *
+ git commit -m &#34;new updates&#34;5. 上传你做出的更改到 GitHub ：
+
+ git push origin master如果你只想**获取别人做出的最新更改**，你只需要执行第一步和第二步。
+
+## **通用协作工作流程**
+
+目前的工作流程可以表述为：
+
+用户创建或者导入一个 Anki 牌组。
+用户做了一些更改(比如笔记内容、牌组设置、牌组结构或笔记模板)。
+然后用户以 JSON 格式导出牌组(附带媒体文件夹和该牌组中引用的媒体文件)并分享给其他用户。例如通过为此创建 GitHub 仓库。
+其他人可以直接修改 JSON 文件，也可以导入牌组到他们自己的 Anki 中并做一些修改。
+然后这些人做出的更改就会更新最初的 JSON 文件(必要时将几个更改合并在一起)。
+之后，最初的用户（和其他人）可以导入更新的牌组，将这些新的更改整合到他们的集合中。
+
+## **导出**
+
+导出请到菜单：文件>导出
+
+选择牌组(**注**：不支持导出所有的牌组，你需要选择一个特定的牌组)并将导出格式改为 &#34;CrowdAnki JSON representation (*directory )&#34; 。 点击导出之后，选择一个保存导出的目录。
+
+## 其他功能介绍
+
+## **导入**
+
+导入请到菜单：文件>&#34;CrowdAnki: Import from disk&#34; 并选择牌组储存的目录。 
+
+## **从 GitHub 导入**
+
+从 GitHub 导入牌组请到菜单：文件>&#34;CrowdAnki: Import from Github&#34; 并以建议的格式输入 GitHub 用户名和仓库名。
+
+以我的仓库为例，为了获取我的[Ankigaokao-理科-理综-生物-分子与细胞](https://link.zhihu.com/?target=https%3A//github.com/L-M-Sherlock/Ankigaokao-ScienceComprehensive-Biology-MoleculesAndCells)，你需要输入
+
+L-M-Sherlock/Ankigaokao-ScienceComprehensive-Biology-MoleculesAndCells
+
+### **导入时需要注意：**
+
+自动备份将在导入前触发；
+如果卡片的笔记模板改变，或者笔记模板本身以难以自动更新的方式改变：系统会弹出一个窗口，要求你解决新旧模板的冲突；
+如果笔记被移动到另一个 JSON 文件中的牌组，则在导入时，该笔记的所有卡片（筛选牌组中的卡片除外）将被移动到指定的卡片组。
+
+## **快照**
+
+**CrowdAnki** 能帮助你保存 **你牌组的编辑历史**。 该插件将牌组导出到一个特定位置并在每一次你创建快照时创建一个 git commit 。
+
+你可以在菜单手动创建快照：文件>CrowdAnki: Snapshot 。 或者你可以在插件配置页开启自动快照，详情请见[这里](https://zhuanlan.zhihu.com/p/60876949/crowd_anki/config.md) 。
+
+其他你可以[配置](https://zhuanlan.zhihu.com/p/60876949/crowd_anki/config.md)的参数是快照的储存地址和快照包括的牌组。
+
+本篇翻译已经加入原作者的项目：[https://github.com/Stvad/CrowdAnki](https://link.zhihu.com/?target=https%3A//github.com/Stvad/CrowdAnki)
+
+![](https://pica.zhimg.com/v2-0af3bfb15073b8eb3e8141176aaece06_1440w.jpg)

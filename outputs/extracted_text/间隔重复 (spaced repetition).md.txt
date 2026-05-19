@@ -1,0 +1,21 @@
+# 间隔重复 (spaced repetition)
+
+> [原文链接](https://zhuanlan.zhihu.com/p/305651556)
+
+**间隔重复**是一种基于计算[最佳间隔](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimum_interval)的学习方法，该间隔将[各个知识](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Item)的[复习](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Review)分开，以达到理想的[保留](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Retention)水平。[SuperMemo 开创了优化方法在间隔重复中的应用](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/History_of_spaced_repetition)[1]。在过去的 20 年里，间隔重复已经发展为[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]。
+
+[SuperMemo 18 for Windows](https://link.zhihu.com/?target=http%3A//www.super-memo.com/supermemo18.html) 采用[遗忘曲线](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting_curve)[3]和[记忆双组分模型](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Two_component_model_of_memory)[4]，做出[最佳间隔](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimum_interval)的预测。
+
+[SuperMemo 1.0 for DOS](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo_for_DOS)[5] 是[间隔重复的第一个实现](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Algorithm_SM-2)（1987年）。2017 年 12 月 13 日，[SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 迎来了它的 30 岁生日。
+
+该方法最早在 [Piotr Wozniak](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Piotr_Wozniak)[6] 的硕士论文中描述：1990 年的《[学习的优化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimization_of_learning)》，[1994 年的一个同行评议期刊](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/ANE1994)上也有描述。
+
+用于指代间隔重复，与 [SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 的使用周期大致相同的其他术语：*SuperMemo method* (1989-1995), *optimum intervalization* (1990-1992), *scheduling repetitions* (1992-1995), *repetition spacing* or *spacing of repetitions* (1992-1999, literature), *graduated intervals* (Pimsleur), *spaced rehearsal* or *expanding rehearsal* (literature, e.g. Landauer & Bjork), *spaced, expanded*, or *expanding retrieval* (literature), *spaced practice*, *expanded practice* or *distributed practice* (literature, e.g. Baddley), *optimum schedule* (literature, e.g. Pavlik), *spaced learning* or *spaced education*，等等。[1999 年 SuperMemo 采用](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Who_invented_the_name%3A_spaced_repetition%253F)了间隔重复（*spaced repetition*）这一术语。更多内容请参见：[间隔重复的替代术语](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Alternative_terms_for_spaced_repetition)
+
+由于在 [SuperMemo 诞生](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Birth_of_SuperMemo)之前，**间隔重复**这个术语被松散地使用，直到 1999 年才采用了现在的含义，因此，我们偶尔会使用经过[计算的间隔重复](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Computational_spaced_repetition)这个术语来区分 [SuperMemo method](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Optimization_of_learning)和复习时间表（review schedule），在复习时间表中，间隔增加但没有明确计算或优化。
+
+另请参见：
+
+[什么是间隔重复？](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/General_principles_of_spaced_repetition)(1990)
+[间隔重复的历史](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/History_of_spaced_repetition)[1] (2018) 
+[研究背景](https://link.zhihu.com/?target=http%3A//www.super-memory.com/english/ol/background.htm) (1995)

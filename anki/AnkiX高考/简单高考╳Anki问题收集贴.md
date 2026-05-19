@@ -1,0 +1,53 @@
+# 简单高考╳Anki问题收集贴
+
+> [原文链接](https://zhuanlan.zhihu.com/p/35466617)
+
+先说一下，[目录在此](https://zhuanlan.zhihu.com/p/35235203)
+
+由于评论区的问题可能有普遍性，为了解决大家共同的疑问，特开此贴，以收集同学们在使用「Anki」备战高考过程中遇到的问题，并给予回答。（问问题最好在此贴评论区问）
+
+收集到的问题将以一下格式呈现：
+
+**Q( Question )：怎么导入文件？**
+
+A( Answer )：使用 AnkiDroid 时，请将 apkg 文件移至 Ankidroid 的主文件夹，再进入 app 点击右上角，然后点击导入牌组，并确定，即可选择想要导入的牌组。
+
+**Q：Anki在哪里下载？**
+
+A：[Anki Win+安卓](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1GHqEPX-mJn3q5tlD4kakVw)
+
+**Q：高中牌组如何获得？**
+
+A：[体验牌组](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1qXyelAqFKfh5wKMYXXsY6A)
+
+获取全部牌组请淘宝搜索 Anki高考
+
+**Q：背景色怎么换？**
+
+A：进入app点击右上角，在点击笔记类型，然后长按 L.M.Basic（牌组类型），跳出编辑卡片，将样式中的 background-color: lightgreen 这行中的 lightgreen 改成想要的颜色的**英文**即可。
+
+**Q：手机上怎么开启高级编辑？**
+
+A：请使用代码：
+
+变蓝
+
+{{c1::挖空}}
+
+加粗
+
+下角标
+
+上角标
+
+**Q：怎样设置父子（多级）牌组？**
+
+A：重命名牌组，格式：父牌组::子牌组，或一级牌组::二级牌组::三级牌组
+
+**Q：怎样独立设置牌组每日学习数量？**
+
+A：先到牌组选项中新建选项组，然后改每日新卡片数量。
+
+大胆实践，欢迎提问。
+
+返回目录

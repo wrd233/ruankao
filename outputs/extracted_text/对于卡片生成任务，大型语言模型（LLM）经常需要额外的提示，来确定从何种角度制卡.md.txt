@@ -1,0 +1,41 @@
+# 对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示，来确定从何种角度制卡
+
+> [原文链接](https://zhuanlan.zhihu.com/p/644435780)
+
+在[使用机器学习从解释性文本中生成优质的间隔重复卡片](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2DY7qsP5iHsiA5hxUHheV8hu7Xe96vdGyYX)[1]时，仅给模型一个文本段落和高亮范围，往往无法达到理想效果。对于说明文的片段，其可供强化的视角十分丰富：可以是一个陈述性细节，可以是其真实性的原因，可以是其产生的影响，或者是与前文的对比等等。所有这些都可能写成不同的优质卡片，但模型并不知道你究竟想要哪一个（[卡片生成任务中，选择要强化的目标概念，和为这些目标概念编写卡片，是两个独立的问题](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z62s1nNLEfhGbDmpb8Z7dZiYyi3kaSziuLVXd)[2]）。
+
+然而，如果我给模型提供一两个提示，指明我希望强调短语的哪个方面，我得到的结果通常会更好。在界面上，这可能看起来像是：高亮你认为重要的部分，然后在上面写上「为什么」。或者，给自己写一张小便签：「这比我想象的要高。」
+
+比如说，阅读 Griffiths 的《量子力学导论》时，我对 
+![](https://www.zhihu.com/equation?tex=V)
+ 被用作势能的符号感到惊讶——因为我习惯于用 
+![](https://www.zhihu.com/equation?tex=U)
+ 。我想要一张关于这个的卡片。但是，如果我只是高亮「力可以表示为势能函数的导数，1 F = −∂V/∂x」这句话中的 
+![](https://www.zhihu.com/equation?tex=V)
+ ，我得到的是「力和守恒系统中的势能之间的关系是什么？」。这个结果并不令人意外。模型怎么会知道，我感到惊讶的是那个符号呢？相比之下，如果我要求模型强调「符号」，我得到的是「在经典力学的语境下，符号 V 代表什么？」
+
+到目前为止，我发现只有在强化简单的事实陈述时，才不需要提供额外的提示。（例如：「碳的原子序数是 6。」）
+
+### 个人联系；个人笔记
+
+这里的根本问题是，最好的卡片往往涉及使材料具有个人意义——将一些抽象信息连接到你的目标上，或者深入到一个你认为特别引人注意，但作者并未强调的细节或视角。模型并不能容易地知道这些事情。
+
+一种可能会有所帮助的方法是，从针对某个文本的个人笔记中生成卡片。
+
+## 链接至本文（已汉化）
+
+[将基于机器学习的卡片生成重新定义为过滤问题，有助于我们思考吗？](https://zhuanlan.zhihu.com/p/639267420)
+[对于卡片生成任务，如果提供了充足的上下文，大型语言模型（LLM）可能会表现得更好](https://zhuanlan.zhihu.com/p/645670312)
+[对于卡片生成任务，选择要强化的目标概念，和为这些目标概念编写卡片，是两个独立的问题](https://zhuanlan.zhihu.com/p/656354899)
+[对于卡片生成任务，大型语言模型（LLM）缺乏为复杂概念材料编写卡片的模式](https://zhuanlan.zhihu.com/p/656355546)
+[将卡片生成任务定义为强化目标的过滤问题](https://zhuanlan.zhihu.com/p/639267420)
+[GPT-4 在指导下，通常能够从解释性文本中为陈述性知识生成可用的间隔重复卡片](https://zhuanlan.zhihu.com/p/656760808)
+[叶峻峣：使用机器学习从解释性文本中生成优质的间隔重复卡片](https://zhuanlan.zhihu.com/p/716570823)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131) 汉化组译制
+> 感谢主要译者 GPT-4、校对 JarrettYe
+> 原文：[In prompt generation, LLMs often need extra hints about what angle to reinforce (andymatuschak.org)](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zomoPzCNzSi5GqtfTeVWgm7RjmiArjS8vvM5)

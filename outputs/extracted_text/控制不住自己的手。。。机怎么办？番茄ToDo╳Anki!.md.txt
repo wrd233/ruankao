@@ -1,0 +1,40 @@
+# 控制不住自己的手。。。机怎么办？番茄ToDo╳Anki!
+
+> [原文链接](https://zhuanlan.zhihu.com/p/42437432)
+
+好久没更新了。。。最近在研究 Anki 的算法，花了不少时间，目前还没有提炼出具体的公式。
+
+所以，本期就让我来讲一讲如何用更加专注的使用 Anki ( AnkiDroid )吧！
+
+## 全屏模式+手势操作
+
+设置：
+
+![](https://pica.zhimg.com/v2-5873bdb21c58f490c50c62b36282fb72_1440w.jpg)
+
+![](https://pic1.zhimg.com/v2-4306e470abf2146e1b1d3b47c81f4e78_1440w.jpg)
+效果：
+
+![](https://pic4.zhimg.com/v2-83d11dd9781689d56f7e962baaa36933_1440w.jpg)
+
+没有状态栏和选项按钮，全部靠手势操作，防止来自手机的各种干扰。
+
+只要轻轻一点，即可显示答案。如果记住了，就向左滑动。没记住就向下滑动。如果是当天错误后重新学习，记住了就向右滑动，没记住依然是向下滑动。如果你觉得这张卡片实在太简单，那就向上滑动吧。
+
+## 番茄ToDo╳AnkiDroid
+
+强制专注神器！拥有学霸模式和严格模式，还有拦截通知，防止各种杂念入侵！如果你真的想要好好学习，又控制不住自己的双手，就试试**番茄ToDo**吧！
+
+![](https://pic2.zhimg.com/v2-ad48cf4e3686102e13514ad2921eb411_1440w.jpg)
+
+![](https://pic4.zhimg.com/v2-f76ae8802dbc2751cc0c007460337161_1440w.jpg)
+
+![](https://picx.zhimg.com/v2-d8136f30c50d5407e552510d745a1ae9_1440w.jpg)
+以及定时锁机模式，让你的手机变成学习机！
+
+![](https://pic4.zhimg.com/v2-c658effbf9a48886da3f2873f153ef37_1440w.jpg)
+
+![](https://pica.zhimg.com/v2-7d6eceebdf8a0116d8db2715bb108068_1440w.jpg)
+顺便还可以让你早点睡觉！
+
+怎么样，厉害吧！

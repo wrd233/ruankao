@@ -1,0 +1,2849 @@
+{
+  "generated_at": "2026-05-19 08:52:26",
+  "files": [
+    {
+      "source": "2020年整合系统集成项目管理工程师上午试题与参考答案名师精品资料.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/2020年整合系统集成项目管理工程师上午试题与参考答案名师精品资料.pdf.txt",
+      "parseable": true,
+      "note": "文本提取完成",
+      "page_count": 10,
+      "char_count": 9879
+    },
+    {
+      "source": "2020年计算机软考系统集成项目管理工程师试题练习.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/2020年计算机软考系统集成项目管理工程师试题练习.pdf.txt",
+      "parseable": true,
+      "note": "文本提取完成",
+      "page_count": 3,
+      "char_count": 1375
+    },
+    {
+      "source": "2020计算机软考系统集成项目管理工程师选择试题.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/2020计算机软考系统集成项目管理工程师选择试题.pdf.txt",
+      "parseable": true,
+      "note": "文本提取完成",
+      "page_count": 3,
+      "char_count": 989
+    },
+    {
+      "source": "2021系统集成项目管理工程师中级学习笔记.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/2021系统集成项目管理工程师中级学习笔记.pdf.txt",
+      "parseable": true,
+      "note": "文本提取完成",
+      "page_count": 17,
+      "char_count": 11371
+    },
+    {
+      "source": "2022年上半年系统集成项目管理工程师报考须知.docx",
+      "kind": "docx",
+      "output": "outputs/extracted_text/2022年上半年系统集成项目管理工程师报考须知.docx.txt",
+      "parseable": true,
+      "note": "textutil 转换完成",
+      "page_count": null,
+      "char_count": 2064
+    },
+    {
+      "source": "AnkiX高考.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/AnkiX高考.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 368220
+    },
+    {
+      "source": "SuperMemo—渐进学习最前沿！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SuperMemo—渐进学习最前沿！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 190952
+    },
+    {
+      "source": "2698 张体验卡片，带每一位高中生进入 Anki 学习法的世界.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/2698 张体验卡片，带每一位高中生进入 Anki 学习法的世界.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1643
+    },
+    {
+      "source": "Anki 2.1 scheduler_安排算法.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 2.1 scheduler_安排算法.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1181
+    },
+    {
+      "source": "Anki 合作制卡——如何让牌组与表格之间互相转换？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 合作制卡——如何让牌组与表格之间互相转换？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2249
+    },
+    {
+      "source": "Anki 圈子建设计划.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 圈子建设计划.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 657
+    },
+    {
+      "source": "Anki 学习小组指导手册v0.0.1.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 学习小组指导手册v0.0.1.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1507
+    },
+    {
+      "source": "Anki 新算法 FSRS 配置指南.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 新算法 FSRS 配置指南.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4789
+    },
+    {
+      "source": "Anki 算法与术语浅谈.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 算法与术语浅谈.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1479
+    },
+    {
+      "source": "Anki 高考牌组「精简版」修订完毕.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki 高考牌组「精简版」修订完毕.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2002
+    },
+    {
+      "source": "Anki+Markdown_Word，这样自学很扎实！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki+Markdown_Word，这样自学很扎实！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1800
+    },
+    {
+      "source": "AnkiDroid 同步慢，「微力同步」来帮忙！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/AnkiDroid 同步慢，「微力同步」来帮忙！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1916
+    },
+    {
+      "source": "AnkiDroid不会用？一篇解决“所有”问题！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/AnkiDroid不会用？一篇解决“所有”问题！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3855
+    },
+    {
+      "source": "Anki高考的20条原则(1-5)—来自《有效的学习：组织知识的20条原则》.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki高考的20条原则(1-5)—来自《有效的学习：组织知识的20条原则》.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3951
+    },
+    {
+      "source": "Anki高考的20条原则(11-15)—来自《有效的学习：组织知识的20条原则》.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki高考的20条原则(11-15)—来自《有效的学习：组织知识的20条原则》.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4284
+    },
+    {
+      "source": "Anki高考的20条原则(16-20)—来自《有效的学习：组织知识的20条原则》.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki高考的20条原则(16-20)—来自《有效的学习：组织知识的20条原则》.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3271
+    },
+    {
+      "source": "Anki高考的20条原则(6-10)—来自《有效的学习：组织知识的20条原则》.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Anki高考的20条原则(6-10)—来自《有效的学习：组织知识的20条原则》.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4834
+    },
+    {
+      "source": "B 站 Anki 学习录像投稿计划.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/B 站 Anki 学习录像投稿计划.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 551
+    },
+    {
+      "source": "FSRS 现已成为世界上最精确的间隔重复算法_.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/FSRS 现已成为世界上最精确的间隔重复算法_.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5085
+    },
+    {
+      "source": "FSRS 算法简介.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/FSRS 算法简介.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3017
+    },
+    {
+      "source": "FSRS4Anki 使用指北.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/FSRS4Anki 使用指北.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 19728
+    },
+    {
+      "source": "What！草稿还能这样“玩”？——「Anki」与草稿纸.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/What！草稿还能这样“玩”？——「Anki」与草稿纸.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1345
+    },
+    {
+      "source": "supermemo.guru 翻译计划开始了！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/supermemo.guru 翻译计划开始了！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 666
+    },
+    {
+      "source": "「Anki」与时间规划.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「Anki」与时间规划.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1334
+    },
+    {
+      "source": "「Anki」：刷卡30分钟，牢记300个知识点，打造学习闭环.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「Anki」：刷卡30分钟，牢记300个知识点，打造学习闭环.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 974
+    },
+    {
+      "source": "「一周年」专栏整理.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「一周年」专栏整理.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5443
+    },
+    {
+      "source": "「公告」Anki 高考牌组解密工作圆满完成.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「公告」Anki 高考牌组解密工作圆满完成.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2733
+    },
+    {
+      "source": "「公告」关于专栏重组事宜.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「公告」关于专栏重组事宜.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1208
+    },
+    {
+      "source": "【FAQ】Anki 高考牌组「精简版」答疑（安卓版）TOP 10.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【FAQ】Anki 高考牌组「精简版」答疑（安卓版）TOP 10.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3986
+    },
+    {
+      "source": "【万粉纪念】兼【激励计划】及【解密系列序章】.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【万粉纪念】兼【激励计划】及【解密系列序章】.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1372
+    },
+    {
+      "source": "【专栏导航】Anki 教程(电子书)与 B 站 Ankidroid 教程(视频)快速通道.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【专栏导航】Anki 教程(电子书)与 B 站 Ankidroid 教程(视频)快速通道.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7457
+    },
+    {
+      "source": "【公告】Anki 高考牌组下架及解密的相关事宜.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【公告】Anki 高考牌组下架及解密的相关事宜.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1769
+    },
+    {
+      "source": "【填坑】《I would never send my kids to school》翻译完毕.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【填坑】《I would never send my kids to school》翻译完毕.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1138
+    },
+    {
+      "source": "【实战】大学英语六级翻译词汇快速制卡记录.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【实战】大学英语六级翻译词汇快速制卡记录.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1335
+    },
+    {
+      "source": "【理论】Study smarter, NOT longer. 你需要间隔重复！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【理论】Study smarter, NOT longer. 你需要间隔重复！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2521
+    },
+    {
+      "source": "【理论】测试效应——什么？考试有助于我的学习？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【理论】测试效应——什么？考试有助于我的学习？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1986
+    },
+    {
+      "source": "【理论】穿插练习——「乱」中取胜的秘密.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【理论】穿插练习——「乱」中取胜的秘密.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2380
+    },
+    {
+      "source": "【硬核】参数模拟(续)——从“诡异”的曲线上扬到“有毒”的记忆.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【硬核】参数模拟(续)——从“诡异”的曲线上扬到“有毒”的记忆.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2436
+    },
+    {
+      "source": "【硬核】参数模拟——每天 40 张新卡片，365 天后我要复习多少？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【硬核】参数模拟——每天 40 张新卡片，365 天后我要复习多少？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3760
+    },
+    {
+      "source": "【经验】他人牌组食用指北_Anki.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【经验】他人牌组食用指北_Anki.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2438
+    },
+    {
+      "source": "【转载】聊聊【折腾】的重要性.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【转载】聊聊【折腾】的重要性.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6959
+    },
+    {
+      "source": "一个软件，让你的英语卡片“自动”发音.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/一个软件，让你的英语卡片“自动”发音.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 960
+    },
+    {
+      "source": "与 Anki 合作.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/与 Anki 合作.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 9984
+    },
+    {
+      "source": "为什么你仍然需要记忆知识.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/为什么你仍然需要记忆知识.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6088
+    },
+    {
+      "source": "为什么改变原有的学习习惯如此困难？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/为什么改变原有的学习习惯如此困难？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2542
+    },
+    {
+      "source": "作为计划工具的 Anki 还有这些效果？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/作为计划工具的 Anki 还有这些效果？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1244
+    },
+    {
+      "source": "你想知道如何高考逆袭吗？ 看我用 Anki 从本一线上涨 157 分！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/你想知道如何高考逆袭吗？ 看我用 Anki 从本一线上涨 157 分！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4552
+    },
+    {
+      "source": "使用Anki准备大型考试的设置.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/使用Anki准备大型考试的设置.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3552
+    },
+    {
+      "source": "做卡片太慢，错题太多不想录入？用「Anki」错题复习法！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/做卡片太慢，错题太多不想录入？用「Anki」错题复习法！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 803
+    },
+    {
+      "source": "关于我的舍友偷偷用手机学习这回事—①.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/关于我的舍友偷偷用手机学习这回事—①.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2454
+    },
+    {
+      "source": "关于我的舍友偷偷用手机学习这回事—②.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/关于我的舍友偷偷用手机学习这回事—②.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2504
+    },
+    {
+      "source": "关于我的舍友偷偷用手机学习这回事—③.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/关于我的舍友偷偷用手机学习这回事—③.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3267
+    },
+    {
+      "source": "史上最“全”「Anki高考」牌组整理完毕！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/史上最“全”「Anki高考」牌组整理完毕！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 526
+    },
+    {
+      "source": "告别低效~看一眼这里，我帮您省时间！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/告别低效~看一眼这里，我帮您省时间！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2566
+    },
+    {
+      "source": "在Anki2.1中实验性卡片调度系统(记忆算法)的改变.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在Anki2.1中实验性卡片调度系统(记忆算法)的改变.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2126
+    },
+    {
+      "source": "基于 GitHub 的 Anki 牌组制作协作介绍.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/基于 GitHub 的 Anki 牌组制作协作介绍.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6307
+    },
+    {
+      "source": "如何写出好卡片：利用间隔重复创造理解.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如何写出好卡片：利用间隔重复创造理解.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 34004
+    },
+    {
+      "source": "如何在 Anki 上使用次世代间隔重复算法 FSRS？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如何在 Anki 上使用次世代间隔重复算法 FSRS？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3818
+    },
+    {
+      "source": "如何应对记忆难点（Leech）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如何应对记忆难点（Leech）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 8888
+    },
+    {
+      "source": "如何追赶积压的 Anki 复习任务.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如何追赶积压的 Anki 复习任务.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7433
+    },
+    {
+      "source": "带你用「Anki」轻松战高考！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/带你用「Anki」轻松战高考！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1396
+    },
+    {
+      "source": "怎样的利用高效工具才是正确的？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/怎样的利用高效工具才是正确的？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1697
+    },
+    {
+      "source": "我出书了！《Anki 备战高考手册》正式发布！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/我出书了！《Anki 备战高考手册》正式发布！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 537
+    },
+    {
+      "source": "我要去度假。我可以暂停复习程序吗？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/我要去度假。我可以暂停复习程序吗？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1331
+    },
+    {
+      "source": "控制不住自己的手。。。机怎么办？番茄ToDo╳Anki!.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/控制不住自己的手。。。机怎么办？番茄ToDo╳Anki!.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1061
+    },
+    {
+      "source": "揭秘「Anki」强化训练法.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/揭秘「Anki」强化训练法.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 995
+    },
+    {
+      "source": "揭秘「Anki」考前制卡记录（及暑假计划）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/揭秘「Anki」考前制卡记录（及暑假计划）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 552
+    },
+    {
+      "source": "揭秘！为什么 Anki 学习法相较传统学习有不可比拟的优势？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/揭秘！为什么 Anki 学习法相较传统学习有不可比拟的优势？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1444
+    },
+    {
+      "source": "某高三学生基于 Anki 的学习模式.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/某高三学生基于 Anki 的学习模式.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1176
+    },
+    {
+      "source": "次世代间隔重复算法 FSRS4Anki v3.7.0-v3.23.0 主要更新记录.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/次世代间隔重复算法 FSRS4Anki v3.7.0-v3.23.0 主要更新记录.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2156
+    },
+    {
+      "source": "没错！这是新坑！History of spaced repetition 翻译项目来了！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/没错！这是新坑！History of spaced repetition 翻译项目来了！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 960
+    },
+    {
+      "source": "理科高考 「全覆盖」牌组制作 & 专栏停更.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/理科高考 「全覆盖」牌组制作 & 专栏停更.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2854
+    },
+    {
+      "source": "用 Anki 建立高效复习错题体系.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/用 Anki 建立高效复习错题体系.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1215
+    },
+    {
+      "source": "用间隔重复系统来看穿数学概念.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/用间隔重复系统来看穿数学概念.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 19411
+    },
+    {
+      "source": "疑问_如何重置牌组的进度_.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/疑问_如何重置牌组的进度_.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2342
+    },
+    {
+      "source": "破解长篇背诵的 Anki 模板！Anki+网格记忆法！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/破解长篇背诵的 Anki 模板！Anki+网格记忆法！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1152
+    },
+    {
+      "source": "简单 Anki 高中牌组获取.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单 Anki 高中牌组获取.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 895
+    },
+    {
+      "source": "简单 Anki 高考制卡心得.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单 Anki 高考制卡心得.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4269
+    },
+    {
+      "source": "简单「Anki」上手教程.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单「Anki」上手教程.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1601
+    },
+    {
+      "source": "简单「Anki」团队学习.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单「Anki」团队学习.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 877
+    },
+    {
+      "source": "简单「Anki」操作手册.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单「Anki」操作手册.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1192
+    },
+    {
+      "source": "简单专栏介绍及目录.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单专栏介绍及目录.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3314
+    },
+    {
+      "source": "简单了解「Anki」是什么.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单了解「Anki」是什么.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1897
+    },
+    {
+      "source": "简单交流高中学习是什么.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单交流高中学习是什么.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 785
+    },
+    {
+      "source": "简单分享「Anki」与效率软件.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单分享「Anki」与效率软件.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 750
+    },
+    {
+      "source": "简单分享高考╳Anki使用经验.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单分享高考╳Anki使用经验.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1170
+    },
+    {
+      "source": "简单分享高考╳Anki学习技巧怎么做.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单分享高考╳Anki学习技巧怎么做.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1399
+    },
+    {
+      "source": "简单刷题方法论.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单刷题方法论.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 674
+    },
+    {
+      "source": "简单常见记忆误区解惑.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单常见记忆误区解惑.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3913
+    },
+    {
+      "source": "简单高考╳Anki问题收集贴.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单高考╳Anki问题收集贴.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 910
+    },
+    {
+      "source": "给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/给ChatGPT施咒，让它为你制作Anki卡片——Prompt工程案例.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6462
+    },
+    {
+      "source": "解释 FSRS（上篇）：算法描述与运作原理.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/解释 FSRS（上篇）：算法描述与运作原理.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3840
+    },
+    {
+      "source": "解释 FSRS（下篇）：准确度.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/解释 FSRS（下篇）：准确度.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5216
+    },
+    {
+      "source": "设计明晰 Anki 卡片的规则.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/设计明晰 Anki 卡片的规则.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 9592
+    },
+    {
+      "source": "运用记忆系统背诵文章段落.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/运用记忆系统背诵文章段落.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 15101
+    },
+    {
+      "source": "还在请家教？TA会这样辅导你吗？——「Anki」与家教辅导.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/还在请家教？TA会这样辅导你吗？——「Anki」与家教辅导.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 981
+    },
+    {
+      "source": "醒醒，别再沉迷各种学习方法了！本文带你理解学习的核心问题。（5k+字、20+参考）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/醒醒，别再沉迷各种学习方法了！本文带你理解学习的核心问题。（5k+字、20+参考）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7946
+    },
+    {
+      "source": "间隔重复的有效实践.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复的有效实践.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 25028
+    },
+    {
+      "source": "（新坑）知乎╳Anki╳高考——怎样在知乎上用 Anki 提分？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/（新坑）知乎╳Anki╳高考——怎样在知乎上用 Anki 提分？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 792
+    },
+    {
+      "source": "AnkiX高考.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/AnkiX高考.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 368220
+    },
+    {
+      "source": "20 条知识表述规则（20 周年版）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/20 条知识表述规则（20 周年版）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3992
+    },
+    {
+      "source": "QuickerMemo：以思考的速度渐进学习.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/QuickerMemo：以思考的速度渐进学习.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2453
+    },
+    {
+      "source": "SuperMemo 18 完美汉化（大概）分享.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SuperMemo 18 完美汉化（大概）分享.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2115
+    },
+    {
+      "source": "SuperMemo 图表详解.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SuperMemo 图表详解.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3209
+    },
+    {
+      "source": "SuperMemo 的三大模块，解决记忆的三大问题！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SuperMemo 的三大模块，解决记忆的三大问题！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4096
+    },
+    {
+      "source": "SuperMemo 自动备份.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SuperMemo 自动备份.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2802
+    },
+    {
+      "source": "【介绍】SuperMemo China 翻译计划.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【介绍】SuperMemo China 翻译计划.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 656
+    },
+    {
+      "source": "【原稿】用 SuperMemo 打通阅读、理解与记忆.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【原稿】用 SuperMemo 打通阅读、理解与记忆.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 9462
+    },
+    {
+      "source": "【翻译】SuperMemo 中渐进阅读的意义：第一部分.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【翻译】SuperMemo 中渐进阅读的意义：第一部分.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6714
+    },
+    {
+      "source": "【翻译】SuperMemo 中渐进阅读的意义：第二部分.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【翻译】SuperMemo 中渐进阅读的意义：第二部分.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5874
+    },
+    {
+      "source": "【重新发布】SuperMemo 18 中文懒人包.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【重新发布】SuperMemo 18 中文懒人包.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1253
+    },
+    {
+      "source": "为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote).md",
+      "kind": "md",
+      "output": "outputs/extracted_text/为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote).md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6361
+    },
+    {
+      "source": "为什么学习的同时不该记笔记！—— 三个致命的原因.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/为什么学习的同时不该记笔记！—— 三个致命的原因.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4061
+    },
+    {
+      "source": "为什么我不再向我的朋友介绍 Anki _ SuperMemo？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/为什么我不再向我的朋友介绍 Anki _ SuperMemo？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 8522
+    },
+    {
+      "source": "传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3395
+    },
+    {
+      "source": "同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP).md",
+      "kind": "md",
+      "output": "outputs/extracted_text/同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP).md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7471
+    },
+    {
+      "source": "在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SuperMemo.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SuperMemo.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 9531
+    },
+    {
+      "source": "在渐进阅读中，创建摘录卡片后该做什么？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在渐进阅读中，创建摘录卡片后该做什么？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2442
+    },
+    {
+      "source": "如何阅读（用 Anki 渐进阅读）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如何阅读（用 Anki 渐进阅读）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4331
+    },
+    {
+      "source": "想记住你所学的一切？服从这个算法吧！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/想记住你所学的一切？服从这个算法吧！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 12671
+    },
+    {
+      "source": "最好的阅读方式是高度语境化的.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/最好的阅读方式是高度语境化的.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1135
+    },
+    {
+      "source": "水蛭.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/水蛭.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 18224
+    },
+    {
+      "source": "渐进学习专栏导读（SuperMemo 使用教程）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进学习专栏导读（SuperMemo 使用教程）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3538
+    },
+    {
+      "source": "渐进摘录处理的原因(I)：更好的元记忆判断.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进摘录处理的原因(I)：更好的元记忆判断.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3641
+    },
+    {
+      "source": "渐进生活.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进生活.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 10656
+    },
+    {
+      "source": "渐进阅读基本概念与操作介绍.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读基本概念与操作介绍.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7641
+    },
+    {
+      "source": "渐进阅读懒人样式.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读懒人样式.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2714
+    },
+    {
+      "source": "渐进阅读材料导入与预处理.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读材料导入与预处理.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5053
+    },
+    {
+      "source": "渐进阅读概念组最佳实践.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读概念组最佳实践.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2710
+    },
+    {
+      "source": "渐进阅读：卡片刷不完？拥抱优先级！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读：卡片刷不完？拥抱优先级！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3414
+    },
+    {
+      "source": "熟练的阅读通常是非线性的.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/熟练的阅读通常是非线性的.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1472
+    },
+    {
+      "source": "示范：我的渐进阅读工作流程.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/示范：我的渐进阅读工作流程.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 8461
+    },
+    {
+      "source": "规划一个轻松的高效日.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/规划一个轻松的高效日.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 19337
+    },
+    {
+      "source": "SuperMemo—渐进学习最前沿！.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SuperMemo—渐进学习最前沿！.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 190952
+    },
+    {
+      "source": "(1_5) 高效学习的间隔重复——概述.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/(1_5) 高效学习的间隔重复——概述.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 11147
+    },
+    {
+      "source": "(2_5) 高效学习的间隔重复——文献综述之测试效应.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/(2_5) 高效学习的间隔重复——文献综述之测试效应.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 10134
+    },
+    {
+      "source": "(3_5) 高效学习的间隔重复——文献综述之间隔效应.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/(3_5) 高效学习的间隔重复——文献综述之间隔效应.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 31077
+    },
+    {
+      "source": "(4_5) 高效学习的间隔重复——应用指南.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/(4_5) 高效学习的间隔重复——应用指南.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 32622
+    },
+    {
+      "source": "(5_5) 高效学习的间隔重复——脚注.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/(5_5) 高效学习的间隔重复——脚注.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 40756
+    },
+    {
+      "source": "FSRS for Anki 发展史.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/FSRS for Anki 发展史.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 23396
+    },
+    {
+      "source": "FSRS 是全世界最精确的间隔重复算法之一（最新基准测试更新）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/FSRS 是全世界最精确的间隔重复算法之一（最新基准测试更新）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 9106
+    },
+    {
+      "source": "GPT-3 能够将填空卡转换为问答卡.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/GPT-3 能够将填空卡转换为问答卡.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1259
+    },
+    {
+      "source": "GPT-4 在指导下，通常能够从解释性文本中为陈述性知识生成可用的间隔重复卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/GPT-4 在指导下，通常能够从解释性文本中为陈述性知识生成可用的间隔重复卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1970
+    },
+    {
+      "source": "JAnki：写给程序员们的 13 条 Anki 使用经验.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/JAnki：写给程序员们的 13 条 Anki 使用经验.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6132
+    },
+    {
+      "source": "JOST'S LAW 约斯特定律.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/JOST'S LAW 约斯特定律.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3857
+    },
+    {
+      "source": "Mochi.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Mochi.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2500
+    },
+    {
+      "source": "Readwise.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/Readwise.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3643
+    },
+    {
+      "source": "RemNote.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/RemNote.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1573
+    },
+    {
+      "source": "SRS 重试机制.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/SRS 重试机制.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2052
+    },
+    {
+      "source": "§收件箱与注意力管理.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/§收件箱与注意力管理.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2162
+    },
+    {
+      "source": "《量子国度》中的指数和遗忘.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/《量子国度》中的指数和遗忘.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 8147
+    },
+    {
+      "source": "《量子国度》可疑的平直遗忘曲线.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/《量子国度》可疑的平直遗忘曲线.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7270
+    },
+    {
+      "source": "「跳过」机制可能有助于间隔重复记忆系统在复习环节保持情感上的连接.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「跳过」机制可能有助于间隔重复记忆系统在复习环节保持情感上的连接.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2006
+    },
+    {
+      "source": "「跳过」：指数补偿的延迟机制和模糊收件箱.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/「跳过」：指数补偿的延迟机制和模糊收件箱.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4755
+    },
+    {
+      "source": "【译序】考试里有学习的奥秘？！前苹果系统工程师手把手教学.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/【译序】考试里有学习的奥秘？！前苹果系统工程师手把手教学.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5870
+    },
+    {
+      "source": "一些创新洞察依赖于长期记忆.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/一些创新洞察依赖于长期记忆.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1508
+    },
+    {
+      "source": "不应该设置多处收件箱.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/不应该设置多处收件箱.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1058
+    },
+    {
+      "source": "专家回答启发式（来自 Issa Rice）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/专家回答启发式（来自 Issa Rice）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1940
+    },
+    {
+      "source": "为有潜在价值的参考引用建立一个阅读收件箱.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/为有潜在价值的参考引用建立一个阅读收件箱.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2180
+    },
+    {
+      "source": "也许是「练习系统」，而不是「记忆系统」.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/也许是「练习系统」，而不是「记忆系统」.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1799
+    },
+    {
+      "source": "人们似乎忘记了他们所读的大部分内容，而且他们大多没有注意到这一点.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/人们似乎忘记了他们所读的大部分内容，而且他们大多没有注意到这一点.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2072
+    },
+    {
+      "source": "人们在学校经受过死记硬背，因由这些负面经历而低估记忆的重要性.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/人们在学校经受过死记硬背，因由这些负面经历而低估记忆的重要性.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1768
+    },
+    {
+      "source": "传统的间隔重复记忆卡片是原子化的.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/传统的间隔重复记忆卡片是原子化的.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1136
+    },
+    {
+      "source": "你应该记住什么？间隔重复你的生活.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/你应该记住什么？间隔重复你的生活.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3049
+    },
+    {
+      "source": "使用抽认卡，成为更优秀的程序员：第一部分.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/使用抽认卡，成为更优秀的程序员：第一部分.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2854
+    },
+    {
+      "source": "使用机器学习从解释性文本中生成优质的间隔重复卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/使用机器学习从解释性文本中生成优质的间隔重复卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5342
+    },
+    {
+      "source": "先学再记.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/先学再记.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1120
+    },
+    {
+      "source": "写好间隔重复记忆卡片很难.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/写好间隔重复记忆卡片很难.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2143
+    },
+    {
+      "source": "分层知识结构中的个人优化间隔重复.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/分层知识结构中的个人优化间隔重复.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 15121
+    },
+    {
+      "source": "创造性遗忘.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/创造性遗忘.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2104
+    },
+    {
+      "source": "别拿「间隔重复」来创业.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/别拿「间隔重复」来创业.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 6716
+    },
+    {
+      "source": "助记文章能让读者详细记忆其中内容，成本是增加 35-50% 的阅读时间开销.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/助记文章能让读者详细记忆其中内容，成本是增加 35-50% 的阅读时间开销.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1618
+    },
+    {
+      "source": "单独的间隔重复记忆卡片是一种糟糕的交流媒介.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/单独的间隔重复记忆卡片是一种糟糕的交流媒介.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1614
+    },
+    {
+      "source": "卡片写作的模拟教学法.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/卡片写作的模拟教学法.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1484
+    },
+    {
+      "source": "卡片分享.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/卡片分享.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2368
+    },
+    {
+      "source": "卡片必须明确说明他们所期望的答案的「形状」.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/卡片必须明确说明他们所期望的答案的「形状」.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1348
+    },
+    {
+      "source": "可使用间隔重复系统对注意力编程.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/可使用间隔重复系统对注意力编程.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3628
+    },
+    {
+      "source": "可引用性 vs 可制卡性.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/可引用性 vs 可制卡性.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1110
+    },
+    {
+      "source": "可执行的策略.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/可执行的策略.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2113
+    },
+    {
+      "source": "可编程注意力.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/可编程注意力.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1286
+    },
+    {
+      "source": "叶峻峣, 苏敬勇, 曹译珑. 优化间隔重复调度的一种随机最短路径算法[C]__第 28 届 ACM SIGKDD 知识发现与数据挖掘学术会议论文集, 2022_ 4381-4390.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/叶峻峣, 苏敬勇, 曹译珑. 优化间隔重复调度的一种随机最短路径算法[C]__第 28 届 ACM SIGKDD 知识发现与数据挖掘学术会议论文集, 2022_ 4381-4390.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1486
+    },
+    {
+      "source": "在课堂上使用间隔重复软件的一年.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在课堂上使用间隔重复软件的一年.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 32059
+    },
+    {
+      "source": "在课堂上使用间隔重复软件的第二年.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在课堂上使用间隔重复软件的第二年.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 51270
+    },
+    {
+      "source": "在课堂上使用间隔重复软件的这七年.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在课堂上使用间隔重复软件的这七年.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 87848
+    },
+    {
+      "source": "在间隔重复上稍微多努力一点，就能得到指数级的回报.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在间隔重复上稍微多努力一点，就能得到指数级的回报.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1384
+    },
+    {
+      "source": "在间隔重复记忆系统中，优化的关键是复习环节及其内容的情感联系.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在间隔重复记忆系统中，优化的关键是复习环节及其内容的情感联系.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2280
+    },
+    {
+      "source": "在间隔重复记忆系统中，填空卡似乎比问答卡产生更少的理解.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在间隔重复记忆系统中，填空卡似乎比问答卡产生更少的理解.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3032
+    },
+    {
+      "source": "在非技术性的助记文本中，填空卡经常引起挫败感.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/在非技术性的助记文本中，填空卡经常引起挫败感.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1939
+    },
+    {
+      "source": "基于主动回忆的学习中的知识结构与表述.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/基于主动回忆的学习中的知识结构与表述.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 20748
+    },
+    {
+      "source": "填空卡可用于创建典型的 N 面卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/填空卡可用于创建典型的 N 面卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1120
+    },
+    {
+      "source": "复习环节能为卡片写作提供多少反馈？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/复习环节能为卡片写作提供多少反馈？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1073
+    },
+    {
+      "source": "大量输入与间隔重复.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/大量输入与间隔重复.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4199
+    },
+    {
+      "source": "如何普及记忆系统？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如何普及记忆系统？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 12338
+    },
+    {
+      "source": "如果学生学习材料有困难，间隔重复记忆系统可以怎样干预？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/如果学生学习材料有困难，间隔重复记忆系统可以怎样干预？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3427
+    },
+    {
+      "source": "学习别人的间隔重复记忆卡片通常是无效的.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/学习别人的间隔重复记忆卡片通常是无效的.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1802
+    },
+    {
+      "source": "对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示，来确定从何种角度制卡.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示，来确定从何种角度制卡.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2098
+    },
+    {
+      "source": "对于卡片生成任务，大型语言模型（LLM）缺乏为复杂概念材料编写卡片的模式.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/对于卡片生成任务，大型语言模型（LLM）缺乏为复杂概念材料编写卡片的模式.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2850
+    },
+    {
+      "source": "对于卡片生成任务，如果提供了充足的上下文，大型语言模型（LLM）可能会表现得更好.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/对于卡片生成任务，如果提供了充足的上下文，大型语言模型（LLM）可能会表现得更好.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3404
+    },
+    {
+      "source": "对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1600
+    },
+    {
+      "source": "对于卡片生成任务，选择要强化的目标概念，和为这些目标概念编写卡片，是两个独立的问题.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/对于卡片生成任务，选择要强化的目标概念，和为这些目标概念编写卡片，是两个独立的问题.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2920
+    },
+    {
+      "source": "将卡片生成任务定义为强化目标的过滤问题.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/将卡片生成任务定义为强化目标的过滤问题.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2227
+    },
+    {
+      "source": "感知内容的间隔重复.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/感知内容的间隔重复.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 13411
+    },
+    {
+      "source": "我怎样才能读得更快？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/我怎样才能读得更快？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4544
+    },
+    {
+      "source": "我的日程安排.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/我的日程安排.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1970
+    },
+    {
+      "source": "我的间隔重复系统方法的不同之处.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/我的间隔重复系统方法的不同之处.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1873
+    },
+    {
+      "source": "我的阅读收件箱实践.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/我的阅读收件箱实践.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1751
+    },
+    {
+      "source": "手机上完成 Anki 复习更有趣.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/手机上完成 Anki 复习更有趣.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 874
+    },
+    {
+      "source": "操作系统层级的间隔重复系统.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/操作系统层级的间隔重复系统.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2201
+    },
+    {
+      "source": "收件箱维护的分流策略（如「收件箱归零」）往往不够稳健.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/收件箱维护的分流策略（如「收件箱归零」）往往不够稳健.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2297
+    },
+    {
+      "source": "收件箱需要可靠的清空流程才有效.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/收件箱需要可靠的清空流程才有效.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1986
+    },
+    {
+      "source": "收集材料的作用在感觉上被夸大了.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/收集材料的作用在感觉上被夸大了.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2400
+    },
+    {
+      "source": "更倾向于「记忆系统」而非「间隔重复系统」.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/更倾向于「记忆系统」而非「间隔重复系统」.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1543
+    },
+    {
+      "source": "最优间隔.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/最优间隔.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3089
+    },
+    {
+      "source": "条目.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/条目.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1831
+    },
+    {
+      "source": "构建更好的记忆系统.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/构建更好的记忆系统.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 8086
+    },
+    {
+      "source": "概念型知识的「最优复习间隔」可能更长.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/概念型知识的「最优复习间隔」可能更长.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1855
+    },
+    {
+      "source": "水蛭（Leech）[Anki, SuperMemo].md",
+      "kind": "md",
+      "output": "outputs/extracted_text/水蛭（Leech）[Anki, SuperMemo].md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 819
+    },
+    {
+      "source": "没有源源不断的新卡片，间隔重复的复习环节常常变得枯燥而脱节.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/没有源源不断的新卡片，间隔重复的复习环节常常变得枯燥而脱节.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1145
+    },
+    {
+      "source": "渐进式玩具赠送.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进式玩具赠送.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1790
+    },
+    {
+      "source": "渐进阅读的必然性.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读的必然性.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 26066
+    },
+    {
+      "source": "渐进阅读的最小定义.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/渐进阅读的最小定义.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2745
+    },
+    {
+      "source": "灵活的记忆实践产生流畅的理解.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/灵活的记忆实践产生流畅的理解.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 9682
+    },
+    {
+      "source": "现有的间隔重复系统不鼓励常青笔记的创作.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/现有的间隔重复系统不鼓励常青笔记的创作.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1934
+    },
+    {
+      "source": "用手机来收集和分流，而不是（通常）用来阅读.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/用手机来收集和分流，而不是（通常）用来阅读.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1778
+    },
+    {
+      "source": "用散文格式编写的关于源材料的卡片缺乏上下文.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/用散文格式编写的关于源材料的卡片缺乏上下文.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1103
+    },
+    {
+      "source": "用间隔重复系统来看穿数学概念 - Michael Nielsen.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/用间隔重复系统来看穿数学概念 - Michael Nielsen.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1941
+    },
+    {
+      "source": "用间隔重复软件记住一门编程语言.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/用间隔重复软件记住一门编程语言.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5597
+    },
+    {
+      "source": "相较于重复学习，重复测试的迁移学习效果更好.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/相较于重复学习，重复测试的迁移学习效果更好.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1983
+    },
+    {
+      "source": "穿越时间的文本.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/穿越时间的文本.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1906
+    },
+    {
+      "source": "简单问题卡片的初始间隔应更大.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/简单问题卡片的初始间隔应更大.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 752
+    },
+    {
+      "source": "给所有知识做反向卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/给所有知识做反向卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1089
+    },
+    {
+      "source": "编写间隔重复记忆卡片应避免浅层次的「模式匹配」.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/编写间隔重复记忆卡片应避免浅层次的「模式匹配」.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2985
+    },
+    {
+      "source": "自主评分的间隔重复记忆系统可避免假阴性.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/自主评分的间隔重复记忆系统可避免假阴性.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1416
+    },
+    {
+      "source": "自主评分的间隔重复记忆系统比机器评分的系统更有效率.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/自主评分的间隔重复记忆系统比机器评分的系统更有效率.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1045
+    },
+    {
+      "source": "艾宾浩斯遗忘曲线的错误.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/艾宾浩斯遗忘曲线的错误.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2815
+    },
+    {
+      "source": "规律进行间隔重复记忆练习是沉重的习惯.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/规律进行间隔重复记忆练习是沉重的习惯.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1722
+    },
+    {
+      "source": "计划本身不算什么，计划过程才是关键.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/计划本身不算什么，计划过程才是关键.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 955
+    },
+    {
+      "source": "记忆召回.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆召回.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2466
+    },
+    {
+      "source": "记忆复杂性.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆复杂性.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2066
+    },
+    {
+      "source": "记忆的三组分模型.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆的三组分模型.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 5053
+    },
+    {
+      "source": "记忆的两个组成成分_浓缩通俗版.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆的两个组成成分_浓缩通俗版.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2525
+    },
+    {
+      "source": "记忆的神经统计模型.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆的神经统计模型.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2954
+    },
+    {
+      "source": "记忆稳定性的两个组成成分.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆稳定性的两个组成成分.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4614
+    },
+    {
+      "source": "记忆系统与解题练习.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/记忆系统与解题练习.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4120
+    },
+    {
+      "source": "设计间隔重复卡片是为未来的自己设计任务.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/设计间隔重复卡片是为未来的自己设计任务.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1466
+    },
+    {
+      "source": "谨防自动导入阅读收件箱.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/谨防自动导入阅读收件箱.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1660
+    },
+    {
+      "source": "谬误：SuperMemo 的重复会浪费太多时间.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/谬误：SuperMemo 的重复会浪费太多时间.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 625
+    },
+    {
+      "source": "谬误：你需要每天使用 SuperMemo 学习.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/谬误：你需要每天使用 SuperMemo 学习.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 682
+    },
+    {
+      "source": "谬误：在第一天就多次复习你的材料.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/谬误：在第一天就多次复习你的材料.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 848
+    },
+    {
+      "source": "谬误：我们不需要知识，只需要一个知识索引.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/谬误：我们不需要知识，只需要一个知识索引.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2181
+    },
+    {
+      "source": "软件界面经常将破坏性操作作为最终决定，而不是视情况而定的选择.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/软件界面经常将破坏性操作作为最终决定，而不是视情况而定的选择.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1601
+    },
+    {
+      "source": "通过间隔证明复习来理解证明中的关键点.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/通过间隔证明复习来理解证明中的关键点.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1483
+    },
+    {
+      "source": "通过间隔重复生成问题.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/通过间隔重复生成问题.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 802
+    },
+    {
+      "source": "遗忘指数是间隔重复中的一个有缺陷的度量.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/遗忘指数是间隔重复中的一个有缺陷的度量.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1397
+    },
+    {
+      "source": "遗忘曲线.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/遗忘曲线.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 7384
+    },
+    {
+      "source": "避免使用「对或错」间隔重复记忆卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/避免使用「对或错」间隔重复记忆卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1341
+    },
+    {
+      "source": "避免孤立的间隔重复记忆卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/避免孤立的间隔重复记忆卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1734
+    },
+    {
+      "source": "重复.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/重复.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1204
+    },
+    {
+      "source": "重复历史.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/重复历史.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2581
+    },
+    {
+      "source": "重试结果可能会提供额外的可提取性信号.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/重试结果可能会提供额外的可提取性信号.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1929
+    },
+    {
+      "source": "量子物理学家如何使用记忆系统？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/量子物理学家如何使用记忆系统？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 11399
+    },
+    {
+      "source": "量子物理学家用 Anki 重新发现渐进阅读.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/量子物理学家用 Anki 重新发现渐进阅读.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 11052
+    },
+    {
+      "source": "链表式证明卡.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/链表式证明卡.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2501
+    },
+    {
+      "source": "闭合开环.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/闭合开环.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1534
+    },
+    {
+      "source": "间隔复习数学证明.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔复习数学证明.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2320
+    },
+    {
+      "source": "间隔复习证明不在于记住证明.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔复习证明不在于记住证明.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3859
+    },
+    {
+      "source": "间隔效应.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔效应.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4721
+    },
+    {
+      "source": "间隔重复 (spaced repetition).md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复 (spaced repetition).md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3375
+    },
+    {
+      "source": "间隔重复中的简化与冗余.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复中的简化与冗余.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3613
+    },
+    {
+      "source": "间隔重复会干扰对知识重要性的内心认知吗？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复会干扰对知识重要性的内心认知吗？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1851
+    },
+    {
+      "source": "间隔重复可以降低对收件箱进行维护中破坏性操作风险.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复可以降低对收件箱进行维护中破坏性操作风险.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2111
+    },
+    {
+      "source": "间隔重复可能是培养或改变习惯的有用工具.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复可能是培养或改变习惯的有用工具.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2216
+    },
+    {
+      "source": "间隔重复实验可以体面地停止.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复实验可以体面地停止.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1751
+    },
+    {
+      "source": "间隔重复对于逐步完善灵光一闪可能有用.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复对于逐步完善灵光一闪可能有用.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2203
+    },
+    {
+      "source": "间隔重复机制让人感觉轻松不费力.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复机制让人感觉轻松不费力.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1939
+    },
+    {
+      "source": "间隔重复系统与教义问答.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复系统与教义问答.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2501
+    },
+    {
+      "source": "间隔重复系统中选择去记忆某项内容的行为有如轻松的手势.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复系统中选择去记忆某项内容的行为有如轻松的手势.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1574
+    },
+    {
+      "source": "间隔重复系统的主流文化圈热衷无意义的目标.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复系统的主流文化圈热衷无意义的目标.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2633
+    },
+    {
+      "source": "间隔重复系统能力的限制因素是写出足够多的好卡片.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复系统能力的限制因素是写出足够多的好卡片.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2054
+    },
+    {
+      "source": "间隔重复让你感觉在某门学科上总是学生.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复让你感觉在某门学科上总是学生.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1582
+    },
+    {
+      "source": "间隔重复记忆卡片应关联和联系概念.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆卡片应关联和联系概念.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1931
+    },
+    {
+      "source": "间隔重复记忆卡片应确保复习者必须从记忆中提取出答案.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆卡片应确保复习者必须从记忆中提取出答案.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1501
+    },
+    {
+      "source": "间隔重复记忆卡片应该从多个角度对概念进行编码.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆卡片应该从多个角度对概念进行编码.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2069
+    },
+    {
+      "source": "间隔重复记忆卡片应该明确地产生一个具体的答案.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆卡片应该明确地产生一个具体的答案.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1913
+    },
+    {
+      "source": "间隔重复记忆卡片应该简洁.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆卡片应该简洁.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1924
+    },
+    {
+      "source": "间隔重复记忆卡片通常应聚焦于一个原子化单元.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆卡片通常应聚焦于一个原子化单元.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2885
+    },
+    {
+      "source": "间隔重复记忆系统中，需要根据卡片回答错误的原因确定干预手段.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统中，需要根据卡片回答错误的原因确定干预手段.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 903
+    },
+    {
+      "source": "间隔重复记忆系统使记忆成为一种选择.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统使记忆成为一种选择.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2226
+    },
+    {
+      "source": "间隔重复记忆系统可以缩短科目学习中不愉快的早期阶段.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统可以缩短科目学习中不愉快的早期阶段.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2591
+    },
+    {
+      "source": "间隔重复记忆系统可用于促进应用、综合和创造.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统可用于促进应用、综合和创造.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2067
+    },
+    {
+      "source": "间隔重复记忆系统可用于发展概念性理解.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统可用于发展概念性理解.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3009
+    },
+    {
+      "source": "间隔重复记忆系统在多大程度上能算作刻意练习？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统在多大程度上能算作刻意练习？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1058
+    },
+    {
+      "source": "间隔重复记忆系统并不能迅速展现出它的优势.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统并不能迅速展现出它的优势.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1658
+    },
+    {
+      "source": "间隔重复记忆系统用不同的问题文本会有更好的表现吗？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统用不同的问题文本会有更好的表现吗？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1339
+    },
+    {
+      "source": "间隔重复记忆系统的特殊应用.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统的特殊应用.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 2846
+    },
+    {
+      "source": "间隔重复记忆系统让你误以为自己的记忆很差.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统让你误以为自己的记忆很差.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 3272
+    },
+    {
+      "source": "间隔重复记忆系统让记忆更加自动化，从而有助于更深入的琢磨思考.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统让记忆更加自动化，从而有助于更深入的琢磨思考.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1655
+    },
+    {
+      "source": "间隔重复记忆系统非常高效.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统非常高效.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1866
+    },
+    {
+      "source": "间隔重复记忆系统（Spaced repetition memory system）.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统（Spaced repetition memory system）.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 27909
+    },
+    {
+      "source": "间隔重复记忆系统：已取得长足进步.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复记忆系统：已取得长足进步.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 10644
+    },
+    {
+      "source": "高效的间隔重复记忆系统的最大吸收率是多少？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/高效的间隔重复记忆系统的最大吸收率是多少？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 1678
+    },
+    {
+      "source": "高质量的间隔重复记忆卡片最重要的属性是什么？.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/高质量的间隔重复记忆卡片最重要的属性是什么？.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 4080
+    },
+    {
+      "source": "间隔重复 & 注意力管理.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复 & 注意力管理.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 850080
+    },
+    {
+      "source": "《系统集成项目管理工程师教程》官方考试指定第二版.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/《系统集成项目管理工程师教程》官方考试指定第二版.pdf.txt",
+      "parseable": false,
+      "note": "未提取到正文文本，疑似扫描版或受保护 PDF",
+      "page_count": 678,
+      "char_count": 16161
+    },
+    {
+      "source": "历年系统集成项目管理工程师试题解析及答案-171页.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/历年系统集成项目管理工程师试题解析及答案-171页.pdf.txt",
+      "parseable": false,
+      "note": "未提取到正文文本，疑似扫描版或受保护 PDF",
+      "page_count": 171,
+      "char_count": 3993
+    },
+    {
+      "source": "系统集成项目管理工程师总结经典.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/系统集成项目管理工程师总结经典.pdf.txt",
+      "parseable": true,
+      "note": "部分页面提取为空（29/30 页有文本），需校验是否为扫描页",
+      "page_count": 30,
+      "char_count": 33388
+    },
+    {
+      "source": "系统集成项目管理工程师知识点精华(合集).pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/系统集成项目管理工程师知识点精华(合集).pdf.txt",
+      "parseable": true,
+      "note": "部分页面提取为空（40/41 页有文本），需校验是否为扫描页",
+      "page_count": 41,
+      "char_count": 70343
+    },
+    {
+      "source": "系统集成项目管理工程师试题库.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/系统集成项目管理工程师试题库.pdf.txt",
+      "parseable": true,
+      "note": "文本提取完成",
+      "page_count": 6,
+      "char_count": 3002
+    },
+    {
+      "source": "考试必过神之冲刺背诵口诀精简.doc",
+      "kind": "doc",
+      "output": "outputs/extracted_text/考试必过神之冲刺背诵口诀精简.doc.txt",
+      "parseable": true,
+      "note": "textutil 转换完成",
+      "page_count": null,
+      "char_count": 15997
+    },
+    {
+      "source": "资质.pdf",
+      "kind": "pdf",
+      "output": "outputs/extracted_text/资质.pdf.txt",
+      "parseable": true,
+      "note": "文本提取完成",
+      "page_count": 2,
+      "char_count": 1020
+    },
+    {
+      "source": "间隔重复 & 注意力管理.md",
+      "kind": "md",
+      "output": "outputs/extracted_text/间隔重复 & 注意力管理.md.txt",
+      "parseable": true,
+      "note": "文本文件直接复制",
+      "page_count": null,
+      "char_count": 850080
+    }
+  ]
+}

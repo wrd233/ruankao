@@ -1,0 +1,30 @@
+# 间隔重复记忆系统非常高效
+
+> [原文链接](https://zhuanlan.zhihu.com/p/520108661)
+
+有了[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)[1]，只要每天投入短短的几分钟，你就能记住成千上万的问题的答案。这个效果不太直观，其背后是[间隔效应](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)[2]的指数特点：[在间隔重复上稍微多努力一点，就能得到指数级的回报](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7AeS1H6h8GRAaZ9ZuqumphVu1LNM323rdS6u)[3]。
+
+每当你正确记住一个答案，该问题的测试间隔就会呈几何级数增加，形成一条指数曲线。5 天，2 周，1 个月，2 个月，4 个月，等等。如果你以恒定的速度在软件里添加问题，而每个问题在某一天出现的概率随着时间的推移呈指数式减少，那么你在某一天要复习的问题数量就会基本恒定。
+
+### 参考文献
+
+Branwen, G. (2009). Spaced Repetition for Efficient Learning[4]. Retrieved December 16, 2019, from [https://www.gwern.net/Spaced-repetition](https://link.zhihu.com/?target=https%3A//www.gwern.net/Spaced-repetition)
+
+Nielsen, M. (2018). Augmenting Long-term Memory[5]. Retrieved from [http://augmentingcognition.com/ltm.html](https://link.zhihu.com/?target=http%3A//augmentingcognition.com/ltm.html)
+
+## 链接至本文（已汉化）
+
+[间隔重复记忆系统](http://zhuanlan.zhihu.com/p/404257681)
+[间隔重复记忆系统使记忆成为一种选择](http://zhuanlan.zhihu.com/p/397582470)
+[间隔重复记忆系统并不能迅速展现出它的优势](http://zhuanlan.zhihu.com/p/452010838)
+[间隔重复系统能力的限制因素是写出足够多的好卡片](http://zhuanlan.zhihu.com/p/399738674)
+[间隔重复系统中选择去记忆某项内容的行为有如轻松的手势](http://zhuanlan.zhihu.com/p/470710559)
+[在间隔重复上稍微多努力一点，就能得到指数级的回报](https://zhuanlan.zhihu.com/p/558887872)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 题图：[#リリカルなのは stubborn - tyn的插画 - pixiv](https://link.zhihu.com/?target=https%3A//www.pixiv.net/artworks/75395096)
+> 原文：[Spaced repetition memory systems are extremely efficient (andymatuschak.org)](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)

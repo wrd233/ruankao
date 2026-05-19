@@ -1,0 +1,16 @@
+# 史上最“全”「Anki高考」牌组整理完毕！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/38507330)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+
+![](https://pic1.zhimg.com/v2-805d4c0ca485c77824dd496e8f949044_1440w.jpg)
+
+![](https://picx.zhimg.com/v2-ae66c5ee67e5af8d6cc29669e15448df_1440w.jpg)
+经过连续 7 天的奋战，我终于将六科牌组按照课本或题型分类、精简，将17000+的卡片压缩到了15000+张。
+
+> 更新：已经精简为 10000 张
+> 获取方式请见公告
+[叶峻峣：【公告】Anki 高考牌组下架及解密的相关事宜](https://zhuanlan.zhihu.com/p/142177105)关于如何自己做出高质量卡片，我推荐这篇教程：
+
+[叶峻峣：如何写出好卡片：利用间隔重复创造理解](https://zhuanlan.zhihu.com/p/434074509)

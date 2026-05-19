@@ -1,0 +1,271 @@
+# 间隔重复记忆系统（Spaced repetition memory system）
+
+> [原文链接](https://zhuanlan.zhihu.com/p/404257681)
+
+间隔重复记忆系统结合了[测试效应](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)[1]和[间隔效应](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)[2]，能够用于高效地记忆成千上万的事实（[间隔重复记忆系统非常高效](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)[3]）。有些人还将它们用于更广泛的任务（见下文）。[间隔重复记忆系统使记忆成为一种选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)[4]，但它们不只是用于背诵事实：[间隔重复记忆系统可用于加深概念理解](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)[5]。
+
+这类系统中，第一个面向消费者的是 [Supermemo](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6Bub13H3u5SKX7Yzbt8GBuK86HPTXSU1TdAK)[6]，由 [Piotr Wozniak](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7ErFZbV91EoBMFNNRseVh3xk1AeJhwq3fZzS)[7] 创造。它使用并推广了「间隔重复」这一术语；之前的文献使用了各种术语（通常指的是基本现象更具体的方面）。
+
+相关的系统和可能性：
+
+[我的间隔重复系统方法的不同之处](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z241Vpk8PMkfkGwMQ6U2PRjpweWhD8yAsVCR)[8]
+不同实现：
+
+传统的：
+
+[Supermemo](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6Bub13H3u5SKX7Yzbt8GBuK86HPTXSU1TdAK)
+[Mnemosyne](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7sh4NRXqTaBmXtj3ioDn5fKwEn7qvtjGJhkC)
+[Anki](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4zzRb7NCkV71THoNKMzWkw6QRWKr1QCtiAf1)
+
+特殊变体：
+
+[Mnemonic medium](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
+[Execute Program](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok)
+[RemNote](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6jecLFTkHG5MCFDvhwsd2p8YWykaHr6ZkHTi)[9]
+[Mochi](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zxAXSEQidXeYW2XFBj9ftGxz1kTNtV4fXjhZ)[10]
+[Readwise](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2ewMN8Hzd8gt4qyfQV1ognJ5PQs3CXxDfCJ)[11]
+[Chessable MoveTrainer](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8MgFD7B7QRqqGZXsJqeGpm5PJhroPwb6BW2V)
+
+[间隔重复记忆系统的特殊应用](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zrs5GnK6DEm1NcajMfqJ1n93PZwSHCEP9Drt)[12]
+[间隔重复系统可用于对注意力进行编程](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)[13]
+
+[间隔重复系统与教义问答](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z39D31syJUE1gtNTREogSZiG6LDSuwygN5NDt)[14]
+
+[间隔重复记忆系统可以用来促进应用、综合和创造](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)[15]
+
+记忆系统的特性：
+
+[高效的间隔重复记忆系统的最大吸收率是多少？](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4J3EVtt8aQoZg8a5y48AmfYL4GauDjBSzw2s)[16]
+
+[优化间隔重复系统的安排表](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5N3g1Tc9jQMmRnExZxY23cUufNS1g6srNAbU)
+
+[在间隔重复记忆系统中的自我评分与机器评分](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7gWUD4AnndX5CNMcwNMuh4RaUMGg2hrtKH3J)
+[间隔重复记忆系统在多大程度上能算作刻意练习？](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2DFcZfqWxS8wd6ccX7WB7TvT6gVQtqS6GCCp)[17]
+
+采用的障碍
+
+[许多人认为记忆对深刻的创造性工作不重要](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zD5zaKmvTFAAL3PTJGWzkAQr6CtoBCdoXBpM)[18]
+[写好间隔重复记忆卡片很难](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)[19]
+
+[高质量的间隔重复记忆卡片最重要的属性是什么？](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z42J1vxsMjhkdbrqVfoqjiEesSzfaEqurBtoJ)[20]
+[学习别人的间隔重复记忆卡片通常是无效的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z38fLX4H8oq9eXKnZH7wk8qDXfBLg2bxVyA2M)[21]
+[间隔重复系统能力的限制因素是写出足够多的好卡片](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4zvsYb38iMhkDgZzKzjqpzKKtwPhvt4FuzcS)[22]
+[使用机器学习模型来生成高质量的间隔重复卡片](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2DY7qsP5iHsiA5hxUHheV8hu7Xe96vdGyYX)[23]
+
+[在间隔重复记忆系统中，优化的关键是复习环节及其内容的情感联系](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z64si3kA3bkCgz3Bsr5YNWsAAQUR2pmXab63T)[24]
+
+[规律进行间隔重复记忆练习是沉重的习惯](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zyk3ZCEVSB4Zwej3Xd4CJ2g1FynRFTZGJpQN)[25]
+
+[间隔重复记忆系统并不能迅速展现出它的好处](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2evK9drA5aJp4tHcXgV4Pri6GAnEyWyb4YwS)[26]
+[间隔重复记忆系统让你误以为自己的记忆很差](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4vCGd9Gt715AXtqTXxoKjrEawbvT9o9NA6DC)[27]
+
+[没有源源不断的新卡片，间隔重复的复习环节常常变得枯燥而脱节](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4hNAfe6TrqjxCydF3CaAVn1svaqiu86JFVBz)[28]
+[间隔重复系统的主流文化圈热衷无意义的目标](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7i9vs1MyadFaSkGBSwLVsfsQ5UEdN5aS2v9J)[29]
+
+对常见反对意见的回应
+
+SRS 只与事实的死记硬背有关：「学校学习」
+
+[人们在学校经受过死记硬背，因由这些负面经历而低估记忆的重要性](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5d7PMFhoTTpJfGAXms4H9gSBvUDRHb43pkfn)[30]
+现有的 SRS 几乎只用于简单的陈述性知识，相反：[间隔重复记忆系统可用于发展概念性理解](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)[5]
+[间隔重复记忆系统让记忆更加自动化，从而有助于更深入的琢磨思考](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3hyucvGpCUB361PCegiHbX7FyFHcqZZF2pKK)[31]
+[间隔重复记忆系统可以缩短科目学习中不愉快的早期阶段](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z36hoKonZMF93rY34goQhyFLfnTfHmSwBzNYs)[32]
+（注意：要写出用于概念理解的卡片是很难的！）
+
+SRS 只适用于你不够关心的材料，不能「自然」记住。最好是「在实践中学习」。
+外部记忆辅助工具已经足够了
+记忆技术避免了 SRS 的出现
+通过 SRS 学到的知识不能迁移
+SRS 的真正价值来自于制作自己的卡片
+
+也许吧！[亲自写间隔重复记忆卡片有多重要？](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5TxQNCUTSAiTg42v7Ft6xASpnyiuvm6phAoJ)
+
+## **参考文献**
+
+Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from [https://www.gwern.net/Spaced-repetition](https://link.zhihu.com/?target=https%3A//www.gwern.net/Spaced-repetition)
+
+[Who invented the name: spaced repetition? - supermemo.guru](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Who_invented_the_name%3A_spaced_repetition%253F)[33]
+
+## **反向链接**
+
+[助记媒介](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
+
+「助记媒介*」会在线性叙述的文章中嵌入了[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。在过去，尽管[间隔重复记忆系统让记忆成为一种选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但上手此类系统却困难重重。「助记媒介」是为了解决其中很多问题而设计的。（*译注：「助记媒介」是 Andy 推广的一系列实验性质、内嵌 SRS 卡片的介质，如文章 ）
+
+[可使用间隔重复系统对注意力进行编程](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
+
+[间隔重复记忆系统让记忆成为一种选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但交由计算机处理时间安排的价值，更在于动态地安排和选择要复习的问题。从某种意义上说，[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它**编程注意力**的能力（[可编程的注意力](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
+
+[间隔效应](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的算法利用了这一点来实现高效的学习系统。
+
+[知识工作应能聚沙成塔](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)为记忆实现了这一点：当你发现信息有用时，可以投入一点点精力，便能确保这条信息对你而言随时可用。随着时间推移，间隔重复图书馆便积累了成千上万的问题，（我强烈认为）这些知识可能使你以后更容易成为一个有效的知识工作者。
+
+[Execute Program](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok)
+
+[Gary Bernhardt](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4S7bk6dvuUUHrBUP58cn94r2zpUFfkBuUU7N) 的 Execute Program 提供了关于编程工具的交互式课程。这些课程将散文与实时编程问题交织在一起。类似于[助记媒介](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)，该网站集成了一个[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，可以随着时间的推移重复课程的任务。
+
+[间隔重复记忆系统是非常高效的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)
+
+使用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，你可以在每天投入短短的几分钟，就能记住成千上万的问题的答案。看上去很不直观，但正是[间隔效应](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)中的指数效果发挥作用。[间隔重复产生指数级的回报，而投入精力只需要增加一点点](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7AeS1H6h8GRAaZ9ZuqumphVu1LNM323rdS6u)。
+
+[Quizlet](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4erShe1C2qB39z4r8yDox1FuM2ZhRJxxTXbN)
+
+Quizlet 是一部商业[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。
+
+[精细编码](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)
+
+一些[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的用户会特意写出卡片，以促进精细编码。Karpicke 和 Smith 的实验（2012）表明，与只进行提取练习相比，这样做的好处并不大。相关文章： [提取练习似乎是一种比精细编码更有效的学习活动](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6z7GhYwjvT6eYbBDQgUbmcshywmskqnVs3Y6)。
+
+[间隔重复记忆系统让记忆成为一种选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)
+
+使用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的一个迷人的结果是，它们使记忆成为一种选择。一旦你采用了一种记忆实践，如果你想记住某件事，你可以简单地使它发生：只要花点时间写一个关于它的问题。在接下来的几个星期里，你会把它持久地编码到长期记忆中，而这只需要花你累计几分钟的时间：[间隔重复记忆系统非常高效](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)。因此，这些系统不仅让记忆成为一种选择，而且也让这种选择的风险非常低：[间隔重复系统中选择去记忆某项内容的行为有如轻松的手势](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2vBgMKvhXq9yM4wMR3uuQVsqJRarfbfbEoWr)。
+
+[写好间隔重复的记忆卡片很难](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)
+
+人们把抽认卡看作是学生时代的琐事，所以他们不太重视编写抽认卡。但是，为[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)编写好卡片是非常困难的。比如说，好卡片需要：
+
+[Piotr Wozniak](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7ErFZbV91EoBMFNNRseVh3xk1AeJhwq3fZzS)
+
+[Supermemo](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6Bub13H3u5SKX7Yzbt8GBuK86HPTXSU1TdAK) 的创造者，[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)和[渐进阅读](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gZooHVxB8x6EbDSR97Bz1jFMqAqSWSLPnMs)的推广者
+
+[可编程的注意力](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的复习环节不只是帮助你记住事情：它在数百个微小的任务中长期协调你的重复注意力，这些任务太多，无法用手管理。像这样的系统是一种**可编程的注意力**的形式。你一直在使用更简单的可编程注意力的形式：带有打盹和闹钟功能的收件箱；提醒你事情的机器人；[Twitter 是一种可编程注意力](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5UF8YjTjoYiADeLv2SeBPgKXKosK17cKfUpw)。这些系统的核心属性是什么？它们的潜在范围是什么？
+
+[间隔重复记忆系统可用于促进应用、综合和创造](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)
+
+像 Anki 这样的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)主要是为了帮助人们记忆大量的陈述性知识，比如词汇。但这类系统的机制也可以用来创建相对非传统的卡片，从而促进应用、综合和创造。
+
+[Supermemo](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6Bub13H3u5SKX7Yzbt8GBuK86HPTXSU1TdAK)
+
+由 [Piotr Wozniak](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7ErFZbV91EoBMFNNRseVh3xk1AeJhwq3fZzS) 创造的原始数字[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。包括对各种相关个人信息管理系统的支持，如[渐进阅读](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gZooHVxB8x6EbDSR97Bz1jFMqAqSWSLPnMs)。
+
+[助记媒介可以扩展到个人笔记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)
+
+使用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的过程中，你会写笔记来记录你所学习、观察和思考的内容。不幸的是，[现有的间隔重复系统不鼓励常青笔记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zZuqUv3XNEFsimMmHszLF87Pr5vTraLjL5Y)。记忆系统对于记住所写内容并持续琢磨很有帮助，但对于基于想法进一步思考并无太大功效。[常青笔记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)系统有助于逐步完善想法，但对于记住这些笔记并持续琢磨没有太大用处（除了[常青笔记的维护近似于间隔重复](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7)的效果之外）。因此，你陷入了一个困局，要么在两个不同的系统中混乱地重复劳动，要么放弃其中某一个系统的好处。
+
+[Execute Program 在你成功复习其前提条件后才能解锁](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z43GdwxNzaXGvNs7Hdd57UD9KauMxRGbH45r8)
+
+[Execute Program](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok) 的学生不能立即访问一门课程中的所有课程。课程的大部分课程都是从「锁定」开始的。这些课程依赖于课程中的其他课程：唯一最初解锁的课程是{那些在课程中没有依赖关系的课程}。课程仅解锁一次{它们的所有依赖项不仅已阅读，而且最近也已复习（通过嵌入式[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)机制）}。
+
+[高质量的间隔重复记忆卡片最重要的属性是什么？](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z42J1vxsMjhkdbrqVfoqjiEesSzfaEqurBtoJ)
+
+本笔记收集了关于如何将知识编码到[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)卡片中的想法，既支持对事实的记忆，也促进更丰富的[间隔重复记忆系统可用于加深概念理解](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)）。
+
+[常青笔记和 Zettelkasten 卡片系统的异同点](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm)的异同
+
+我在笔记中嵌入了[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)：[助记媒介可以扩展到个人笔记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)。这大大改变了媒介 —— 尽管是以一种我尚未充分理解的机制。
+
+[间隔重复记忆系统可用于发展概念性理解](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)显然可以用来记忆简单事实：名称、定义、数字常数等。记忆系统的绝大多数使用者似乎只将其用于这一目的。但是，间隔重复并不仅限于对记忆简单事实有用。如果你自己写卡片，它还可以用来深入理解复杂的材料 ([亲自间隔重复记忆卡片有多重要？](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5TxQNCUTSAiTg42v7Ft6xASpnyiuvm6phAoJ))。这种面向概念的卡片可能会从联系、影响、原因、后果出发问问题。这些更广泛的想法乍一看根本不是可以记忆的事实，但其实是的。使用间隔重复系统，不仅能让你记住这些概念性的想法，还能让你琢磨更高层次的关系，从而与话题保持联系，更深刻地内化材料。(相关文章：[助记媒介使读者长期与材料保持联系](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7tjqSxGsJ53tXsGkRpchsECWcMsW3sFUw86U))
+
+[间隔重复记忆系统的特殊应用](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zrs5GnK6DEm1NcajMfqJ1n93PZwSHCEP9Drt)
+
+尽管像 Anki 这样的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的主要目的是用来记忆陈述性知识，系统中的抽认卡模式还大有可为。
+
+[记忆的双组分模型](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4dAUBxVn79XSWRxGZHnKRXCP5XHeX2P9sw3y)
+
+在实际使用中，作为[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的一部分，通常必须引入项目复杂性的第三个参数，因为就我们的大脑而言，SR 项目实际上并不是原子的。
+
+[间隔重复记忆系统可以使人更快地度过科目学习中不愉快的早期阶段](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z36hoKonZMF93rY34goQhyFLfnTfHmSwBzNYs)
+
+对于使用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)工作，一个常见的负面反应是：「我更愿意直接上手：我就会自然而然地记住重要的东西」([赋能环境着重于创造成长和行动的机会，而不是技能培养](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5th5bWm6VhB6PPbYB97gUKMdnaZe5atntRza)）但是当你刚开始与新主题互动时，你可能一步也迈不开：至少在一段时间内，完成有意义的活动所需的术语与概念，对你来说数量太多，记忆也太不牢固，（相关：[在赋能环境中的新手往往不能做被赋能的事情](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)。在这种情况下，[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)可以帮助你加速，度过这个尴尬的、不愉快的阶段，直到你与材料能产生一段有意义的体验（相关笔记：[赋能环境的活动直接服务于一个内在的有意义的目的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)）。
+
+对于使用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)工作，一个常见的负面反应是：「我更愿意直接上手：我就会自然而然地记住重要的东西」([赋能环境着重于创造成长和行动的机会，而不是技能培养](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5th5bWm6VhB6PPbYB97gUKMdnaZe5atntRza)）但是当你刚开始与新主题互动时，你可能一步也迈不开：至少在一段时间内，完成有意义的活动所需的术语与概念，对你来说数量太多，记忆也太不牢固，（相关：[在赋能环境中的新手往往不能做被赋能的事情](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)。在这种情况下，[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)可以帮助你加速，度过这个尴尬的、不愉快的阶段，直到你与材料能产生一段有意义的体验（相关笔记：[赋能环境的活动直接服务于一个内在的有意义的目的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)）。
+
+[间隔重复可能是培养或改变习惯的有用工具](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z249N76MhdBzDfrwMnqP6jEsTv6Z8u2kJrp8)
+
+你可以用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)来记忆文章中的片段，但你也可以用这个系统来把这个习惯「安装」在你的头脑中。下面一些样例问题可供尝试：
+
+[操作系统层级的间隔重复系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z36iMKLe4CDAXdtLSJD4Z6qPPFUS8ZXymUk3i)
+
+如果有一个“操作系统层级”的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)会怎么样？如果卡片设计得更像文件夹里的文件，在整个系统中都可读可写，而非像 Anki 或其他现存工具的卡片，存储在 App 的袖珍天地里？
+
+[Hickory Training](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6KUuSL9EoVeQgnYmfmLiVBeaxrqqcn8qMsmG)
+
+一家已停业的初创公司，试图将 [间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)作为一项服务出售给公司，用于培训目的。首席执行官是 {[Brian Tobal](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6YhUjKr3xGchwqy8tPSApHLcTCH5zEqHctUw)}。
+
+[间隔重复系统优化重点应是重复环节与重复内容之间的情绪联系](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z64si3kA3bkCgz3Bsr5YNWsAAQUR2pmXab63T)
+
+许多研究人员都在试图制造一个更高效的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，但我认为，优化的关键是**复习环节及其内容的情感联系**——反之，要坚决地减少引起叹气的元素。这些系统，如果任由它们的自然倾向发展，就会自然而然地腐化，产生尽职尽责的复习环节，而这些环节感觉与你关心的任何事情脱节。
+
+[Mochi](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zxAXSEQidXeYW2XFBj9ftGxz1kTNtV4fXjhZ)
+
+[Mochi](https://link.zhihu.com/?target=https%3A//mochi.cards/) 是网页端上的[笔记写作系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8XrKGDz49o6XxEx7tzGewzrXQnw6jSgv3Yyf), 主要使用 Markdown 语言, 集成了[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。
+
+[Sana Labs](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4xUYCRTU7uUjZhafKD3jAcn5u5mHsDJwPMcc)
+
+一个集成的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)建议以后重新复习
+我想会有一些[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)组建，考虑到很大的保留圈。
+
+[Readwise](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2ewMN8Hzd8gt4qyfQV1ognJ5PQs3CXxDfCJ)
+
+他们已经逐渐引入了[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的一些功能。在每日重点内容的阅读过程中，你可以顺利地将吸引你的内容「升级」为填空题，甚至是自定义问答卡片。这是一个巧妙的策略，用于引导刚接触间隔重复的人：如果你完全是被动的，这种策略只会产出（轻微的）价值，但随着用户加大投入，伴随着渐进的用功，用户能从中获得更多的收益。
+
+[间隔重复系统与教义问答](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z39D31syJUE1gtNTREogSZiG6LDSuwygN5NDt)
+
+同样地，[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中的复习环节可以帮助读者记住一本书中的材料，但它们也会促使读者随着时间推移重新琢磨这些材料。这在实践上很有用，因为在阅读这段内容几周后，许多读者会发现新的关联。但也许这也促进了身份的改变：你不只是一个只读过一次某篇文章的人，你是一个「那个主题的学者」，因为你的学习绵延更久。
+
+[RemNote](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6jecLFTkHG5MCFDvhwsd2p8YWykaHr6ZkHTi)
+
+[RemNote](https://link.zhihu.com/?target=https%3A//www.remnote.io/homepage) 是网页端的[笔记系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8XrKGDz49o6XxEx7tzGewzrXQnw6jSgv3Yyf)，强调结构化的知识模型，对于将笔记整合进[间隔重复系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)提供了高质量的操作方法。参见：[助记媒介的范畴可以扩展到个人笔记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)
+
+[编写间隔重复记忆卡片应避免浅层次的「模式匹配」](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6S3cEUXNktEEZEzRqUXh5ivRNMWjJ2nq72Ys)
+
+对[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)功效的一个挑战是，有时用户通过「模式匹配」浅层次地记忆问题的答案，而不是通过更深入地整合知识或实际思考问题。但是[间隔重复记忆卡片应确保复习者必须从记忆中提取出答案](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7XLLk9aqBtJLDtP9kemBA87bDtjhpxst1osT)。
+
+[助记媒介提供专家编写的卡片以消除制卡负担](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8ASeF682pSQ3feo8LHpLzk3u3SNpVUgNxMAU)
+
+[写好间隔重复记忆卡片很难](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)，但[助记媒介](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)通过提供作者编写的卡片，能够消除采用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的这一障碍，使读者不用自己写卡片就能记忆材料。
+
+[没有源源不断的新卡片，间隔重复的复习环节常常变得枯燥而脱节](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4hNAfe6TrqjxCydF3CaAVn1svaqiu86JFVBz)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)上的每日练习应该有至关重要、息息相关的感觉。然而使用者要是一段时间内没有添加新卡片，每天的复习环节就似乎停滞在过去、与眼下所思所想无法关联。新用户经常滑入这样的陷阱。他们刚开始使用时热情高涨，一股脑加了许多新卡片，然而几个月过后，他们还在复习那些卡片，就感觉无聊了。
+
+[间隔重复记忆系统让你觉得你的记忆力比实际情况差](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4vCGd9Gt715AXtqTXxoKjrEawbvT9o9NA6DC)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的采用和日常体验面临的一个挑战是，你将把几乎所有的复习时间都花在您觉得难以记住的材料上。容易记住的材料会迅速加速到几个月的时间间隔，所以与以几天或几周为间隔的卡片相比，你只需在这上面花费很少的时间。你对整个集合的预期准确率可能是 95+%，但在给定的复习环节中，你的准确率可能会低得多。
+
+[学习别人的间隔重复记忆卡片通常是无效的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z38fLX4H8oq9eXKnZH7wk8qDXfBLg2bxVyA2M)
+
+一旦理解了[间隔重复记忆系统使记忆成为一种选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)和[学习越来越复杂的想法可能相当于形成更大的有效组块](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8VFVdTR19snWjFMxnyNabBCbmeoWrQ287TdT)，那么通过下载别人的[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)牌组来吞噬新知识是非常诱人的。但是，假设你之前从未学习过相关知识，你阅读教科书中关于细胞生物学的章节要比你背诵别人的牌组好得：你必须[先学再记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gsbsviCdBJbefxvenDcvYbYDgssBZHdgd9)。此外，[单独的间隔重复记忆卡片是一种糟糕的交流媒介](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z1YhDPWyvzzkC79LFcF4DSTanKpEGpic8bAe)；你仍然需要教科书的叙述
+
+[SRS 重试机制](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2GB3wDnERaJr2337zGJdb5Gnr7tURrfmoxu)
+
+在[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中通常可以找到各种「重试」机制。通常这些工作方式是，如果你答错问题，几分钟后，或者在课程结束时，它会再次出现。换句话说，这个项目被临时分配了一个很短的时间间隔，在它被成功记住之后，它会得到一个新的「遗忘后」间隔，通常更长。
+
+[间隔重复记忆系统难以迅速展现出优势](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2evK9drA5aJp4tHcXgV4Pri6GAnEyWyb4YwS)
+
+[间隔重复记忆系统非常高效](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)，但是前期收效不显。因此，一个新用户在入门[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)时需要更多的努力......而绝好的学习结果却是延迟出现的。最初，它似乎并不比学校内使用的简单闪卡系统更优，而且它的长期好处很难以察觉 —— 尽管[间隔重复让小的努力增量产生指数回报](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7AeS1H6h8GRAaZ9ZuqumphVu1LNM323rdS6u)，但这样的事物在生活中十分罕见（使得人们不能立即辨识出来），而且[人们对指数的直觉很差](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7ovyasYVEW4BS9Ay1V6iLCDVSfhPrkGyU3R3)。
+
+[间隔重复记忆卡片应该从多个角度对概念进行编码](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3K5a9tM1wq1x4QnDfsUpTeYZWW3M9iUzMdfo)
+
+抽认卡，就像那些[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)一样，得到了一个罪有应得的坏名声，部分原因是它们让人们想起了死记硬背的学校学习。人们记得被强迫去记住孤立的事实，如不同类别的云的名称——他们记得在没有建立任何持久理解的情况下，鹦鹉学舌地回答这些问题。部分问题在于[教育计划经常颠覆自己](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J)：你可能并不真正关心学习那些材料。但撇开这个问题不谈，这些孤立的练习特别脆弱，因为它们所培养的知识只能在一个背景下使用，与更广泛的概念框架和理解脱节：[丰富的理解是关于连接](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8LFKKV15V11DpHdrybyvcaXcVfcRNqVqVCTD)。
+
+[对进步的直观感知驱动技能发展](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3TLgRqbKq1iQvYNvxenccLPZUuJNB329uwGw)[34]
+
+我怀疑这是[人们通常将技能发展到平台期然后止步不前](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5gHroEM2vM2WcKxkdcsCw8qv5tmHSbBVxEb4)的一个关键原因，特别是为什么[运动员和音乐家比知识工作者更严格地追求基本技能的精湛性](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)。如果你从来没有听说过[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，那么很可能没有明显的证据表明记忆可以成为一个可以解决的问题。如果你从未听说过[常青笔记](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)，那么[知识工作者通常没有随着时间推移形成想法的具体方法](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2A9r2zcddVXfxjevj5Nzayhwxr9VuycjxYdz)可能并不明显。
+
+[规律进行间隔重复记忆练习是沉重的习惯](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zyk3ZCEVSB4Zwej3Xd4CJ2g1FynRFTZGJpQN)
+
+所以，[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)只有克服这道阻碍，让用户一用就有效果，才能被用户接受。但大多数记忆系统做不到：他们都是空盒子，用户需要自己去装满卡片。可是[写好间隔重复记忆卡片很困难](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN), 所以用户刚开始使用记忆系统时，自己做的卡片必然数量又少质量又不高，却只能用这些卡片去复习。更糟的是，[间隔重复记忆系统的好处是慢慢显现的](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2evK9drA5aJp4tHcXgV4Pri6GAnEyWyb4YwS)。难怪大众会反感。
+
+[间隔重复记忆系统让记忆更加自动化，从而有助于更深入的琢磨思考](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3hyucvGpCUB361PCegiHbX7FyFHcqZZF2pKK)
+
+[深入理解需要详细的基础知识](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zQiumA4k3SXo1GeRVJpsrVaBRETAoyYmSERS)。那么，看待[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的作用的一个角度是，它们有效地将学习中基础但需要死记硬背的知识自动化，以便你可以专注于更有趣、有意义或概念性的知识。
+
+[间隔重复记忆卡片应关联和联系概念](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z49EwwPL1CzKHTyLHXwJJH7hsciCg772Vm5WJ)
+
+当使用[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)来学习事实时，天真的方法会导致孤立地学习很多事实：一种蛋白质的名称、一个事件的日期、一个物理常数的大小。但是因为[丰富的理解在于联系](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8LFKKV15V11DpHdrybyvcaXcVfcRNqVqVCTD)，最好是将这些事实与其他想法联系起来。这既能帮助你更可靠地记忆（由于[精细编码](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)），也能帮助你形成更丰富的理解，超越简单的事实。
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> 译者注：反链的内容太多了，翻译了对应的文章后再陆续补充。
+> 原文：[Spaced repetition memory system](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)

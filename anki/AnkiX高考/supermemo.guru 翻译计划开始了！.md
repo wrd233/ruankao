@@ -1,0 +1,10 @@
+# supermemo.guru 翻译计划开始了！
+
+> [原文链接](https://zhuanlan.zhihu.com/p/52816339)
+
+> 已收录于[「一周年」专栏整理](https://zhuanlan.zhihu.com/p/57637220)
+这里简单介绍一下，supermemo 是像 Anki 这样的 Flashcard 间隔重复的学习软件的鼻祖。Anki 借鉴的就是 supermemo的第二版算法 SM-2 。而 [supermemo.guru](https://link.zhihu.com/?target=http%3A//supermemo.guru/) 是 supermemo 的发明者 Piotr Wozniak 博士发表文章的地方。他写了大量有关记忆、学习、睡眠、创造力、解决问题、脑科学、健康和教育的文章。其中不乏许多能够对我们有所启发的思想和指导。
+
+为了让这些宝贵的材料能够被更多学生阅读，我志愿开始了翻译计划。翻译合作事项在我的GitHub上[L-M-Sherlock/supermemo.guru-cn](https://link.zhihu.com/?target=https%3A//github.com/L-M-Sherlock/supermemo.guru-cn)，而翻译好的文章会发布到我的另一个专栏[SuperMemo Guru翻译计划](https://zhuanlan.zhihu.com/supermemo-guru-cn)。
+
+希望能够对大家有所帮助和启发。

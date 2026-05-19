@@ -1,0 +1,25 @@
+# 没有源源不断的新卡片，间隔重复的复习环节常常变得枯燥而脱节
+
+> [原文链接](https://zhuanlan.zhihu.com/p/417555450)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)[1]上的每日练习应该有至关重要、息息相关的感觉。然而使用者要是一段时间内没有添加新卡片，每天的复习环节就似乎停滞在过去、与眼下所思所想无法关联。新用户经常滑入这样的陷阱。他们刚开始使用时热情高涨，一股脑加了许多新卡片，然而几个月过后，他们还在复习那些卡片，就感觉无聊了。
+
+## 参考文献
+
+Re：让记忆成为一种选择(~9分钟)
+
+>  我一开始很有热情，也已经复习过几轮卡片了。我学到了很多有趣的东西。但是现在有些疲惫了。有的卡片我总是答不对，所以我慢慢开始对每张卡片都回答「是」，结果就扰乱了间隔重复系统。
+## 链接至本文（已汉化）
+
+[间隔重复记忆系统](https://zhuanlan.zhihu.com/p/404257681)
+[在间隔重复记忆系统中，优化的关键是复习环节及其内容的情感联系](https://zhuanlan.zhihu.com/p/399811533)
+[接受助记媒介需要内容量达到临界值](https://zhuanlan.zhihu.com/p/414517995)
+[助记媒介 (Mnemonic medium)](https://zhuanlan.zhihu.com/p/459483765)
+[间隔重复记忆系统让你误以为自己的记忆很差](https://zhuanlan.zhihu.com/p/665213906)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[Spaced repetition review sessions often become boring and detached without a steady stream of new prompts](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4hNAfe6TrqjxCydF3CaAVn1svaqiu86JFVBz)

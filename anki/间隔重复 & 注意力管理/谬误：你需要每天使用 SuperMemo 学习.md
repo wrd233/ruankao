@@ -1,0 +1,21 @@
+# 谬误：你需要每天使用 SuperMemo 学习
+
+> [原文链接](https://zhuanlan.zhihu.com/p/319611234)
+
+## 谬误
+
+你需要每天使用 SuperMemo
+
+## 事实
+
+如果你停止使用 SuperMemo 一段时间，你的平均知识保留率就会下降。对于长期使用的人来说，休息几天几乎不会引起注意。它只会影响新材料。旧材料的[可提取性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Retrievability)下降得非常慢。
+
+## 起源
+
+在引入**延迟**[1]或[优先队列](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Priority_queue)[2]等概念之前，建议用户每天使用 SuperMemo。这更多的是出于心理上的原因，而不是实际的原因。大多数中途放弃的人都是从短暂的休息开始的，而且休息的时间会越来越长。
+
+[间隔重复](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Spaced_repetition)[3]的一些实现会惩罚错过重复的用户。
+
+## 改进措施
+
+阅读有关[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[4]的内容。

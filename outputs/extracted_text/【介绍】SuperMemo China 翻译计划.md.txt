@@ -1,0 +1,21 @@
+# 【介绍】SuperMemo China 翻译计划
+
+> [原文链接](https://zhuanlan.zhihu.com/p/127030397)
+
+目标是翻译 SuperMemo 的文档，以及相关的学习文章。
+
+[SuperMemo China · 语雀](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo)
+![](https://pic1.zhimg.com/v2-b97a11638b50bbc6500138df61b728f4_1440w.jpg)
+> **本项目*不是SuperMemo官方*发起并维护**
+> **本项目*非盈利*性经营，也未通过任何平台和渠道组织过付费项目，敬请警惕**
+> **本项目开启了“访客水印”，请勿诧异**
+> **本项目是为了更好的宣传和学习SuperMemo**
+> **欢迎对本项目进行协作，如有讹误，还请指正。**
+> **SuperMemo官方帮助文档地址：[https://help.supermemo.org](https://link.zhihu.com/?target=https%3A//help.supermemo.org/wiki/SuperMemo_18_Help)**
+想要上手 SuperMemo 的朋友，可以通过阅读中文文档学习啦！
+
+作为一名参与者，我也搬运了一些之前翻译好的文章过去。
+
+如果大家有兴趣，也可以来参加翻译。
+
+欢迎在评论区留言~

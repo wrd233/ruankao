@@ -1,0 +1,48 @@
+# 艾宾浩斯遗忘曲线的错误
+
+> [原文链接](https://zhuanlan.zhihu.com/p/156672476)
+
+我又来翻译了。。。之前的那个坑实在润色不下去了，考虑到那个文集后面的内容大部分都是 SuperMemo 相关的，翻译的优先级不是很高，我还是暂时搁置吧。
+
+那为啥来翻译这篇文章呢？因为我实在看不下去知乎上对艾宾浩斯遗忘曲线的讨论了。。。不管是吹他好的，还是黑他没用的，我觉得都是没有理解艾宾浩斯遗忘曲线的本质，把太多东西寄付在这个遗忘曲线上了。因此，我翻译此文，说不定能成为我祛魅艾宾浩斯遗忘曲线的弹药。
+
+[赫尔曼·艾宾浩斯](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Hermann_Ebbinghaus)是记忆研究的先驱，也是该领域系统自我调查的首创者。一个多世纪以来，他的遗忘曲线对记忆科学有深远影响。然而在今天，我们需要纠正我们对[遗忘曲线](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting_curve)[1]及其对学习的影响的看法。艾宾浩斯遗忘曲线可能令人沮丧，但随着之后研究深入，人类大脑的能力远远超过这些初步发现。
+
+**艾宾浩斯研究记忆的方法可能会给人一种错误的印象，即人类的记忆比实际情况更易丢失**
+
+艾宾浩斯选择使用无意义的音节来研究遗忘，从而不受现实生活经验和先验知识的干扰，然而，即使是毫无意义的单词也可能产生更容易或更难记忆的联想。
+
+选择无意义的音节有以下后果：
+
+先验知识对[遗忘](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting)[2]的影响很小。
+来自“现实生活”互动中的知识[干扰](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Interference)[3]很少。
+记忆知识的最小[连贯性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Coherence)[4]（低连贯性会加速[遗忘](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting)[2]）。
+没有记忆难度的区分（异质材料被遗忘和重新学习的方式不同）。
+
+纯粹的[遗忘曲线](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting_curve)本质上是指数曲线。由于艾宾浩斯使用的是重新学习的节省率而不是回忆的保留率，因而他的曲线最适合用快速衰减的幂函数来描述（见[下](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve%23Ebbinghaus)图）。艾宾浩斯用以下公式拟合他的数据：
+
+b=100k/((log(t)^c+k))其中：
+
+b - 重新学习的保留率百分比。
+t - 时间(分钟)。
+c 和 k - 常数（1.25 和 1.84）。
+
+此函数不是通用的，因为它脱胎于特定的人、特定的学习材料和特定的学习过程。
+
+今天，我们知道遗忘本质上的确是指数性的（参见：[遗忘曲线](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting_curve)[1]），与放射性衰变非常相似，也遵循类似的原则。要展现遗忘的指数性本质，我们需要选择[复杂](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Complexity)程度相同的学习材料（就像在 [SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 中所做的那样）。复杂程度不同材料则会导致不同常数的遗忘曲线叠加
+
+有许多误解根源于对艾宾浩斯所做研究的误解。
+
+以下是需要记住的最重要的事实：
+
+遗忘是指数型的（请参阅：[使用 SuperMemo 收集的遗忘曲线](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting_curve)[1]）
+遗忘的速度取决于知识的[复杂程度](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Memory_complexity)
+遗忘速度取决于记忆的[稳定性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Stability)（请参阅：[记忆双组分模型](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Two_component_model_of_memory)[5]）
+在学习中，遗忘的速度比艾宾浩斯实验中的速度慢几个数量级（几年而不是几分钟）
+**[知识的连贯性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Coherence)**[4]**是防止遗忘的首要武器**
+
+在上述观察中，对知识连贯性的强调可能是最重要的。无意义的音节和有条理的知识之间有着天壤之别。
+
+有关知识连贯性的更多信息，请参阅：[20 条规则](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/20_rules)[6]。
+
+**有了[表述良好](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/20_rules)**[6]**的知识和[聪明的复习](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo)，我们就可以从艾宾浩斯研究所暗示的令人沮丧的遗忘力量中解脱出来**

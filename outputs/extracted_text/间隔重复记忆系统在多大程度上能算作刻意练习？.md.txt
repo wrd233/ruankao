@@ -1,0 +1,26 @@
+# 间隔重复记忆系统在多大程度上能算作刻意练习？
+
+> [原文链接](https://zhuanlan.zhihu.com/p/410370813)
+
+[间隔重复记忆系统](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)[1]复习环节是否能算作[刻意练习 (术语来自 Anders Ericsson)](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2duRd5eisRomSgxr88Semkgs15pgMRVVR5C)[2]？
+
+支持算作刻意练习的证据：
+
+复习显然是为了学得更好，其本身并不一定愉快
+指数退避算法有点像聚焦于弱点练习（译者注：指数退避算法指改变卡片复习间隔的算法，记不清的卡片的间隔缩短得更快）
+
+不支持算作刻意练习的证据：
+
+间隔重复系统的监控只能粗略模仿专家教练的行为
+复习通常没那么费力，就其本身来说，甚至很顺畅，要么知道，要么不知道。这样似乎没有挑战稳态的感觉：[技能发展需要挑战稳态](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4V56SvpNAHuaWSkU9U319uTxqBppv1mRx3aE)[3]
+
+## 链接至本文（已汉化）
+
+[间隔重复记忆系统](https://zhuanlan.zhihu.com/p/404257681)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[To what extent does spaced repetition memory system practice constitute deliberate practice?](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2DFcZfqWxS8wd6ccX7WB7TvT6gVQtqS6GCCp)

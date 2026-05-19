@@ -1,0 +1,31 @@
+# 间隔重复可以降低对收件箱进行维护中破坏性操作风险
+
+> [原文链接](https://zhuanlan.zhihu.com/p/438631838)
+
+[收件箱需要可靠的清空流程才有效](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5tiFxnNKMZCnc8G9R1N51L5hknyRGmyCQx18)[1]，但[收件箱维护的分流策略（如「收件箱归零」）往往不够稳健](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z8aZybuJJopS5fL7TnPou2JcmCsBUJeqirbBh)[2]。在很大程度上，这是因为[软件界面经常将破坏性操作作为最终决定，而不是视情况而定的选择](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z5vXaKVAPBNKAAi9RXNudduhyGadGXqtMVTEs)[3]。
+
+如果你把这些破坏性操作按「不是现在」重新执行，它们带来的感觉就完全不同。那个你关闭的消息并没有真正消失，而是会在稍后回来。比如一开始会在一天后弹出，如果我还跳过，那就或许变成几天后、再是一个星期，以此类推，直到「不是现在」变为真正的「关闭」，但这样的「关闭」不会让你压力山大。这个概念可以应用于任务队列、阅读列表（[为有潜在价值的参考引用建立一个阅读收件箱](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z3N113rxPFreW9xUkLkUFomr2LUqfXbdCo3M)[4]）、电子邮件收件箱，等等。[间隔重复机制让人感觉轻松不费力](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zCcbyCRksiHRGzg5Z59iJmqZ2Bnv8FcTdfi)[5]。
+
+这是[可使用间隔重复系统对注意力进行编程](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)[6]的一个例子。
+
+## 参考文献
+
+Matuschak, A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.
+
+Discovered in Dec 2020 that Simon Hørup Eskildsen [blogged](https://link.zhihu.com/?target=https%3A//sirupsen.com/playlists/) about a similar idea in June 2018.
+
+## 链接至本文（已汉化）
+
+[§收件箱与注意力管理](https://zhuanlan.zhihu.com/p/501187896)
+[可使用间隔重复系统对注意力编程](https://zhuanlan.zhihu.com/p/414293765)
+[收件箱维护的分流策略（如「收件箱归零」）往往不够稳健](https://zhuanlan.zhihu.com/p/438419831)
+[常青笔记和 Zettelkasten 卡片系统的异同点](https://zhuanlan.zhihu.com/p/436335609)
+[「跳过」机制可能有助于间隔重复记忆系统在复习环节保持情感上的连接](https://zhuanlan.zhihu.com/p/533792911)
+[助记媒介如何能适应不同的背景和目标的读者？](https://zhuanlan.zhihu.com/p/547457170)
+
+## 声明
+
+此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。
+
+> [Thoughts Memo](https://link.zhihu.com/?target=https%3A//paratranz.cn/projects/3131) 汉化组译制
+> 原文：[Spaced repetition can lower the stakes around destructive inbox-maintenance operations (andymatuschak.org)](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z7yRMBXGc81KkUwLxefodzfnnfKXx63vXzP88)

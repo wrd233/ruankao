@@ -1,0 +1,45 @@
+# 间隔重复中的简化与冗余
+
+> [原文链接](https://zhuanlan.zhihu.com/p/283017134)
+
+## 简化
+
+> 原文：[Simple questions in spaced repetition](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Simple_questions_in_spaced_repetition)
+在 1999 年，我建议用户优化措辞，[保持问题简单](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/20_rules)[1]：
+
+> 你的项目的措辞必须优化，以确保在最短的时间内让你大脑中的正确灯泡亮起来。这样可以降低错误率，提高特异性，减少反应时间，帮助你集中注意力。 
+这种方法的问题是，在[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]中，成本与收益分析可能会有不同的发挥。创建[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)[3]的成本非常小。简化的成本很大。这个成本可能超过收益。
+
+此外，由于使用[优先级队列](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Priority_queue)[4]，存在大量的过载。在 2017 年，采用渐进优化措辞更有意义。如果项目被降为低优先级子集，重新表述项目的投资可能会被浪费。
+
+渐进的重新表述还有一个额外的好处。对文本的每一次编辑都需要进行一点语义处理。如果沿着一个间隔的时间表进行，每一次编辑都会对理解力、知识凝聚力和长期记忆有一定的贡献。
+
+在[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]中，我们的目标是**优化措辞**，然而，为了时间的最优利用，这个过程可能是渐进的。
+
+## 冗余
+
+> 原文：[Redundancy](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Redundancy)
+**知识冗余**是指从不同角度看同一事物的额外知识负载。例如，苹果是健康的，苹果含有维生素，根据不同的语境，它们的信息可能会有重叠（如由事实知识辅助：*维生素对健康很重要*）。
+
+**知识冗余**可能会增加学习成本。然而，在很多情况下，它可以降低学习成本，提高[知识的连贯性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_coherence)[5]。善用冗余背后的关键诀窍是用许多[简单的问题](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Item)[6]代替一个复杂的问题。此外，在不同的情境中提出类似的问题，有助于提高[连贯性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Coherence)[5]，从而促进[稳定性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Stability)。换句话说，一个有经验的学生会明智地使用知识冗余，以降低学习成本。审慎使用需要一定的专业知识，而这些专业知识是随着实践而来的。[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]使我们很容易养成良好的学习本能和习惯，在对冗余进行正确的选择。
+
+最重要的是，**[知识进化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_darwinism)**[7]的概念在学习中自然形成的坚实的[知识连贯性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_coherence)[5]方面起着重要作用。**知识进化**协助学生建立连贯的知识结构。
+
+## 渐进阅读中的知识冗余
+
+> 原文：[Knowledge redundancy in incremental reading](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_redundancy_in_incremental_reading)
+[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)[2]中的**知识冗余**是指将语义等同的知识存储为多种语境下从各种文本中产生的多个[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)[7]的做法。冗余可以增加知识的[连贯性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Coherence)[5]、知识的[稳定性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Stability)，并导致[知识进化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_darwinism)[7]。矛盾的是，一定程度的冗余会降低学习的成本。
+
+例如，这 3 个挖空在 3 个不同的语境中提供了相同的答案（保留花括号的[挖空](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cloze_deletion)[3]关键词以示说明）。
+
+{{1.75 亿年前}}，由于大陆漂移，潘吉亚开始解体。
+潘吉亚在 {{1.75 亿年前}}开始断裂，形成了冈瓦纳和劳拉西亚两块大陆。
+大西洋的开辟恰好与超级大陆盘古大陆的初步解体（{{1.75 亿年前}}）相吻合。 
+
+**[知识进化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Knowledge_darwinism)**[7]在学习中自然形成的坚实的知识连贯性方面起着重要作用。**知识进化**协助学生建立连贯的知识结构。简单来说，结构不好的知识无法存活，[SuperMemo](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/SuperMemo) 会将其打上[水蛭](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Leech)的烙印。此外，从本能上讲，学生会把对自己没用的知识去掉优先级。对结构不良的知识进行复习，会引起学生的[不快](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_learning)[8]。
+
+请参阅：[渐进阅读的优势](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Advantages_of_incremental_reading)[9]
+
+更多有关制卡原则的内容，请关注：
+
+[制卡原则与知识表述](https://www.zhihu.com/collection/614280525)
