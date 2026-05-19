@@ -17,3 +17,4 @@ outputs/ocr/pdf/smoke_test.pdf
 # Source PDFs - too large, keep out of git
 *.pdf
 !docmind_ocr_trial/input_samples/*.pdf
+!docmind_ocr_full/chunks/**/*.pdf

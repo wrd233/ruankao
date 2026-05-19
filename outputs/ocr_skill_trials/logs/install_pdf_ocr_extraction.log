@@ -1,0 +1,287 @@
+
+│
+●   codex  Agent detected — installing non-interactively
+[?25l│
+◇  Source: https://github.com/claude-office-skills/skills.git @pdf-ocr-extraction
+[?25h[?25l│
+◒  Cloning repository[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◑  Cloning repository[999D[J◒  Cloning repository[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◑  Cloning repository[999D[J◒  Cloning repository.[999D[J◐  Cloning repository.[999D[J◓  Cloning repository.[999D[J◑  Cloning repository.[999D[J◒  Cloning repository.[999D[J◐  Cloning repository.[999D[J◓  Cloning repository.[999D[J◑  Cloning repository.[999D[J◒  Cloning repository..[999D[J◐  Cloning repository..[999D[J◓  Cloning repository..[999D[J◑  Cloning repository..[999D[J◒  Cloning repository..[999D[J◐  Cloning repository..[999D[J◓  Cloning repository..[999D[J◑  Cloning repository..[999D[J◒  Cloning repository...[999D[J◐  Cloning repository...[999D[J◓  Cloning repository...[999D[J◑  Cloning repository...[999D[J◒  Cloning repository...[999D[J◐  Cloning repository...[999D[J◓  Cloning repository...[999D[J◑  Cloning repository...[999D[J◒  Cloning repository...[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◇  Repository cloned
+[?25h[?25l│
+[999D[J◇  Found 137 skills
+[?25h│
+■  No matching skills found for: pdf-ocr-extraction
+│
+●  Available skills:
+│
+│    - skill-name
+│
+│    - academic-search
+│
+│    - ads-copywriter
+│
+│    - ai-agent-builder
+│
+│    - ai-slides
+│
+│    - airtable-automation
+│
+│    - Amazon Seller
+│
+│    - Apple Shortcuts Integration
+│
+│    - Applicant Screening
+│
+│    - Asana Automation
+│
+│    - batch-convert
+│
+│    - batch-processor
+│
+│    - Brand Guidelines Generator
+│
+│    - Browser Automation
+│
+│    - calendar-automation
+│
+│    - Changelog Generator
+│
+│    - chart-designer
+│
+│    - Chat with PDF
+│
+│    - ClickUp Automation
+│
+│    - company-research
+│
+│    - competitive-analysis
+│
+│    - Content Research Writer
+│
+│    - contract-review
+│
+│    - contract-template
+│
+│    - cover-letter
+│
+│    - crm-automation
+│
+│    - crypto-report
+│
+│    - customer-success
+│
+│    - cv-builder
+│
+│    - data-analysis
+│
+│    - data-extractor
+│
+│    - data-pipeline
+│
+│    - Database Sync
+│
+│    - dcf-valuation
+│
+│    - deep-research
+│
+│    - dev-slides
+│
+│    - devops-automation
+│
+│    - diagram-creator
+│
+│    - discord-bot
+│
+│    - doc-parser
+│
+│    - doc-pipeline
+│
+│    - DocuSign Automation
+│
+│    - docx-manipulation
+│
+│    - Email Classifier
+│
+│    - email-drafter
+│
+│    - email-marketing
+│
+│    - ETL Pipeline
+│
+│    - excel-automation
+│
+│    - expense-report
+│
+│    - Expense Tracker
+│
+│    - Facebook/Meta Ads
+│
+│    - File Organizer
+│
+│    - financial-modeling
+│
+│    - form-builder
+│
+│    - gmail-workflows
+│
+│    - google-ads-manager
+│
+│    - Home Assistant Automation
+│
+│    - hr-automation
+│
+│    - html-slides
+│
+│    - html-to-ppt
+│
+│    - image-generation
+│
+│    - infographic
+│
+│    - Intercom Automation
+│
+│    - investment-memo
+│
+│    - Invoice Automation
+│
+│    - invoice-generator
+│
+│    - Invoice Organizer
+│
+│    - invoice-template
+│
+│    - Jira Automation
+│
+│    - Job Description Generator
+│
+│    - layout-analyzer
+│
+│    - Lead Qualification
+│
+│    - Lead Research Assistant
+│
+│    - lead-routing
+│
+│    - Linear Automation
+│
+│    - LinkedIn Automation
+│
+│    - Mailchimp Automation
+│
+│    - mcp-hub
+│
+│    - md-slides
+│
+│    - md-to-office
+│
+│    - meeting-notes
+│
+│    - Microsoft Teams Automation
+│
+│    - Monday.com Automation
+│
+│    - n8n-workflow
+│
+│    - nda-generator
+│
+│    - news-monitor
+│
+│    - notion-automation
+│
+│    - Obsidian Automation
+│
+│    - Offer Letter Generator
+│
+│    - office-mcp
+│
+│    - office-to-md
+│
+│    - PDF Compress
+│
+│    - PDF Converter
+│
+│    - pdf-extraction
+│
+│    - PDF Form Filler
+│
+│    - PDF Merge & Split
+│
+│    - PDF OCR Extraction
+│
+│    - pdf-to-docx
+│
+│    - PDF Watermark
+│
+│    - Pipedrive Automation
+│
+│    - Podcast Automation
+│
+│    - ppt-visual
+│
+│    - pptx-manipulation
+│
+│    - proposal-writer
+│
+│    - QuickBooks Automation
+│
+│    - report-generator
+│
+│    - resume-tailor
+│
+│    - saas-metrics
+│
+│    - Security Monitoring
+│
+│    - seo-optimizer
+│
+│    - sheets-automation
+│
+│    - shopify-automation
+│
+│    - slack-workflows
+│
+│    - smart-ocr
+│
+│    - social-publisher
+│
+│    - Spotify Automation
+│
+│    - stock-analysis
+│
+│    - Stripe Payments
+│
+│    - subscription-management
+│
+│    - Suspicious Email Analyzer
+│
+│    - table-extractor
+│
+│    - telegram-bot
+│
+│    - template-engine
+│
+│    - tiktok-marketing
+│
+│    - Transcription Automation
+│
+│    - Trello Automation
+│
+│    - Twilio SMS Automation
+│
+│    - Twitter/X Automation
+│
+│    - Weather Automation
+│
+│    - web-search
+│
+│    - Webhook Automation
+│
+│    - weekly-report
+│
+│    - whatsapp-automation
+│
+│    - WooCommerce Automation
+│
+│    - xlsx-manipulation
+│
+│    - YouTube Automation
+│
+│    - Zendesk Automation

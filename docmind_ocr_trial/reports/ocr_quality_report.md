@@ -93,10 +93,8 @@
 | 重复字符串组 | 4 |
 
 **重复内容 Top 5**：
-- 「(http://docmind-api-cn-hangzhou.oss-cn-h」— 出现 3 次
-- 「angzhou.aliyuncs.com/1617315274244978/pu」— 出现 3 次
-- 「blicDocStreamStructure/docmind-20260519-」— 出现 3 次
-- 「xpires=1779204921&OSSAccessKeyId=STS.NZA」— 出现 3 次
+- 「[IMAGE: 0.png]」— 出现 3 次
+- 「[IMAGE: 7.png]」— 出现 3 次
 
 ### 发现的问题
 

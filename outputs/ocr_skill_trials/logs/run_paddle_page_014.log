@@ -1,0 +1,10 @@
+{
+  "ok": false,
+  "text": "",
+  "result": null,
+  "error": {
+    "code": "CONFIG_ERROR",
+    "message": "PADDLEOCR_OCR_API_URL not configured. Get your API at: https://paddleocr.com"
+  }
+}
+EXIT:1

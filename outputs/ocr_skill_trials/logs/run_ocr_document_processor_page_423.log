@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/wangrundong/.agents/skills/ocr-document-processor/scripts/ocr_processor.py", line 15, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+EXIT:1

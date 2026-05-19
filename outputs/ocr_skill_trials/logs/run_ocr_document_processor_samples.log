@@ -1,0 +1,80 @@
+RUN official_tutorial mandatory_low_quality page_022
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_022.txt
+---
+RUN official_tutorial mandatory_low_quality page_423
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_423.txt
+---
+RUN official_tutorial mandatory_low_quality page_678
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_678.txt
+---
+RUN official_tutorial chart_table_formula page_338
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_338.txt
+---
+RUN official_tutorial chart_table_formula page_339
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_339.txt
+---
+RUN official_tutorial chart_table_formula page_340
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_340.txt
+---
+RUN official_tutorial normal_text page_002
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_002.txt
+---
+RUN official_tutorial normal_text page_006
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_006.txt
+---
+RUN official_tutorial normal_text page_675
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/official_tutorial/page_675.txt
+---
+RUN past_papers_171 mandatory_low_quality page_014
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_014.txt
+---
+RUN past_papers_171 mandatory_low_quality page_025
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_025.txt
+---
+RUN past_papers_171 mandatory_low_quality page_084
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_084.txt
+---
+RUN past_papers_171 mandatory_low_quality page_086
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_086.txt
+---
+RUN past_papers_171 mandatory_low_quality page_093
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_093.txt
+---
+RUN past_papers_171 mandatory_low_quality page_171
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_171.txt
+---
+RUN past_papers_171 normal_question page_001
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_001.txt
+---
+RUN past_papers_171 normal_question page_003
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_003.txt
+---
+RUN past_papers_171 normal_question page_167
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_167.txt
+---
+RUN past_papers_171 question_dense page_034
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_034.txt
+---
+RUN past_papers_171 question_dense page_085
+EXIT 0
+OUTFILE /Users/wangrundong/work/软考/outputs/ocr_skill_trials/pages/ocr_document_processor/past_papers_171/page_085.txt
+---

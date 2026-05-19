@@ -1,0 +1,54 @@
+
+│
+●   codex  Agent detected — installing non-interactively
+[?25l│
+◇  Source: https://github.com/dkyazzentwatwa/chatgpt-skills.git @ocr-document-processor
+[?25h[?25l│
+◒  Cloning repository[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◑  Cloning repository[999D[J◒  Cloning repository[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◑  Cloning repository[999D[J◒  Cloning repository.[999D[J◐  Cloning repository.[999D[J◓  Cloning repository.[999D[J◑  Cloning repository.[999D[J◒  Cloning repository.[999D[J◐  Cloning repository.[999D[J◓  Cloning repository.[999D[J◑  Cloning repository.[999D[J◒  Cloning repository..[999D[J◐  Cloning repository..[999D[J◓  Cloning repository..[999D[J◑  Cloning repository..[999D[J◒  Cloning repository..[999D[J◐  Cloning repository..[999D[J◓  Cloning repository..[999D[J◑  Cloning repository..[999D[J◒  Cloning repository...[999D[J◐  Cloning repository...[999D[J◓  Cloning repository...[999D[J◑  Cloning repository...[999D[J◒  Cloning repository...[999D[J◐  Cloning repository...[999D[J◓  Cloning repository...[999D[J◇  Repository cloned
+[?25h[?25l│
+[999D[J◇  Found 12 skills
+[?25h│
+●  Selected 1 skill: ocr-document-processor
+
+│
+◇  Installation Summary ────────────────────────────────────╮
+│                                                           │
+│  ~/.agents/skills/ocr-document-processor                  │
+│    copy → Codex, Amp, Antigravity, Cline, Cursor +8 more  │
+│                                                           │
+├───────────────────────────────────────────────────────────╯
+│
+◇  Security Risk Assessments ────────────────────────────────────────────╮
+│                                                                        │
+│                          Gen               Socket            Snyk      │
+│  ocr-document-processor  Safe              0 alerts          Low Risk  │
+│                                                                        │
+│  Details: https://skills.sh/dkyazzentwatwa/chatgpt-skills              │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+[?25l│
+[999D[J◇  Installation complete
+[?25h
+│
+◇  Installed 1 skill ───────────────────────────╮
+│                                               │
+│  ✓ ocr-document-processor (copied)            │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│    → ~/.agents/skills/ocr-document-processor  │
+│                                               │
+├───────────────────────────────────────────────╯
+
+│
+└  Done!  Review skills before use; they run with full agent permissions.
+

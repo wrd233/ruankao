@@ -1,0 +1,54 @@
+
+│
+●   codex  Agent detected — installing non-interactively
+[?25l│
+◇  Source: https://github.com/aidenwu0209/paddleocr-skills.git @paddleocr-text-recognition
+[?25h[?25l│
+◒  Cloning repository[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◑  Cloning repository[999D[J◒  Cloning repository[999D[J◐  Cloning repository[999D[J◓  Cloning repository[999D[J◑  Cloning repository[999D[J◒  Cloning repository.[999D[J◐  Cloning repository.[999D[J◓  Cloning repository.[999D[J◑  Cloning repository.[999D[J◒  Cloning repository.[999D[J◐  Cloning repository.[999D[J◓  Cloning repository.[999D[J◑  Cloning repository.[999D[J◒  Cloning repository..[999D[J◐  Cloning repository..[999D[J◓  Cloning repository..[999D[J◑  Cloning repository..[999D[J◒  Cloning repository..[999D[J◐  Cloning repository..[999D[J◓  Cloning repository..[999D[J◑  Cloning repository..[999D[J◒  Cloning repository...[999D[J◐  Cloning repository...[999D[J◇  Repository cloned
+[?25h[?25l│
+[999D[J◇  Found 2 skills
+[?25h│
+●  Selected 1 skill: paddleocr-text-recognition
+
+│
+◇  Installation Summary ────────────────────────────────────╮
+│                                                           │
+│  ~/.agents/skills/paddleocr-text-recognition              │
+│    copy → Codex, Amp, Antigravity, Cline, Cursor +8 more  │
+│                                                           │
+├───────────────────────────────────────────────────────────╯
+│
+◇  Security Risk Assessments ────────────────────────────────────────────────╮
+│                                                                            │
+│                              Gen               Socket            Snyk      │
+│  paddleocr-text-recognition  Safe              0 alerts          Med Risk  │
+│                                                                            │
+│  Details: https://skills.sh/aidenwu0209/paddleocr-skills                   │
+│                                                                            │
+├────────────────────────────────────────────────────────────────────────────╯
+[?25l│
+[999D[J◇  Installation complete
+[?25h
+│
+◇  Installed 1 skill ───────────────────────────────╮
+│                                                   │
+│  ✓ paddleocr-text-recognition (copied)            │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│    → ~/.agents/skills/paddleocr-text-recognition  │
+│                                                   │
+├───────────────────────────────────────────────────╯
+
+│
+└  Done!  Review skills before use; they run with full agent permissions.
+
