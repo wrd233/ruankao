@@ -9,16 +9,11 @@ outputs/ocr/pages/smoke_test/
 outputs/ocr/pdf/*sample*.pdf
 outputs/ocr/pdf/smoke_test.pdf
 
-# docmind_ocr_trial - security and generated outputs
+# Security - never commit
 .env
 *.key
 *accesskey*
-ocr_outputs/
-docmind_ocr_trial/input_samples/
-docmind_ocr_trial/raw_outputs/
-docmind_ocr_trial/markdown_outputs/
-docmind_ocr_trial/logs/
-*.md.raw
-*.jsonl
-*.log
+
+# Source PDFs - too large, keep out of git
 *.pdf
+!docmind_ocr_trial/input_samples/*.pdf
