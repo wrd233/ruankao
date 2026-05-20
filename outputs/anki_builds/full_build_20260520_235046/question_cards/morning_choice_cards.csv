@@ -1,0 +1,121 @@
+﻿deck,note_type,front,back,extra,card_family,card_type,concept_name,concept_aliases,importance,difficulty,exam_use,knowledge_domain,chapter_id,chapter_name,source_topic_ids,source_topic_names,source_ids,source_file,source_heading,related_question_ids,related_topic_ids,manual_review_status,manual_review_note,tags,checksum
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2019 下半年 上午 第 2 题】以下哪项不属于供应链系统设计的原则？
+A. 分析市场需求和竞争环境
+B. 自顶向下和自底向上相结合
+C. 简洁
+D. 取长补短",<div>【答案】</div><div>A</div>,<div>为什么选 A：供应链系统设计原则包括自顶向下和自底向上结合、简洁、取长补短等；分析市场需求和竞争环境更偏战略分析。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：以下哪项不属于供应链系统设计的原则？</div><div>关联专题：T-INFO-002</div><div>可迁移考点：信息系统技术基础</div>,question,真题刷题卡,,,A,3,上午选择,信息系统技术基础,13,信息系统技术基础,T-INFO-002,信息系统技术基础,SRC-Q-2019-H2-AM-Q02,questions.full.clean.md,2019-H2-AM-Q02,2019-H2-AM-Q02,T-INFO-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::13 ruankao::domain::信息系统技术基础 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-002 ruankao::question_id::2019-H2-AM-Q02,sha256:48086ae5703d415da0044fc8
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2019 下半年 上午 第 3 题】在 ERP 系统中，不属于物流管理模块功能的是哪项？
+A. 库存控制
+B. 销售管理
+C. 物料需求计划管理
+D. 采购管理",<div>【答案】</div><div>C</div>,<div>为什么选 C：ERP 物流管理常含销售、库存、采购；物料需求计划更偏生产控制管理。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：在 ERP 系统中，不属于物流管理模块功能的是哪项？</div><div>关联专题：T-INFO-002</div><div>可迁移考点：信息系统技术基础</div>,question,真题刷题卡,,,A,3,上午选择,信息系统技术基础,13,信息系统技术基础,T-INFO-002,信息系统技术基础,SRC-Q-2019-H2-AM-Q03,questions.full.clean.md,2019-H2-AM-Q03,2019-H2-AM-Q03,T-INFO-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::13 ruankao::domain::信息系统技术基础 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-002 ruankao::question_id::2019-H2-AM-Q03,sha256:ad646583418b2eb3e9faed40
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2019 下半年 上午 第 4 题】哪项准确说明了 CRM 的定位？
+A. CRM 注重提高客户满意度，也把帮助企业提高获利能力作为重要指标
+B. CRM 有统一客户数据库
+C. CRM 提供销售、服务和营销自动化工具
+D. CRM 应有可扩展性并可分类客户数据",<div>【答案】</div><div>A</div>,<div>为什么选 A：B/C/D 更偏 CRM 功能、设计原则或数据分类；A 更能概括 CRM 的经营定位。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：哪项准确说明了 CRM 的定位？</div><div>关联专题：T-INFO-002</div><div>可迁移考点：信息系统技术基础</div>,question,真题刷题卡,,,A,3,上午选择,信息系统技术基础,13,信息系统技术基础,T-INFO-002,信息系统技术基础,SRC-Q-2019-H2-AM-Q04,questions.full.clean.md,2019-H2-AM-Q04,2019-H2-AM-Q04,T-INFO-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::13 ruankao::domain::信息系统技术基础 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-002 ruankao::question_id::2019-H2-AM-Q04,sha256:011c372250b5628d78bcfeeb
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2019 下半年 上午 第 5 题】通过搜集、管理和分析商业信息，使决策者获得洞察并做出有利决策的技术是？
+A. CRM
+B. OA
+C. ERP
+D. BI",<div>【答案】</div><div>D</div>,<div>为什么选 D：题干“商业信息分析、洞察、支持决策”是 BI 的典型信号。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：通过搜集、管理和分析商业信息，使决策者获得洞察并做出有利决策的技术是？</div><div>关联专题：T-INFO-002</div><div>可迁移考点：信息系统技术基础</div>,question,真题刷题卡,,,A,3,上午选择,信息系统技术基础,13,信息系统技术基础,T-INFO-002,信息系统技术基础,SRC-Q-2019-H2-AM-Q05,questions.full.clean.md,2019-H2-AM-Q05,2019-H2-AM-Q05,T-INFO-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::13 ruankao::domain::信息系统技术基础 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-002 ruankao::question_id::2019-H2-AM-Q05,sha256:913ecfb520003c78dd9a0f1d
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2019 下半年 上午 第 7 题】以质量为中心的信息系统工程控制管理三方不包括哪项？
+A. 主建方
+B. 承建方
+C. 评测单位
+D. 监理单位",<div>【答案】</div><div>C</div>,<div>为什么选 C：材料说明三方为主建方、承建方和监理单位，不含评测单位。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：以质量为中心的信息系统工程控制管理三方不包括哪项？</div><div>关联专题：T-QUAL-001</div><div>可迁移考点：质量管理</div>,question,真题刷题卡,,,A,3,上午选择,质量管理,08,质量管理,T-QUAL-001,质量管理,SRC-Q-2019-H2-AM-Q07,questions.full.clean.md,2019-H2-AM-Q07,2019-H2-AM-Q07,T-QUAL-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::08 ruankao::domain::质量管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-QUAL-001 ruankao::question_id::2019-H2-AM-Q07,sha256:1f79f95f44dd2c423d81df5a
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2019 下半年 上午 第 8 题】典型信息系统项目开发过程中，哪个阶段拟定系统目标、范围和要求？
+A. 概要设计
+B. 需求分析
+C. 详细设计
+D. 程序设计",<div>【答案】</div><div>B</div>,<div>为什么选 B：需求分析回答系统要做什么，并明确目标、范围和要求。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：典型信息系统项目开发过程中，哪个阶段拟定系统目标、范围和要求？</div><div>关联专题：T-INFO-001</div><div>可迁移考点：信息化与信息系统</div>,question,真题刷题卡,,,A,3,上午选择,信息化与信息系统,01,信息化与信息系统,T-INFO-001,信息化与信息系统,SRC-Q-2019-H2-AM-Q08,questions.full.clean.md,2019-H2-AM-Q08,2019-H2-AM-Q08,T-INFO-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::01 ruankao::domain::信息化与信息系统 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::question_id::2019-H2-AM-Q08,sha256:f47dce0dcb5b629eadaf43e7
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2010 上半年 上午 第 33 题】集成项目包括软件开发和现场安装调试，关于生命周期的说法正确的是？
+A. 软件开发团队可把软件开发和现场安装调试视为两个不同项目/阶段
+B. 需求确认前不能开发
+C. 启动计划执行监督收尾最适合作为生命周期
+D. 项目内部只能有一个生命周期模型",<div>【答案】</div><div>A</div>,<div>为什么选 A：材料解析明确站在软件团队负责人立场，可把软件开发和现场安装调试视为不同项目或阶段。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：集成项目包括软件开发和现场安装调试，关于生命周期的说法正确的是？</div><div>关联专题：T-PM-002</div><div>可迁移考点：项目管理基础</div>,question,真题刷题卡,,,A,3,上午选择,项目管理基础,02,项目管理基础,T-PM-002,项目管理基础,SRC-Q-2010-H1-AM-Q33,questions.full.clean.md,2010-H1-AM-Q33,2010-H1-AM-Q33,T-PM-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::02 ruankao::domain::项目管理基础 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-PM-002 ruankao::question_id::2010-H1-AM-Q33,sha256:75e39b5322aaad3f2d8ba805
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2010 上半年 上午 第 34 题】关于企业组织类别，正确的是？
+A. 职能型组织中不会有项目组织
+B. 职能型和项目型运作方式完全不同
+C. 通常只分职能型和项目型
+D. 职能型组织内可以有项目存在，项目通常在职能部门内部运作",<div>【答案】</div><div>D</div>,<div>为什么选 D：职能型组织也可以存在项目，只是项目通常在职能部门内部运作。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：关于企业组织类别，正确的是？</div><div>关联专题：T-ORG-001</div><div>可迁移考点：综合专题与跨域辨析</div>,question,真题刷题卡,,,A,3,上午选择,综合专题与跨域辨析,99,综合专题与跨域辨析,T-ORG-001,综合专题与跨域辨析,SRC-Q-2010-H1-AM-Q34,questions.full.clean.md,2010-H1-AM-Q34,2010-H1-AM-Q34,T-ORG-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::99 ruankao::domain::综合专题与跨域辨析 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-ORG-001 ruankao::question_id::2010-H1-AM-Q34,sha256:3f126fe336a86ad3d7b85f1a
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2010 上半年 上午 第 35 题】张工同时在其他项目担任重要角色，为避免资源冲突，资源估算时应提交什么？
+A. 专家评审意见
+B. 活动属性
+C. 资源类比估算清单
+D. 活动资源日历",<div>【答案】</div><div>D</div>,<div>为什么选 D：题干核心是资源时间冲突，活动资源日历用于反映资源可用时间。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：张工同时在其他项目担任重要角色，为避免资源冲突，资源估算时应提交什么？</div><div>关联专题：T-HR-001</div><div>可迁移考点：人力资源与沟通管理</div>,question,真题刷题卡,,,A,3,上午选择,人力资源与沟通管理,09,人力资源与沟通管理,T-HR-001,人力资源与沟通管理,SRC-Q-2010-H1-AM-Q35,questions.full.clean.md,2010-H1-AM-Q35,2010-H1-AM-Q35,T-HR-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::09 ruankao::domain::人力资源与沟通管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-HR-001 ruankao::question_id::2010-H1-AM-Q35,sha256:a32621915f7243f83c57ac67
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2010 上半年 上午 第 36 题】子任务 I 乐观3、最可能4、悲观8；子任务 II 乐观5、最可能6、悲观10。任务估算历时为？
+A. 10
+B. 11
+C. 12
+D. 13",<div>【答案】</div><div>B</div>,<div>为什么选 B：PERT 期望：I=(3+4×4+8)/6=4.5，II=(5+4×6+10)/6=6.5，总计 11。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：子任务 I 乐观3、最可能4、悲观8；子任务 II 乐观5、最可能6、悲观10。</div><div>关联专题：T-SCH-003</div><div>可迁移考点：进度管理</div>,question,真题刷题卡,,,A,3,上午选择,进度管理,06,进度管理,T-SCH-003,进度管理,SRC-Q-2010-H1-AM-Q36,questions.full.clean.md,2010-H1-AM-Q36,2010-H1-AM-Q36,T-SCH-003,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::06 ruankao::domain::进度管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-SCH-003 ruankao::question_id::2010-H1-AM-Q36,sha256:3b1e9730bdd50d655d959dad
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【2010 上半年 上午 第 38 题】WBS 分解完成后，哪种做法不正确？
+A. 范围管理计划可在项目管理计划中说明
+B. 范围定义记录交付信息系统的过程和结果
+C. 范围定义后开始 WBS 分解
+D. WBS 完成后成员马上按 WBS 活动开展工作",<div>【答案】</div><div>D</div>,<div>为什么选 D：WBS 后还要活动定义、排序、资源估算、历时估算和进度计划，不能马上按工作包开工。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：WBS 分解完成后，哪种做法不正确？</div><div>关联专题：T-SCOPE-002</div><div>可迁移考点：范围管理</div>,question,真题刷题卡,,,A,3,上午选择,范围管理,05,范围管理,T-SCOPE-002,范围管理,SRC-Q-2010-H1-AM-Q38,questions.full.clean.md,2010-H1-AM-Q38,2010-H1-AM-Q38,T-SCOPE-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::05 ruankao::domain::范围管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::question_id::2010-H1-AM-Q38,sha256:900652ff2bade84606bff5e9
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 2 题】瀑布模型中，系统测试阶段的目标主要来自哪个阶段定义的规划？
+A. 问题定义
+B. 可行性研究
+C. 软件需求分析
+D. 系统总体设计",<div>【答案】</div><div>C</div>,<div>为什么选 C：系统测试验证系统是否满足需求规格，因此目标来自软件需求分析。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：瀑布模型中，系统测试阶段的目标主要来自哪个阶段定义的规划？</div><div>关联专题：T-INFO-001</div><div>可迁移考点：信息化与信息系统</div>,question,真题刷题卡,,,A,3,上午选择,信息化与信息系统,01,信息化与信息系统,T-INFO-001,信息化与信息系统,SRC-Q-UNKNOWN-AM-Q-WATERFALL-ST,questions.full.clean.md,UNKNOWN-AM-Q-WATERFALL-ST,UNKNOWN-AM-Q-WATERFALL-ST,T-INFO-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::01 ruankao::domain::信息化与信息系统 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::question_id::UNKNOWN-AM-Q-WATERFALL-ST,sha256:48e225d1c7269f4471a79737
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 3 题】项目早期不确定因素多、参与人员不能完全理解范围和需求，采用哪类模型更合适？
+A. 增量迭代模型或螺旋模型
+B. 瀑布模型
+C. 面向对象模型或快速模型
+D. 部分并行瀑布模型",<div>【答案】</div><div>A</div>,<div>为什么选 A：需求不明确且风险较大，增量迭代或螺旋模型更能逐步澄清并处理风险。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：项目早期不确定因素多、参与人员不能完全理解范围和需求，采用哪类模型更合适？</div><div>关联专题：T-INFO-001</div><div>可迁移考点：信息化与信息系统</div>,question,真题刷题卡,,,A,3,上午选择,信息化与信息系统,01,信息化与信息系统,T-INFO-001,信息化与信息系统,SRC-Q-UNKNOWN-AM-Q-RISK-MODEL,questions.full.clean.md,UNKNOWN-AM-Q-RISK-MODEL,UNKNOWN-AM-Q-RISK-MODEL,T-INFO-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::01 ruankao::domain::信息化与信息系统 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::question_id::UNKNOWN-AM-Q-RISK-MODEL,sha256:cb5264ff7e663bc655fb0b25
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 4 题】企业通过网页向消费者提供记次收费的信息浏览和下载，属于哪种电子商务模式？
+A. B2B 在线付费浏览
+B. B2C 在线付费浏览
+C. C2C 在线付费浏览
+D. 实物商品消费",<div>【答案】</div><div>B</div>,<div>为什么选 B：企业 Business 面向消费者 Customer，属于 B2C。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：企业通过网页向消费者提供记次收费的信息浏览和下载，属于哪种电子商务模式？</div><div>关联专题：T-INFO-001</div><div>可迁移考点：信息化与信息系统</div>,question,真题刷题卡,,,A,3,上午选择,信息化与信息系统,01,信息化与信息系统,T-INFO-001,信息化与信息系统,SRC-Q-UNKNOWN-AM-Q-B2C,questions.full.clean.md,UNKNOWN-AM-Q-B2C,UNKNOWN-AM-Q-B2C,T-INFO-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::01 ruankao::domain::信息化与信息系统 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::question_id::UNKNOWN-AM-Q-B2C,sha256:8299e4cc0b1c11fb0ec2b3dc
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 6 题】哪项不属于信息资源管理标准化的指导原则？
+A. 效益原则
+B. 系统原则
+C. 优化原则
+D. 行政原则",<div>【答案】</div><div>D</div>,<div>为什么选 D：材料列出效益、系统、动态、优化和协商原则，不含行政原则。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：哪项不属于信息资源管理标准化的指导原则？</div><div>关联专题：T-LAW-001</div><div>可迁移考点：配置变更知识产权与法律法规</div>,question,真题刷题卡,,,A,3,上午选择,配置变更知识产权与法律法规,12,配置变更知识产权与法律法规,T-LAW-001,配置变更知识产权与法律法规,SRC-Q-UNKNOWN-AM-Q-STANDARD,questions.full.clean.md,UNKNOWN-AM-Q-STANDARD,UNKNOWN-AM-Q-STANDARD,T-LAW-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::12 ruankao::domain::配置变更知识产权与法律法规 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-LAW-001 ruankao::question_id::UNKNOWN-AM-Q-STANDARD,sha256:36b714b0cf30646629c052b0
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 32 题】企业信息化建设中，决策层对实施方案择优和取舍的主要决策依据是？
+A. 需求分析
+B. 项目建议书
+C. 可行性研究报告
+D. 项目评估报告",<div>【答案】</div><div>D</div>,<div>为什么选 D：材料解析指出可研报告提供多方案比较，项目评估报告通常作为择优取舍的决策依据。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：企业信息化建设中，决策层对实施方案择优和取舍的主要决策依据是？</div><div>关联专题：T-FEA-001</div><div>可迁移考点：立项管理</div>,question,真题刷题卡,,,A,3,上午选择,立项管理,03,立项管理,T-FEA-001,立项管理,SRC-Q-UNKNOWN-AM-Q-FEA32,questions.full.clean.md,UNKNOWN-AM-Q-FEA32,UNKNOWN-AM-Q-FEA32,T-FEA-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::03 ruankao::domain::立项管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-FEA-001 ruankao::question_id::UNKNOWN-AM-Q-FEA32,sha256:f5911359f851c800cccaca91
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 34 题】项目管理中通常将哪些基准合并为绩效测量基准，用于挣值测量？
+A. 范围基准、成本基准、进度基准
+B. 质量基准、成本基准、范围基准
+C. 质量基准、进度基准、范围基准
+D. 质量基准、进度基准、成本基准",<div>【答案】</div><div>A</div>,<div>为什么选 A：挣值测量整合范围、进度和成本三类基准。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：项目管理中通常将哪些基准合并为绩效测量基准，用于挣值测量？</div><div>关联专题：T-INT-002</div><div>可迁移考点：整体管理</div>,question,真题刷题卡,,,A,3,上午选择,整体管理,04,整体管理,T-INT-002,整体管理,SRC-Q-UNKNOWN-AM-Q-PMB,questions.full.clean.md,UNKNOWN-AM-Q-PMB,UNKNOWN-AM-Q-PMB,T-INT-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::04 ruankao::domain::整体管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-INT-002 ruankao::question_id::UNKNOWN-AM-Q-PMB,sha256:d1aa88bf2774d0daa58fbff0
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 35 题】关于活动历时估算，哪项正确？
+A. 不应给出变化范围
+B. 多方案分析法是常用历时估算方法
+C. 常用方法包括类比、参数、三点估算和后备分析
+D. 类比估算也称自下而上估算",<div>【答案】</div><div>C</div>,<div>为什么选 C：材料解析列出专家判断、类比、参数、三点估算和后备分析等方法。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：关于活动历时估算，哪项正确？</div><div>关联专题：T-SCH-003</div><div>可迁移考点：进度管理</div>,question,真题刷题卡,,,A,3,上午选择,进度管理,06,进度管理,T-SCH-003,进度管理,SRC-Q-UNKNOWN-AM-Q-DURATION,questions.full.clean.md,UNKNOWN-AM-Q-DURATION,UNKNOWN-AM-Q-DURATION,T-SCH-003,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::06 ruankao::domain::进度管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-SCH-003 ruankao::question_id::UNKNOWN-AM-Q-DURATION,sha256:6402214a02003e69e30989a4
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 38 题】对快速跟进的正确理解是？
+A. 调整部分工作顺序关系，尽可能并行进行
+B. 利用周末或晚上实施
+C. 通过绩效考核提升技能
+D. 加强干系人沟通以加快进度",<div>【答案】</div><div>A</div>,<div>为什么选 A：快速跟进通过并行原本顺序进行的活动来压缩工期。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：对快速跟进的正确理解是？</div><div>关联专题：T-CROSS-001</div><div>可迁移考点：综合专题与跨域辨析</div>,question,真题刷题卡,,,A,3,上午选择,综合专题与跨域辨析,99,综合专题与跨域辨析,T-CROSS-001,综合专题与跨域辨析,SRC-Q-UNKNOWN-AM-Q-FASTTRACK,questions.full.clean.md,UNKNOWN-AM-Q-FASTTRACK,UNKNOWN-AM-Q-FASTTRACK,T-CROSS-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::99 ruankao::domain::综合专题与跨域辨析 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::question_id::UNKNOWN-AM-Q-FASTTRACK,sha256:9c4eb444fd05f6bcbc2dd6e4
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 43 题】客户未经项目经理通知就要求修改产品，测试结果与计划不同，主要由于什么？
+A. 测试计划定义不完善
+B. 没有做好范围变更控制
+C. 质量管理计划不完善
+D. 没有坚持沟通计划",<div>【答案】</div><div>B</div>,<div>为什么选 B：客户直接修改产品需求且结果偏离计划，核心是范围变更控制缺失。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：客户未经项目经理通知就要求修改产品，测试结果与计划不同，主要由于什么？</div><div>关联专题：T-CASE-003</div><div>可迁移考点：案例分析专题</div>,question,真题刷题卡,,,A,3,上午选择,案例分析专题,14,案例分析专题,T-CASE-003,案例分析专题,SRC-Q-UNKNOWN-AM-Q-SCOPECHANGE,questions.full.clean.md,UNKNOWN-AM-Q-SCOPECHANGE,UNKNOWN-AM-Q-SCOPECHANGE,T-CASE-003,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::14 ruankao::domain::案例分析专题 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-CASE-003 ruankao::question_id::UNKNOWN-AM-Q-SCOPECHANGE,sha256:4f58244f697a5e315a4485d9
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 44 题】为客户采购并交付使用的 5 台服务器成本属于项目的什么成本？
+A. 直接成本
+B. 间接成本
+C. 固定成本
+D. 机会成本",<div>【答案】</div><div>A</div>,<div>为什么选 A：服务器直接归属于该项目交付工作，属于直接成本。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：为客户采购并交付使用的 5 台服务器成本属于项目的什么成本？</div><div>关联专题：T-COST-001</div><div>可迁移考点：成本管理</div>,question,真题刷题卡,,,A,3,上午选择,成本管理,07,成本管理,T-COST-001,成本管理,SRC-Q-UNKNOWN-AM-Q-DIRECTCOST,questions.full.clean.md,UNKNOWN-AM-Q-DIRECTCOST,UNKNOWN-AM-Q-DIRECTCOST,T-COST-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::07 ruankao::domain::成本管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-COST-001 ruankao::question_id::UNKNOWN-AM-Q-DIRECTCOST,sha256:e8d744f0d429473e2aa5ed86
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 45 题】完成 WBS 和每个工作包成本估算后，要编制项目成本估算，应做什么？
+A. 使用 WBS 最高层类比估算
+B. 计算工作包估算和风险储备的总和
+C. 把工作包估算累计为项目总和
+D. 获得专家对总计划意见",<div>【答案】</div><div>B</div>,<div>为什么选 B：成本估算应包括工作包估算和用于风险的储备。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：完成 WBS 和每个工作包成本估算后，要编制项目成本估算，应做什么？</div><div>关联专题：T-COST-001</div><div>可迁移考点：成本管理</div>,question,真题刷题卡,,,A,3,上午选择,成本管理,07,成本管理,T-COST-001,成本管理,SRC-Q-UNKNOWN-AM-Q-COSTEST,questions.full.clean.md,UNKNOWN-AM-Q-COSTEST,UNKNOWN-AM-Q-COSTEST,T-COST-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::07 ruankao::domain::成本管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-COST-001 ruankao::question_id::UNKNOWN-AM-Q-COSTEST,sha256:d25cc3315cdc21310b4172fd
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 46 题】12 个模块，每个预算 5 万，每月开发 1 个。第 3 月底完成 2 个模块，实际花费 15 万。按当前绩效预计总成本？
+A. 90 万
+B. 75 万
+C. 70 万
+D. 66.7 万",<div>【答案】</div><div>A</div>,<div>为什么选 A：当前每完成 1 个模块花费 7.5 万，12 个模块预计 90 万。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：12 个模块，每个预算 5 万，每月开发 1 个。第 3 月底完成 2 个模块，</div><div>关联专题：T-COST-002</div><div>可迁移考点：成本管理</div>,question,真题刷题卡,,,A,3,上午选择,成本管理,07,成本管理,T-COST-002,成本管理,SRC-Q-UNKNOWN-AM-Q-EVM46,questions.full.clean.md,UNKNOWN-AM-Q-EVM46,UNKNOWN-AM-Q-EVM46,T-COST-002,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::07 ruankao::domain::成本管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-COST-002 ruankao::question_id::UNKNOWN-AM-Q-EVM46,sha256:f6ec40c37865a35457fb6830
+软考::系统集成项目管理工程师::真题刷题卡::上午选择题,RuankaoTopicCard,"【未知年份 上午 第 48 题】项目经理哪种做法可能不利于团队建设？
+A. 鼓励团队成员沟通
+B. 奖励加班的成员
+C. 尽早建立团队规则
+D. 尽早发现冲突并私下直接合法处理",<div>【答案】</div><div>B</div>,<div>为什么选 B：若加班来自计划不周或效率低，奖励加班可能破坏团队建设。</div><div>错项分析：请先按题干信号排除与题目对象不匹配的选项；本卡保留原选项用于刷题。</div><div>题干信号：项目经理哪种做法可能不利于团队建设？</div><div>关联专题：T-HR-001</div><div>可迁移考点：人力资源与沟通管理</div>,question,真题刷题卡,,,A,3,上午选择,人力资源与沟通管理,09,人力资源与沟通管理,T-HR-001,人力资源与沟通管理,SRC-Q-UNKNOWN-AM-Q-TEAM48,questions.full.clean.md,UNKNOWN-AM-Q-TEAM48,UNKNOWN-AM-Q-TEAM48,T-HR-001,keep,题干、四个选项和答案边界在源材料附近可定位；Back 只给答案，Extra 解释选择理由和迁移考点。,ruankao ruankao::build::20260520_235046 ruankao::chapter::09 ruankao::domain::人力资源与沟通管理 ruankao::type::真题刷题卡 ruankao::importance::A ruankao::difficulty::3 ruankao::review::keep ruankao::question ruankao::source::past_exam ruankao::topic::T-HR-001 ruankao::question_id::UNKNOWN-AM-Q-TEAM48,sha256:c747966fc89aa6b9dfa14ad3

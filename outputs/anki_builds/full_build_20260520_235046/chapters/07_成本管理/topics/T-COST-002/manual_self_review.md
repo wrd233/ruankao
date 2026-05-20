@@ -1,0 +1,58 @@
+# T-COST-002 人工自评
+
+- keep｜挣值管理 EVM 试图同时回答哪三个问题？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜PV（Planned Value）是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜EV（Earned Value）是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜AC（Actual Cost）是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜BAC 在挣值管理中表示什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜为什么说 EV 是 EVM 的核心？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SV 和 CV 的单位是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SPI 和 CPI 的判断阈值是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜EAC 表示什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜ETC 表示什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜VAC 表示什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜TCPI 是回顾性指标还是前瞻性指标？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SV 的公式、含义和判断规则是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜CV 的公式、含义和判断规则是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SPI 的公式、含义和判断规则是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜CPI 的公式、含义和判断规则是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜非典型偏差下 EAC 怎么算？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜典型偏差会延续时 EAC 怎么算？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜重新估算剩余工作时 EAC 怎么算？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- needs_human_review｜同时考虑 CPI 和 SPI 的 EAC 扩展公式是什么？：涉及教材口径待核验的扩展公式，隔离给人工确认。
+- keep｜ETC 的常用公式是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜VAC 的公式和判断规则是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜以 BAC 为目标的 TCPI 怎么算？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜PV=100，EV=90，AC=110。计算 SV 和 CV，并判断状态。：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜PV=200，EV=240，AC=220。计算 SPI、CPI，并判断状态。：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SPI=0.8，CPI=1.2。如何判断项目状态？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜BAC=500，AC=200，EV=180，偏差为一次性且不会再出现。EAC 是多少？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜BAC=1000，EV=400，AC=500，当前成本绩效将持续。EAC 是多少？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜BAC=800，EV=300，AC=360。若仍要按 BAC 完工，TCPI 是多少？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜PV=600，EV=540，AC=630，BAC=1200。计算 SPI/CPI 并判断状态。：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜PV=400，EV=320，AC=380。计算 SV、CV、SPI、CPI。：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜只给 PV=25 万、AC=28 万，没有 EV。能否判断成本超支？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜BAC=800，EAC=950。VAC 是多少？含义是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜CV 和 SV 的核心区别是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜CPI 和 SPI 的核心区别是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜PV、EV、AC 三者分别回答什么问题？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜成本超支和进度落后一定同时出现吗？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SV < 0 是否表示项目延误了具体多少天？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜SPI > 1 是否保证项目一定按期或提前完工？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜典型偏差和非典型偏差如何区分？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜EAC 和 ETC 的区别是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜VAC 和 CV 的区别是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜为什么只有 PV 和 AC 不能判断绩效？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜下午案例中给出 PV、EV、AC，答题第一步写什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜案例题中如何判断“成本超支”？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜案例题中如何判断“进度落后”？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜挣值案例题的完整答题链是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜成本控制措施题应从哪些方面组织答案？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜EVM 指标如何回到管理动作？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：AC 大于 PV 是否一定成本超支？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：CPI < 1 的含义是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：SPI < 1 的含义是什么？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：CV/SV 和 CPI/SPI 的量纲有什么不同？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：EV 是否等于实际成本？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：EAC 公式是不是固定只有一个？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
+- keep｜陷阱：计算完 EVM 指标，案例题是否就答完了？：沿用 EVM 黄金样例，Front 短、Back 可判分，Extra 指向该公式或陷阱的具体理解。
