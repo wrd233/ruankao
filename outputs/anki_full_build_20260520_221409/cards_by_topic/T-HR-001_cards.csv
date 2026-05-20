@@ -1,0 +1,28 @@
+﻿Deck,NoteType,Front,Back,Extra,CardType,Importance,Difficulty,ExamUse,KnowledgeDomain,SourceTopicID,SourceTopicName,SourceFile,SourceLocator,RelatedQuestionIDs,QuestionYear,QuestionSession,QuestionPart,QuestionNumber,QuestionStem,Options,Answer,Explanation,WrongOptionAnalysis,ExamSignal,Checksum,TagsText,QualityScore,QualityStatus,ReviewNotes
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-HR-001_项目人力资源管理：组织计划、团队建设与团队管理,RuankaoTopicCard,责任分配矩阵 RAM 的作用是什么？,把工作包或活动与责任人/组织单元对应起来，明确谁负责什么。,RACI 是 RAM 的一种表达方式。,概念卡,A,2,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md,line 3,,,,,,,,,,,,sha256:16bfb35ff8d8de71d88be96d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-HR-001 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-HR-001_项目人力资源管理：组织计划、团队建设与团队管理,RuankaoTopicCard,RACI 中 R 和 A 的区别是什么？,R 是实际执行/负责完成工作的人；A 是最终对结果负责并有批准责任的人，通常每项工作 A 唯一。,多个 R 可以并存，但 A 不宜多个。,辨析卡,A,2,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md,line 3,,,,,,,,,,,,sha256:e3f5bb87ae0dca312efa82b6,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-HR-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-HR-001_项目人力资源管理：组织计划、团队建设与团队管理,RuankaoTopicCard,塔克曼团队发展五阶段的关键词是什么？,形成、震荡、规范、成熟、解散。,冲突集中爆发多在震荡期；效率稳定提升多在规范和成熟期。,关键词识别卡,B,3,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md,line 47,,,,,,,,,,,,sha256:f7018ccf726c8e4429716ca5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::topic ruankao::topic::T-HR-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 50 题】结合大型项目的特点，企业下列做法中，不正确的是(50)。
+A. 企业在制定某大项目的过程计划之前，优先制定了项目的活动计划
+B. 企业围绕项目周期定义了一个大型项目，未考虑项目的规模和团队构成
+C. 企业在管理大型项目的过程中聘任了多名项目经理
+D. 企业将一个大项项目分解成若干个子项目进行管理 正确答案：A",答案：A,"解析：一般项目的计划主要关注的是项目活动的计划。但是对大型及复杂项目来说，制定活动计划之前，必须先考虑项目的过程计划，也就是必须先确定什么方法和过程来完成项目。 因此，选项A中的陈述是不正确的。 大型项目的计划管理过程有其自身的特点。围绕大型项目计划管理过程，下列说法中不正确的是(51)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-HR-001 项目人力资源管理：组织计划、团队建设与团队管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,questions.full.clean.md,未知未知上午 第 50 题 / line 5423,未知-未知-上午-50,未知,未知,上午,50,结合大型项目的特点，企业下列做法中，不正确的是(50)。,"A. 企业在制定某大项目的过程计划之前，优先制定了项目的活动计划
+B. 企业围绕项目周期定义了一个大型项目，未考虑项目的规模和团队构成
+C. 企业在管理大型项目的过程中聘任了多名项目经理
+D. 企业将一个大项项目分解成若干个子项目进行管理 正确答案：A",A,一般项目的计划主要关注的是项目活动的计划。但是对大型及复杂项目来说，制定活动计划之前，必须先考虑项目的过程计划，也就是必须先确定什么方法和过程来完成项目。 因此，选项A中的陈述是不正确的。 大型项目的计划管理过程有其自身的特点。围绕大型项目计划管理过程，下列说法中不正确的是(51),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:f60d30287c7e940ceafd64c1,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-HR-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 49 题】关于项目管理环境中的冲突管理的叙述中，(49)是正确的。
+A. 通过建立团队基本规则及实施可行的项目管理经验，冲突是可以避免的
+B. 解决冲突最理想方法是求同存异
+C. 冲突管理的最终目的是消除意见分歧
+D. 不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它",答案：B,"解析：冲突是不可避免的：解决冲突最理想方法是问题的解决：冲突管理的最终目的是问题解决；不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它。 参考答案：B 某电信企业要建设一个CRM系统(包括呼叫中心和客服中心)，系统集成一级资质企业甲和系统集成二级资质企业乙参与该系统建设。关于合同的签订，下面说法中，(50)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-HR-001 项目人力资源管理：组织计划、团队建设与团队管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,questions.full.clean.md,未知未知上午 第 49 题 / line 7360,未知-未知-上午-49,未知,未知,上午,49,关于项目管理环境中的冲突管理的叙述中，(49)是正确的。,"A. 通过建立团队基本规则及实施可行的项目管理经验，冲突是可以避免的
+B. 解决冲突最理想方法是求同存异
+C. 冲突管理的最终目的是消除意见分歧
+D. 不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它",B,冲突是不可避免的：解决冲突最理想方法是问题的解决：冲突管理的最终目的是问题解决；不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它。 参考答案：B 某电信企业要建设一个CRM系统(包括呼叫中心和客服中心)，系统集成一级资质企业甲和系统集成二级资质企业乙参与该系统建设。关于合同的签订，下面说法中，(50)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:c3e5b489cf54fb1bd3b25c38,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-HR-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁

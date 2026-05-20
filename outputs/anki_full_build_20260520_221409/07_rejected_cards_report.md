@@ -1,0 +1,95 @@
+# Rejected Cards Report
+
+- Rejected cards: 0
+- Question parse rejects: 119
+- Main reasons: ambiguous front, missing answer/options in OCR question blocks, needs-review content not suitable for main deck, or duplicate checksum.
+
+## Typical Bad Card Patterns Rejected
+
+- `Front: T-XXX 专题的核心内容是什么？`
+- `Back: 长篇专题摘要`
+- 真题题干缺选项或无法解析答案。
+- 法规数字、资质条件、标准版本未核验却想进入主卡组。
+
+## OCR / Question Reject Samples
+
+- Q1@line 17: 未解析出明确答案
+- Q13@line 180: 未解析出明确答案
+- Q14@line 193: 未解析出明确答案
+- Q15@line 208: 未解析出明确答案
+- Q22@line 291: 未解析出明确答案
+- Q24@line 321: 未解析出明确答案
+- Q26@line 345: 未解析出明确答案
+- Q27@line 358: 未解析出明确答案
+- Q28@line 371: 未解析出明确答案
+- Q42@line 509: 未解析出明确答案
+- Q44@line 531: 未解析出明确答案
+- Q47@line 563: 未解析出明确答案
+- Q54@line 634: 未解析出明确答案
+- Q55@line 647: 未解析出明确答案
+- Q60@line 706: 未解析出明确答案
+- Q63@line 739: 未解析出明确答案
+- Q65@line 763: 未解析出明确答案
+- Q66@line 775: 未解析出明确答案
+- Q71@line 828: 未解析出明确答案
+- Q72@line 841: 未解析出明确答案
+- Q12@line 1408: 未解析出明确答案
+- Q13@line 1421: 未解析出明确答案
+- Q25@line 1596: 题干过短
+- Q27@line 1628: 题干过短
+- Q31@line 1692: 选项不完整
+- Q35@line 1770: 未解析出明确答案
+- Q36@line 1783: 未解析出明确答案
+- Q38@line 1816: 未解析出明确答案
+- Q39@line 1845: 未解析出明确答案
+- Q45@line 1920: 选项不完整
+- Q48@line 1967: 未解析出明确答案
+- Q50@line 1991: 未解析出明确答案
+- Q51@line 2004: 选项不完整
+- Q52@line 2017: 未解析出明确答案
+- Q56@line 2082: 未解析出明确答案
+- Q57@line 2095: 未解析出明确答案
+- Q58@line 2108: 未解析出明确答案
+- Q59@line 2121: 未解析出明确答案
+- Q60@line 2134: 未解析出明确答案
+- Q62@line 2161: 未解析出明确答案
+- Q64@line 2186: 未解析出明确答案
+- Q65@line 2199: 未解析出明确答案
+- Q68@line 2234: 未解析出明确答案
+- Q69@line 2247: 未解析出明确答案
+- Q72@line 2283: 未解析出明确答案
+- Q74@line 2310: 未解析出明确答案
+- Q75@line 2323: 未解析出明确答案
+- Q2@line 2740: 选项不完整
+- Q3@line 2753: 选项不完整
+- Q4@line 2774: 未解析出明确答案
+- Q5@line 2787: 未解析出明确答案
+- Q6@line 2799: 未解析出明确答案
+- Q10@line 2851: 未解析出明确答案
+- Q13@line 2887: 未解析出明确答案
+- Q14@line 2900: 未解析出明确答案
+- Q15@line 2912: 未解析出明确答案
+- Q16@line 2939: 未解析出明确答案
+- Q20@line 2998: 未解析出明确答案
+- Q21@line 3029: 选项不完整
+- Q22@line 3060: 未解析出明确答案
+- Q23@line 3076: 选项不完整
+- Q24@line 3099: 选项不完整
+- Q25@line 3122: 选项不完整
+- Q21@line 3139: 选项不完整
+- Q27@line 3209: 未解析出明确答案
+- Q28@line 3222: 未解析出明确答案
+- Q32@line 3290: 未解析出明确答案
+- Q33@line 3307: 未解析出明确答案
+- Q37@line 3435: 未解析出明确答案
+- Q39@line 3469: 未解析出明确答案
+- Q40@line 3494: 未解析出明确答案
+- Q41@line 3547: 未解析出明确答案
+- Q42@line 3560: 未解析出明确答案
+- Q47@line 3676: 选项不完整
+- Q48@line 3689: 未解析出明确答案
+- Q49@line 3702: 未解析出明确答案
+- Q53@line 3748: 未解析出明确答案
+- Q54@line 3763: 未解析出明确答案
+- Q55@line 3776: 未解析出明确答案
+- Q56@line 3789: 未解析出明确答案

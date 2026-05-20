@@ -1,0 +1,977 @@
+﻿Deck,NoteType,Front,Back,Extra,CardType,Importance,Difficulty,ExamUse,KnowledgeDomain,SourceTopicID,SourceTopicName,SourceFile,SourceLocator,RelatedQuestionIDs,QuestionYear,QuestionSession,QuestionPart,QuestionNumber,QuestionStem,Options,Answer,Explanation,WrongOptionAnalysis,ExamSignal,Checksum,TagsText,QualityScore,QualityStatus,ReviewNotes
+软考::系统集成项目管理工程师::专题学习::信息化与系统集成基础::T-INFO-001_信息化、信息系统生命周期与系统集成基础,RuankaoTopicCard,信息系统集成项目的根本出发点是什么？,满足客户和用户的需求。,题干若把“技术堆叠”说成系统集成目标，要回到用户需求和业务目标。,概念卡,A,2,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,topic_learning_packages/topics/01_信息化与信息系统/T-INFO-001_专题学习包_信息化信息系统生命周期与系统集成基础.md,topic package,,,,,,,,,,,,sha256:bf97f4a56a42d8855822818c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INFO-001 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::信息化与系统集成基础::T-INFO-001_信息化、信息系统生命周期与系统集成基础,RuankaoTopicCard,信息系统生命周期 vs 项目生命周期的核心区别是什么？,信息系统生命周期看系统从规划、建设到运行维护的全过程；项目生命周期看一次项目从启动到收尾的管理过程。,题干说系统长期运行维护，多半是信息系统生命周期；说项目阶段门、交付和收尾，多半是项目生命周期。,辨析卡,A,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,topic_learning_packages/topics/01_信息化与信息系统/T-INFO-001_专题学习包_信息化信息系统生命周期与系统集成基础.md,line 1,,,,,,,,,,,,sha256:bd21b5295dd7a9683abac718,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INFO-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::信息化与系统集成基础::T-INFO-001_信息化、信息系统生命周期与系统集成基础,RuankaoTopicCard,题干出现哪些信号时，应想到“系统集成”？,多系统、多技术、多厂商、多接口，需要把软件、硬件、网络、数据和业务流程整合成可用系统。,不要只把系统集成理解为设备采购或布线。,关键词识别卡,A,2,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,topic_learning_packages/topics/01_信息化与信息系统/T-INFO-001_专题学习包_信息化信息系统生命周期与系统集成基础.md,topic package,,,,,,,,,,,,sha256:cb96ad0949d8154540f9658f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INFO-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::项目管理基础::T-PM-002_五大过程组、十大知识域与_PDCA,RuankaoTopicCard,项目阶段 vs 项目管理过程组的核心区别是什么？,阶段是项目生命周期中的时间段；过程组是管理活动的逻辑分类，可在每个阶段反复出现。,题干说“设计阶段、实施阶段”是阶段；说“启动、规划、执行、监控、收尾”是过程组。,辨析卡,A,2,上午选择,项目管理基础,T-PM-002,五大过程组、十大知识域与 PDCA,topic_learning_packages/topics/02_项目管理基础/T-PM-002_专题学习包_五大过程组十大知识域与PDCA.md,line 3,,,,,,,,,,,,sha256:c66524320042c81a7133b2b9,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::项目管理基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PM-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::项目管理基础::T-PM-002_五大过程组、十大知识域与_PDCA,RuankaoTopicCard,PDCA 的 Act 与项目收尾为什么不能简单等同？,Act 是根据检查结果采取改进措施；项目收尾是结束项目或阶段、验收、归档和释放资源。,收尾不是“纠偏动作”，不要把 PDCA 的 A 机械对应到收尾过程组。,辨析卡,A,3,上午选择,项目管理基础,T-PM-002,五大过程组、十大知识域与 PDCA,topic_learning_packages/topics/02_项目管理基础/T-PM-002_专题学习包_五大过程组十大知识域与PDCA.md,line 1,,,,,,,,,,,,sha256:a629e8c78b00aa5cc5527535,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::项目管理基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PM-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::项目管理基础::T-PM-002_五大过程组、十大知识域与_PDCA,RuankaoTopicCard,看到哪些管理动作，应优先想到监控过程组？,测量绩效、比较基准、发现偏差、提出纠正或预防措施、实施整体变更控制。,QA 属执行；QC、确认范围、控制范围和整体变更控制通常属于监控。,关键词识别卡,A,3,上午选择,项目管理基础,T-PM-002,五大过程组、十大知识域与 PDCA,topic_learning_packages/topics/02_项目管理基础/T-PM-002_专题学习包_五大过程组十大知识域与PDCA.md,topic package,,,,,,,,,,,,sha256:0268b83c422e4ef920c18c74,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::项目管理基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PM-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::立项管理::T-FEA-001_立项管理：项目建议书、可行性研究与项目论证,RuankaoTopicCard,项目建议书在立项管理中的核心作用是什么？,提出项目建设的必要性、初步目标和建设设想，为是否启动后续可行性研究提供依据。,它不是详细实施计划，也不是最终项目管理计划。,概念卡,A,2,上午选择,立项管理,T-FEA-001,立项管理：项目建议书、可行性研究与项目论证,topic_learning_packages/topics/03_立项管理/T-FEA-001_专题学习包_立项管理项目建议书可行性研究与项目论证.md,topic package,,,,,,,,,,,,sha256:955bd4a38dadc29e476a92b6,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::立项管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-FEA-001 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::立项管理::T-FEA-001_立项管理：项目建议书、可行性研究与项目论证,RuankaoTopicCard,可行性研究通常从哪些角度判断项目是否值得做？,技术可行、经济可行、社会/组织可行、运行维护可行等角度综合判断。,具体分类口径以教材为准；涉及数字和审批权限需核验。,流程卡,A,3,上午选择,立项管理,T-FEA-001,立项管理：项目建议书、可行性研究与项目论证,topic_learning_packages/topics/03_立项管理/T-FEA-001_专题学习包_立项管理项目建议书可行性研究与项目论证.md,topic package,,,,,,,,,,,,sha256:10939b5503f43fd5b2bd5d9d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::立项管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-FEA-001 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::立项管理::T-FEA-001_立项管理：项目建议书、可行性研究与项目论证,RuankaoTopicCard,项目论证 vs 项目评估的核心区别是什么？,论证偏建设方或咨询方论证项目方案是否可行；评估偏决策方或第三方对论证结果进行审查评价。,关键词：先论证，后评估；论证重“方案可行”，评估重“决策把关”。,辨析卡,A,3,上午选择,立项管理,T-FEA-001,立项管理：项目建议书、可行性研究与项目论证,topic_learning_packages/topics/03_立项管理/T-FEA-001_专题学习包_立项管理项目建议书可行性研究与项目论证.md,line 1,,,,,,,,,,,,sha256:d3b81389ae42283e0389ca49,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::立项管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-FEA-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-CLOSE-001_项目收尾：管理收尾、合同收尾与验收,RuankaoTopicCard,项目收尾时，合同收尾和管理收尾的顺序通常是什么？,先完成合同收尾，再完成项目或阶段的管理收尾。,先确认合同义务、结算和合同记录，再做整体归档、经验教训和资源释放。,流程卡,A,2,上午选择,整体管理,T-CLOSE-001,项目收尾：管理收尾、合同收尾与验收,topic_learning_packages/topics/04_整体管理/T-CLOSE-001_专题学习包_项目收尾管理收尾合同收尾与验收.md,topic package,,,,,,,,,,,,sha256:314c650162652fcbe63b012a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CLOSE-001 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-CLOSE-001_项目收尾：管理收尾、合同收尾与验收,RuankaoTopicCard,管理收尾 vs 合同收尾的核心区别是什么？,管理收尾面向整个项目或阶段；合同收尾面向单个合同和采购关系。,多个合同要分别收尾，但项目管理收尾关注整体关闭。,辨析卡,A,2,上午选择,整体管理,T-CLOSE-001,项目收尾：管理收尾、合同收尾与验收,topic_learning_packages/topics/04_整体管理/T-CLOSE-001_专题学习包_项目收尾管理收尾合同收尾与验收.md,line 1,,,,,,,,,,,,sha256:e5f4e653554589e4fe4ea57c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CLOSE-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-CLOSE-001_项目收尾：管理收尾、合同收尾与验收,RuankaoTopicCard,验收通过后，项目经理还应做哪些收尾动作？,归档项目文件、总结经验教训、释放资源、更新组织过程资产、完成行政关闭。,不要把客户验收当作项目管理工作的全部结束。,案例模板卡,B,3,下午案例,整体管理,T-CLOSE-001,项目收尾：管理收尾、合同收尾与验收,topic_learning_packages/topics/04_整体管理/T-CLOSE-001_专题学习包_项目收尾管理收尾合同收尾与验收.md,topic package,,,,,,,,,,,,sha256:082e150b3e1ba260acd0bc4e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::整体管理 ruankao::exam_use::下午案例 ruankao::importance::B ruankao::topic ruankao::topic::T-CLOSE-001 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-INT-002_项目章程、SOW、项目管理计划与基准体系,RuankaoTopicCard,项目章程 vs 项目管理计划的核心区别是什么？,章程批准项目存在并授权项目经理；项目管理计划说明项目如何执行、监控和控制。,章程由发起人或高层发布；计划由项目经理组织团队制定。,辨析卡,A,2,上午选择,整体管理,T-INT-002,项目章程、SOW、项目管理计划与基准体系,topic_learning_packages/topics/04_整体管理/T-INT-002_专题学习包_项目章程SOW项目管理计划与基准关系.md,line 1,,,,,,,,,,,,sha256:5cee879ffbca3b3a28cfbd0f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INT-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-INT-002_项目章程、SOW、项目管理计划与基准体系,RuankaoTopicCard,项目章程最关键的考试作用是什么？,正式启动项目，并授权项目经理使用组织资源。,看到“任命项目经理、授权、正式批准项目”优先想到项目章程。,概念卡,A,2,上午选择,整体管理,T-INT-002,项目章程、SOW、项目管理计划与基准体系,topic_learning_packages/topics/04_整体管理/T-INT-002_专题学习包_项目章程SOW项目管理计划与基准关系.md,topic package,,,,,,,,,,,,sha256:7a726f0a20989d7f238dec24,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INT-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-INT-002_项目章程、SOW、项目管理计划与基准体系,RuankaoTopicCard,范围/进度/成本基准需要修改时，应走什么流程？,提出变更请求 → 分析影响 → 走整体变更控制 → 批准后更新相应基准和计划。,不能由项目经理口头或单方面直接改基准。,流程卡,A,3,上午选择,整体管理,T-INT-002,项目章程、SOW、项目管理计划与基准体系,topic_learning_packages/topics/04_整体管理/T-INT-002_专题学习包_项目章程SOW项目管理计划与基准关系.md,line 3,,,,,,,,,,,,sha256:73036534fb63e6d7be20da8e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INT-002 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-INT-004_整体变更控制与_CCB,RuankaoTopicCard,项目出现变更请求时，项目经理应按什么流程处理？,记录变更请求 → 分析对范围、进度、成本、质量和风险的影响 → 提交变更控制流程/CCB → 批准后更新计划和基准 → 通知并跟踪执行。,题干若出现“客户临时要求”“口头同意”，常考是否绕过变更控制。,流程卡,A,3,下午案例,整体管理,T-INT-004,整体变更控制与 CCB,topic_learning_packages/topics/04_整体管理/T-INT-004_专题学习包_整体变更控制与CCB.md,topic package,,,,,,,,,,,,sha256:4dcb9dbfda04d62686754b4f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::整体管理 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-INT-004 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-INT-004_整体变更控制与_CCB,RuankaoTopicCard,纠正措施、预防措施和缺陷补救的区别是什么？,纠正措施把已偏离的绩效拉回计划；预防措施防止未来偏离；缺陷补救修复不合格产品组件。,过程偏差看纠正/预防；产品缺陷看缺陷补救。,辨析卡,A,3,上午选择,整体管理,T-INT-004,整体变更控制与 CCB,topic_learning_packages/topics/04_整体管理/T-INT-004_专题学习包_整体变更控制与CCB.md,topic package,,,,,,,,,,,,sha256:4642a7a67aab4bf07d0ffc91,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INT-004 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::整体管理::T-INT-004_整体变更控制与_CCB,RuankaoTopicCard,题干出现哪些信号时，应想到 CCB 或整体变更控制？,影响基准、范围调整、成本/进度变化、客户新增需求、批准或拒绝变更。,CCB 不一定亲自实施变更，核心职责是评审和批准/否决变更。,关键词识别卡,A,3,上午选择,整体管理,T-INT-004,整体变更控制与 CCB,topic_learning_packages/topics/04_整体管理/T-INT-004_专题学习包_整体变更控制与CCB.md,topic package,,,,,,,,,,,,sha256:3b6b99af37559418ecee0c9c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INT-004 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::范围管理::T-SCOPE-002_WBS、工作包、WBS_字典与范围基准,RuankaoTopicCard,WBS 的核心特征是什么？,以可交付成果为导向，把项目范围逐层分解到可管理的工作包。,WBS 不是活动清单，也不是组织结构图。,概念卡,A,2,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,topic_learning_packages/topics/05_范围管理/T-SCOPE-002_专题学习包_WBS工作包WBS字典与范围基准.md,line 1,,,,,,,,,,,,sha256:6a426284c7efa1b8477bf448,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCOPE-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::范围管理::T-SCOPE-002_WBS、工作包、WBS_字典与范围基准,RuankaoTopicCard,范围基准由哪三部分组成？,项目范围说明书、WBS、WBS 字典。,题干问“批准的范围基准”时，不要只答 WBS。,概念卡,A,2,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,topic_learning_packages/topics/05_范围管理/T-SCOPE-002_专题学习包_WBS工作包WBS字典与范围基准.md,topic package,,,,,,,,,,,,sha256:58e17633482f492dd691d7f5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCOPE-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::范围管理::T-SCOPE-002_WBS、工作包、WBS_字典与范围基准,RuankaoTopicCard,WBS vs 活动清单的核心区别是什么？,WBS 说明要交付什么；活动清单说明为完成交付物要做哪些活动。,可交付成果导向是 WBS；动词化任务更像活动清单。,辨析卡,A,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,topic_learning_packages/topics/05_范围管理/T-SCOPE-002_专题学习包_WBS工作包WBS字典与范围基准.md,line 1,,,,,,,,,,,,sha256:b175b1f82df9358d439e02ad,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCOPE-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::进度管理::T-SCH-002_活动排序、依赖关系、PDM_AOA_与提前滞后量,RuankaoTopicCard,PDM 与 AOA/ADM 的核心区别是什么？,PDM 用节点表示活动、箭线表示逻辑关系；AOA/ADM 用箭线表示活动、节点表示事件。,软考常用“节点表示活动”作为 PDM 的识别信号。,辨析卡,A,2,上午选择,进度管理,T-SCH-002,活动排序、依赖关系、PDM/AOA 与提前滞后量,topic_learning_packages/topics/06_进度管理/T-SCH-002_专题学习包_活动排序依赖关系PDM_AOA与提前滞后量.md,line 1,,,,,,,,,,,,sha256:897f99694a654b2cc42f9c44,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::进度管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCH-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::进度管理::T-SCH-002_活动排序、依赖关系、PDM_AOA_与提前滞后量,RuankaoTopicCard,虚活动的作用是什么？,在双代号网络图中表达逻辑关系，本身不消耗时间和资源。,看到“虚箭线、无持续时间、只表示依赖”应想到虚活动。,概念卡,A,2,上午选择,进度管理,T-SCH-002,活动排序、依赖关系、PDM/AOA 与提前滞后量,topic_learning_packages/topics/06_进度管理/T-SCH-002_专题学习包_活动排序依赖关系PDM_AOA与提前滞后量.md,topic package,,,,,,,,,,,,sha256:5914fa36a9801822482f5cd5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::进度管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCH-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::进度管理::T-SCH-002_活动排序、依赖关系、PDM_AOA_与提前滞后量,RuankaoTopicCard,题干出现哪些信号时，应想到快速跟进？,把顺序活动改为并行或部分重叠，后续活动在前置活动未完成时提前开始。,快速跟进主要增加风险和返工；赶工主要增加成本。,关键词识别卡,A,2,上午选择,进度管理,T-SCH-002,活动排序、依赖关系、PDM/AOA 与提前滞后量,topic_learning_packages/topics/06_进度管理/T-SCH-002_专题学习包_活动排序依赖关系PDM_AOA与提前滞后量.md,topic package,,,,,,,,,,,,sha256:4ae9088cc420e20499f0ec0a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::进度管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCH-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::进度管理::T-SCH-003_关键路径、总时差、自由时差与网络图判断,RuankaoTopicCard,关键路径上的总时差通常是多少？,通常为 0；关键路径是决定项目最短工期的一组活动路径。,如果关键路径活动延误，通常会直接影响项目完工日期。,公式卡,A,2,计算题,进度管理,T-SCH-003,关键路径、总时差、自由时差与网络图判断,topic_learning_packages/topics/06_进度管理/T-SCH-003_专题学习包_关键路径总时差自由时差与网络图判断.md,topic package,,,,,,,,,,,,sha256:bf97f3e2b5d689c63f6e1a1d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::进度管理 ruankao::exam_use::计算题 ruankao::formula ruankao::importance::A ruankao::topic ruankao::topic::T-SCH-003 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::进度管理::T-SCH-003_关键路径、总时差、自由时差与网络图判断,RuankaoTopicCard,总时差 vs 自由时差的核心区别是什么？,总时差是不影响项目总工期可延误的时间；自由时差是不影响紧后活动最早开始可延误的时间。,题干问是否影响后续活动，看自由时差；问是否影响总工期，看总时差。,辨析卡,A,3,计算题,进度管理,T-SCH-003,关键路径、总时差、自由时差与网络图判断,topic_learning_packages/topics/06_进度管理/T-SCH-003_专题学习包_关键路径总时差自由时差与网络图判断.md,line 1,,,,,,,,,,,,sha256:9e3f212f9e633277be08c66b,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::进度管理 ruankao::exam_use::计算题 ruankao::importance::A ruankao::topic ruankao::topic::T-SCH-003 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::进度管理::T-SCH-003_关键路径、总时差、自由时差与网络图判断,RuankaoTopicCard,活动 O=4、M=7、P=16，用 PERT 三点估算的期望工期是多少？,期望工期=(O+4M+P)/6=(4+28+16)/6=8。,PERT 常见错法是直接算算术平均。,计算卡,A,3,计算题,进度管理,T-SCH-003,关键路径、总时差、自由时差与网络图判断,topic_learning_packages/topics/06_进度管理/T-SCH-003_专题学习包_关键路径总时差自由时差与网络图判断.md,line 3,,,,,,,,,,,,sha256:51f9197b1304508ae54e55d7,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::进度管理 ruankao::exam_use::计算题 ruankao::importance::A ruankao::topic ruankao::topic::T-SCH-003 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-001_成本估算、成本预算、储备分析与成本基准,RuankaoTopicCard,应急储备 vs 管理储备的核心区别是什么？,应急储备用于已识别风险，通常包含在成本基准中；管理储备用于未知未知风险，通常不包含在成本基准中。,涉及教材口径时以专题待核验项为准；考试重点是二者用途不同。,辨析卡,A,2,上午选择,成本管理,T-COST-001,成本估算、成本预算、储备分析与成本基准,topic_learning_packages/topics/07_成本管理/T-COST-001_专题学习包_成本估算预算储备分析与成本基准.md,line 3,,,,,,,,,,,,sha256:d3c61e0363d8b047f0c0b567,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-COST-001 ruankao::type::辨析卡,80,final,B：待核验内容未隔离
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-001_成本估算、成本预算、储备分析与成本基准,RuankaoTopicCard,自下而上成本估算的基本思路是什么？,先估算工作包或活动成本，再逐层汇总得到更高层级和项目总成本。,适合 WBS 已较清晰时，精度较高但耗时更多。,流程卡,A,2,上午选择,成本管理,T-COST-001,成本估算、成本预算、储备分析与成本基准,topic_learning_packages/topics/07_成本管理/T-COST-001_专题学习包_成本估算预算储备分析与成本基准.md,topic package,,,,,,,,,,,,sha256:7606dcadd9f56f135d679c63,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-COST-001 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-001_成本估算、成本预算、储备分析与成本基准,RuankaoTopicCard,成本失控案例通常从哪些方面找原因？,估算不充分、预算未评审、储备不足、范围蔓延、变更未控、采购成本变化、绩效监控不足。,措施要对应原因，不要只写“加强成本管理”。,案例模板卡,A,3,下午案例,成本管理,T-COST-001,成本估算、成本预算、储备分析与成本基准,topic_learning_packages/topics/07_成本管理/T-COST-001_专题学习包_成本估算预算储备分析与成本基准.md,topic package,,,,,,,,,,,,sha256:b3c3cb28b9808c13a43da0a7,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-COST-001 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-001_质量保证、质量控制与质量审计,RuankaoTopicCard,质量保证 QA vs 质量控制 QC 的核心区别是什么？,QA 关注过程是否可靠，常用质量审计和过程分析；QC 关注结果是否合格，常用检查、测试和测量。,QA 属执行过程组，QC 属监控过程组。,辨析卡,A,2,上午选择,质量管理,T-QUAL-001,质量保证、质量控制与质量审计,topic_learning_packages/topics/08_质量管理/T-QUAL-001_专题学习包_质量保证质量控制与质量审计.md,line 1,,,,,,,,,,,,sha256:651042ca53bd355305499546,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::质量管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-001_质量保证、质量控制与质量审计,RuankaoTopicCard,质量 vs 等级的核心区别是什么？,质量是满足要求的程度；等级是同一用途对象按技术特性划分的类别或档次。,低等级不一定低质量；低质量一定是问题。,辨析卡,A,2,上午选择,质量管理,T-QUAL-001,质量保证、质量控制与质量审计,topic_learning_packages/topics/08_质量管理/T-QUAL-001_专题学习包_质量保证质量控制与质量审计.md,line 1,,,,,,,,,,,,sha256:b91b335561c06c0d7a51f909,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::质量管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-001_质量保证、质量控制与质量审计,RuankaoTopicCard,质量问题案例应优先检查哪些管理缺口？,质量计划是否评审、QA 是否执行、QC 是否及时、缺陷是否闭环、返工是否受控、验收标准是否明确。,下午案例要把“缺陷爆发”翻译成过程和责任问题。,案例模板卡,A,3,下午案例,质量管理,T-QUAL-001,质量保证、质量控制与质量审计,topic_learning_packages/topics/08_质量管理/T-QUAL-001_专题学习包_质量保证质量控制与质量审计.md,topic package,,,,,,,,,,,,sha256:d7d44aa61939ab88a5fa947b,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::质量管理 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-001 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-002_质量管理七工具、新七工具与质量问题分析,RuankaoTopicCard,题干出现“少数关键原因”时，应想到哪种质量工具？,帕累托图。,帕累托图用于识别导致大多数问题的少数关键原因。,关键词识别卡,A,2,上午选择,质量管理,T-QUAL-002,质量管理七工具、新七工具与质量问题分析,topic_learning_packages/topics/08_质量管理/T-QUAL-002_专题学习包_质量管理七工具新七工具与质量问题分析.md,topic package,,,,,,,,,,,,sha256:78906480d5a652ca77d4e632,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::质量管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-002_质量管理七工具、新七工具与质量问题分析,RuankaoTopicCard,题干出现“分析问题原因结构”时，应想到哪种质量工具？,因果图/鱼骨图。,它用于从人、机、料、法、环等角度分析原因，不是用来排序主要少数。,关键词识别卡,A,2,上午选择,质量管理,T-QUAL-002,质量管理七工具、新七工具与质量问题分析,topic_learning_packages/topics/08_质量管理/T-QUAL-002_专题学习包_质量管理七工具新七工具与质量问题分析.md,topic package,,,,,,,,,,,,sha256:e95279f2c03f778bcf437180,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::质量管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-002_质量管理七工具、新七工具与质量问题分析,RuankaoTopicCard,直方图 vs 帕累托图的核心区别是什么？,直方图看数据分布形态；帕累托图按频数或影响排序找关键少数。,看分布用直方图；找优先改进对象用帕累托图。,辨析卡,A,2,上午选择,质量管理,T-QUAL-002,质量管理七工具、新七工具与质量问题分析,topic_learning_packages/topics/08_质量管理/T-QUAL-002_专题学习包_质量管理七工具新七工具与质量问题分析.md,line 3,,,,,,,,,,,,sha256:c6702c07471f17ad775ead86,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::质量管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-003_质量问题案例模板：缺陷、测试、验收与纠偏,RuankaoTopicCard,质量案例“三问诊断法”是什么？,标准是否明确 → 过程是否保证 → 结果是否控制和纠偏。,把缺陷、测试、验收争议分别落回质量计划、QA、QC 和确认范围。,案例模板卡,A,3,下午案例,质量管理,T-QUAL-003,质量问题案例模板：缺陷、测试、验收与纠偏,topic_learning_packages/topics/08_质量管理/T-QUAL-003_专题学习包_质量问题案例模板缺陷测试验收与纠偏.md,topic package,,,,,,,,,,,,sha256:4f28ee9824faeff34ea81e30,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::质量管理 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-QUAL-003 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::质量管理::T-QUAL-003_质量问题案例模板：缺陷、测试、验收与纠偏,RuankaoTopicCard,发现产品缺陷后，质量管理动作链是什么？,记录缺陷 → 分析原因 → 制定纠正/缺陷补救措施 → 修复和复测 → 更新经验教训。,不要只让开发人员口头修复，缺陷要闭环。,流程卡,B,3,下午案例,质量管理,T-QUAL-003,质量问题案例模板：缺陷、测试、验收与纠偏,topic_learning_packages/topics/08_质量管理/T-QUAL-003_专题学习包_质量问题案例模板缺陷测试验收与纠偏.md,topic package,,,,,,,,,,,,sha256:4f3987be1bc79c6050fd1f34,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::质量管理 ruankao::exam_use::下午案例 ruankao::importance::B ruankao::topic ruankao::topic::T-QUAL-003 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-COM-001_沟通渠道计算与干系人参与管理,RuankaoTopicCard,沟通渠道数公式是什么？,沟通渠道数 = n(n-1)/2。,n 是参与沟通的人数。新增 1 人后，新增渠道数等于原人数。,公式卡,A,2,计算题,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-COM-001_专题学习包_沟通渠道计算与干系人参与管理.md,topic package,,,,,,,,,,,,sha256:5bf8e28ba512f6ae27efc32c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::计算题 ruankao::formula ruankao::importance::A ruankao::topic ruankao::topic::T-COM-001 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-COM-001_沟通渠道计算与干系人参与管理,RuankaoTopicCard,项目团队 8 人，沟通渠道数是多少？若新增 1 人，增加多少条？,8人渠道数=8×7/2=28；9人渠道数=9×8/2=36，增加8条。,常见错法：只把人数加 1，不重新按公式计算。,计算卡,A,2,计算题,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-COM-001_专题学习包_沟通渠道计算与干系人参与管理.md,line 92,,,,,,,,,,,,sha256:5e5f7ea0762f6e0447eb1191,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::计算题 ruankao::importance::A ruankao::topic ruankao::topic::T-COM-001 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-COM-001_沟通渠道计算与干系人参与管理,RuankaoTopicCard,推式沟通、拉式沟通、交互式沟通如何区分？,推式是发送给特定对象；拉式是让对象自行获取；交互式是多方实时双向交流。,会议/电话是交互式；邮件通知是推式；知识库公告常是拉式。,辨析卡,A,2,上午选择,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-COM-001_专题学习包_沟通渠道计算与干系人参与管理.md,topic package,,,,,,,,,,,,sha256:05a4b9220b6aeff75fa3ee5c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-COM-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-HR-001_项目人力资源管理：组织计划、团队建设与团队管理,RuankaoTopicCard,责任分配矩阵 RAM 的作用是什么？,把工作包或活动与责任人/组织单元对应起来，明确谁负责什么。,RACI 是 RAM 的一种表达方式。,概念卡,A,2,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md,line 3,,,,,,,,,,,,sha256:16bfb35ff8d8de71d88be96d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-HR-001 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-HR-001_项目人力资源管理：组织计划、团队建设与团队管理,RuankaoTopicCard,RACI 中 R 和 A 的区别是什么？,R 是实际执行/负责完成工作的人；A 是最终对结果负责并有批准责任的人，通常每项工作 A 唯一。,多个 R 可以并存，但 A 不宜多个。,辨析卡,A,2,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md,line 3,,,,,,,,,,,,sha256:e3f5bb87ae0dca312efa82b6,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-HR-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::人力资源与沟通管理::T-HR-001_项目人力资源管理：组织计划、团队建设与团队管理,RuankaoTopicCard,塔克曼团队发展五阶段的关键词是什么？,形成、震荡、规范、成熟、解散。,冲突集中爆发多在震荡期；效率稳定提升多在规范和成熟期。,关键词识别卡,B,3,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md,line 47,,,,,,,,,,,,sha256:f7018ccf726c8e4429716ca5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::topic ruankao::topic::T-HR-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::干系人与风险管理::T-RISK-001_风险识别、风险登记册与风险应对策略,RuankaoTopicCard,风险 vs 问题的核心区别是什么？,风险是尚未发生的不确定事件；问题是已经发生并正在影响项目的事件。,风险发生后要转入问题日志并执行应对或权变措施。,辨析卡,A,2,上午选择,干系人与风险管理,T-RISK-001,风险识别、风险登记册与风险应对策略,topic_learning_packages/topics/10_干系人与风险管理/T-RISK-001_专题学习包_风险识别风险登记册与风险应对策略.md,line 1,,,,,,,,,,,,sha256:c3e9a7e0eba01845639b7142,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::干系人与风险管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::干系人与风险管理::T-RISK-001_风险识别、风险登记册与风险应对策略,RuankaoTopicCard,风险规避 vs 风险转移的核心区别是什么？,规避是改变计划以消除威胁或其影响；转移是把风险责任或影响转给第三方。,买保险、外包常是转移；取消高风险方案常是规避。,辨析卡,A,2,上午选择,干系人与风险管理,T-RISK-001,风险识别、风险登记册与风险应对策略,topic_learning_packages/topics/10_干系人与风险管理/T-RISK-001_专题学习包_风险识别风险登记册与风险应对策略.md,topic package,,,,,,,,,,,,sha256:828c98f0449321f7fb3f1f13,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::干系人与风险管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::干系人与风险管理::T-RISK-001_风险识别、风险登记册与风险应对策略,RuankaoTopicCard,风险识别后，应在风险登记册中至少记录什么？,风险描述、原因、可能影响、责任人、应对策略、触发条件和状态。,风险登记册是后续定性/定量分析和应对计划的基础。,流程卡,A,3,上午选择,干系人与风险管理,T-RISK-001,风险识别、风险登记册与风险应对策略,topic_learning_packages/topics/10_干系人与风险管理/T-RISK-001_专题学习包_风险识别风险登记册与风险应对策略.md,topic package,,,,,,,,,,,,sha256:ab11f3cc7e22827f8e4ff691,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::干系人与风险管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-001 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::干系人与风险管理::T-RISK-002_定性_定量风险分析、EMV_与决策树,RuankaoTopicCard,EMV 的公式是什么？,EMV = 概率 × 影响金额；多个分支的 EMV 要分别计算后汇总。,EMV 是期望值，不等于最可能结果。,公式卡,A,2,计算题,干系人与风险管理,T-RISK-002,定性/定量风险分析、EMV 与决策树,topic_learning_packages/topics/10_干系人与风险管理/T-RISK-002_专题学习包_定性定量风险分析EMV与决策树.md,line 1,,,,,,,,,,,,sha256:0b801153a4a906f32dae4b0e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::干系人与风险管理 ruankao::exam_use::计算题 ruankao::formula ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::干系人与风险管理::T-RISK-002_定性_定量风险分析、EMV_与决策树,RuankaoTopicCard,定性风险分析 vs 定量风险分析的核心区别是什么？,定性分析用于排序风险优先级；定量分析用数值方法估算风险对目标的影响。,概率影响矩阵常用于定性；EMV、决策树、蒙特卡罗偏定量。,辨析卡,A,2,上午选择,干系人与风险管理,T-RISK-002,定性/定量风险分析、EMV 与决策树,topic_learning_packages/topics/10_干系人与风险管理/T-RISK-002_专题学习包_定性定量风险分析EMV与决策树.md,line 3,,,,,,,,,,,,sha256:adbc969fbb5a97b4621c2fa6,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::干系人与风险管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::干系人与风险管理::T-RISK-002_定性_定量风险分析、EMV_与决策树,RuankaoTopicCard,风险发生概率 30%，一旦发生损失 20 万元，EMV 是多少？,EMV=0.3×(-20)=-6 万元。,收益用正数，损失用负数；决策树比较时要注意符号。,计算卡,A,2,计算题,干系人与风险管理,T-RISK-002,定性/定量风险分析、EMV 与决策树,topic_learning_packages/topics/10_干系人与风险管理/T-RISK-002_专题学习包_定性定量风险分析EMV与决策树.md,line 9,,,,,,,,,,,,sha256:acf8e4cb5682921a042247d5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::干系人与风险管理 ruankao::exam_use::计算题 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::采购与合同管理::T-PROC-001_合同类型、风险分配与采购决策,RuankaoTopicCard,固定总价合同、成本补偿合同、工料合同的风险分配有什么差异？,固定总价合同卖方成本风险较高；成本补偿合同买方成本风险较高；工料合同介于二者之间。,需求明确适合总价；范围不清或研发性强更可能用成本补偿或工料。,辨析卡,A,2,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,topic_learning_packages/topics/11_采购与合同管理/T-PROC-001_专题学习包_合同类型选择与风险分配.md,line 3,,,,,,,,,,,,sha256:568fff12653cabe4ca1aa954,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PROC-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::采购与合同管理::T-PROC-001_合同类型、风险分配与采购决策,RuankaoTopicCard,题干强调“范围清楚、价格固定、卖方承担超支风险”时，应想到哪类合同？,固定总价合同。,若强调按实际成本报销并加费用，通常是成本补偿类合同。,关键词识别卡,A,2,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,topic_learning_packages/topics/11_采购与合同管理/T-PROC-001_专题学习包_合同类型选择与风险分配.md,topic package,,,,,,,,,,,,sha256:f4c00d9dfb81ab560f04c00b,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PROC-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::采购与合同管理::T-PROC-001_合同类型、风险分配与采购决策,RuankaoTopicCard,合同争议案例通常从哪些角度答？,合同范围和验收标准、变更是否批准、索赔时限和证据、付款条件、分包和合同收尾。,先回到合同条款，再判断管理流程是否合规。,案例模板卡,A,3,下午案例,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,topic_learning_packages/topics/11_采购与合同管理/T-PROC-001_专题学习包_合同类型选择与风险分配.md,topic package,,,,,,,,,,,,sha256:f8ee0276499e521060a5d0b3,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-PROC-001 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::采购与合同管理::T-PROC-002_招投标、政府采购与采购流程管理,RuankaoTopicCard,招投标的一般管理链路是什么？,编制招标文件 → 发布招标公告/邀请 → 投标 → 开标 → 评标 → 定标/中标通知 → 签订合同。,具体法定时限和比例属于待核验，不进正式强记卡。,流程卡,A,3,上午选择,采购与合同管理,T-PROC-002,招投标、政府采购与采购流程管理,topic_learning_packages/topics/11_采购与合同管理/T-PROC-002_专题学习包_招投标政府采购与采购流程管理.md,topic package,,,,,,,,,,,,sha256:9e9c01286c62e9b60b402286,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PROC-002 ruankao::type::流程卡,80,final,B：待核验内容未隔离
+软考::系统集成项目管理工程师::专题学习::采购与合同管理::T-PROC-002_招投标、政府采购与采购流程管理,RuankaoTopicCard,投标文件送达考点的核心判断是什么？,以招标文件规定地点和截止时间前“送达”为准，不是寄出时间。,逾期送达通常应拒收或不予接受，具体表述以法规和题干为准。,关键词识别卡,A,2,上午选择,采购与合同管理,T-PROC-002,招投标、政府采购与采购流程管理,topic_learning_packages/topics/11_采购与合同管理/T-PROC-002_专题学习包_招投标政府采购与采购流程管理.md,topic package,,,,,,,,,,,,sha256:755d332b49233bc1574b8577,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-PROC-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::配置变更知识产权与法律法规::T-CFG-001_配置管理：配置项、基线、配置库与版本控制,RuankaoTopicCard,配置基线是什么？,经过正式评审和批准、作为后续变更控制基础的一组配置项状态。,基线建立后不能随意修改，修改应走配置/变更控制。,概念卡,A,2,上午选择,配置变更知识产权与法律法规,T-CFG-001,配置管理：配置项、基线、配置库与版本控制,topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-CFG-001_专题学习包_配置管理配置项基线配置库与版本控制.md,topic package,,,,,,,,,,,,sha256:d77e61d53cce148b6e2f8863,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CFG-001 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::配置变更知识产权与法律法规::T-CFG-001_配置管理：配置项、基线、配置库与版本控制,RuankaoTopicCard,开发库、受控库、产品库的核心区别是什么？,开发库用于开发人员日常修改；受控库保存已受控和评审的配置项；产品库存放可发布或交付的产品版本。,权限和稳定性从开发库到产品库逐步提高。,辨析卡,A,2,上午选择,配置变更知识产权与法律法规,T-CFG-001,配置管理：配置项、基线、配置库与版本控制,topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-CFG-001_专题学习包_配置管理配置项基线配置库与版本控制.md,line 38,,,,,,,,,,,,sha256:9390619c3f45c40e371d9217,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CFG-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::配置变更知识产权与法律法规::T-CFG-001_配置管理：配置项、基线、配置库与版本控制,RuankaoTopicCard,配置管理 vs 变更管理的核心区别是什么？,配置管理管配置项的身份、版本、基线和状态；变更管理管是否允许改变以及如何批准改变。,版本控制、配置审计偏配置；变更请求、CCB 审批偏变更。,辨析卡,A,2,上午选择,配置变更知识产权与法律法规,T-CFG-001,配置管理：配置项、基线、配置库与版本控制,topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-CFG-001_专题学习包_配置管理配置项基线配置库与版本控制.md,line 1,,,,,,,,,,,,sha256:0649d767a6ef2973365a4350,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CFG-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::配置变更知识产权与法律法规::T-LAW-001_法律法规基础、合同法、招投标法与政府采购法考点,RuankaoTopicCard,合同成立 vs 合同生效的核心区别是什么？,成立是当事人意思表示达成一致；生效是合同具备法律效力并能约束当事人。,有些合同成立后还需批准、登记或满足条件才生效。,辨析卡,A,3,上午选择,配置变更知识产权与法律法规,T-LAW-001,法律法规基础、合同法、招投标法与政府采购法考点,topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-LAW-001_专题学习包_法律法规基础合同法招投标法与政府采购法考点.md,line 9,,,,,,,,,,,,sha256:314f11d3e2f10666ce198180,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-LAW-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::配置变更知识产权与法律法规::T-LAW-001_法律法规基础、合同法、招投标法与政府采购法考点,RuankaoTopicCard,GB、GB/T、GB/Z 分别常表示什么？,GB 通常表示国家标准；GB/T 通常表示推荐性国家标准；GB/Z 通常表示国家标准化指导性技术文件。,具体标准版本和现行状态需核验。,关键词识别卡,A,2,上午选择,配置变更知识产权与法律法规,T-LAW-001,法律法规基础、合同法、招投标法与政府采购法考点,topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-LAW-001_专题学习包_法律法规基础合同法招投标法与政府采购法考点.md,topic package,,,,,,,,,,,,sha256:eb261021f3af9774482e307d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-LAW-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::信息系统技术基础::T-INFO-002_企业信息化系统：ERP、CRM、SCM、BI、EAI_辨析,RuankaoTopicCard,ERP、CRM、SCM、BI、EAI 的一句话定位是什么？,ERP 管企业内部资源；CRM 管客户关系；SCM 管供应链协同；BI 做数据分析和决策支持；EAI 做企业应用集成。,题干问“洞察/决策”多是 BI；问“打通应用接口”多是 EAI。,辨析卡,A,2,上午选择,信息系统技术基础,T-INFO-002,企业信息化系统：ERP、CRM、SCM、BI、EAI 辨析,topic_learning_packages/topics/13_信息系统技术基础/T-INFO-002_专题学习包_企业信息化系统ERP_CRM_SCM_BI_EAI辨析.md,line 1,,,,,,,,,,,,sha256:bbaf041fd85283b730d67628,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::信息系统技术基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INFO-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::信息系统技术基础::T-INFO-002_企业信息化系统：ERP、CRM、SCM、BI、EAI_辨析,RuankaoTopicCard,ERP vs CRM 的核心区别是什么？,ERP 关注企业内部资源和业务流程集成；CRM 关注客户信息、销售、服务和营销。,客户满意、客户价值和客户数据多指 CRM。,辨析卡,A,2,上午选择,信息系统技术基础,T-INFO-002,企业信息化系统：ERP、CRM、SCM、BI、EAI 辨析,topic_learning_packages/topics/13_信息系统技术基础/T-INFO-002_专题学习包_企业信息化系统ERP_CRM_SCM_BI_EAI辨析.md,line 1,,,,,,,,,,,,sha256:3794d1b013ab1d37d35ba4e5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::信息系统技术基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INFO-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::信息系统技术基础::T-INFO-002_企业信息化系统：ERP、CRM、SCM、BI、EAI_辨析,RuankaoTopicCard,题干出现哪些信号时，应想到 BI？,数据仓库、OLAP、数据挖掘、商业信息分析、辅助决策、洞察力。,BI 不是直接管理库存或客户服务流程。,关键词识别卡,A,2,上午选择,信息系统技术基础,T-INFO-002,企业信息化系统：ERP、CRM、SCM、BI、EAI 辨析,topic_learning_packages/topics/13_信息系统技术基础/T-INFO-002_专题学习包_企业信息化系统ERP_CRM_SCM_BI_EAI辨析.md,topic package,,,,,,,,,,,,sha256:a70d6be8f07dc77df6788f96,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::信息系统技术基础 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-INFO-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-001_下午案例题通用审题与答题方法,RuankaoTopicCard,下午案例题“三层审题法”是什么？,事实层提取问题事实；管理层映射到知识域和过程；答题层组织原因、影响和措施。,不要直接抄背景，要把事实翻译成管理问题。,案例模板卡,A,3,下午案例,案例分析专题,T-CASE-001,下午案例题通用审题与答题方法,topic_learning_packages/topics/14_案例分析专题/T-CASE-001_专题学习包_下午案例题通用审题与答题方法.md,topic package,,,,,,,,,,,,sha256:5d8c8863737dfdf70b690f2e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-001 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-001_下午案例题通用审题与答题方法,RuankaoTopicCard,案例题写措施时，为什么必须对应原因？,评分通常看措施是否能解决题干暴露的问题；空泛写“加强管理”难以得分。,推荐句式：因为出现 X 问题，所以应采取 Y 管理动作。,案例模板卡,A,3,下午案例,案例分析专题,T-CASE-001,下午案例题通用审题与答题方法,topic_learning_packages/topics/14_案例分析专题/T-CASE-001_专题学习包_下午案例题通用审题与答题方法.md,topic package,,,,,,,,,,,,sha256:9dfb0161f3f36e336ade1489,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-001 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-001_下午案例题通用审题与答题方法,RuankaoTopicCard,案例题中哪些信号常指向变更/范围问题？,客户新增需求、口头承诺、未走审批、需求频繁变化、做了范围外工作、验收争议。,优先联想到范围基准、变更控制和确认范围。,关键词识别卡,A,3,下午案例,案例分析专题,T-CASE-001,下午案例题通用审题与答题方法,topic_learning_packages/topics/14_案例分析专题/T-CASE-001_专题学习包_下午案例题通用审题与答题方法.md,topic package,,,,,,,,,,,,sha256:af55c36dd3db017bd36864d2,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-002_进度延误与成本超支案例专项模板,RuankaoTopicCard,进度延期案例通常从哪些角度分析原因？,估算不准、关键路径未识别、资源能力不足、沟通机制弱、需求变更导致返工、盲目赶工或快速跟进。,措施要结合关键路径、资源优化、变更控制和沟通机制。,案例模板卡,A,3,下午案例,案例分析专题,T-CASE-002,进度延误与成本超支案例专项模板,topic_learning_packages/topics/14_案例分析专题/T-CASE-002_专题学习包_进度延误与成本超支案例专项模板.md,topic package,,,,,,,,,,,,sha256:8576d3abfac80ee2d2200a31,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-002_进度延误与成本超支案例专项模板,RuankaoTopicCard,成本超支案例的答题链是什么？,计算绩效指标 → 判断超支/滞后 → 找范围、采购、返工、资源效率原因 → 提出成本控制和变更控制措施。,不要只写公式，下午题要写管理解释。,案例模板卡,A,3,下午案例,案例分析专题,T-CASE-002,进度延误与成本超支案例专项模板,topic_learning_packages/topics/14_案例分析专题/T-CASE-002_专题学习包_进度延误与成本超支案例专项模板.md,topic package,,,,,,,,,,,,sha256:03df56efe9ef2c1d9002a05e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-003_范围蔓延、变更失控与合同纠纷案例模板,RuankaoTopicCard,范围蔓延案例的典型错误链是什么？,绕过项目经理或流程 → 口头新增需求 → 未分析影响 → 未更新基准 → 工期和成本失控。,答题时落到需求管理、范围基准和整体变更控制。,案例模板卡,A,3,下午案例,案例分析专题,T-CASE-003,范围蔓延、变更失控与合同纠纷案例模板,topic_learning_packages/topics/14_案例分析专题/T-CASE-003_专题学习包_范围蔓延变更失控与合同纠纷案例模板.md,topic package,,,,,,,,,,,,sha256:1976a37fcab7ffd9f5dc1f8a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-003 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-CASE-003_范围蔓延、变更失控与合同纠纷案例模板,RuankaoTopicCard,范围蔓延 vs 合法变更的核心区别是什么？,范围蔓延是未经控制增加范围；合法变更是提出、分析、批准并更新计划/基准后的范围调整。,客户提出新需求不是问题，绕过变更控制才是问题。,辨析卡,A,3,下午案例,案例分析专题,T-CASE-003,范围蔓延、变更失控与合同纠纷案例模板,topic_learning_packages/topics/14_案例分析专题/T-CASE-003_专题学习包_范围蔓延变更失控与合同纠纷案例模板.md,line 1,,,,,,,,,,,,sha256:db92d5d46bcea891f1f1f2fa,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-CASE-003 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-COM-002_沟通管理与干系人冲突案例模板,RuankaoTopicCard,沟通与干系人冲突案例常见根因有哪些？,干系人识别不全、沟通计划缺失、信息发布不及时、反馈确认机制弱、会议纪要和决议缺少记录。,措施应包括识别干系人、制定沟通管理计划、建立确认和升级机制。,案例模板卡,A,3,下午案例,案例分析专题,T-COM-002,沟通管理与干系人冲突案例模板,topic_learning_packages/topics/14_案例分析专题/T-COM-002_专题学习包_沟通管理与干系人冲突案例模板.md,topic package,,,,,,,,,,,,sha256:e2f170c069ecbe1c32c709c4,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-COM-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::案例分析专题::T-COM-002_沟通管理与干系人冲突案例模板,RuankaoTopicCard,题干出现哪些信号时，应想到干系人参与管理？,关键用户不配合、部门冲突、需求方意见变化、满意度低、抵制项目、沟通对象遗漏。,不是所有冲突都先找技术方案，很多是参与和沟通问题。,关键词识别卡,A,3,下午案例,案例分析专题,T-COM-002,沟通管理与干系人冲突案例模板,topic_learning_packages/topics/14_案例分析专题/T-COM-002_专题学习包_沟通管理与干系人冲突案例模板.md,topic package,,,,,,,,,,,,sha256:57b7ad30e9813c29c1a0c696,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::案例分析专题 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-COM-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-ORG-001_组织结构、项目经理权限与_PMO,RuankaoTopicCard,职能型、矩阵型、项目型组织中项目经理权限如何变化？,职能型最低，矩阵型居中，项目型最高。,弱矩阵更接近职能型；强矩阵更接近项目型。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-ORG-001,组织结构、项目经理权限与 PMO,topic_learning_packages/topics/99_综合专题与跨域辨析/T-ORG-001_专题学习包_组织结构项目经理权限与PMO.md,topic package,,,,,,,,,,,,sha256:8d1cf48518a035c556cfce45,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-ORG-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-ORG-001_组织结构、项目经理权限与_PMO,RuankaoTopicCard,PMO vs 项目经理的核心区别是什么？,PMO 关注组织层面的项目管理标准、方法、资源协调和治理；项目经理关注单个项目目标达成。,题干若是跨项目资源、方法论和治理，多指 PMO。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-ORG-001,组织结构、项目经理权限与 PMO,topic_learning_packages/topics/99_综合专题与跨域辨析/T-ORG-001_专题学习包_组织结构项目经理权限与PMO.md,line 1,,,,,,,,,,,,sha256:484e9d9574a52461a3ee479e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-ORG-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-ORG-001_组织结构、项目经理权限与_PMO,RuankaoTopicCard,矩阵型组织最典型的题干信号是什么？,成员同时向职能经理和项目经理汇报，存在双重汇报和资源冲突。,权力大小取决于弱矩阵、平衡矩阵或强矩阵。,关键词识别卡,A,2,上午选择,综合专题与跨域辨析,T-ORG-001,组织结构、项目经理权限与 PMO,topic_learning_packages/topics/99_综合专题与跨域辨析/T-ORG-001_专题学习包_组织结构项目经理权限与PMO.md,topic package,,,,,,,,,,,,sha256:3ebffd554b549153f35b7a60,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-ORG-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-RISK-003_风险、问题、变更与应急措施的跨域辨析,RuankaoTopicCard,风险、问题、变更三者如何区分？,风险是未发生的不确定事件；问题是已发生的影响事项；变更是对已批准基准、计划或交付物的修改请求。,题干先判断事件状态，再决定用风险登记册、问题日志还是变更请求。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-RISK-003,风险、问题、变更与应急措施的跨域辨析,topic_learning_packages/topics/99_综合专题与跨域辨析/T-RISK-003_专题学习包_风险问题变更与应急措施跨域辨析.md,topic package,,,,,,,,,,,,sha256:f15c9e914aee222935526c1c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-003 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-RISK-003_风险、问题、变更与应急措施的跨域辨析,RuankaoTopicCard,已识别风险真正发生后，管理动作链是什么？,确认影响 → 启动应急计划或权变措施 → 更新问题日志和风险登记册 → 必要时提出变更请求 → 沟通干系人。,风险发生后常常会引出问题处理和变更控制。,流程卡,A,3,下午案例,综合专题与跨域辨析,T-RISK-003,风险、问题、变更与应急措施的跨域辨析,topic_learning_packages/topics/99_综合专题与跨域辨析/T-RISK-003_专题学习包_风险问题变更与应急措施跨域辨析.md,topic package,,,,,,,,,,,,sha256:85a29954a62e6baa70099ad5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::下午案例 ruankao::importance::A ruankao::topic ruankao::topic::T-RISK-003 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-SCOPE-003_范围确认、质量控制、验收与测试的边界辨析,RuankaoTopicCard,从测试通过到客户验收，合理顺序是什么？,先控制质量得到核实的可交付成果，再进行确认范围取得客户/干系人的正式验收。,测试通过不等于客户已验收。,流程卡,A,2,上午选择,综合专题与跨域辨析,T-SCOPE-003,范围确认、质量控制、验收与测试的边界辨析,topic_learning_packages/topics/99_综合专题与跨域辨析/T-SCOPE-003_专题学习包_范围确认质量控制验收与测试边界辨析.md,topic package,,,,,,,,,,,,sha256:9b58c1a5feb4ecf1ae23a9cc,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCOPE-003 ruankao::type::流程卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-SCOPE-003_范围确认、质量控制、验收与测试的边界辨析,RuankaoTopicCard,确认范围 vs 控制范围的核心区别是什么？,确认范围是正式验收已完成可交付成果；控制范围是监控范围基准并处理范围偏差。,验收看确认范围；范围蔓延或偏离基准看控制范围。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-SCOPE-003,范围确认、质量控制、验收与测试的边界辨析,topic_learning_packages/topics/99_综合专题与跨域辨析/T-SCOPE-003_专题学习包_范围确认质量控制验收与测试边界辨析.md,line 3,,,,,,,,,,,,sha256:ec3e3ce5cec8555cc853562f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCOPE-003 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::综合专题与跨域辨析::T-SCOPE-003_范围确认、质量控制、验收与测试的边界辨析,RuankaoTopicCard,核实的可交付成果 vs 验收的可交付成果有什么区别？,核实的可交付成果是质量控制后确认合格的成果；验收的可交付成果是客户/干系人正式接受的成果。,前者偏内部质量检查，后者偏外部验收。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-SCOPE-003,范围确认、质量控制、验收与测试的边界辨析,topic_learning_packages/topics/99_综合专题与跨域辨析/T-SCOPE-003_专题学习包_范围确认质量控制验收与测试边界辨析.md,line 140,,,,,,,,,,,,sha256:e0aacc6d08f3346eecd58f03,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-SCOPE-003 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,挣值管理 EVM 试图同时回答哪三个问题？,按计划应该完成多少、实际完成了多少、实际花了多少钱。,对应三个基础量：PV、EV、AC。EVM 的价值是把范围、进度、成本放到同一货币口径下比较。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:919b71d09e40c0c9f12b7301,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,PV（Planned Value）是什么？,计划价值：到某一时点，按计划应该完成工作的预算价值。,关键词是“计划应该”。PV 不看实际完成情况。项目完工时 PV 总额等于 BAC。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:e5618dc19445678d7e2f4f2d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,EV（Earned Value）是什么？,挣值：实际完成工作的预算价值。,EV 不是实际花费，而是“已完成产出按预算值多少钱”。它是 EVM 中最关键也最容易混的量。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:30b785e39802c99969ff0834,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,AC（Actual Cost）是什么？,实际成本：完成与 EV 对应工作实际发生的成本。,AC 来自实际花费，但口径要和 PV/EV 保持一致，比如是否包含间接成本。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:6d16493edbb05a17aa80f80e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,BAC 在挣值管理中表示什么？,完工预算，即项目全部计划工作的总预算。,BAC 是预测 EAC、VAC、TCPI 的基准。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:a4f58f42a3f8457fe028fa68,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,为什么说 EV 是 EVM 的核心？,因为 EV 把实际完成量转换成预算价值，使进度和成本都能用同一口径比较。,进度比较 EV 与 PV；成本比较 EV 与 AC。没有 EV，很多绩效判断不能成立。,概念卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:9a8cd31571628e6d929ebfd3,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SV 和 CV 的单位是什么？,货币单位，如元、万元。,SV/CV 是差值，不是天数或百分比。SPI/CPI 才是无量纲指数。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:83c92784d436924786684dbc,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SPI 和 CPI 的判断阈值是什么？,大于 1 通常表示好，等于 1 符合计划，小于 1 表示差。,SPI < 1 是进度效率低于计划；CPI < 1 是成本效率低于计划。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:d84a74324887b3b28186af24,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,EAC 表示什么？,完工估算：根据当前绩效和假设预测项目完工总成本。,EAC 不是固定公式，公式取决于题干对未来绩效的假设。,概念卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:3d9530bbb2f874e813dd9d1f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,ETC 表示什么？,完工尚需估算：从当前到完工还需要的成本。,常用关系：ETC = EAC - AC。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:4fff983b66c4297bdd78d2a6,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,VAC 表示什么？,完工偏差：预算 BAC 与完工估算 EAC 的差异。,VAC = BAC - EAC。VAC < 0 表示预计超预算。,概念卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:9d5f0336650ab8a1c29258db,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,TCPI 是回顾性指标还是前瞻性指标？,前瞻性指标。,TCPI 表示为了实现 BAC 或 EAC，剩余工作必须达到的成本绩效水平。,概念卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:d65c7dd8b78556e4f3e95f09,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::概念卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SV 的公式、含义和判断规则是什么？,SV = EV - PV。SV > 0 进度提前；SV = 0 符合计划；SV < 0 进度滞后。,例：EV=90，PV=100，则 SV=-10，进度滞后。,公式卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:c0376d64708d1ade3bb4c9da,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,CV 的公式、含义和判断规则是什么？,CV = EV - AC。CV > 0 成本节约；CV = 0 符合预算；CV < 0 成本超支。,例：EV=90，AC=110，则 CV=-20，成本超支。,公式卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:1603c74450c1037216a102f4,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SPI 的公式、含义和判断规则是什么？,SPI = EV / PV。SPI > 1 进度效率高于计划；SPI < 1 进度效率低于计划。,例：EV=80，PV=100，则 SPI=0.8，进度滞后。,公式卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:75b7517724d16991ba09da46,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,CPI 的公式、含义和判断规则是什么？,CPI = EV / AC。CPI > 1 成本效率高；CPI < 1 成本效率低，成本超支。,例：EV=80，AC=100，则 CPI=0.8，每花 1 元只挣得 0.8 元预算价值。,公式卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:8d80566854b4bac3e04d3a31,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,非典型偏差下 EAC 怎么算？,EAC = AC + (BAC - EV)。,题干信号：一次性、偶然、不会再出现、已纠正。例：AC=200，BAC=500，EV=180，则 EAC=520。,公式卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:da5319cec7689fac12873f97,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,典型偏差会延续时 EAC 怎么算？,EAC = BAC / CPI。,题干信号：当前绩效将持续、按目前趋势、没有改善迹象。例：BAC=1000，CPI=0.8，则 EAC=1250。,公式卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:3b7bbeeabe3dcb9ba4d6b9d2,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,重新估算剩余工作时 EAC 怎么算？,EAC = AC + 自下而上重新估算的 ETC。,适用：原估算假设严重失效，需要重新估算剩余工作。,公式卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:62be9494d3a0e012beeeb586,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,ETC 的常用公式是什么？,ETC = EAC - AC。,例：EAC=950，AC=380，则 ETC=570。,公式卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:95f70a8506ca77959f1b8f70,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,VAC 的公式和判断规则是什么？,VAC = BAC - EAC。VAC > 0 预计结余；VAC < 0 预计超预算。,例：BAC=800，EAC=950，则 VAC=-150，预计超预算 150。,公式卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:e7777dde831177146fd14d3b,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,以 BAC 为目标的 TCPI 怎么算？,TCPI = (BAC - EV) / (BAC - AC)。,例：BAC=800，EV=300，AC=360，则 TCPI=500/440≈1.14。,公式卡,A,4,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:eee801fa84ba66131203e25d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::formula ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::公式卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,PV=100，EV=90，AC=110。计算 SV 和 CV，并判断状态。,SV=90-100=-10；CV=90-110=-20。进度滞后，成本超支。,常见错法：把 PV 或 AC 当被减数。记住 EV 永远在前：SV=EV-PV，CV=EV-AC。,计算卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:3f2dd060db9c2851c203a851,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,PV=200，EV=240，AC=220。计算 SPI、CPI，并判断状态。,SPI=240/200=1.2，进度提前；CPI=240/220≈1.09，成本节约。,指数大于 1 通常是好。,计算卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:5090be9fb3ec6141a3f539af,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SPI=0.8，CPI=1.2。如何判断项目状态？,进度滞后，成本节约。,SPI 管进度，CPI 管成本。两者可以一好一坏。,计算卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:b22c6d95fcdbf12298318f16,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,BAC=500，AC=200，EV=180，偏差为一次性且不会再出现。EAC 是多少？,EAC=AC+(BAC-EV)=200+(500-180)=520。,题干“不会再出现”触发非典型偏差公式。,计算卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:c0220d2b0a49a9e8668bfaef,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,BAC=1000，EV=400，AC=500，当前成本绩效将持续。EAC 是多少？,CPI=400/500=0.8；EAC=BAC/CPI=1000/0.8=1250。,题干“将持续”触发典型偏差公式。,计算卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:b4eef44471d4d7d8e1027c95,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,BAC=800，EV=300，AC=360。若仍要按 BAC 完工，TCPI 是多少？,TCPI=(800-300)/(800-360)=500/440≈1.14。,TCPI > 1 表示剩余工作必须比预算效率更高。,计算卡,A,4,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:a114474ec73239dd05ef360b,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,PV=600，EV=540，AC=630，BAC=1200。计算 SPI/CPI 并判断状态。,SPI=540/600=0.9，进度滞后；CPI=540/630≈0.857，成本超支。,如果按当前 CPI 持续，EAC≈1200/0.857≈1400，预计超预算。,计算卡,A,4,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:79925b6f4e3706de94b0336a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,PV=400，EV=320，AC=380。计算 SV、CV、SPI、CPI。,SV=-80；CV=-60；SPI=0.8；CPI≈0.842。,下午案例中还要写文字结论：进度滞后且成本超支。,计算卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:a0bd410eef7dd027c2beff01,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,只给 PV=25 万、AC=28 万，没有 EV。能否判断成本超支？,不能。信息不足。,成本偏差 CV=EV-AC，缺 EV 就不知道完成工作的预算价值。,计算卡,A,3,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:8f50161f24c60aba29c8f3da,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,BAC=800，EAC=950。VAC 是多少？含义是什么？,VAC=800-950=-150，表示预计超预算 150。,VAC 是预测偏差，不是当前偏差。,计算卡,A,2,计算题,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:dfea18386c69a84a2ce5436f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::计算题 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::计算卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,CV 和 SV 的核心区别是什么？,CV 比较 EV 与 AC，判断成本；SV 比较 EV 与 PV，判断进度。,两者都是 EV 在前。CV 的对手是实际花费，SV 的对手是计划价值。,辨析卡,A,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:b0951c4a2f5ce4069c812d1c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,CPI 和 SPI 的核心区别是什么？,CPI=EV/AC 判断成本效率；SPI=EV/PV 判断进度效率。,CPI 看花钱效率，SPI 看完成计划效率。,辨析卡,A,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:7e1243c093ba02f8364a5b8c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,PV、EV、AC 三者分别回答什么问题？,PV：按计划应完成值多少；EV：实际完成值多少；AC：实际花了多少。,不要把 EV 当 AC。EV 是产出价值，AC 是投入成本。,辨析卡,A,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:0c480e6f953878b5dc8a1995,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,成本超支和进度落后一定同时出现吗？,不一定。,可能进度落后但成本节约，也可能进度超前但成本超支。要分别看 CPI/CV 和 SPI/SV。,辨析卡,A,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:b21101b12f6ee21ff618535d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SV < 0 是否表示项目延误了具体多少天？,不是。SV 的单位是货币，表示完成的预算价值低于计划值。,要判断关键路径和具体工期，还需结合进度网络。,辨析卡,A,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:5db896c59d2f7a787c3b5ad0,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,SPI > 1 是否保证项目一定按期或提前完工？,不保证。,SPI 是总体工作量效率，不专门测关键路径。关键路径活动仍可能延误。,辨析卡,A,4,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:c5b6ec5c81c1d098f6cc673a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,典型偏差和非典型偏差如何区分？,典型偏差会持续影响后续；非典型偏差是一次性、偶然、已解决。,典型常用 EAC=BAC/CPI；非典型常用 EAC=AC+(BAC-EV)。,辨析卡,A,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:8355cb356df075fb6c8f9668,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,EAC 和 ETC 的区别是什么？,EAC 是预计完工总成本；ETC 是从现在到完工还需要的成本。,ETC=EAC-AC。,辨析卡,A,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:bbb49d6b1c96ffa6fb85ae08,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,VAC 和 CV 的区别是什么？,CV 是当前成本偏差；VAC 是完工时预计偏差。,CV=EV-AC，VAC=BAC-EAC。一个看当前，一个看预测。,辨析卡,A,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:d95fd9857b24386af82bd2b8,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,为什么只有 PV 和 AC 不能判断绩效？,因为缺少 EV，不知道实际完成工作的预算价值。,没有 EV，就无法计算 SV、CV、SPI、CPI。,辨析卡,A,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:33a4659e2c6069c33e12fd3e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::A ruankao::topic ruankao::topic::T-COST-002 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,下午案例中给出 PV、EV、AC，答题第一步写什么？,先列公式并计算 SV、CV、SPI、CPI。,然后用文字判断：进度提前/滞后、成本节约/超支。不要只写数字。,案例模板卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:0aee20b8aae0cde73fb1917a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,案例题中如何判断“成本超支”？,优先看 CV<0 或 CPI<1。,表达模板：CV 为负、CPI 小于 1，说明实际花费超过已完成工作的预算价值，项目成本超支。,案例模板卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:e99db65b2e8da0e5b9c9cc14,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,案例题中如何判断“进度落后”？,优先看 SV<0 或 SPI<1。,表达模板：SV 为负、SPI 小于 1，说明实际完成工作的预算价值低于计划值，项目进度落后。,案例模板卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:29b44ebc575e1f6f1f043ef0,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,挣值案例题的完整答题链是什么？,计算指标 → 判断状态 → 预测 EAC/ETC/VAC → 分析原因 → 提出措施。,措施要对应原因，例如范围蔓延走变更控制，效率低做资源优化，关键路径延误考虑赶工/快速跟进。,案例模板卡,B,4,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:991c4824997f54360eea4298,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,成本控制措施题应从哪些方面组织答案？,影响成本基准变更因素、确保变更获批、监督绩效、记录偏差、防止未批准变更、通知干系人、采取纠偏措施。,用自己的话写也可以，但要具体，避免只写“加强成本管理”。,案例模板卡,B,4,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:8e6c1bd36b573701cec70e86,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,EVM 指标如何回到管理动作？,先判断偏差方向，再追根因，最后选择进度、成本、范围、变更和沟通措施。,例：SPI<1 可查关键路径和资源效率；CPI<1 可查返工、采购成本、范围蔓延。,案例模板卡,B,4,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:126514ddb5764baf744d6b70,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::4 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::案例模板卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：AC 大于 PV 是否一定成本超支？,不一定。,成本是否超支看 EV 与 AC，不是 PV 与 AC。缺 EV 时无法判断。,关键词识别卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:cb645159d666e05f8a83e96d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：CPI < 1 的含义是什么？,成本超支或成本效率低。,不要理解成“完成了 1%”。CPI 是 EV/AC。,关键词识别卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:879267e3bc70ff954033fcb1,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：SPI < 1 的含义是什么？,进度滞后或进度效率低。,SPI 是 EV/PV，不是实际工期/计划工期。,关键词识别卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:8e9c1e699edc615c75931348,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：CV/SV 和 CPI/SPI 的量纲有什么不同？,CV/SV 是货币差值；CPI/SPI 是无量纲指数。,差值看绝对偏差，指数看效率比例。,关键词识别卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:46465f76c12aa662fddcd159,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：EV 是否等于实际成本？,不等于。EV 是实际完成工作的预算价值；AC 才是实际成本。,这是挣值题最常见坑。,关键词识别卡,B,2,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:48b3596de2653efc5362bf2a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::2 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：EAC 公式是不是固定只有一个？,不是。,EAC 取决于未来绩效假设：非典型、典型、重新估算、同时考虑进度成本等。,关键词识别卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:15474a05374e5e10fedb65be,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::专题学习::成本管理::T-COST-002_挣值管理与成本绩效分析,RuankaoTopicCard,陷阱：计算完 EVM 指标，案例题是否就答完了？,没有。,下午案例还要写状态判断、原因分析、预测和管理措施。只写公式通常不够。,关键词识别卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,anki_pilot/T-COST-002/cards.csv,golden pilot card,,,,,,,,,,,,sha256:8a5320db5773a1dd2012442d,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::golden_sample ruankao::importance::B ruankao::topic ruankao::topic::T-COST-002 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2019下半年上午 第 4 题】CRM系统是基于方法学、软件和互联网的以有组织的方式帮助企业管理客户关系的信息系统。(4)准确地说明了CRM的定位。
+A. CRM在注重提高客户的满意度的同时，一定要把帮助企业提高获取利润的能力作为重要指标
+B. CRM有一个统一的以客户为中心的数据库，以方便对客户信息进行全方位的统一管理
+C. CRM能够提供销售、客户服务和营销三个业务的自动化工具，具有整合各种客户联系渠道的能力
+D. CRM系统应该具有良好的可扩展性和可复用性，并把客户数据可以分为描述性、促销性和交易性数据三大类",答案：B,"解析：软件复用是指利用已有软件的各种有关知识构造新的软件，以缩减软件开发和维护的费用。在软件生命周期中，能准确地确定软件系统必须做什么和必须具备哪些功能的阶段是(11)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：CRM
+关联专题：T-INFO-002 企业信息化系统：ERP、CRM、SCM、BI、EAI 辨析
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息系统技术基础,T-INFO-002,企业信息化系统：ERP、CRM、SCM、BI、EAI 辨析,questions.full.clean.md,2019下半年上午 第 4 题 / line 80,2019-下半年-上午-4,2019,下半年,上午,4,CRM系统是基于方法学、软件和互联网的以有组织的方式帮助企业管理客户关系的信息系统。(4)准确地说明了CRM的定位。,"A. CRM在注重提高客户的满意度的同时，一定要把帮助企业提高获取利润的能力作为重要指标
+B. CRM有一个统一的以客户为中心的数据库，以方便对客户信息进行全方位的统一管理
+C. CRM能够提供销售、客户服务和营销三个业务的自动化工具，具有整合各种客户联系渠道的能力
+D. CRM系统应该具有良好的可扩展性和可复用性，并把客户数据可以分为描述性、促销性和交易性数据三大类",B,软件复用是指利用已有软件的各种有关知识构造新的软件，以缩减软件开发和维护的费用。在软件生命周期中，能准确地确定软件系统必须做什么和必须具备哪些功能的阶段是(11),自动解析未逐项展开；保留原选项供刷题排除。,CRM,sha256:0c25e02356bca4ca9562bb06,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息系统技术基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 33 题】以下关于投标文件送达的叙述，(33)是错误的。
+A. 投标人必须按照招标文件规定的地点、在规定的时间内送达投标文件
+B. 投递投标书的方式最好是直接送达或委托代理人送达，以便获得招标机构已收到投标书的回执
+C. 如果以邮寄方式送达的，投标人应保证投标文件能够在截止日期之前投递即可
+D. 招标人收到标书以后应当签收，在开标前不得开启",答案：B,"解析：应该用责任分配矩阵RAM，因此正确选项是""B.矩阵图""。 一些公司为了满足公司员工社会交往的需要会经常组织一些聚会和社会活动，还为没有住房的员工提供住处。这种激励员工的理论属于(41)。 A. 赫茨伯格的双因素理论 B. 马斯洛需要层次理论 C. 期望理论 D. X理论和Y理论
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 33 题 / line 424,未知-未知-上午-33,未知,未知,上午,33,以下关于投标文件送达的叙述，(33)是错误的。,"A. 投标人必须按照招标文件规定的地点、在规定的时间内送达投标文件
+B. 投递投标书的方式最好是直接送达或委托代理人送达，以便获得招标机构已收到投标书的回执
+C. 如果以邮寄方式送达的，投标人应保证投标文件能够在截止日期之前投递即可
+D. 招标人收到标书以后应当签收，在开标前不得开启",B,"应该用责任分配矩阵RAM，因此正确选项是""B.矩阵图""。 一些公司为了满足公司员工社会交往的需要会经常组织一些聚会和社会活动，还为没有住房的员工提供住处。这种激励员工的理论属于(41)。 A. 赫茨伯格的双因素理论 B. 马斯洛需要层次理论 C. 期望理论 D. X理论和Y理论",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:ac39fa94331ab34af0d570be,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 1 题】以下对信息系统集成的描述正确的是(1)。
+A. 信息系统集成的根本出发点是实现各个分立子系统的整合
+B. 信息系统集成的最终交付物是若干分立的产品
+C. 信息系统集成的核心是软件
+D. 先进技术是信息系统集成项目成功实施的保障",答案：C,"解析：2003年10月当时的信息产业部颁布了《关于发布计算机信息系统集成资质等级评定条件(修订版)的通知》(信部规[2003]440号文)，该440号文规定了对企业的系统集成资质进行认证的办法。企业的系统集成资质等级评定主要从综合条件、业绩、管理能力、技术实力、人才实力五个方面来考核。 如果要申报一级资质的话，对其""管理能力""的要求中有一条是：已建立质量管理体系，通过认证并运行一年以上，详情请参阅《系统集成项目管理工程师备考指南与习题详解》P20. 答案是：A 下面关于计算机信息系统集成资质的论述，(3)是不正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 1 题 / line 1226,未知-未知-上午-1,未知,未知,上午,1,以下对信息系统集成的描述正确的是(1)。,"A. 信息系统集成的根本出发点是实现各个分立子系统的整合
+B. 信息系统集成的最终交付物是若干分立的产品
+C. 信息系统集成的核心是软件
+D. 先进技术是信息系统集成项目成功实施的保障",C,"2003年10月当时的信息产业部颁布了《关于发布计算机信息系统集成资质等级评定条件(修订版)的通知》(信部规[2003]440号文)，该440号文规定了对企业的系统集成资质进行认证的办法。企业的系统集成资质等级评定主要从综合条件、业绩、管理能力、技术实力、人才实力五个方面来考核。 如果要申报一级资质的话，对其""管理能力""的要求中有一条是：已建立质量管理体系，通过认证并运行一年以上，详情请参阅《系统集成项目管理工程师备考指南与习题详解》P20. 答案是：A 下面关于计算机信息系统集成资质的论述，(3)是不正确的",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:2c774a4542ed769b8da3cec4,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 3 题】下面关于计算机信息系统集成资质的论述，(3)是不正确的。
+A. 工业和信息化部对计算机信息系统集成认证工作进行行业管理
+B. 申请三、四级资质的单位应向经政府信息产业主管部门批准的资质认证机构提出认证申请
+C. 申请一、二级资质的单位应直接向工业和信息化部资质管理办公室提出认证申请
+D. 通过资质认证审批的各单位将获得由工业和信息化部统一印制的资质证书",答案：C,"解析：答案是""C.更加容易部署和升级维护"" ·中间件是位于硬件、操作系统等平台和应用之间的通用服务。(8)位于客户和服务器之间，负责负载均衡、失效恢复等任务，以提高系统的整体性能。 A. 数据库访问中间件 B. 面向消息中间件 C. 分布式对象中间件 D. 事务中间件
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 3 题 / line 1267,未知-未知-上午-3,未知,未知,上午,3,下面关于计算机信息系统集成资质的论述，(3)是不正确的。,"A. 工业和信息化部对计算机信息系统集成认证工作进行行业管理
+B. 申请三、四级资质的单位应向经政府信息产业主管部门批准的资质认证机构提出认证申请
+C. 申请一、二级资质的单位应直接向工业和信息化部资质管理办公室提出认证申请
+D. 通过资质认证审批的各单位将获得由工业和信息化部统一印制的资质证书",C,"答案是""C.更加容易部署和升级维护"" ·中间件是位于硬件、操作系统等平台和应用之间的通用服务。(8)位于客户和服务器之间，负责负载均衡、失效恢复等任务，以提高系统的整体性能。 A. 数据库访问中间件 B. 面向消息中间件 C. 分布式对象中间件 D. 事务中间件",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:d07a8e586febb9f853d04b73,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 9 题】以下关于软件测试的描述，(9)是正确的。
+A. 系统测试应尽可能在实际运行使用环境下进行
+B. 软件测试是在编码阶段完成之后进行的一项活动
+C. 专业测试人员通常采用白盒测试法检查程序的功能是否符合用户需求
+D. 软件测试工作的好坏，取决于测试发现错误的数量",答案：A,"解析：答案是""A.系统测试应尽可能在实际运行使用环境下进行""。 系统测试是基于系统整体需求说明书的黑盒类测试，应覆盖系统所有联合的部件。系统测试是针对整个产品系统进行的测试，目的是验证系统是否满足了需求规格的定义，找出与需求规格不相符合或与之矛盾的地方。 系统测试的对象不仅仅包括需要测试的产品系统的软件，还要包含软件所依赖的硬件、外设甚至包括某些数据、某些支持软件及其接口等。因此，必须将系统中的软件与各种依赖的资源结合起来，在系统实际运行环境下来进行测试。 软件测试活动不仅包含对代码、对设计、对功能、对需求的测试，也包
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：测试
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 9 题 / line 1353,未知-未知-上午-9,未知,未知,上午,9,以下关于软件测试的描述，(9)是正确的。,"A. 系统测试应尽可能在实际运行使用环境下进行
+B. 软件测试是在编码阶段完成之后进行的一项活动
+C. 专业测试人员通常采用白盒测试法检查程序的功能是否符合用户需求
+D. 软件测试工作的好坏，取决于测试发现错误的数量",A,"答案是""A.系统测试应尽可能在实际运行使用环境下进行""。 系统测试是基于系统整体需求说明书的黑盒类测试，应覆盖系统所有联合的部件。系统测试是针对整个产品系统进行的测试，目的是验证系统是否满足了需求规格的定义，找出与需求规格不相符合或与之矛盾的地方。 系统测试的对象不仅仅包括需要测试的产品系统的软件，还要包含软件所依赖的硬件、外设甚至包括某些数据、某些支持软件及其接口等。因此，必须将系统中的软件与各种依赖的资源结合起来，在系统实际运行环境下来进行测试。 软件测试活动不仅包含对代码、对设计、对功能、对需求的测试，也包",自动解析未逐项展开；保留原选项供刷题排除。,测试,sha256:5e1870417ece6db557b411c5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 10 题】·软件的质量是指(10)。
+A. 软件的功能性、可靠性、易用性、效率、可维护性、可移植性
+B. 软件的功能和性能
+C. 用户需求的满意度
+D. 数据结构重构",答案：D,"解析：通常产品设计过程是一个从设计到产品的过程，即设计人员首先在大脑中构思产品的外形、性能和大致的技术参数等，然后在详细设计阶段完成各类数据模型，最终将这个模型转入到研发流程中，完成产品的整个设计研发周期。这就是""正向设计""过程。 而逆向工程，又名反向工程(Reverse Engineering-RE)，则是一个从产品到设计的过程，就是根据已经存在的产品，反向推出产品设计数据(包括各类设计图或数据模型)的过程。早期的船舶工业中常用的船体放样设计就是逆向工程的很好实例。 在软件开发行业，基于某个软件，以反汇编阅读源码的方
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 10 题 / line 1372,未知-未知-上午-10,未知,未知,上午,10,·软件的质量是指(10)。,"A. 软件的功能性、可靠性、易用性、效率、可维护性、可移植性
+B. 软件的功能和性能
+C. 用户需求的满意度
+D. 数据结构重构",D,"通常产品设计过程是一个从设计到产品的过程，即设计人员首先在大脑中构思产品的外形、性能和大致的技术参数等，然后在详细设计阶段完成各类数据模型，最终将这个模型转入到研发流程中，完成产品的整个设计研发周期。这就是""正向设计""过程。 而逆向工程，又名反向工程(Reverse Engineering-RE)，则是一个从产品到设计的过程，就是根据已经存在的产品，反向推出产品设计数据(包括各类设计图或数据模型)的过程。早期的船舶工业中常用的船体放样设计就是逆向工程的很好实例。 在软件开发行业，基于某个软件，以反汇编阅读源码的方",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:c19a84c8e25b2af39baf3660,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 15 题】·W公司想要对本单位的内部网络和办公系统进行改造，希望通过招标选择承建商，为此， W公司进行了一系列活动。以下(15)活动不符合《中华人民共和国招标投标法》的要求。
+A. 对此项目的承建方和监理方的招标工作，W公司计划由同一家招标代理机构负责招标，并计划在同一天开标
+B. W公司根据此项目的特点和需要编制了招标文件，并确定了提交投标文件的截止日期
+C. 有四家公司参加了投标，其中一家投标单位在截止日期之后提交投标文件，W公司认为其违反了招标文件要求，没有接受该投标单位的投标文件
+D. W公司根据招标文件的要求，在三家投标单位中选择了其中一家作为此项目的承建商，并只将结果通知了中标企业。",答案：D,"解析：根据《中华人民共和国招标投标法》第四十五条的如下规定： 中标人确定后，招标人应当向中标人发出中标通知书，并同时将中标结果通知所有未中标的投标人。 可知，选项D是不符合招标投标法要求的。 以下采用单一来源采购方式的活动，(16)是不恰当的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 15 题 / line 1445,未知-未知-上午-15,未知,未知,上午,15,·W公司想要对本单位的内部网络和办公系统进行改造，希望通过招标选择承建商，为此， W公司进行了一系列活动。以下(15)活动不符合《中华人民共和国招标投标法》的要求。,"A. 对此项目的承建方和监理方的招标工作，W公司计划由同一家招标代理机构负责招标，并计划在同一天开标
+B. W公司根据此项目的特点和需要编制了招标文件，并确定了提交投标文件的截止日期
+C. 有四家公司参加了投标，其中一家投标单位在截止日期之后提交投标文件，W公司认为其违反了招标文件要求，没有接受该投标单位的投标文件
+D. W公司根据招标文件的要求，在三家投标单位中选择了其中一家作为此项目的承建商，并只将结果通知了中标企业。",D,根据《中华人民共和国招标投标法》第四十五条的如下规定： 中标人确定后，招标人应当向中标人发出中标通知书，并同时将中标结果通知所有未中标的投标人。 可知，选项D是不符合招标投标法要求的。 以下采用单一来源采购方式的活动，(16)是不恰当的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:ae63bb68a85bb0cf3f9e26e5,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 16 题】以下采用单一来源采购方式的活动，(16)是不恰当的。
+A. 某政府部门为建立内部办公系统，已从一个供应商采购了120万元的网络设备，由于办公地点扩大，打算继续从原供应商采购15万元的设备
+B. 某地区发生自然灾害，当地民政部门需要紧急采购一批救灾物资
+C. 某地方主管部门需要采购一种市政设施，目前此种设施国内仅有一家厂商生产
+D. 某政府机关为升级其内部办公系统，与原承建商签订了系统维护合同解析 根据《中华人民共和国政府采购法》的如下条款： 第三十一条符合下列情形之一的货物或者服务，可以依照本法采用单一来源方式采购： (一)只能从唯一供应商处采购的； (二)发生了不可预见的紧急情况不能从其他供应商处采购的； (三)必须保证原有采购项目一致性或者服务配套的要求，需要继续从原供应商处添购，且添购资金总额不超过原合同采购金额百分之十的。 可知本题的选项A是不恰当的。 为了解决C/S模式中客户机负荷过重的问题，软件架构发展形成了(17)模式。",答案：C,"解析：客户机/服务器(Client/Server， C/S)模式将应用一分为二，服务器(后台)负责数据管理，客户机(前台)完成与用户的交互任务。C/S模式具有强大的数据操作和事务处理能力，模型思想简单，但随着企业规模的日益扩大，软件的复杂程度不断提高，传统的二层C/S模式的缺点日益突出： ①客户机与服务器的通讯依赖于网络，可能成为整个系统运作的瓶颈：客户机的负荷过重，难以管理大量的客户机，系统的性能受到很大影响： ②如果服务器及其界面定义有改变，则客户机也要做相应改变： ③0二层C/S模式采用单一服务器且以局域网为中心
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：合同
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 16 题 / line 1462,未知-未知-上午-16,未知,未知,上午,16,以下采用单一来源采购方式的活动，(16)是不恰当的。,"A. 某政府部门为建立内部办公系统，已从一个供应商采购了120万元的网络设备，由于办公地点扩大，打算继续从原供应商采购15万元的设备
+B. 某地区发生自然灾害，当地民政部门需要紧急采购一批救灾物资
+C. 某地方主管部门需要采购一种市政设施，目前此种设施国内仅有一家厂商生产
+D. 某政府机关为升级其内部办公系统，与原承建商签订了系统维护合同解析 根据《中华人民共和国政府采购法》的如下条款： 第三十一条符合下列情形之一的货物或者服务，可以依照本法采用单一来源方式采购： (一)只能从唯一供应商处采购的； (二)发生了不可预见的紧急情况不能从其他供应商处采购的； (三)必须保证原有采购项目一致性或者服务配套的要求，需要继续从原供应商处添购，且添购资金总额不超过原合同采购金额百分之十的。 可知本题的选项A是不恰当的。 为了解决C/S模式中客户机负荷过重的问题，软件架构发展形成了(17)模式。",C,客户机/服务器(Client/Server， C/S)模式将应用一分为二，服务器(后台)负责数据管理，客户机(前台)完成与用户的交互任务。C/S模式具有强大的数据操作和事务处理能力，模型思想简单，但随着企业规模的日益扩大，软件的复杂程度不断提高，传统的二层C/S模式的缺点日益突出： ①客户机与服务器的通讯依赖于网络，可能成为整个系统运作的瓶颈：客户机的负荷过重，难以管理大量的客户机，系统的性能受到很大影响： ②如果服务器及其界面定义有改变，则客户机也要做相应改变： ③0二层C/S模式采用单一服务器且以局域网为中心,自动解析未逐项展开；保留原选项供刷题排除。,合同,sha256:839fe53ed17657c8b5468c9e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 18 题】小王在公司局域网中用Delphi编写了客户端应用程序，其后台数据库使用MS NT4+SQL Server，应用程序通过ODBC连接到后台数据库。此处的ODBC是(18)。
+A. 中间件
+B. WEB Service
+C. COM构件
+D. WEB容器",答案：D,"解析：通信行业标准《大楼通信综合布线系统》YD/T926)的适用范围是跨越距离不超过3000米、建筑总面积不超过100万平方米的布线区域，区域内的人员为50人至5万人。 答案是""D.3000""。 根据《电子信息系统机房设计规范》，(22)的叙述是错误的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 18 题 / line 1503,未知-未知-上午-18,未知,未知,上午,18,小王在公司局域网中用Delphi编写了客户端应用程序，其后台数据库使用MS NT4+SQL Server，应用程序通过ODBC连接到后台数据库。此处的ODBC是(18)。,"A. 中间件
+B. WEB Service
+C. COM构件
+D. WEB容器",D,"通信行业标准《大楼通信综合布线系统》YD/T926)的适用范围是跨越距离不超过3000米、建筑总面积不超过100万平方米的布线区域，区域内的人员为50人至5万人。 答案是""D.3000""。 根据《电子信息系统机房设计规范》，(22)的叙述是错误的",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:5c973b171ad028ae02ecbb14,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 22 题】根据《电子信息系统机房设计规范》，(22)的叙述是错误的。
+A. 某机房内面积为125 平方米，共设置了三个安全出口
+B. 机房内所有设备的金属外壳、各类金属管道、金属线槽、建筑物金属结构等必须进行等电位联结并接地
+C. 机房内的照明线路宜穿钢管暗敷或在吊顶内穿钢管明敷
+D. 为了保证通风，A级电子信息系统机房应设置外窗",答案：D,"解析：答案是选项C。 以下关于计算机机房与设施安全管理的要求，(25)是不正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 22 题 / line 1557,未知-未知-上午-22,未知,未知,上午,22,根据《电子信息系统机房设计规范》，(22)的叙述是错误的。,"A. 某机房内面积为125 平方米，共设置了三个安全出口
+B. 机房内所有设备的金属外壳、各类金属管道、金属线槽、建筑物金属结构等必须进行等电位联结并接地
+C. 机房内的照明线路宜穿钢管暗敷或在吊顶内穿钢管明敷
+D. 为了保证通风，A级电子信息系统机房应设置外窗",D,答案是选项C。 以下关于计算机机房与设施安全管理的要求，(25)是不正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:7801efb3f8710ac79c720834,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 29 题】以下关于J2EE应用服务器运行环境的叙述中，(29)是正确的。
+A. 容器是构件的运行环境
+B. 构件是应用服务器提供的各种功能接口
+C. 构件可以与系统资源进行交互
+D. 服务是表示应用逻辑的代码",答案：A,"解析：J2EE应用服务器运行环境包括构件(Component) 、容器(Container)及服务(Services)三部分。构件是表示应用逻辑的代码：容器是构件的运行环境：服务则是应用服务器提供的各种功能接口，可以同系统资源进行交互。 答案是选项A。 以下关于数据仓库与数据库的叙述中，(30)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 29 题 / line 1659,未知-未知-上午-29,未知,未知,上午,29,以下关于J2EE应用服务器运行环境的叙述中，(29)是正确的。,"A. 容器是构件的运行环境
+B. 构件是应用服务器提供的各种功能接口
+C. 构件可以与系统资源进行交互
+D. 服务是表示应用逻辑的代码",A,J2EE应用服务器运行环境包括构件(Component) 、容器(Container)及服务(Services)三部分。构件是表示应用逻辑的代码：容器是构件的运行环境：服务则是应用服务器提供的各种功能接口，可以同系统资源进行交互。 答案是选项A。 以下关于数据仓库与数据库的叙述中，(30)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:886d2c080e9a04e7d5488660,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 30 题】以下关于数据仓库与数据库的叙述中，(30)是正确的。
+A. 数据仓库的数据高度结构化、复杂、适合操作计算；而数据库的数据结构比较简单，适合分析
+B. 数据仓库的数据是历史的、归档的、处理过的数据：数据库的数据反映当前的数据
+C. 数据仓库中的数据使用频率较高：数据库中的数据使用频率较低
+D. 数据仓库中的数据是动态变化的，可以直接更新：数据库中的数据是静态的，不能直接更新",答案：B,"解析：数据库技术以数据库为中心， 进行事务处理、批处理、决策分析等各种数据处理工作，主要有操作型处理和分析型处理两类。操作型数据库系统主要强调的是优化企业的日常事务处理工作，难以实现对数据分析处理要求，无法满足数据处理多样化的要求。从而进化出分析型的数据仓库技术。 数据仓库(Data Warehouse) 是一个面向主题的(Subject Oriented) 、集成的、相对稳定的、反映历史变化的数据集合，用于支持管理决策。 与操作型数据库相比，数据仓库的主要特点有面向主题、集成、相对稳定和反映历史变化。操作型数据库中的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 30 题 / line 1675,未知-未知-上午-30,未知,未知,上午,30,以下关于数据仓库与数据库的叙述中，(30)是正确的。,"A. 数据仓库的数据高度结构化、复杂、适合操作计算；而数据库的数据结构比较简单，适合分析
+B. 数据仓库的数据是历史的、归档的、处理过的数据：数据库的数据反映当前的数据
+C. 数据仓库中的数据使用频率较高：数据库中的数据使用频率较低
+D. 数据仓库中的数据是动态变化的，可以直接更新：数据库中的数据是静态的，不能直接更新",B,数据库技术以数据库为中心， 进行事务处理、批处理、决策分析等各种数据处理工作，主要有操作型处理和分析型处理两类。操作型数据库系统主要强调的是优化企业的日常事务处理工作，难以实现对数据分析处理要求，无法满足数据处理多样化的要求。从而进化出分析型的数据仓库技术。 数据仓库(Data Warehouse) 是一个面向主题的(Subject Oriented) 、集成的、相对稳定的、反映历史变化的数据集合，用于支持管理决策。 与操作型数据库相比，数据仓库的主要特点有面向主题、集成、相对稳定和反映历史变化。操作型数据库中的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:d1411b7f6fdff6de3d594cd8,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 32 题】在编制项目管理计划时，项目经理应遵循编制原则和要求，使项目计划符合项目实际管理的需要。以下关于项目管理计划的叙述中，(32)是不正确的。
+A. 应由项目经理独立进行编制
+B. 可以是概括的
+C. 项目管理计划可以逐步精确
+D. 让干系人参与项目计划的编制",答案：A,"解析：预防措施是为降低项目风险的可能性而提出的建议。 该指令属于选项C。 在项目管理中，采取(34)方法，对项目进度计划实施进行全过程监督和控制是经济和合理的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：干系人
+关联专题：T-COM-001 沟通渠道计算与干系人参与管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,questions.full.clean.md,未知未知上午 第 32 题 / line 1709,未知-未知-上午-32,未知,未知,上午,32,在编制项目管理计划时，项目经理应遵循编制原则和要求，使项目计划符合项目实际管理的需要。以下关于项目管理计划的叙述中，(32)是不正确的。,"A. 应由项目经理独立进行编制
+B. 可以是概括的
+C. 项目管理计划可以逐步精确
+D. 让干系人参与项目计划的编制",A,预防措施是为降低项目风险的可能性而提出的建议。 该指令属于选项C。 在项目管理中，采取(34)方法，对项目进度计划实施进行全过程监督和控制是经济和合理的,自动解析未逐项展开；保留原选项供刷题排除。,干系人,sha256:e5c8f36cc3f82e68c95b00be,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COM-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 34 题】在项目管理中，采取(34)方法，对项目进度计划实施进行全过程监督和控制是经济和合理的。
+A. 会议评审和 MONTE CARLO 分析
+B. 项目月报和旁站
+C. 进度报告和旁站
+D. 挣值管理和会议评审",答案：D,"解析：挣值管理方法提供了一种基于过去的实施结果来预测未来绩效的手段，是对项目进度进行全过程监控的方法之一。 状态评审会议是预先规定的定期进行的交流有关项目信息的事件，例如项目管理组每周的内部例会、每月和客户的例会等。 项目组通过定期召开项目状态评审会议，对项目的重要问题进行专门的讨论。它能突出一些重要项目文件提供的信息，迫使人们正视项目的进展，从而为自己的工作负责。 选项D是对进度进行监控的恰当手段之一。 一项新的国家标准出台，某项目经理意识到新标准中的某些规定将导致其目前负责的一个项目必须重新设定一项技术指标，该项目
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-COST-002 挣值管理与成本绩效分析
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,questions.full.clean.md,未知未知上午 第 34 题 / line 1751,未知-未知-上午-34,未知,未知,上午,34,在项目管理中，采取(34)方法，对项目进度计划实施进行全过程监督和控制是经济和合理的。,"A. 会议评审和 MONTE CARLO 分析
+B. 项目月报和旁站
+C. 进度报告和旁站
+D. 挣值管理和会议评审",D,挣值管理方法提供了一种基于过去的实施结果来预测未来绩效的手段，是对项目进度进行全过程监控的方法之一。 状态评审会议是预先规定的定期进行的交流有关项目信息的事件，例如项目管理组每周的内部例会、每月和客户的例会等。 项目组通过定期召开项目状态评审会议，对项目的重要问题进行专门的讨论。它能突出一些重要项目文件提供的信息，迫使人们正视项目的进展，从而为自己的工作负责。 选项D是对进度进行监控的恰当手段之一。 一项新的国家标准出台，某项目经理意识到新标准中的某些规定将导致其目前负责的一个项目必须重新设定一项技术指标，该项目,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:ea992f1079918008bbc7d35b,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COST-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 40 题】某软件开发项目的实际进度已经大幅滞后于计划进度，(40)能够较为有效地缩短活动工期。
+A. 请经验丰富的老程序员进行技术指导或协助完成工作
+B. 要求项目组成员每天加班2~3个小时进行赶工
+C. 招聘一批新的程序员到项目组中
+D. 购买最新版本的软件开发工具",答案：C,"解析：发布项目章程后，接着就要对项目进行初步分解，明确项目范围了。通过题干可知""依据该章程等项目资料编制了由项目目标、可交付成果、项目边界及成本和质量测量指标等内容组成的""""C.范围说明书""为正确选项。 下面关于项目范围确认描述，(42)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-SCH-003 关键路径、总时差、自由时差与网络图判断
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,进度管理,T-SCH-003,关键路径、总时差、自由时差与网络图判断,questions.full.clean.md,未知未知上午 第 40 题 / line 1860,未知-未知-上午-40,未知,未知,上午,40,某软件开发项目的实际进度已经大幅滞后于计划进度，(40)能够较为有效地缩短活动工期。,"A. 请经验丰富的老程序员进行技术指导或协助完成工作
+B. 要求项目组成员每天加班2~3个小时进行赶工
+C. 招聘一批新的程序员到项目组中
+D. 购买最新版本的软件开发工具",C,"发布项目章程后，接着就要对项目进行初步分解，明确项目范围了。通过题干可知""依据该章程等项目资料编制了由项目目标、可交付成果、项目边界及成本和质量测量指标等内容组成的""""C.范围说明书""为正确选项。 下面关于项目范围确认描述，(42)是正确的",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:3bfb7fe08c60fe5746ff2df7,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::进度管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCH-003 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 42 题】下面关于项目范围确认描述，(42)是正确的。
+A. 范围确认是一项对项目范围说明书进行评审的活动
+B. 范围确认活动通常由项目组和质量管理员参与执行即可
+C. 范围确认过程中可能会产生变更申请
+D. 范围确认属于一项质量控制活动",答案：C,"解析：范围确认是客户等项目干系人正式验收并接受已完成的项目可交付物的过程，范围确认过程中可能产生的变更申请，例如对缺陷的修复要求。 该题正确选项为""C.范围确认过程中可能会产生变更申请""。 下列关于资源平衡的描述中，(43)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 42 题 / line 1883,未知-未知-上午-42,未知,未知,上午,42,下面关于项目范围确认描述，(42)是正确的。,"A. 范围确认是一项对项目范围说明书进行评审的活动
+B. 范围确认活动通常由项目组和质量管理员参与执行即可
+C. 范围确认过程中可能会产生变更申请
+D. 范围确认属于一项质量控制活动",C,"范围确认是客户等项目干系人正式验收并接受已完成的项目可交付物的过程，范围确认过程中可能产生的变更申请，例如对缺陷的修复要求。 该题正确选项为""C.范围确认过程中可能会产生变更申请""。 下列关于资源平衡的描述中，(43)是正确的",自动解析未逐项展开；保留原选项供刷题排除。,变更,sha256:5a578f903f1eea3f8336155c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 43 题】下列关于资源平衡的描述中，(43)是正确的。
+A. 资源平衡通常用于已经利用关键链法分析过的进度模型之中
+B. 进行资源平衡的前提是不能改变原关键路线
+C. 使用按资源分配倒排进度法不一定能制定出最优项目进度表
+D. 资源平衡的结果通常是使项目的预计持续时间比项目初步进度表短",答案：C,"解析：很明显，该题正确选项为""D.间接成本""
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 43 题 / line 1898,未知-未知-上午-43,未知,未知,上午,43,下列关于资源平衡的描述中，(43)是正确的。,"A. 资源平衡通常用于已经利用关键链法分析过的进度模型之中
+B. 进行资源平衡的前提是不能改变原关键路线
+C. 使用按资源分配倒排进度法不一定能制定出最优项目进度表
+D. 资源平衡的结果通常是使项目的预计持续时间比项目初步进度表短",C,"很明显，该题正确选项为""D.间接成本""",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:9f0d24a18bc3a6aedb2d1c1f,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2010下半年上午 第 1 题】以下(1)不属于系统集成项目。
+A. 不包含网络设备供货的局域网综合布线项目
+B. 某信息管理应用系统升级项目
+C. 某软件测试实验室为客户提供的测试服务项目
+D. 某省通信骨干网的优化设计项目",答案：A,"解析：根据《系统集成项目管理工程师教程》第81页的定义，所谓系统集成项目，是指将计算机软件、硬件、网络通信等技术和产品集成为能够满足用户特定需求信息系统，包括总体策划、设计、开发、实施、服务及保障。系统集成主要包括设备系统集成和应用系统集成。 因此选项A和B属于系统集成项目。如果选项D中的通信骨干网的优化设计项目范围不仅包括设计也包括实施的话，选项D也是系统集成项目。 选项C中的""某软件测试实验室为客户提供的测试服务项目""提供的是服务，是一种服务型项目。该项目完成的是白盒测试、或黑盒测试、或确认测试， 该题的选项是C
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：测试
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,2010下半年上午 第 1 题 / line 2721,2010-下半年-上午-1,2010,下半年,上午,1,以下(1)不属于系统集成项目。,"A. 不包含网络设备供货的局域网综合布线项目
+B. 某信息管理应用系统升级项目
+C. 某软件测试实验室为客户提供的测试服务项目
+D. 某省通信骨干网的优化设计项目",A,"根据《系统集成项目管理工程师教程》第81页的定义，所谓系统集成项目，是指将计算机软件、硬件、网络通信等技术和产品集成为能够满足用户特定需求信息系统，包括总体策划、设计、开发、实施、服务及保障。系统集成主要包括设备系统集成和应用系统集成。 因此选项A和B属于系统集成项目。如果选项D中的通信骨干网的优化设计项目范围不仅包括设计也包括实施的话，选项D也是系统集成项目。 选项C中的""某软件测试实验室为客户提供的测试服务项目""提供的是服务，是一种服务型项目。该项目完成的是白盒测试、或黑盒测试、或确认测试， 该题的选项是C",自动解析未逐项展开；保留原选项供刷题排除。,测试,sha256:5bbd296fd85e261390f812e8,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2010下半年上午 第 9 题】程序员小张在某项目中编写了源代码文件X的0.1版(以下简称Xv0.1) 。随后的开发中小张又修改了Xv0. 1，得到文件X的1.0版(以下简称Xv1.0)。经过正式评审后，Xv1.0被纳入基线进行配置管理。下列后续活动中符合配置管理要求的是(9)。
+A. 文件Xv1.0进入基线后，配置管理员小李从配置库中删除了文件Xv0.1
+B. 程序员小张被赋予相应的权限，可以直接读取受控库中的文件Xv1.0
+C. 小张直接对Xv1.0进行了变更，之后通知了项目经理
+D. 经过变更申请、变更评估并决定实施变更后，变更实施人完成了变更，随后立即发布了变更，在第一时间内将变更内容和结果通知所有相关人员",答案：D,"解析：该题的选项是B。根据是教程P410，所有配置项的操作权限应由CMO(配置管理员)严格管理，基本原则是：基线配置项向软件开发人员开放读取的权限；非基线配置项可以向PM、 CCB及相关人员开放。很明显，对受控库中的配置项的访问是需要授权的。 根据教程P415-P416，变更控制的步骤为变更申请、变更评估、变更实施、变更验证与确认、变更发布。选项D错的原因是变更实施后应变更验证与确认，而不是立即发布变更。 <!-- DOCMIND_CHUNK_END: questions_pages_001_050 --> <!--
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更、配置、基线
+关联专题：T-CFG-001 配置管理：配置项、基线、配置库与版本控制
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,配置变更知识产权与法律法规,T-CFG-001,配置管理：配置项、基线、配置库与版本控制,questions.full.clean.md,2010下半年上午 第 9 题 / line 2832,2010-下半年-上午-9,2010,下半年,上午,9,程序员小张在某项目中编写了源代码文件X的0.1版(以下简称Xv0.1) 。随后的开发中小张又修改了Xv0. 1，得到文件X的1.0版(以下简称Xv1.0)。经过正式评审后，Xv1.0被纳入基线进行配置管理。下列后续活动中符合配置管理要求的是(9)。,"A. 文件Xv1.0进入基线后，配置管理员小李从配置库中删除了文件Xv0.1
+B. 程序员小张被赋予相应的权限，可以直接读取受控库中的文件Xv1.0
+C. 小张直接对Xv1.0进行了变更，之后通知了项目经理
+D. 经过变更申请、变更评估并决定实施变更后，变更实施人完成了变更，随后立即发布了变更，在第一时间内将变更内容和结果通知所有相关人员",D,该题的选项是B。根据是教程P410，所有配置项的操作权限应由CMO(配置管理员)严格管理，基本原则是：基线配置项向软件开发人员开放读取的权限；非基线配置项可以向PM、 CCB及相关人员开放。很明显，对受控库中的配置项的访问是需要授权的。 根据教程P415-P416，变更控制的步骤为变更申请、变更评估、变更实施、变更验证与确认、变更发布。选项D错的原因是变更实施后应变更验证与确认，而不是立即发布变更。 <!-- DOCMIND_CHUNK_END: questions_pages_001_050 --> <!--,自动解析未逐项展开；保留原选项供刷题排除。,变更、配置、基线,sha256:61d6add83ab6bc64c03f29e2,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CFG-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 29 题】以下关于.NET架构和J2EE架构的叙述中，(29)是正确的。
+A. .NET只适用于 Windows操作系统平台上的软件开发
+B. J2EE只适用于非Windows操作系统平台上的软件开发
+C. .NET不支持Java语言编程
+D. J2EE中的ASP.NET采用编译方式运行",答案：B,"解析：该题的选项是D 关于计算机机房安全保护方案的设计，以下说法错误的是(32)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 29 题 / line 3235,未知-未知-上午-29,未知,未知,上午,29,以下关于.NET架构和J2EE架构的叙述中，(29)是正确的。,"A. .NET只适用于 Windows操作系统平台上的软件开发
+B. J2EE只适用于非Windows操作系统平台上的软件开发
+C. .NET不支持Java语言编程
+D. J2EE中的ASP.NET采用编译方式运行",B,该题的选项是D 关于计算机机房安全保护方案的设计，以下说法错误的是(32),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:045c5d9962416ce992c21a61,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2011上半年上午 第 18 题】在Linux、Unix和苹果的Mac OS操作系统中，系统集成工程师可使用(18)来构建用C、C++和Java等语言编写的软件。
+A. GCC
+B. VisualStudio.NET
+C. Project
+D. Visio",答案：A,"解析：GCC是由GNU之父Stallman所开发的linux下及Unix-like系统下的编译器，全称为GNU Compiler Collection，是开源的。目前GCC可以编译的语言包括：C， C++， Objective-C，Fortran， Java. and Ada. 正确选项是""A. GCC""。 按照分布范围对网络进行划分，北京到上海之间的网络属于(19)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-COST-002 挣值管理与成本绩效分析
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,questions.full.clean.md,2011上半年上午 第 18 题 / line 4943,2011-上半年-上午-18,2011,上半年,上午,18,在Linux、Unix和苹果的Mac OS操作系统中，系统集成工程师可使用(18)来构建用C、C++和Java等语言编写的软件。,"A. GCC
+B. VisualStudio.NET
+C. Project
+D. Visio",A,"GCC是由GNU之父Stallman所开发的linux下及Unix-like系统下的编译器，全称为GNU Compiler Collection，是开源的。目前GCC可以编译的语言包括：C， C++， Objective-C，Fortran， Java. and Ada. 正确选项是""A. GCC""。 按照分布范围对网络进行划分，北京到上海之间的网络属于(19)",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:357499cad32f3448de0f2020,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COST-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 21 题】某公司拟配置存储容量不少于9TB的磁盘阵列用于存储数据。假设只能购买每块存储容量为2TB的磁盘，以下说法正确的是(21)。
+A. 如果配置RAID5的磁盘阵列，需要购买6块磁盘。在使用过程中当任何一块磁盘出现故障时，数据的完整性不受影响
+B. 如果配置RAIDO的磁盘阵列，需要购买5块磁盘，在使用过程中当任何一块磁盘出现故障时，数据的完整性不受影响
+C. 如果配置RAID0+1的磁盘阵列，需要购买7块磁盘，在使用过程中当任何两块磁盘出现故障时，数据的完整性不受影响
+D. 如果配置RAID1+0的磁盘阵列，需要购买9块磁盘，在使用过程中当任何两块磁盘出现故障时，数据的完整性不受影响",答案：A,"解析：RAID(Redundant Arrays of Independent Disks，独立冗余磁盘阵列)是把数据分割成几部分，同时写在不同的磁盘上以提高访问磁盘的速度，必要时也可以增加冗余磁盘作校验盘或镜像盘。通过磁盘阵列与数据条带化方法相结合，以提高数据可用性的一种结构，当时的RAID是""Redundant Array of Inexpensive Disks(廉价冗余磁盘阵列)""的缩写，但在技术上基本一致。 RAID技术级别包括0、1、2、3、4、5、6、10、30、50等，其中最常用的是0、1、5三个级别，
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：配置
+关联专题：T-CFG-001 配置管理：配置项、基线、配置库与版本控制
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,配置变更知识产权与法律法规,T-CFG-001,配置管理：配置项、基线、配置库与版本控制,questions.full.clean.md,未知未知上午 第 21 题 / line 4984,未知-未知-上午-21,未知,未知,上午,21,某公司拟配置存储容量不少于9TB的磁盘阵列用于存储数据。假设只能购买每块存储容量为2TB的磁盘，以下说法正确的是(21)。,"A. 如果配置RAID5的磁盘阵列，需要购买6块磁盘。在使用过程中当任何一块磁盘出现故障时，数据的完整性不受影响
+B. 如果配置RAIDO的磁盘阵列，需要购买5块磁盘，在使用过程中当任何一块磁盘出现故障时，数据的完整性不受影响
+C. 如果配置RAID0+1的磁盘阵列，需要购买7块磁盘，在使用过程中当任何两块磁盘出现故障时，数据的完整性不受影响
+D. 如果配置RAID1+0的磁盘阵列，需要购买9块磁盘，在使用过程中当任何两块磁盘出现故障时，数据的完整性不受影响",A,"RAID(Redundant Arrays of Independent Disks，独立冗余磁盘阵列)是把数据分割成几部分，同时写在不同的磁盘上以提高访问磁盘的速度，必要时也可以增加冗余磁盘作校验盘或镜像盘。通过磁盘阵列与数据条带化方法相结合，以提高数据可用性的一种结构，当时的RAID是""Redundant Array of Inexpensive Disks(廉价冗余磁盘阵列)""的缩写，但在技术上基本一致。 RAID技术级别包括0、1、2、3、4、5、6、10、30、50等，其中最常用的是0、1、5三个级别，",自动解析未逐项展开；保留原选项供刷题排除。,配置,sha256:cd0c6cd310b63e5463e7da16,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CFG-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 22 题】综合布线系统是楼宇和园区范围内，在统一的传输介质上建立的可以连接电话、计算机、会议电视和监视电视等设备的结构化信息传输系统。根据EIA/TIA-568A标准，(22)中列出的各项全部属于综合布线系统的子系统。
+A. 建筑群子系统、独立建筑子系统、设备间子系统
+B. 设备间子系统、工作区子系统、管理子系统
+C. 垂直干线子系统、水平子系统、交叉布线子系统
+D. 建筑群子系统、设备间子系统、交叉布线子系统",答案：B,"解析：EIA/TIA-568A中把综合布线系统分为6个子系统：建筑群子系统、设备间子系统、垂直干线子系统、管理子系统、水平子系统和工作区子系统 本题的正确选项是B。 针对以下情况(23)，能够依据《大楼通信布线系统》D/T926进行综合布线
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-COM-001 沟通渠道计算与干系人参与管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,questions.full.clean.md,未知未知上午 第 22 题 / line 5013,未知-未知-上午-22,未知,未知,上午,22,综合布线系统是楼宇和园区范围内，在统一的传输介质上建立的可以连接电话、计算机、会议电视和监视电视等设备的结构化信息传输系统。根据EIA/TIA-568A标准，(22)中列出的各项全部属于综合布线系统的子系统。,"A. 建筑群子系统、独立建筑子系统、设备间子系统
+B. 设备间子系统、工作区子系统、管理子系统
+C. 垂直干线子系统、水平子系统、交叉布线子系统
+D. 建筑群子系统、设备间子系统、交叉布线子系统",B,EIA/TIA-568A中把综合布线系统分为6个子系统：建筑群子系统、设备间子系统、垂直干线子系统、管理子系统、水平子系统和工作区子系统 本题的正确选项是B。 针对以下情况(23)，能够依据《大楼通信布线系统》D/T926进行综合布线,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:ba4646b5992875900b5f02cb,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COM-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 23 题】针对以下情况(23)，能够依据《大楼通信布线系统》D/T926进行综合布线。
+A. 大楼跨越距离2500米，建筑总面积80万平方米，区域人员20万人
+B. 大楼跨越距离3500米，建筑总面积80万平方米，区域人员20万人
+C. 大楼跨越距离1500米，建筑总面积60万平方米，区域人员60万人
+D. 大楼跨越距离2500米，建筑总面积40万平方米，区域人员4万人",答案：D,"解析：JMS：Java消息服务，提供企业级消息服务的标准接口； JDBC：Java数据库连接技术，提供访问数据库的标准接口； RMI-IIOP：提供应用程序的通信接口。 EJB：实现应用中关键的业务逻辑，创建基于构件的企业级应用程序。EJB在应用服务器的EJB容器内运行，由容器提供所有基本的中间层服务，如事务管理、安全、远程客户连接、生命周期管理和数据库连接缓冲等； 本题的正确选项是D。 假设ICBCA_ACCOUNT和CBCA ACCOUNT是用计算机语言定义的两个不同的类。前者代表工商银行账户，后者代表建设银行账户
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 23 题 / line 5028,未知-未知-上午-23,未知,未知,上午,23,针对以下情况(23)，能够依据《大楼通信布线系统》D/T926进行综合布线。,"A. 大楼跨越距离2500米，建筑总面积80万平方米，区域人员20万人
+B. 大楼跨越距离3500米，建筑总面积80万平方米，区域人员20万人
+C. 大楼跨越距离1500米，建筑总面积60万平方米，区域人员60万人
+D. 大楼跨越距离2500米，建筑总面积40万平方米，区域人员4万人",D,JMS：Java消息服务，提供企业级消息服务的标准接口； JDBC：Java数据库连接技术，提供访问数据库的标准接口； RMI-IIOP：提供应用程序的通信接口。 EJB：实现应用中关键的业务逻辑，创建基于构件的企业级应用程序。EJB在应用服务器的EJB容器内运行，由容器提供所有基本的中间层服务，如事务管理、安全、远程客户连接、生命周期管理和数据库连接缓冲等； 本题的正确选项是D。 假设ICBCA_ACCOUNT和CBCA ACCOUNT是用计算机语言定义的两个不同的类。前者代表工商银行账户，后者代表建设银行账户,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:45cca8e10f5bcf6365876da2,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 26 题】假设ICBCA_ACCOUNT和CBCA ACCOUNT是用计算机语言定义的两个不同的类。前者代表工商银行账户，后者代表建设银行账户。ZhangSan ICBCAccount t和LiSi_ICBCAccount是用ICBCA ACCOUNT 类定义的两个对象：ZhangSan_CBCAccount 是用CBCA_ACCOUNT 类定义的一个对象。下列说法中错误的是(26)。
+A. ZhangSan_ICBCAccount是ICBCA_ACCOUNT类的一个实例
+B. ZhangSan_ICBCAccount和LiSi_ICBCAccount总具有相同的属性
+C. ZhangSan_ICBCAccount和LiSi_ICBCAccount总具有相同的状态
+D. ZhangSan_CBCAccount和LiSi_ICBCAccount总具有不同的操作",答案：C,"解析：A是活动图，B是用例图，C是部署图，D是顺序图。 因此，本题的正确选项是C。 下列做法符合《招投标法》相关规定的是(28)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-COST-002 挣值管理与成本绩效分析
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,成本管理,T-COST-002,挣值管理与成本绩效分析,questions.full.clean.md,未知未知上午 第 26 题 / line 5068,未知-未知-上午-26,未知,未知,上午,26,假设ICBCA_ACCOUNT和CBCA ACCOUNT是用计算机语言定义的两个不同的类。前者代表工商银行账户，后者代表建设银行账户。ZhangSan ICBCAccount t和LiSi_ICBCAccount是用ICBCA ACCOUNT 类定义的两个对象：ZhangSan_CBCAccount 是用CBCA_ACCOUNT 类定义的一个对象。下列说法中错误的是(26)。,"A. ZhangSan_ICBCAccount是ICBCA_ACCOUNT类的一个实例
+B. ZhangSan_ICBCAccount和LiSi_ICBCAccount总具有相同的属性
+C. ZhangSan_ICBCAccount和LiSi_ICBCAccount总具有相同的状态
+D. ZhangSan_CBCAccount和LiSi_ICBCAccount总具有不同的操作",C,A是活动图，B是用例图，C是部署图，D是顺序图。 因此，本题的正确选项是C。 下列做法符合《招投标法》相关规定的是(28),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:cd0b7671d9c79f1689402ab3,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::成本管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COST-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 28 题】下列做法符合《招投标法》相关规定的是(28)。
+A. 某项目的招标文件中详细介绍了招标人的名称和地址、招标项目的性质、数量、实施地点和时间、评标委员会组成名单以及获取招标文件的办法等事项
+B. 投标监督员有权对标书的密封情况进行检查，投标人之间也可以相互检查标书的密封情况
+C. 某项目在截止时间前仅收到了两份投标文件，招标人直至收到第三份投标文件后才宣布开标
+D. 某企业在中标之后，将主体工程分为三个部分，并将其中两个部分分别承包给其他单位解析 这题容易啊，正确选项是B。 甲乙两个公司在项目实施过程中，对合同的生效时间产生了分歧。仲裁机构调查时发现以下事实：①双方签署的合同上并没有对合同的生效日期做出规定：②双方签署合同的过程如下：乙公司在拟定好合同文本并签署后以邮寄的方式寄给甲公司，信封上盖有乙公司所在地邮局3月18日的邮戳，甲公司于3月20日收到合同文本，甲公司签署合同后，将合同回寄给乙公司，信封带有甲公司所在地3月22日的邮戳，乙公司于3月25日收到合同。仲裁机构应判定(29)作为合同生效的日期。",答案：B,"解析：""信封上盖有乙公司所在地邮局3月18日的邮戳""表示了乙方的承诺日期，""信封带有甲公司所在地3月22日的邮戳"" 表示了甲方的承诺日期。 因此，本题的正确选项是""C.3月22日""。 2011年1月28日国务院印发《国务院关于印发进一步鼓励软件产业和集成电路产业发展的若干政策的通知》(国发〔2011)4号，以下简称""国发4号文件"")。其中，第二十八条内容如下： ""进一步推进软件正版化工作，探索建立长效机制。凡在我国境内销售的计算机(大型计算机、服务器、微型计算机和笔记本电脑)所预装软件必须为正版软件，禁止预装非正版软件
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：合同
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 28 题 / line 5092,未知-未知-上午-28,未知,未知,上午,28,下列做法符合《招投标法》相关规定的是(28)。,"A. 某项目的招标文件中详细介绍了招标人的名称和地址、招标项目的性质、数量、实施地点和时间、评标委员会组成名单以及获取招标文件的办法等事项
+B. 投标监督员有权对标书的密封情况进行检查，投标人之间也可以相互检查标书的密封情况
+C. 某项目在截止时间前仅收到了两份投标文件，招标人直至收到第三份投标文件后才宣布开标
+D. 某企业在中标之后，将主体工程分为三个部分，并将其中两个部分分别承包给其他单位解析 这题容易啊，正确选项是B。 甲乙两个公司在项目实施过程中，对合同的生效时间产生了分歧。仲裁机构调查时发现以下事实：①双方签署的合同上并没有对合同的生效日期做出规定：②双方签署合同的过程如下：乙公司在拟定好合同文本并签署后以邮寄的方式寄给甲公司，信封上盖有乙公司所在地邮局3月18日的邮戳，甲公司于3月20日收到合同文本，甲公司签署合同后，将合同回寄给乙公司，信封带有甲公司所在地3月22日的邮戳，乙公司于3月25日收到合同。仲裁机构应判定(29)作为合同生效的日期。",B,"""信封上盖有乙公司所在地邮局3月18日的邮戳""表示了乙方的承诺日期，""信封带有甲公司所在地3月22日的邮戳"" 表示了甲方的承诺日期。 因此，本题的正确选项是""C.3月22日""。 2011年1月28日国务院印发《国务院关于印发进一步鼓励软件产业和集成电路产业发展的若干政策的通知》(国发〔2011)4号，以下简称""国发4号文件"")。其中，第二十八条内容如下： ""进一步推进软件正版化工作，探索建立长效机制。凡在我国境内销售的计算机(大型计算机、服务器、微型计算机和笔记本电脑)所预装软件必须为正版软件，禁止预装非正版软件",自动解析未逐项展开；保留原选项供刷题排除。,合同,sha256:4ef88ac202a392cc098162da,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 30 题】根据我国有关法规并结合上述文字，下列说法错误的是(30)。
+A. 国发4号文件重视推进软件正版化，并引导企业和社会公众使用正版软件
+B. 我国现行《中华人民共和国著作权法》对""预装软件""的版权问题没有作为独立的部分专门规定：国发4号文件从国家政策的层面，对""预装软件""的问题明确了要求，维护软件著作权人的权利
+C. 每位公民都有自觉使用正版软件的义务，如果明知购买的笔记本电脑里预装的软件是盗版软件并坚持使用，购买人要承担侵权责任
+D. 各单位应购买和使用取得软件著作权人授权的正版软件，不得使用盗版软件，并应根据软件的授权用户数量安装使用，不得超越其授权数量使用软件。一旦购买正版软件，其升级可不受版权限制。采取非正当渠道升级的，也不应视为盗版",答案：D,"解析：正版软件的升级版也要受版权限制。因此本题的正确选项是D。 在某企业承建的一个信息系统集成项目中，建设方注重交付时间和质量，承建方公司老总注重项目利润，质量监控部经理注重项目的质量，人力资源部经理注重项目人力使用效率。下列围绕项目干系人管理的叙述错误的是(31)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 30 题 / line 5119,未知-未知-上午-30,未知,未知,上午,30,根据我国有关法规并结合上述文字，下列说法错误的是(30)。,"A. 国发4号文件重视推进软件正版化，并引导企业和社会公众使用正版软件
+B. 我国现行《中华人民共和国著作权法》对""预装软件""的版权问题没有作为独立的部分专门规定：国发4号文件从国家政策的层面，对""预装软件""的问题明确了要求，维护软件著作权人的权利
+C. 每位公民都有自觉使用正版软件的义务，如果明知购买的笔记本电脑里预装的软件是盗版软件并坚持使用，购买人要承担侵权责任
+D. 各单位应购买和使用取得软件著作权人授权的正版软件，不得使用盗版软件，并应根据软件的授权用户数量安装使用，不得超越其授权数量使用软件。一旦购买正版软件，其升级可不受版权限制。采取非正当渠道升级的，也不应视为盗版",D,正版软件的升级版也要受版权限制。因此本题的正确选项是D。 在某企业承建的一个信息系统集成项目中，建设方注重交付时间和质量，承建方公司老总注重项目利润，质量监控部经理注重项目的质量，人力资源部经理注重项目人力使用效率。下列围绕项目干系人管理的叙述错误的是(31),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:18cd466f164a5bd993fa05e7,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 31 题】在某企业承建的一个信息系统集成项目中，建设方注重交付时间和质量，承建方公司老总注重项目利润，质量监控部经理注重项目的质量，人力资源部经理注重项目人力使用效率。下列围绕项目干系人管理的叙述错误的是(31)。
+A. 各项目干系人的目标可能是相互矛盾的
+B. 在项目不同阶段，干系人的要求要有不同的优先级别
+C. 重点考虑客户要求，人力资源部经理意见可忽略
+D. 当质量、进度、成本目标发生矛盾时，项目经理要进行平衡",答案：C,"解析：人力资源部经理作为职能部门主管为项目提供所需的人力资源，是项目的重要干系人之一，他关注人力使用效率是正当职业行为。干系人之间的需求有时可能会冲突和矛盾，项目经理任务之一是协调和平衡主要干系人之间的需求，而不仅仅为了满足某一干系人而去损害其他干系人的正当要求。 本题的正确选项是C。 下列关于项目管理过程组的叙述，不正确的是(32)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：干系人
+关联专题：T-COM-001 沟通渠道计算与干系人参与管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,questions.full.clean.md,未知未知上午 第 31 题 / line 5132,未知-未知-上午-31,未知,未知,上午,31,在某企业承建的一个信息系统集成项目中，建设方注重交付时间和质量，承建方公司老总注重项目利润，质量监控部经理注重项目的质量，人力资源部经理注重项目人力使用效率。下列围绕项目干系人管理的叙述错误的是(31)。,"A. 各项目干系人的目标可能是相互矛盾的
+B. 在项目不同阶段，干系人的要求要有不同的优先级别
+C. 重点考虑客户要求，人力资源部经理意见可忽略
+D. 当质量、进度、成本目标发生矛盾时，项目经理要进行平衡",C,人力资源部经理作为职能部门主管为项目提供所需的人力资源，是项目的重要干系人之一，他关注人力使用效率是正当职业行为。干系人之间的需求有时可能会冲突和矛盾，项目经理任务之一是协调和平衡主要干系人之间的需求，而不仅仅为了满足某一干系人而去损害其他干系人的正当要求。 本题的正确选项是C。 下列关于项目管理过程组的叙述，不正确的是(32),自动解析未逐项展开；保留原选项供刷题排除。,干系人,sha256:b6827c4c9f3e4260a22dc3f4,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COM-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 32 题】下列关于项目管理过程组的叙述，不正确的是(32)。
+A. 启动过程组一定义和细化目标，规划最佳的行动方案即从各种备选的方案中选取最优方案，以实现项目或阶段所承担的目标范围
+B. 执行过程组一整合人员和其它的资源，在项目的生命周期或某个阶段执行项目管理计划
+C. 监督过程组且一要求定期测量和监控进展，识别与项目管理计划的偏差，以便在必要时采取纠正措施，确保项目或阶段目标达成
+D. 收尾过程组一正式接受产品、服务或工作成果，有序地结束项目或阶段",答案：A,"解析：启动过程组的任务是：定义并批准项目或阶段。 计划编制过程组的任务是：定义和细化目标，规划最佳的行动方案即从各种被选方案中选择最优方案，以实现项目或阶段所承担的目标和范围。 因此，本题不正确的选项是A。 某集成项目包括应用软件开发和现场系统集成。软件开发团队负责软件开发以及参与现场软件安装调试工作。根据项目生命周期的有关知识，下列说法中正确的是(33)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INT-004 整体变更控制与 CCB
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,整体管理,T-INT-004,整体变更控制与 CCB,questions.full.clean.md,未知未知上午 第 32 题 / line 5147,未知-未知-上午-32,未知,未知,上午,32,下列关于项目管理过程组的叙述，不正确的是(32)。,"A. 启动过程组一定义和细化目标，规划最佳的行动方案即从各种备选的方案中选取最优方案，以实现项目或阶段所承担的目标范围
+B. 执行过程组一整合人员和其它的资源，在项目的生命周期或某个阶段执行项目管理计划
+C. 监督过程组且一要求定期测量和监控进展，识别与项目管理计划的偏差，以便在必要时采取纠正措施，确保项目或阶段目标达成
+D. 收尾过程组一正式接受产品、服务或工作成果，有序地结束项目或阶段",A,启动过程组的任务是：定义并批准项目或阶段。 计划编制过程组的任务是：定义和细化目标，规划最佳的行动方案即从各种被选方案中选择最优方案，以实现项目或阶段所承担的目标和范围。 因此，本题不正确的选项是A。 某集成项目包括应用软件开发和现场系统集成。软件开发团队负责软件开发以及参与现场软件安装调试工作。根据项目生命周期的有关知识，下列说法中正确的是(33),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:10c7989186972fc7bae9e935,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::整体管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INT-004 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 33 题】某集成项目包括应用软件开发和现场系统集成。软件开发团队负责软件开发以及参与现场软件安装调试工作。根据项目生命周期的有关知识，下列说法中正确的是(33)。
+A. 软件开发团队负责人可以把软件开发和现场安装调试视为两个不同的项目，分别包括各自不同的明显阶段
+B. 在软件需求得到确认前不能进行软件开发
+C. 按照启动、计划、执行、监督和收尾来划分集成项目生命周期是最合适的
+D. 在该项目内部只能有一个生命周期模型",答案：A,"解析：站在软件开发团队负责人立场，他可以把软件开发和现场安装调试视为两个不同的项目，分别包括各自不同的明显阶段。 本题的正确选项是A。 以下关于企业组织类别的描述，正确的是(34)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 33 题 / line 5164,未知-未知-上午-33,未知,未知,上午,33,某集成项目包括应用软件开发和现场系统集成。软件开发团队负责软件开发以及参与现场软件安装调试工作。根据项目生命周期的有关知识，下列说法中正确的是(33)。,"A. 软件开发团队负责人可以把软件开发和现场安装调试视为两个不同的项目，分别包括各自不同的明显阶段
+B. 在软件需求得到确认前不能进行软件开发
+C. 按照启动、计划、执行、监督和收尾来划分集成项目生命周期是最合适的
+D. 在该项目内部只能有一个生命周期模型",A,站在软件开发团队负责人立场，他可以把软件开发和现场安装调试视为两个不同的项目，分别包括各自不同的明显阶段。 本题的正确选项是A。 以下关于企业组织类别的描述，正确的是(34),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:910f2b272da850ef3772445f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 34 题】以下关于企业组织类别的描述，正确的是(34)。
+A. 职能型组织中不会有项目组织
+B. 职能型组织和项目型组织中，具体项目运作方式完全不同
+C. 通常把企业组织类型分为职能型和项目型
+D. 活动资源日历",答案：B,"解析：许多组织把需求分为项目需求和产品需求。项目需求包括商业需求、项目管理需求、交付需求等。产品需求则包括技术需求、安全需求、性能需求等。 如果把该WBS的第一层模块""确定需求""，可以理解为""确定项目需求和产品需求""。那么""确定总体需求""可以理解为""确定需项目需求""，而下面的模块""确定(37)""可以理解为""确定产品需求"" 因此，本题正确选项为A。 以上是依据PMBOK2008来解释的。下面按通常的理解来解释： 该WBS的第一层模块""确定需求""，可以分为""确定总体需求""和""确定需求规格说明书""。因此本题的正确选项为""B.
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 34 题 / line 5179,未知-未知-上午-34,未知,未知,上午,34,以下关于企业组织类别的描述，正确的是(34)。,"A. 职能型组织中不会有项目组织
+B. 职能型组织和项目型组织中，具体项目运作方式完全不同
+C. 通常把企业组织类型分为职能型和项目型
+D. 活动资源日历",B,"许多组织把需求分为项目需求和产品需求。项目需求包括商业需求、项目管理需求、交付需求等。产品需求则包括技术需求、安全需求、性能需求等。 如果把该WBS的第一层模块""确定需求""，可以理解为""确定项目需求和产品需求""。那么""确定总体需求""可以理解为""确定需项目需求""，而下面的模块""确定(37)""可以理解为""确定产品需求"" 因此，本题正确选项为A。 以上是依据PMBOK2008来解释的。下面按通常的理解来解释： 该WBS的第一层模块""确定需求""，可以分为""确定总体需求""和""确定需求规格说明书""。因此本题的正确选项为""B.",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:4b468f639e723401874b4f3c,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 38 题】在某信息系统建设项目中，以下做法不正确的是(38)。
+A. 项目经理没有制定单独的范围管理计划，而是在项目管理计划中进行了说明
+B. 进行范围定义的主要工作是确定产生所交付信息系统的过程并把结果记录下来
+C. 范围定义完成后，项目经理就开始进行WBS分解
+D. WBS分解完成后，所有的项目活动被直接分解到工作包，项目组成员马上按照WBS的活动开展自己的工作",答案：D,"解析：选项D中的""所有的项目活动被直接分解到工作包，项目组成员马上按照WBS的活动开展自己的工作""是不正确的，得到WBS后，至少还得活动定义、排序、资源估算、历时估算、制定进度计划，然后还有考虑分工等，才能开展自己的工作。 以下关于范围变更的说法错误的是(39)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：WBS
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 38 题 / line 5240,未知-未知-上午-38,未知,未知,上午,38,在某信息系统建设项目中，以下做法不正确的是(38)。,"A. 项目经理没有制定单独的范围管理计划，而是在项目管理计划中进行了说明
+B. 进行范围定义的主要工作是确定产生所交付信息系统的过程并把结果记录下来
+C. 范围定义完成后，项目经理就开始进行WBS分解
+D. WBS分解完成后，所有的项目活动被直接分解到工作包，项目组成员马上按照WBS的活动开展自己的工作",D,"选项D中的""所有的项目活动被直接分解到工作包，项目组成员马上按照WBS的活动开展自己的工作""是不正确的，得到WBS后，至少还得活动定义、排序、资源估算、历时估算、制定进度计划，然后还有考虑分工等，才能开展自己的工作。 以下关于范围变更的说法错误的是(39)",自动解析未逐项展开；保留原选项供刷题排除。,WBS,sha256:75f44718471c8b602a3258c1,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 39 题】以下关于范围变更的说法错误的是(39)。
+A. 范围变更是不可避免的，范围变更如果不加以控制可能引起范围蔓延。
+B. 客户对产品的需求发生变化其实就是一种范围变更
+C. 范围变更过程中应多让客户参与，以免后期进行范围确认时发生问题
+D. 范围变更控制流程与整体变更控制流程应分开设计，确保项目发生范围变更时遵从范围变更控制流程，由于范围变更引起了其他变更时遵从整体变更流程",答案：D,"解析：C. 风险因素及对策""和"""" D. 经济可行性""。 但没有提到""B.运行环境可行性"" 。 关于项目的可行性研究，以下论述中不正确的是(41)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 39 题 / line 5253,未知-未知-上午-39,未知,未知,上午,39,以下关于范围变更的说法错误的是(39)。,"A. 范围变更是不可避免的，范围变更如果不加以控制可能引起范围蔓延。
+B. 客户对产品的需求发生变化其实就是一种范围变更
+C. 范围变更过程中应多让客户参与，以免后期进行范围确认时发生问题
+D. 范围变更控制流程与整体变更控制流程应分开设计，确保项目发生范围变更时遵从范围变更控制流程，由于范围变更引起了其他变更时遵从整体变更流程",D,"C. 风险因素及对策""和"""" D. 经济可行性""。 但没有提到""B.运行环境可行性"" 。 关于项目的可行性研究，以下论述中不正确的是(41)",自动解析未逐项展开；保留原选项供刷题排除。,变更,sha256:0971b31beeea44cc4cb6ff66,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 41 题】关于项目的可行性研究，以下论述中不正确的是(41)。
+A. 项目的初步可行性研究和详细可行性研究的主要内容基本相同
+B. 初步可行性研究的结论包括四种：肯定，立即上马；肯定，进入详细可行性研究；展开专题研究：否定，项目下马
+C. 初步可行性研究的方法很多，如：经济评论法、市场预测法、投资估算法、增量净效益法等
+D. 详细可行性分析的内容包含有项目的经济和社会效益分析",答案：C,"解析：这题考的是招投标法，题干应改为""(43)包括了上述过程中不正确的陈述""。 根据招投标法： 第二十四条招标人应当确定投标人编制投标文件所需要的合理时间：但是，依法必须进行招标的项目，自招标文件开始发出之日起至投标人提交投标文件截止之日止，最短不得少于二十日。 第三十七条评标由招标人依法组建的评标委员会负责。 依法必须进行招标的项目，其评标委员会由招标人的代表和有关技术、经济等方面的专家组成，成员人数为五人以上单数，其中技术、经济等方面的专家不得少于成员总数的三分之二。投标保证金(Bidbond)，是指投标人按照招标
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 41 题 / line 5281,未知-未知-上午-41,未知,未知,上午,41,关于项目的可行性研究，以下论述中不正确的是(41)。,"A. 项目的初步可行性研究和详细可行性研究的主要内容基本相同
+B. 初步可行性研究的结论包括四种：肯定，立即上马；肯定，进入详细可行性研究；展开专题研究：否定，项目下马
+C. 初步可行性研究的方法很多，如：经济评论法、市场预测法、投资估算法、增量净效益法等
+D. 详细可行性分析的内容包含有项目的经济和社会效益分析",C,"这题考的是招投标法，题干应改为""(43)包括了上述过程中不正确的陈述""。 根据招投标法： 第二十四条招标人应当确定投标人编制投标文件所需要的合理时间：但是，依法必须进行招标的项目，自招标文件开始发出之日起至投标人提交投标文件截止之日止，最短不得少于二十日。 第三十七条评标由招标人依法组建的评标委员会负责。 依法必须进行招标的项目，其评标委员会由招标人的代表和有关技术、经济等方面的专家组成，成员人数为五人以上单数，其中技术、经济等方面的专家不得少于成员总数的三分之二。投标保证金(Bidbond)，是指投标人按照招标",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:2d827d9cf0ad47cc6a559b6d,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 44 题】某企业在招标时，首先通过某种资格审查选择部分供应商，并以邮件问询的方式确定它们是否有兴趣参与竞标，然后将采购文件包发给所有有兴趣的供应商，并对供应商反馈的投标文件进行评估，最终将中标消息通知给中标的供应商。以下关于本次招标过程的判断，正确的是(44)。
+A. 项目招标之前该企业不应当事先进行资格筛选
+B. 意见征询不应通过邮件的方式进行
+C. 中标结果不应仅凭评估分数确定
+D. 在选定供应商后，招标结果不应只反馈给中标供应商",答案：D,"解析：这题考的也是招投标法，根据招投标法： 第四十五条中标人确定后，招标人应当向中标人发出中标通知书，并同时将中标结果通知所有未中标的投标人。 正确的是选项D。 某公司在项目执行过程中，对项目需求进行收集分析，并形成正式的项目文档，并由客户签字确认，但在交货时发现，实际产品与客户的要求大相径庭，客户拒绝付款。经调查研究发现，需求来源和低层需求实现不完全匹配，这可能是在(45)方面出了问题
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 44 题 / line 5340,未知-未知-上午-44,未知,未知,上午,44,某企业在招标时，首先通过某种资格审查选择部分供应商，并以邮件问询的方式确定它们是否有兴趣参与竞标，然后将采购文件包发给所有有兴趣的供应商，并对供应商反馈的投标文件进行评估，最终将中标消息通知给中标的供应商。以下关于本次招标过程的判断，正确的是(44)。,"A. 项目招标之前该企业不应当事先进行资格筛选
+B. 意见征询不应通过邮件的方式进行
+C. 中标结果不应仅凭评估分数确定
+D. 在选定供应商后，招标结果不应只反馈给中标供应商",D,这题考的也是招投标法，根据招投标法： 第四十五条中标人确定后，招标人应当向中标人发出中标通知书，并同时将中标结果通知所有未中标的投标人。 正确的是选项D。 某公司在项目执行过程中，对项目需求进行收集分析，并形成正式的项目文档，并由客户签字确认，但在交货时发现，实际产品与客户的要求大相径庭，客户拒绝付款。经调查研究发现，需求来源和低层需求实现不完全匹配，这可能是在(45)方面出了问题,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:a1834da7948214d527f7fc5c,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 46 题】某项目在执行过程中，软件的需求基线已经确定后，客户需要增加新的功能，但该需求变更会对已经完成系统的稳定性有较大影响。作为项目负责人处理这些需求变更，下列(46)做法是不合适的。
+A. 利用原型法给用户提供预览，以帮助准确把握用户的真实需求
+B. 可以跟客户说不，并与其商议在后续项目或下一版本中满足他们的要求
+C. 秉承""客户至上""的原则，召集有关人员开始变更工作，满足客户的要求
+D. 利用在项目初期文档化的视图、范围、限制，与变更项比较，决定是否采用此项变更解析 题干中指出""该需求变更会对已经完成系统的稳定性有较大影响""，因此选项""C.秉承""客户至上""的原则，召集有关人员开始变更工作，满足客户的要求"" 是不合适的。 质量控制是项目质量控制人员采取有效措施，监督项目的具体实施结果，判断它们是否符合有关的项目质量标准，并确定消除产生不良结果原因的途径。以下内容中，(47)是执行项目质量控制的输入。 ①组织过程资产②质量度量标准③工作绩效信息④项目章程⑤已批准的变更请求",答案：C,"解析：o的倍数越大，缺陷或错误就越少，质量就越高。因此正确选项是A。其详细解释，请看本人的博文：""6o管理法中的""o""是什么意思?兼谈高级上午48题""。 http：//blog.sina.com.cn/s/blog_4c0b7a1b0100v99b.html。 下列叙述中，错误的是(49)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更、项目章程、基线
+关联专题：T-QUAL-001 质量保证、质量控制与质量审计
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,质量管理,T-QUAL-001,质量保证、质量控制与质量审计,questions.full.clean.md,未知未知上午 第 46 题 / line 5370,未知-未知-上午-46,未知,未知,上午,46,某项目在执行过程中，软件的需求基线已经确定后，客户需要增加新的功能，但该需求变更会对已经完成系统的稳定性有较大影响。作为项目负责人处理这些需求变更，下列(46)做法是不合适的。,"A. 利用原型法给用户提供预览，以帮助准确把握用户的真实需求
+B. 可以跟客户说不，并与其商议在后续项目或下一版本中满足他们的要求
+C. 秉承""客户至上""的原则，召集有关人员开始变更工作，满足客户的要求
+D. 利用在项目初期文档化的视图、范围、限制，与变更项比较，决定是否采用此项变更解析 题干中指出""该需求变更会对已经完成系统的稳定性有较大影响""，因此选项""C.秉承""客户至上""的原则，召集有关人员开始变更工作，满足客户的要求"" 是不合适的。 质量控制是项目质量控制人员采取有效措施，监督项目的具体实施结果，判断它们是否符合有关的项目质量标准，并确定消除产生不良结果原因的途径。以下内容中，(47)是执行项目质量控制的输入。 ①组织过程资产②质量度量标准③工作绩效信息④项目章程⑤已批准的变更请求",C,"o的倍数越大，缺陷或错误就越少，质量就越高。因此正确选项是A。其详细解释，请看本人的博文：""6o管理法中的""o""是什么意思?兼谈高级上午48题""。 http：//blog.sina.com.cn/s/blog_4c0b7a1b0100v99b.html。 下列叙述中，错误的是(49)",自动解析未逐项展开；保留原选项供刷题排除。,变更、项目章程、基线,sha256:313519015373ec141615bcc4,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::质量管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-QUAL-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 50 题】结合大型项目的特点，企业下列做法中，不正确的是(50)。
+A. 企业在制定某大项目的过程计划之前，优先制定了项目的活动计划
+B. 企业围绕项目周期定义了一个大型项目，未考虑项目的规模和团队构成
+C. 企业在管理大型项目的过程中聘任了多名项目经理
+D. 企业将一个大项项目分解成若干个子项目进行管理 正确答案：A",答案：A,"解析：一般项目的计划主要关注的是项目活动的计划。但是对大型及复杂项目来说，制定活动计划之前，必须先考虑项目的过程计划，也就是必须先确定什么方法和过程来完成项目。 因此，选项A中的陈述是不正确的。 大型项目的计划管理过程有其自身的特点。围绕大型项目计划管理过程，下列说法中不正确的是(51)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-HR-001 项目人力资源管理：组织计划、团队建设与团队管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,questions.full.clean.md,未知未知上午 第 50 题 / line 5423,未知-未知-上午-50,未知,未知,上午,50,结合大型项目的特点，企业下列做法中，不正确的是(50)。,"A. 企业在制定某大项目的过程计划之前，优先制定了项目的活动计划
+B. 企业围绕项目周期定义了一个大型项目，未考虑项目的规模和团队构成
+C. 企业在管理大型项目的过程中聘任了多名项目经理
+D. 企业将一个大项项目分解成若干个子项目进行管理 正确答案：A",A,一般项目的计划主要关注的是项目活动的计划。但是对大型及复杂项目来说，制定活动计划之前，必须先考虑项目的过程计划，也就是必须先确定什么方法和过程来完成项目。 因此，选项A中的陈述是不正确的。 大型项目的计划管理过程有其自身的特点。围绕大型项目计划管理过程，下列说法中不正确的是(51),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:f60d30287c7e940ceafd64c1,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-HR-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 51 题】大型项目的计划管理过程有其自身的特点。围绕大型项目计划管理过程，下列说法中不正确的是(51)。
+A. 企业可自行定义不同级别的大型项目，并采用不同的计划管理过程
+B. 项目计划在需求定义完成后一般要进行修订，确保计划与实际的一致性
+C. 大型项目的WBS可以按照组织结构、产品结构、生命周期进行分解
+D. 为了保持管理的一致性，每个大型项目的计划制定都要采用统一的模板",答案：D,"解析：每个企业一般都存在自己的通用过程，但是项目的特征又使得每个项目都有其各自不同的要求。对于一个大型及复杂项目来说，为项目单独建立一套适合的过程规范无疑是有益的。 本题论述中不正确的选项是D。 围绕大型项目的目标管理，下列说法不正确的是(52)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：WBS
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 51 题 / line 5440,未知-未知-上午-51,未知,未知,上午,51,大型项目的计划管理过程有其自身的特点。围绕大型项目计划管理过程，下列说法中不正确的是(51)。,"A. 企业可自行定义不同级别的大型项目，并采用不同的计划管理过程
+B. 项目计划在需求定义完成后一般要进行修订，确保计划与实际的一致性
+C. 大型项目的WBS可以按照组织结构、产品结构、生命周期进行分解
+D. 为了保持管理的一致性，每个大型项目的计划制定都要采用统一的模板",D,每个企业一般都存在自己的通用过程，但是项目的特征又使得每个项目都有其各自不同的要求。对于一个大型及复杂项目来说，为项目单独建立一套适合的过程规范无疑是有益的。 本题论述中不正确的选项是D。 围绕大型项目的目标管理，下列说法不正确的是(52),自动解析未逐项展开；保留原选项供刷题排除。,WBS,sha256:b25b8ae64964d3db4eadc034,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 52 题】围绕大型项目的目标管理，下列说法不正确的是(52)。
+A. 大型项目的范围一般在启动时较难清晰确定
+B. 大型项目目标应关注""效果""，而不关注""效率""
+C. 大型项目目标要分解到各子项目和各部门
+D. 在项目各阶段往往要调整项目目标的优先次序",答案：B,"解析：这题easy，是选项B。 在某软件开发项目中，项目经理发现年轻开发人员流动的流失较为严重，导致项目进行中花费大量时间进行招聘、任务交接和善后处理。下列选项中无法改善人员流失状况的是(54)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 52 题 / line 5455,未知-未知-上午-52,未知,未知,上午,52,围绕大型项目的目标管理，下列说法不正确的是(52)。,"A. 大型项目的范围一般在启动时较难清晰确定
+B. 大型项目目标应关注""效果""，而不关注""效率""
+C. 大型项目目标要分解到各子项目和各部门
+D. 在项目各阶段往往要调整项目目标的优先次序",B,这题easy，是选项B。 在某软件开发项目中，项目经理发现年轻开发人员流动的流失较为严重，导致项目进行中花费大量时间进行招聘、任务交接和善后处理。下列选项中无法改善人员流失状况的是(54),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:e50789c3ee252599b47bd119,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 54 题】在某软件开发项目中，项目经理发现年轻开发人员流动的流失较为严重，导致项目进行中花费大量时间进行招聘、任务交接和善后处理。下列选项中无法改善人员流失状况的是(54)。
+A. 通过了解项目团员的感情，预测其行动，了解其后顾之忧，并尽力帮助他们解决问题
+B. 为了项目的完成，考虑到有限的人力资源，将该项目分包，在时限内完成项目
+C. 拨出专门团队建设经费，并鼓励团队内非正式的沟通和活动
+D. 建立培训和知识共享机制，使得所有的团队成员都可以学习到新的知识以及能够互相帮助",答案：B,"解析：这题 too easy，是选项C。 某公司主营业务是开发面向金融行业的企业内部管理信息系统，在全国主要城市市场占有率达到50%以上，有2家实力稍弱的竞争对手。随着国家相关政策的出台，金融行业加强内部监管变得越来越重要。公司的基本情况如下： ①公司财务经营状况较好，近年来营业额和利润率逐年增长，但市场增长的趋势已经开始减缓。 ②公司前期注重投资自主研发，科研实力较强，已形成自主研发队伍，能够满足研发要求，但随着行业的发展和企业内部管理信息系统本身科技含量相对有限，较小公司的同质性产品开始进入市场。 ③公司产品市场主
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：沟通
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 54 题 / line 5480,未知-未知-上午-54,未知,未知,上午,54,在某软件开发项目中，项目经理发现年轻开发人员流动的流失较为严重，导致项目进行中花费大量时间进行招聘、任务交接和善后处理。下列选项中无法改善人员流失状况的是(54)。,"A. 通过了解项目团员的感情，预测其行动，了解其后顾之忧，并尽力帮助他们解决问题
+B. 为了项目的完成，考虑到有限的人力资源，将该项目分包，在时限内完成项目
+C. 拨出专门团队建设经费，并鼓励团队内非正式的沟通和活动
+D. 建立培训和知识共享机制，使得所有的团队成员都可以学习到新的知识以及能够互相帮助",B,这题 too easy，是选项C。 某公司主营业务是开发面向金融行业的企业内部管理信息系统，在全国主要城市市场占有率达到50%以上，有2家实力稍弱的竞争对手。随着国家相关政策的出台，金融行业加强内部监管变得越来越重要。公司的基本情况如下： ①公司财务经营状况较好，近年来营业额和利润率逐年增长，但市场增长的趋势已经开始减缓。 ②公司前期注重投资自主研发，科研实力较强，已形成自主研发队伍，能够满足研发要求，但随着行业的发展和企业内部管理信息系统本身科技含量相对有限，较小公司的同质性产品开始进入市场。 ③公司产品市场主,自动解析未逐项展开；保留原选项供刷题排除。,沟通,sha256:0f38f62d2b3db416341e1e21,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 58 题】B.公司产品市场主要集中在北京、上海等金融城市，没有向二线城市扩展，可以看作是威胁 C.有2家实力稍弱的竞争对手和较小公司的同质性产品开始进入市场都属于威胁 D.国家相关政策的出台，金融行业加强内部监管变得越来越重要，这说明行业有相关政策利好消息，属于优势
+A. 大力开发金融行业应用软件类的高级产品或其它行业的类似产品，更好满足客户需求
+B. 完善内部管理机制，重点放在员工稳定和减少流失率上，特别是对于高科技研发人员的流失率需要控制
+C. 突出公司在专业上的优势，积极开拓二线城市市场
+D. 将研发管理作为根本大事来做，投资建立独立的研发中心，加大研发投资",答案：A,"解析：(56)题也 too easy，是选项A。 (57)题也too easy，是选项A。选项D是机会，不是优势。 (58)题，公司现在面临的是既有产品市场增长放缓、员工流失、公司市场局限在北京上海，而""自主研发、科研实力较强""已是目前的竞争优势，不是公司目前最优先考虑的战略。因此(58)题，选项D不是最优先考虑的战略。 以下关于企业战略说法中，不正确的是(59)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 58 题 / line 5526,未知-未知-上午-58,未知,未知,上午,58,B.公司产品市场主要集中在北京、上海等金融城市，没有向二线城市扩展，可以看作是威胁 C.有2家实力稍弱的竞争对手和较小公司的同质性产品开始进入市场都属于威胁 D.国家相关政策的出台，金融行业加强内部监管变得越来越重要，这说明行业有相关政策利好消息，属于优势,"A. 大力开发金融行业应用软件类的高级产品或其它行业的类似产品，更好满足客户需求
+B. 完善内部管理机制，重点放在员工稳定和减少流失率上，特别是对于高科技研发人员的流失率需要控制
+C. 突出公司在专业上的优势，积极开拓二线城市市场
+D. 将研发管理作为根本大事来做，投资建立独立的研发中心，加大研发投资",A,"(56)题也 too easy，是选项A。 (57)题也too easy，是选项A。选项D是机会，不是优势。 (58)题，公司现在面临的是既有产品市场增长放缓、员工流失、公司市场局限在北京上海，而""自主研发、科研实力较强""已是目前的竞争优势，不是公司目前最优先考虑的战略。因此(58)题，选项D不是最优先考虑的战略。 以下关于企业战略说法中，不正确的是(59)",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:a875f788be02dd76b6b4e789,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 59 题】以下关于企业战略说法中，不正确的是(59)。
+A. 为了企业战略的正确实施和执行，需要制定企业战略计划
+B. 战略计划适用于稳定的环境和可预期的环境，而长期计划可应对环境的改变
+C. 制定企业战略时制定应变计划更有利于企业面对瞬息万变的内外部环境
+D. 企业战略的计划的工作方式可以自上而下、自下而上、上下结合或者设立特别小组，依照企业各自的实际情况和条件灵活执行",答案：B,"解析：项目组成员负责识别与自己工作有关的风险，并负责追踪这些风险。因此博主建议的选项是C. 某系统集成企业为做好项目风险管理，给给风险定义了3个参数：(1)风险严重性：指风险对项目造成的危害程度：(2)风险可能性：指风险发生的几率：(3)风险系数：是风险严重性和风险可能性的乘积。其中，对项目进度延误、费用超支的风险严重性等级和风险可能性等级如下表所示： 假定该企业将风险系数大于等于15的情况定义为红灯状态，需要优先处理，则下列(63))的情况属于红灯状态
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 59 题 / line 5543,未知-未知-上午-59,未知,未知,上午,59,以下关于企业战略说法中，不正确的是(59)。,"A. 为了企业战略的正确实施和执行，需要制定企业战略计划
+B. 战略计划适用于稳定的环境和可预期的环境，而长期计划可应对环境的改变
+C. 制定企业战略时制定应变计划更有利于企业面对瞬息万变的内外部环境
+D. 企业战略的计划的工作方式可以自上而下、自下而上、上下结合或者设立特别小组，依照企业各自的实际情况和条件灵活执行",B,项目组成员负责识别与自己工作有关的风险，并负责追踪这些风险。因此博主建议的选项是C. 某系统集成企业为做好项目风险管理，给给风险定义了3个参数：(1)风险严重性：指风险对项目造成的危害程度：(2)风险可能性：指风险发生的几率：(3)风险系数：是风险严重性和风险可能性的乘积。其中，对项目进度延误、费用超支的风险严重性等级和风险可能性等级如下表所示： 假定该企业将风险系数大于等于15的情况定义为红灯状态，需要优先处理，则下列(63))的情况属于红灯状态,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:0d20586fffd8ec5df940beb7,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 64 题】很明显，选项C是正确的。 某系统集成企业为做好项目配置管理，对配置库中的操作权限进行了以下定义： 同时对项目相关人员在该开发库中的操作权限进行了如下分配，其中√表示该人员具有相应权限，×表示该人员没有相应权限。
+A. (①)√，②X，③X，④√，⑤√
+B. ①√，②√，③√，④X，⑤√
+C. ①√，②√，③X，④X，⑤√
+D. ①X，②√，③√，④X，⑤X",答案：B,"解析：设该企业的盈亏平衡点为x次，那么
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：配置
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,未知未知上午 第 64 题 / line 5653,未知-未知-上午-64,未知,未知,上午,64,很明显，选项C是正确的。 某系统集成企业为做好项目配置管理，对配置库中的操作权限进行了以下定义： 同时对项目相关人员在该开发库中的操作权限进行了如下分配，其中√表示该人员具有相应权限，×表示该人员没有相应权限。,"A. (①)√，②X，③X，④√，⑤√
+B. ①√，②√，③√，④X，⑤√
+C. ①√，②√，③X，④X，⑤√
+D. ①X，②√，③√，④X，⑤X",B,设该企业的盈亏平衡点为x次，那么,自动解析未逐项展开；保留原选项供刷题排除。,配置,sha256:1e441ced60dec3ed0b91cfc3,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2011下半年上午 第 1 题】下列关于电子标签(RFID)与条形码(barcode)标签的叙述，正确的是(1)。
+A. 电子标签建置成本低
+B. 条形码标签容量小，但难以被复制
+C. 电子标签容量大，可同时读取多个标签并且难以被复制
+D. 电子标签通讯距离短，但对环境变化有较高的忍受能力",答案：C,"解析：A、 B、 C、 D四个业务功能，每个功能都需要开发两周的时间。则对于增量方法而言可以将四个功能分为两次增量来完成，第一个增量完成 A、 B功能，第二次增量完成 C、 D功能；而对于迭代开发来将则是分两次迭代来开发，第一次迭代完成 A、 B、 C、 D四个基本业务功能但不含复杂的业务逻辑，而第二个功能再逐渐细化补充完整相关的业务逻辑。如果遇到风险，那么最迟在第一周就可发现并设法解决。 ## 螺旋模型考虑到了项目风险，螺旋模型的每一次循环都包含了以下步骤： 1.制定计划，确定目标、替代方案和约束 2.风险分析，识别
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,2011下半年上午 第 1 题 / line 5895,2011-下半年-上午-1,2011,下半年,上午,1,下列关于电子标签(RFID)与条形码(barcode)标签的叙述，正确的是(1)。,"A. 电子标签建置成本低
+B. 条形码标签容量小，但难以被复制
+C. 电子标签容量大，可同时读取多个标签并且难以被复制
+D. 电子标签通讯距离短，但对环境变化有较高的忍受能力",C,A、 B、 C、 D四个业务功能，每个功能都需要开发两周的时间。则对于增量方法而言可以将四个功能分为两次增量来完成，第一个增量完成 A、 B功能，第二次增量完成 C、 D功能；而对于迭代开发来将则是分两次迭代来开发，第一次迭代完成 A、 B、 C、 D四个基本业务功能但不含复杂的业务逻辑，而第二个功能再逐渐细化补充完整相关的业务逻辑。如果遇到风险，那么最迟在第一周就可发现并设法解决。 ## 螺旋模型考虑到了项目风险，螺旋模型的每一次循环都包含了以下步骤： 1.制定计划，确定目标、替代方案和约束 2.风险分析，识别,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:cfdb9be914d90b8d74c5dd7b,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2011下半年上午 第 8 题】因为在软件开发的每一环节都有可能产生意想不到的问题，所以(8)。
+A. 应尽量由程序员或开发小组测试自己的程序
+B. 在设计测试用例时，只需要考虑合理的输入条件即可
+C. 在设计测试用例时，只需要考虑合理的输出条件即可
+D. 应该把软件验证与确认贯穿到整个软件开发的全过程中",答案：D,"解析：软件测试是指：使用人工或者自动手段来运行或测试某个系统的过程，其目的在于检验它是否满足规定的需求或弄清预期结果与实际结果之间的差别，它是帮助识别开发完成(中间或最终的版本)的计算机软件的正确度(correctness) 、完全度(completeness)和质量(quality) 的软件过程。 软件测试不再只是一种仅在编码阶段完成后才开始的活动。现在的软件测试被认为是一种应该包括在整个开发和维护过程中的活动，它本身是实际产品构造的一个重要部分。 软件测试有如下几大原则： 1.软件开发人员即程序员应当避免测试自己的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：测试
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,2011下半年上午 第 8 题 / line 6037,2011-下半年-上午-8,2011,下半年,上午,8,因为在软件开发的每一环节都有可能产生意想不到的问题，所以(8)。,"A. 应尽量由程序员或开发小组测试自己的程序
+B. 在设计测试用例时，只需要考虑合理的输入条件即可
+C. 在设计测试用例时，只需要考虑合理的输出条件即可
+D. 应该把软件验证与确认贯穿到整个软件开发的全过程中",D,软件测试是指：使用人工或者自动手段来运行或测试某个系统的过程，其目的在于检验它是否满足规定的需求或弄清预期结果与实际结果之间的差别，它是帮助识别开发完成(中间或最终的版本)的计算机软件的正确度(correctness) 、完全度(completeness)和质量(quality) 的软件过程。 软件测试不再只是一种仅在编码阶段完成后才开始的活动。现在的软件测试被认为是一种应该包括在整个开发和维护过程中的活动，它本身是实际产品构造的一个重要部分。 软件测试有如下几大原则： 1.软件开发人员即程序员应当避免测试自己的,自动解析未逐项展开；保留原选项供刷题排除。,测试,sha256:bf789c35a079c5562d795420,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2011下半年上午 第 11 题】国家标准GB/T16260《软件产品评价——质量特性及其使用指南》规定了软件产品的6个质量特征，他们是(11)。
+A. 功能性、可靠行、易用性、效率、可维护性、可移植性
+B. 功能性、寿命、可信性、安全、可维护性、可移植性
+C. 功能性、无形性、经济性、效率、可维护性、可移植性
+D. 功能性、同步性、可信性、安全、可维护性、可移植性",答案：A,"解析：题干中""必须真实地反映""，意味着""B、正确性""。 在开发某保险商务系统时，项目组人员绘制了如下所示的模型图。 关于该保险商务系统和模型图，下列说法正确的是(15)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,2011下半年上午 第 11 题 / line 6099,2011-下半年-上午-11,2011,下半年,上午,11,国家标准GB/T16260《软件产品评价——质量特性及其使用指南》规定了软件产品的6个质量特征，他们是(11)。,"A. 功能性、可靠行、易用性、效率、可维护性、可移植性
+B. 功能性、寿命、可信性、安全、可维护性、可移植性
+C. 功能性、无形性、经济性、效率、可维护性、可移植性
+D. 功能性、同步性、可信性、安全、可维护性、可移植性",A,"题干中""必须真实地反映""，意味着""B、正确性""。 在开发某保险商务系统时，项目组人员绘制了如下所示的模型图。 关于该保险商务系统和模型图，下列说法正确的是(15)",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:3cce86bc11c764503214ec56,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2011下半年上午 第 16 题】关于数据访问中间件的作用，下列说法错误的是(16)。
+A. 为了建立数据应用资源互操作的模式，对异构环境下的数据库和文件系统实现联接
+B. 用来屏蔽掉各种平台及协议之间的差异，进行互相通信，实现应用程序之间的协同
+C. 在分布、异构的网络计算环境中，可以将各种分布对象有机地结合在一起，完成系统的快速集成，实现对象重用
+D. 使调用远端的过程像调用本地过程一样",答案：A,"解析：现在，越来越多的应用程序需要运行在网络环境的异构平台上。在分布的异构环境中，通常存在多种硬件系统平台(如PC、工作站、小型机等)，而这些硬件平台上又存在各种软件(如不同的操作系统、数据库、用户界面等)。中间件就是解决分布系统的异构问题的，中间件是位于硬件、操作系统等平台和应用之间的通用服务这些服务具有标准的程序接口和协议。不同的硬件及操作系统平台，可以有符合接口和协议规范的多种实现。使用中间件主要目的是实现应用与平台的无关性。 而数据库访问中间件通过一个抽象层访问数据库，从而允许使用相同或相似的代码访问不同的数据
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,2011下半年上午 第 16 题 / line 6152,2011-下半年-上午-16,2011,下半年,上午,16,关于数据访问中间件的作用，下列说法错误的是(16)。,"A. 为了建立数据应用资源互操作的模式，对异构环境下的数据库和文件系统实现联接
+B. 用来屏蔽掉各种平台及协议之间的差异，进行互相通信，实现应用程序之间的协同
+C. 在分布、异构的网络计算环境中，可以将各种分布对象有机地结合在一起，完成系统的快速集成，实现对象重用
+D. 使调用远端的过程像调用本地过程一样",A,现在，越来越多的应用程序需要运行在网络环境的异构平台上。在分布的异构环境中，通常存在多种硬件系统平台(如PC、工作站、小型机等)，而这些硬件平台上又存在各种软件(如不同的操作系统、数据库、用户界面等)。中间件就是解决分布系统的异构问题的，中间件是位于硬件、操作系统等平台和应用之间的通用服务这些服务具有标准的程序接口和协议。不同的硬件及操作系统平台，可以有符合接口和协议规范的多种实现。使用中间件主要目的是实现应用与平台的无关性。 而数据库访问中间件通过一个抽象层访问数据库，从而允许使用相同或相似的代码访问不同的数据,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:c2a3673df310a727792aeac1,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2011下半年上午 第 17 题】下列描述中，(17)不是软件体系结构研究的内容。
+A. 软件体系结构描述语言及工具
+B. 软件体系结构分析、设计及验证
+C. 软件开发过程中应遵守的政策和法规
+D. 特定领域的体系结构",答案：C,"解析：这题很easy，参考答案是：D 下列不符合综合布线产品选择原则的是(21)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,2011下半年上午 第 17 题 / line 6169,2011-下半年-上午-17,2011,下半年,上午,17,下列描述中，(17)不是软件体系结构研究的内容。,"A. 软件体系结构描述语言及工具
+B. 软件体系结构分析、设计及验证
+C. 软件开发过程中应遵守的政策和法规
+D. 特定领域的体系结构",C,这题很easy，参考答案是：D 下列不符合综合布线产品选择原则的是(21),自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:cf5782685864102e30de72e4,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 22 题】根据GB50174-93标准要求，电子计算机机房接地装置不满足要求的是(22)。
+A. 交流工作接地，接地电阻不大于1欧姆
+B. 安全保护接地，接地电阻不大于4欧姆
+C. 防静电接地，接地电阻不大于4欧姆
+D. 防雷接地，接地电阻不大于4欧姆",答案：D,"解析：用程序自动生成大量的账户，进行无数次的登录尝试，属于暴力破解。操作系统设定登录次数，就是为了防止这种情况发生，以保护信息系统的安全。 参考答案：A 一台装有无线网卡的客户端与网络桥接器AP间在传递数据前必须建立关系，且状态为(28)时，信息交换才成为可能
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-LAW-001 法律法规基础、合同法、招投标法与政府采购法考点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,配置变更知识产权与法律法规,T-LAW-001,法律法规基础、合同法、招投标法与政府采购法考点,questions.full.clean.md,未知未知上午 第 22 题 / line 6231,未知-未知-上午-22,未知,未知,上午,22,根据GB50174-93标准要求，电子计算机机房接地装置不满足要求的是(22)。,"A. 交流工作接地，接地电阻不大于1欧姆
+B. 安全保护接地，接地电阻不大于4欧姆
+C. 防静电接地，接地电阻不大于4欧姆
+D. 防雷接地，接地电阻不大于4欧姆",D,用程序自动生成大量的账户，进行无数次的登录尝试，属于暴力破解。操作系统设定登录次数，就是为了防止这种情况发生，以保护信息系统的安全。 参考答案：A 一台装有无线网卡的客户端与网络桥接器AP间在传递数据前必须建立关系，且状态为(28)时，信息交换才成为可能,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:b348c783f55d9a65497479a0,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-LAW-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 29 题】根据《合同法》的有关规定，下列(29)一项描述不符合合同的法律性质。
+A. 合同是一种民事法律行为
+B. 合同是解决两方或多方当事人分歧的民事法律行为
+C. 合同是以设立、变更、终止民事权利义务关系为目的的民事法律行为
+D. 合同是两方或多方当事人意思表示的结果",答案：B,"解析：我国《合同法》中所称的合同是指：平等主体的自然人、法人、其他组织之间设立、变更、终止民事权利义务关系的协议。但不包括婚姻、收养、监护等有关身份关系的协议。 #### 参考答案：B 某采购人在履行采购金额为1000万元的政府采购合同中，需要追加与该合同标的相同的货物。根据相关法律，在不改变合同其他条款的前提下，下列说法中正确的是(30)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更、合同
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 29 题 / line 6321,未知-未知-上午-29,未知,未知,上午,29,根据《合同法》的有关规定，下列(29)一项描述不符合合同的法律性质。,"A. 合同是一种民事法律行为
+B. 合同是解决两方或多方当事人分歧的民事法律行为
+C. 合同是以设立、变更、终止民事权利义务关系为目的的民事法律行为
+D. 合同是两方或多方当事人意思表示的结果",B,我国《合同法》中所称的合同是指：平等主体的自然人、法人、其他组织之间设立、变更、终止民事权利义务关系的协议。但不包括婚姻、收养、监护等有关身份关系的协议。 #### 参考答案：B 某采购人在履行采购金额为1000万元的政府采购合同中，需要追加与该合同标的相同的货物。根据相关法律，在不改变合同其他条款的前提下，下列说法中正确的是(30),自动解析未逐项展开；保留原选项供刷题排除。,变更、合同,sha256:84d7a47018968e038ab20b16,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 30 题】某采购人在履行采购金额为1000万元的政府采购合同中，需要追加与该合同标的相同的货物。根据相关法律，在不改变合同其他条款的前提下，下列说法中正确的是(30)。
+A. 可以与供应商协商签订补充合同，但补充合同的采购金额不得超过100万元
+B. 可以与供应商签订补充合同，但须得到省级以上政府授权的机构批准
+C. 采购商不能与供应商签订单一来源的采购合同
+D. 可以与供应商签订补充合同，但补充合同的采购金额不得超过1000 万元，如超过1000万元则须得到省级以上授权的机构批准",答案：A,"解析：信息产业部于2000年9月发布《关于发布计算机信息系统集成资质等级评定条件的通知>(信部规[2000]821号文)，于2003年10月颁布了《关于发布计算机信息系统集成资质等级评定条件(修订版)的通知》(信部规[2003]440号文)。系统集成资质等级评定条件主要由综合条件、业绩、管理能力、技术实力、人才实力5个方面描述的。不包括企业领导的学历。参考答案：D ●关于信息系统集成项目的特点，下述说法中，(3)是不正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：合同
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 30 题 / line 6336,未知-未知-上午-30,未知,未知,上午,30,某采购人在履行采购金额为1000万元的政府采购合同中，需要追加与该合同标的相同的货物。根据相关法律，在不改变合同其他条款的前提下，下列说法中正确的是(30)。,"A. 可以与供应商协商签订补充合同，但补充合同的采购金额不得超过100万元
+B. 可以与供应商签订补充合同，但须得到省级以上政府授权的机构批准
+C. 采购商不能与供应商签订单一来源的采购合同
+D. 可以与供应商签订补充合同，但补充合同的采购金额不得超过1000 万元，如超过1000万元则须得到省级以上授权的机构批准",A,信息产业部于2000年9月发布《关于发布计算机信息系统集成资质等级评定条件的通知>(信部规[2000]821号文)，于2003年10月颁布了《关于发布计算机信息系统集成资质等级评定条件(修订版)的通知》(信部规[2003]440号文)。系统集成资质等级评定条件主要由综合条件、业绩、管理能力、技术实力、人才实力5个方面描述的。不包括企业领导的学历。参考答案：D ●关于信息系统集成项目的特点，下述说法中，(3)是不正确的,自动解析未逐项展开；保留原选项供刷题排除。,合同,sha256:523d242cba517f2475c9e440,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2020上半年上午 第 5 题】关于计算机信息系统集成资质监督管理的说法中， (5) 是不正确的。
+A. 获证单位应每年进行一次自检
+B. 资质认证工作办公室对获证单位每年进行抽查
+C. 资质认证工作办公室每三年进行一次换证检查
+D. 末按时申请换证检查或拒绝接受监督检查的单位，视为自动放弃资格，其资质证书予以注销",答案：C,"解析：蒙特卡洛(Monte Carlo)方法，或称计算机随机模拟方法，是一种基于""随机数""的计算方法。可用民意测验来作一个不严格的比喻。民意测验的人不是征询每一个登记选民的意见，而是通过对选民进行小规模的抽样调查来确定可能的优胜者。其基本思想是一样的。 科技计算中的问题比这要复杂得多。比如金融衍生产品(期权、期货、掉期等)的定价及交易风险估算，问题的维数(即变量的个数)可能高达数百甚至数千。对这类问题，难度随维数的增加呈指数增长，这就是所谓的""维数的灾难""(Course Dimensionality)，传统的数值方法
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,2020上半年上午 第 5 题 / line 6464,2020-上半年-上午-5,2020,上半年,上午,5,关于计算机信息系统集成资质监督管理的说法中， (5) 是不正确的。,"A. 获证单位应每年进行一次自检
+B. 资质认证工作办公室对获证单位每年进行抽查
+C. 资质认证工作办公室每三年进行一次换证检查
+D. 末按时申请换证检查或拒绝接受监督检查的单位，视为自动放弃资格，其资质证书予以注销",C,"蒙特卡洛(Monte Carlo)方法，或称计算机随机模拟方法，是一种基于""随机数""的计算方法。可用民意测验来作一个不严格的比喻。民意测验的人不是征询每一个登记选民的意见，而是通过对选民进行小规模的抽样调查来确定可能的优胜者。其基本思想是一样的。 科技计算中的问题比这要复杂得多。比如金融衍生产品(期权、期货、掉期等)的定价及交易风险估算，问题的维数(即变量的个数)可能高达数百甚至数千。对这类问题，难度随维数的增加呈指数增长，这就是所谓的""维数的灾难""(Course Dimensionality)，传统的数值方法",自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:5d558c2d0ec7ef6981a53e02,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【2020上半年上午 第 9 题】数据库管理系统是操纵和管理数据库的大型软件，用于建立、使用和维护数据库。以下关于数据库管理系统的描述， (9)) 是不正确的。
+A. 数据库管理系统可使多个应用程序和用户用不同的方法在需要的时候去建立、修改和询问数据库
+B. 数据库管理系统提供数据定义语言与数据操作语言
+C. 数据库管理系统提供对数据的追加、删除等操作
+D. 数据库管理系统不具有与操作系统的联机处理、分时系统及远程作业输入的相关接口",答案：C,"解析：每个文档的质量必须在文档计划期间就有明确的规定。文档的质量可以按文档的形式和列出的要求划分为四级。 1级文档――最低限度文档 适合开发工作量低于一个人月的开发者自用程序。 该文档应包含程序清单、开发记录、测试数据和程序简介 2级文档―-一内部文档 可用于在精心研究后被认为似乎没有与其他用户共享资源的专用程序。 除1级文档提供的信息外，2级文档还包括程序清单内足够的注释以帮助用户安装和使用程序。 3级文档--工作文档 适于由同单位若干人联合开发的程序，或可被其他单位使用的程序。 4级文档――正式文档 适于要正式发行
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-INFO-001 信息化、信息系统生命周期与系统集成基础
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,信息化与系统集成基础,T-INFO-001,信息化、信息系统生命周期与系统集成基础,questions.full.clean.md,2020上半年上午 第 9 题 / line 6560,2020-上半年-上午-9,2020,上半年,上午,9,数据库管理系统是操纵和管理数据库的大型软件，用于建立、使用和维护数据库。以下关于数据库管理系统的描述， (9)) 是不正确的。,"A. 数据库管理系统可使多个应用程序和用户用不同的方法在需要的时候去建立、修改和询问数据库
+B. 数据库管理系统提供数据定义语言与数据操作语言
+C. 数据库管理系统提供对数据的追加、删除等操作
+D. 数据库管理系统不具有与操作系统的联机处理、分时系统及远程作业输入的相关接口",C,每个文档的质量必须在文档计划期间就有明确的规定。文档的质量可以按文档的形式和列出的要求划分为四级。 1级文档――最低限度文档 适合开发工作量低于一个人月的开发者自用程序。 该文档应包含程序清单、开发记录、测试数据和程序简介 2级文档―-一内部文档 可用于在精心研究后被认为似乎没有与其他用户共享资源的专用程序。 除1级文档提供的信息外，2级文档还包括程序清单内足够的注释以帮助用户安装和使用程序。 3级文档--工作文档 适于由同单位若干人联合开发的程序，或可被其他单位使用的程序。 4级文档――正式文档 适于要正式发行,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:f1d14fd7def8a4ec0a3b547f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::信息化与系统集成基础 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-INFO-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 16 题】以下关于联合体供应商的叙述，(16) 是不正确的。
+A. 参加联合体的供应商均应具备相关的条件
+B. 参加联合体的供应商应当向采购人提交联合协议，载明联合体各方承担的工作和义务
+C. 参加联合体的供应商各方应当共同与采购人签订采购合同
+D. 参加联合体的次要供应商不需要就采购合同约定的事项对采购承担连带责任",答案：D,"解析：第3章信息系统集成专业技术知识关于面向对象的分析的步骤： (1)发现角色/参与者。 (2)发现用例。 (3)建立用例模型(use case model)。 (4)进行领域分析。 (5)建立对象·关系模型。 (6)建立对象·行为模型。 (7)建立功能模型。 参考答案：A MPLS是目前使用较为广泛的广域网技术，该技术利用数据标签引导数据包在开放的通信网络中运行，通过在无连接的网络中引入连接模式，减少了网络的复杂性。(19)不属于它的技术特点
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：合同
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 16 题 / line 6677,未知-未知-上午-16,未知,未知,上午,16,以下关于联合体供应商的叙述，(16) 是不正确的。,"A. 参加联合体的供应商均应具备相关的条件
+B. 参加联合体的供应商应当向采购人提交联合协议，载明联合体各方承担的工作和义务
+C. 参加联合体的供应商各方应当共同与采购人签订采购合同
+D. 参加联合体的次要供应商不需要就采购合同约定的事项对采购承担连带责任",D,第3章信息系统集成专业技术知识关于面向对象的分析的步骤： (1)发现角色/参与者。 (2)发现用例。 (3)建立用例模型(use case model)。 (4)进行领域分析。 (5)建立对象·关系模型。 (6)建立对象·行为模型。 (7)建立功能模型。 参考答案：A MPLS是目前使用较为广泛的广域网技术，该技术利用数据标签引导数据包在开放的通信网络中运行，通过在无连接的网络中引入连接模式，减少了网络的复杂性。(19)不属于它的技术特点,自动解析未逐项展开；保留原选项供刷题排除。,合同,sha256:1559a9b19a3f4f92d32ecd98,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 24 题】下列关于电子信息机房的设计中， (24) 不符合《电子信息系统机房设计规范GB50174-2008》的要求。
+A. 机房采用二级、三级耐火等级的建筑材料，重要部位采用一级耐火等级的材料
+B. 机房所有设备的金属外壳、各类金属管道、金属线糟、建筑物金属结构等结构等全部进行电位连接并接地
+C. 在机房吊顶上和活动地板下都设置火灾探测器
+D. 主机房内绝缘体的静电电位不大于1KV 5.2.5主机房和辅助区的绝缘体的静电电位不应大于1KV 。 根据《EIA/TIA568A/B商用建筑物电信布线标准-1995》，综合布线系统分为三个等级，其中增强型综台布线等级要求每个工作区至少有(25)个以上信息插座。",答案：B,"解析：综合布线 增强型综台布线系统配置： (1)每个工作区(站)有两个以上信息插座； (2)每个工作区(站)的配线电缆均为一条独立的4对双绞线，引至楼层配线架； (3)采用夹接式(110A系列)或接插式(110P系列)交接硬件； (4)每个工作区(站)的干线电缆(即楼层配线架至设备问总配线架)至少有3对双绞线。3.综合型 适用于综合布线系统中配置标准较高的场合，用光缆和铜芯电缆混合组网。综合型综合布线系统配登： (1)在基本型和增强型综合布线系统的基础上增设光缆系统； (2)在每个基本型工作区的干线电缆中至少配有2对双
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-LAW-001 法律法规基础、合同法、招投标法与政府采购法考点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,配置变更知识产权与法律法规,T-LAW-001,法律法规基础、合同法、招投标法与政府采购法考点,questions.full.clean.md,未知未知上午 第 24 题 / line 6840,未知-未知-上午-24,未知,未知,上午,24,下列关于电子信息机房的设计中， (24) 不符合《电子信息系统机房设计规范GB50174-2008》的要求。,"A. 机房采用二级、三级耐火等级的建筑材料，重要部位采用一级耐火等级的材料
+B. 机房所有设备的金属外壳、各类金属管道、金属线糟、建筑物金属结构等结构等全部进行电位连接并接地
+C. 在机房吊顶上和活动地板下都设置火灾探测器
+D. 主机房内绝缘体的静电电位不大于1KV 5.2.5主机房和辅助区的绝缘体的静电电位不应大于1KV 。 根据《EIA/TIA568A/B商用建筑物电信布线标准-1995》，综合布线系统分为三个等级，其中增强型综台布线等级要求每个工作区至少有(25)个以上信息插座。",B,综合布线 增强型综台布线系统配置： (1)每个工作区(站)有两个以上信息插座； (2)每个工作区(站)的配线电缆均为一条独立的4对双绞线，引至楼层配线架； (3)采用夹接式(110A系列)或接插式(110P系列)交接硬件； (4)每个工作区(站)的干线电缆(即楼层配线架至设备问总配线架)至少有3对双绞线。3.综合型 适用于综合布线系统中配置标准较高的场合，用光缆和铜芯电缆混合组网。综合型综合布线系统配登： (1)在基本型和增强型综合布线系统的基础上增设光缆系统； (2)在每个基本型工作区的干线电缆中至少配有2对双,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:f74410c8f34df30a802a3ed8,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-LAW-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 26 题】系统运行安全和保护的层次按照粒度从粗到细排序为(26)
+A. 系统级安全，资源访问安全，数据域安全，功栽性安全
+B. 系统级安全，资源访问安全，功能性安全，数据域安全
+C. 资源访问安全，系统级安全，数据域安全，功能性安全
+D. 资源访问安全，系统级安全，功能性安全，数据域安全",答案：B,"解析：课本内容关于与操作型数据库相比，娄数据仓库的主要特点如下。 (1)面向主题：操作型数据库的数据面向事务处理，各个业务系统之问各自分离，而数据仓库中的数据按主题进行组织。主题指的是用户使用数据仓库进行决策时所关心的某些方面，一个主题通常与多个操作型系统相关。 (2)集成：面向事务处理的操作型数据库通常与某些特定的应用楣关，数据库之间相互独立，并且往往是异构的。而数据仓库中的数据是在对原有分散的数据库数据抽取、清理的基础上经过系统加工、汇总和整理得到的，消除了源数据中的不一一致性，保证数据仓库内的信息是整个企业的一致
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-CROSS-001 高频跨域概念辨析与易错点
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,questions.full.clean.md,未知未知上午 第 26 题 / line 6919,未知-未知-上午-26,未知,未知,上午,26,系统运行安全和保护的层次按照粒度从粗到细排序为(26),"A. 系统级安全，资源访问安全，数据域安全，功栽性安全
+B. 系统级安全，资源访问安全，功能性安全，数据域安全
+C. 资源访问安全，系统级安全，数据域安全，功能性安全
+D. 资源访问安全，系统级安全，功能性安全，数据域安全",B,课本内容关于与操作型数据库相比，娄数据仓库的主要特点如下。 (1)面向主题：操作型数据库的数据面向事务处理，各个业务系统之问各自分离，而数据仓库中的数据按主题进行组织。主题指的是用户使用数据仓库进行决策时所关心的某些方面，一个主题通常与多个操作型系统相关。 (2)集成：面向事务处理的操作型数据库通常与某些特定的应用楣关，数据库之间相互独立，并且往往是异构的。而数据仓库中的数据是在对原有分散的数据库数据抽取、清理的基础上经过系统加工、汇总和整理得到的，消除了源数据中的不一一致性，保证数据仓库内的信息是整个企业的一致,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:6d2808c350fbb8d7694c41d7,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CROSS-001 ruankao::trap ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 31 题】某政府部门拟利用中央财政资金建设电子政务项目，关于建设方的立项管理，下列做法中不符合有关规定的是(31)。
+A. 建设单位在编制项目建议书时专门组织项目需求分析，形成需求分析报告，报送项目审批部门
+B. 建设方在项目建议书获得批复后，招标选定有资格的第三方工程咨询机构编制可行性研究报告，报送项目审批部门
+C. 建设方在可行性研究报告获得批复后，向有关部门申请项目前期工作经费，前期工作经费计入项目总投资
+D. 建设方在可行性研究报告获得批复后，委托有资格的第三方工程咨询机构出具评估意见，连同批复的项目建议书，作为项目建设的主要依据",答案：C,"解析：挣值技术表现形式各异，是一种通用的绩效测量方法。它将项目范围、成本(或资源)、进度整合在一起，帮助项目管理团队评估项目绩效。 ### 参考答案：A 关于项目进度管理中的活动历时估算的叙述，(35)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 31 题 / line 7001,未知-未知-上午-31,未知,未知,上午,31,某政府部门拟利用中央财政资金建设电子政务项目，关于建设方的立项管理，下列做法中不符合有关规定的是(31)。,"A. 建设单位在编制项目建议书时专门组织项目需求分析，形成需求分析报告，报送项目审批部门
+B. 建设方在项目建议书获得批复后，招标选定有资格的第三方工程咨询机构编制可行性研究报告，报送项目审批部门
+C. 建设方在可行性研究报告获得批复后，向有关部门申请项目前期工作经费，前期工作经费计入项目总投资
+D. 建设方在可行性研究报告获得批复后，委托有资格的第三方工程咨询机构出具评估意见，连同批复的项目建议书，作为项目建设的主要依据",C,挣值技术表现形式各异，是一种通用的绩效测量方法。它将项目范围、成本(或资源)、进度整合在一起，帮助项目管理团队评估项目绩效。 ### 参考答案：A 关于项目进度管理中的活动历时估算的叙述，(35)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:ca0dfe681c69ee993732c522,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 35 题】关于项目进度管理中的活动历时估算的叙述，(35)是正确的。
+A. 活动历时估算应给出尽量准确的结果，不应给出变化范围，例如：2周±2天
+B. 多方案分析法是一种常用的活动历时估算方法
+C. 常用的活动历时估算方法包括类比估算、参数估算、三点估算法和后备分析法
+D. 类比估算法也称为自下而上估算法，常用于项目早期的活动历时估算",答案：C,"解析：面积法 ![fe65f66482467f913be596f153620db6.jpeg]([IMAGE: 48.png]) 图2右侧是单代号网络图(单位为工作日)，左侧是图列。在确保安装集成活动尽早开始的前提下，软件开发活动可以推迟(37)个工作日。 ![111c4c3b05a142a415605301681ac43f.jpeg]([IMAGE: 49.png]) 所以软件开发活动可以推迟1个工作日 快速跟进是进度控制的手段之一。以下对快速跟进的理解，(38)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-SCH-003 关键路径、总时差、自由时差与网络图判断
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,进度管理,T-SCH-003,关键路径、总时差、自由时差与网络图判断,questions.full.clean.md,未知未知上午 第 35 题 / line 7080,未知-未知-上午-35,未知,未知,上午,35,关于项目进度管理中的活动历时估算的叙述，(35)是正确的。,"A. 活动历时估算应给出尽量准确的结果，不应给出变化范围，例如：2周±2天
+B. 多方案分析法是一种常用的活动历时估算方法
+C. 常用的活动历时估算方法包括类比估算、参数估算、三点估算法和后备分析法
+D. 类比估算法也称为自下而上估算法，常用于项目早期的活动历时估算",C,面积法 ![fe65f66482467f913be596f153620db6.jpeg]([IMAGE: 48.png]) 图2右侧是单代号网络图(单位为工作日)，左侧是图列。在确保安装集成活动尽早开始的前提下，软件开发活动可以推迟(37)个工作日。 ![111c4c3b05a142a415605301681ac43f.jpeg]([IMAGE: 49.png]) 所以软件开发活动可以推迟1个工作日 快速跟进是进度控制的手段之一。以下对快速跟进的理解，(38)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:91ea1e083036c831a5e589a9,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::进度管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCH-003 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 38 题】快速跟进是进度控制的手段之一。以下对快速跟进的理解，(38)是正确的。
+A. 调整部分工作的顺序关系，使用网络图和关键路径分析等进度计划工具，尽可能将一些工作并行进行
+B. 充分利用周六、周日或晚上等非工作时间段实施项目
+C. 充分发挥每一个成员的作用，用积极的绩效考核方法，提升每个成员的技能水平和绩效
+D. 加强项目干系人之间的交流和沟通，以加快项目的进度",答案：D,"解析：关键链法是一种进度网络分析技术，可以根据有限的资源对项目进度计划进行调整。关键链法结合了确定性与随机性办法。开始时利用进度模型中活动持续时间的估算，根据给定的依赖关系与限制条件绘制项目进度网络图，然后计算关键路径。在确定关键路径后，将资源的有无与多寡的情况考虑进去，确定资源限制进度计划。这种资源限制进度计划经常改变项目的关键路径。帕肯森定律：工作总是拖延到它所允许最迟完成的那一天。原因：：主观原因：没有压力就没有动力：客观原因：没有激励就没有动力：避免的方式：安全裕量(浮动时间)不要放在具体的活动上，而是集中管
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：关键路径、沟通、干系人
+关联专题：T-SCH-003 关键路径、总时差、自由时差与网络图判断
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,进度管理,T-SCH-003,关键路径、总时差、自由时差与网络图判断,questions.full.clean.md,未知未知上午 第 38 题 / line 7159,未知-未知-上午-38,未知,未知,上午,38,快速跟进是进度控制的手段之一。以下对快速跟进的理解，(38)是正确的。,"A. 调整部分工作的顺序关系，使用网络图和关键路径分析等进度计划工具，尽可能将一些工作并行进行
+B. 充分利用周六、周日或晚上等非工作时间段实施项目
+C. 充分发挥每一个成员的作用，用积极的绩效考核方法，提升每个成员的技能水平和绩效
+D. 加强项目干系人之间的交流和沟通，以加快项目的进度",D,关键链法是一种进度网络分析技术，可以根据有限的资源对项目进度计划进行调整。关键链法结合了确定性与随机性办法。开始时利用进度模型中活动持续时间的估算，根据给定的依赖关系与限制条件绘制项目进度网络图，然后计算关键路径。在确定关键路径后，将资源的有无与多寡的情况考虑进去，确定资源限制进度计划。这种资源限制进度计划经常改变项目的关键路径。帕肯森定律：工作总是拖延到它所允许最迟完成的那一天。原因：：主观原因：没有压力就没有动力：客观原因：没有激励就没有动力：避免的方式：安全裕量(浮动时间)不要放在具体的活动上，而是集中管,自动解析未逐项展开；保留原选项供刷题排除。,关键路径、沟通、干系人,sha256:287ab83f21e1747bafce503f,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::进度管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCH-003 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 41 题】在对一项任务的检查中，项目经理发现一个团队成员正在用与WBS词典规定不符的方法来完成这项工作。项目经理应首先(41)。
+A. 告诉这名团队成员采取纠正措施。
+B. 确定这种方法对职能经理而言是否尚可接受的
+C. 问这名团队成员，这种变化是否必要
+D. 确定这种变化是否改变了工作包的范围",答案：D,"解析：考查范围确认知识 范围确认是客户等项目干系人正式验收并接受已完成的项目可交付物的过程。也称范围确认过程为范围核实过程。项目范围确认包括审查项目可交付物以保证每一交付物令人满意地完成。如果项目在早期被终止，项目范围确认过程将记录其完成的情况。 项目范围确认应该贯穿项目的始终。范围确认与质量控制不同，范围确认是有关工作结果的接受问题，而质量控制是有关工作结果正确与否，质量控制一般在范围确认之前完成，当然也可并行进行。 范围确认又叫移交或验收。项目或项目阶段结束时，项目班子在将项目最终交付成果交给使用者或接受者之前，接
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：WBS
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 41 题 / line 7213,未知-未知-上午-41,未知,未知,上午,41,在对一项任务的检查中，项目经理发现一个团队成员正在用与WBS词典规定不符的方法来完成这项工作。项目经理应首先(41)。,"A. 告诉这名团队成员采取纠正措施。
+B. 确定这种方法对职能经理而言是否尚可接受的
+C. 问这名团队成员，这种变化是否必要
+D. 确定这种变化是否改变了工作包的范围",D,考查范围确认知识 范围确认是客户等项目干系人正式验收并接受已完成的项目可交付物的过程。也称范围确认过程为范围核实过程。项目范围确认包括审查项目可交付物以保证每一交付物令人满意地完成。如果项目在早期被终止，项目范围确认过程将记录其完成的情况。 项目范围确认应该贯穿项目的始终。范围确认与质量控制不同，范围确认是有关工作结果的接受问题，而质量控制是有关工作结果正确与否，质量控制一般在范围确认之前完成，当然也可并行进行。 范围确认又叫移交或验收。项目或项目阶段结束时，项目班子在将项目最终交付成果交给使用者或接受者之前，接,自动解析未逐项展开；保留原选项供刷题排除。,WBS,sha256:0aea6625f975df813e562195,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 45 题】某项目经理已经完成了WBS和每个工作包的成本估算。要根据这些数据编制项目成本估算，该项目经理要(45)。
+A. 使用WBS的最高层次进行类比估算
+B. 计算工作包和风险储备估算的总和
+C. 把工作包估算累计成为项目估算总和
+D. 获得专家对项目成本总计划意见 答案：""B，计算工作包估算和风险储备的总和。 "" 估算必须包括用于风险的储备。这种储备可以是时间或成本的储备。 某ERP软件开发项目共有12个模块，项目经理对较件进行了成本预算，预算每个模块的开发成本为5万元，按照项目管理计划，每月开发一个模块，12个月完成开发工作。在项目进行到第3个月底的时候，项目经理对照计划，发现刚完成了2个模块的开发工作，经统计，实际花费的成本为15万元。若按照目前的绩效情况，到所有模块开发完成时预计托费的总成本为(46)。",答案：B,"解析：15*12/2=90参考答案：A 人员配备管理计划描述何时以及怎样满足人力资源需求。关于人员配备管理计划的叙述中，(47)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：风险、WBS、ERP
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 45 题 / line 7316,未知-未知-上午-45,未知,未知,上午,45,某项目经理已经完成了WBS和每个工作包的成本估算。要根据这些数据编制项目成本估算，该项目经理要(45)。,"A. 使用WBS的最高层次进行类比估算
+B. 计算工作包和风险储备估算的总和
+C. 把工作包估算累计成为项目估算总和
+D. 获得专家对项目成本总计划意见 答案：""B，计算工作包估算和风险储备的总和。 "" 估算必须包括用于风险的储备。这种储备可以是时间或成本的储备。 某ERP软件开发项目共有12个模块，项目经理对较件进行了成本预算，预算每个模块的开发成本为5万元，按照项目管理计划，每月开发一个模块，12个月完成开发工作。在项目进行到第3个月底的时候，项目经理对照计划，发现刚完成了2个模块的开发工作，经统计，实际花费的成本为15万元。若按照目前的绩效情况，到所有模块开发完成时预计托费的总成本为(46)。",B,15*12/2=90参考答案：A 人员配备管理计划描述何时以及怎样满足人力资源需求。关于人员配备管理计划的叙述中，(47)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,风险、WBS、ERP,sha256:517450d11fd7b1e1d4b7f048,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 47 题】人员配备管理计划描述何时以及怎样满足人力资源需求。关于人员配备管理计划的叙述中，(47)是正确的。
+A. 制定人员配备管理计划可采用工作分解结构、组织分解结构和资源分解结构等描述工具
+B. 项目人力资源计划可以是正式或非正式的，但人员配备管理管理计划是不能省略的正式计划
+C. 人员配备管理计划通过通常制定人员需求和人力资源时间安排，不涉及人员培训和奖惩措施
+D. 项目人力资源计划是项目人员配备管理计划的一个分计划",答案：B,"解析：项目团队建设对项目的成功至关重要，在项目经理的下述做法中，有可能不利于团队建设的是奖励加班的成员。而计划不周、方法不当、效率不高而导致的加班便不在奖励之列，否则会破坏团队建设。参考答案：B 关于项目管理环境中的冲突管理的叙述中，(49)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-SCOPE-002 WBS、工作包、WBS 字典与范围基准
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,范围管理,T-SCOPE-002,WBS、工作包、WBS 字典与范围基准,questions.full.clean.md,未知未知上午 第 47 题 / line 7339,未知-未知-上午-47,未知,未知,上午,47,人员配备管理计划描述何时以及怎样满足人力资源需求。关于人员配备管理计划的叙述中，(47)是正确的。,"A. 制定人员配备管理计划可采用工作分解结构、组织分解结构和资源分解结构等描述工具
+B. 项目人力资源计划可以是正式或非正式的，但人员配备管理管理计划是不能省略的正式计划
+C. 人员配备管理计划通过通常制定人员需求和人力资源时间安排，不涉及人员培训和奖惩措施
+D. 项目人力资源计划是项目人员配备管理计划的一个分计划",B,项目团队建设对项目的成功至关重要，在项目经理的下述做法中，有可能不利于团队建设的是奖励加班的成员。而计划不周、方法不当、效率不高而导致的加班便不在奖励之列，否则会破坏团队建设。参考答案：B 关于项目管理环境中的冲突管理的叙述中，(49)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:e9923e206b2224de536d3795,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::范围管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-SCOPE-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 49 题】关于项目管理环境中的冲突管理的叙述中，(49)是正确的。
+A. 通过建立团队基本规则及实施可行的项目管理经验，冲突是可以避免的
+B. 解决冲突最理想方法是求同存异
+C. 冲突管理的最终目的是消除意见分歧
+D. 不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它",答案：B,"解析：冲突是不可避免的：解决冲突最理想方法是问题的解决：冲突管理的最终目的是问题解决；不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它。 参考答案：B 某电信企业要建设一个CRM系统(包括呼叫中心和客服中心)，系统集成一级资质企业甲和系统集成二级资质企业乙参与该系统建设。关于合同的签订，下面说法中，(50)是正确的
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：概念定义/场景判断
+关联专题：T-HR-001 项目人力资源管理：组织计划、团队建设与团队管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-HR-001,项目人力资源管理：组织计划、团队建设与团队管理,questions.full.clean.md,未知未知上午 第 49 题 / line 7360,未知-未知-上午-49,未知,未知,上午,49,关于项目管理环境中的冲突管理的叙述中，(49)是正确的。,"A. 通过建立团队基本规则及实施可行的项目管理经验，冲突是可以避免的
+B. 解决冲突最理想方法是求同存异
+C. 冲突管理的最终目的是消除意见分歧
+D. 不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它",B,冲突是不可避免的：解决冲突最理想方法是问题的解决：冲突管理的最终目的是问题解决；不管冲突对项目的影响是正面的还是负面的，项目经理都有责任处理它。 参考答案：B 某电信企业要建设一个CRM系统(包括呼叫中心和客服中心)，系统集成一级资质企业甲和系统集成二级资质企业乙参与该系统建设。关于合同的签订，下面说法中，(50)是正确的,自动解析未逐项展开；保留原选项供刷题排除。,概念定义/场景判断,sha256:c3e5b489cf54fb1bd3b25c38,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-HR-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 51 题】建设方和承建方甲就某信息系统建设项目进行了多次合同谈判均未达成一致，未能签定系统建设合同，但在谈判期间建设方获悉了甲的行业关键技术指标。之后建设方与另一承建方乙经过合同谈判后就系统建设签定了合同，同时将甲的关键技术指标透露给乙，导致甲蒙受损失。下列说法中，(51)是正确的。
+A. 建设方对甲蒙受的损失应承担赔偿责任
+B. 建设方和甲未签定合同，对甲蒙受的损失不应承担赔偿责任
+C. 乙和甲未签定合同，对甲蒙受的损失不应承担赔偿责任
+D. 甲的损失是由于其自身保密工作未做好，其损失应全部由其自身承担",答案：A,"解析：建设方对甲蒙受的损失应承担赔偿责任。建设方和承建方甲就某信息系统建设项目进行了多次合同谈判均未达成一致，未能签定系统建设合同，但在谈判期间建设方获悉了甲的行业关键技术指标。之后建设方与另一承建方乙经过合同谈判后就系统建设签定了合同，同时将甲的关键技术指标透露给乙，导致甲蒙受损失。 参考答案：A 某系统集成商M公司于甲方签订了一份电子商务平台建设项目，合同中规定，如果系统交付后存在质量问题，系统集成商Ｍ应提供免费的及时维护服务，M公司按合同要求交付了系统，双方签订了验收报告。在此后的一年内，M公司及时响应了甲方的维
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：合同
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 51 题 / line 7396,未知-未知-上午-51,未知,未知,上午,51,建设方和承建方甲就某信息系统建设项目进行了多次合同谈判均未达成一致，未能签定系统建设合同，但在谈判期间建设方获悉了甲的行业关键技术指标。之后建设方与另一承建方乙经过合同谈判后就系统建设签定了合同，同时将甲的关键技术指标透露给乙，导致甲蒙受损失。下列说法中，(51)是正确的。,"A. 建设方对甲蒙受的损失应承担赔偿责任
+B. 建设方和甲未签定合同，对甲蒙受的损失不应承担赔偿责任
+C. 乙和甲未签定合同，对甲蒙受的损失不应承担赔偿责任
+D. 甲的损失是由于其自身保密工作未做好，其损失应全部由其自身承担",A,建设方对甲蒙受的损失应承担赔偿责任。建设方和承建方甲就某信息系统建设项目进行了多次合同谈判均未达成一致，未能签定系统建设合同，但在谈判期间建设方获悉了甲的行业关键技术指标。之后建设方与另一承建方乙经过合同谈判后就系统建设签定了合同，同时将甲的关键技术指标透露给乙，导致甲蒙受损失。 参考答案：A 某系统集成商M公司于甲方签订了一份电子商务平台建设项目，合同中规定，如果系统交付后存在质量问题，系统集成商Ｍ应提供免费的及时维护服务，M公司按合同要求交付了系统，双方签订了验收报告。在此后的一年内，M公司及时响应了甲方的维,自动解析未逐项展开；保留原选项供刷题排除。,合同,sha256:9c619fa3310e4fbae4e46613,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 52 题】某系统集成商M公司于甲方签订了一份电子商务平台建设项目，合同中规定，如果系统交付后存在质量问题，系统集成商Ｍ应提供免费的及时维护服务，M公司按合同要求交付了系统，双方签订了验收报告。在此后的一年内，M公司及时响应了甲方的维护要求，年之后，M公司向甲方提出此后的技术服务应该为有偿服务，甲方认为合同中提到的免费服务并无具体期限，M公司的收费要求是不合理的。下列说法中(52)是最恰当的。
+A. 因为合同中规定的免费服务并无具体期限，因此M公司要求收费不合理
+B. 应对甲方的服务要求进行分类，如是处理质量问题，则M公司应无限期免费服务
+C. M公司已经提供了一年的免费服务，此后要求对服务收费是合理的
+D. 合同内容不明确，可根据有关信息化工程建设的法律、法规处理解析：关于合同不明确情况的处理 如果遇到合同不明确的情况时该怎么办呢?新《合同法》第61条明确规定，对于合同不明确的情况，应刍先协商，达成补充协议。达不成协议的，依照合同其他条款或交易习惯确定。如果依此不能明确有关条款的含义，那就要用《合同法》第62条来解决。第62条是针对那些常见的条款和质量、价款、履行地点、履行方式等约定欠缺或不明确所提供的一个法定硬标准，是确定当事人义务的法定依据。 (1)当事人对标的物的质量要求不明确的，按国家标准和行业标准。没有这些标准的，按产品通常标准或符合合同目的的标准。 (2)履行地点不明确时，按标的性质不同而定：接受货币在接受方，交付不动产的在不动产所在地，其他标的在履行义务方所在地。履行地在法律上具有非常重要的意义，它可以确定由谁负担，货物的所有权何时何处转移，货物丢失风险由谁承担等，在诉讼中，也是确定管辖权的重要依据，所以签订合同对履行地条款要特别注意。 (3)履行期限不明的，债务人可随时履行，债权人可随时要求履行，但应给对方必要的准备时间。在这里特别提醒债权人要注意诉讼时效，关于随时履行受不受诉讼时效的制约目前仍有争议，不过最好在时效以内主张权利。 (4)履行费用负担不明确的，由履行义务一方负担。履行费用是履行义务过程中各种附随发生的费用。在合同中应该考虑各种费用的分担，如果没有约定，视为由履行义务~方承担。 以上关于处理各种条款不明情况的法定标准，是根据长期交易形成的规律确定下来的，不管对谁有利和不利，都得按这个规定去履行。当然，最好还是把合同条款定得明确而严密些。 有关合同内容约定不明确，适用下列规定： (一)质量要求不明确的，按照国家标准、行业标准履行：没有国家标准、行业标准的，按照通常标准或者符合合同目的的特定标准履行。 (二)价款或者报酬不明确的，按照订立合同时履行地的市场价格履行：依法应当执行政府定价或者政府指导价的，按照规定履行。 a",答案：D,"解析：关于合同不明确情况的处理 如果遇到合同不明确的情况时该怎么办呢?新《合同法》第61条明确规定，对于合同不明确的情况，应刍先协商，达成补充协议。达不成协议的，依照合同其他条款或交易习惯确定。如果依此不能明确有关条款的含义，那就要用《合同法》第62条来解决。第62条是针对那些常见的条款和质量、价款、履行地点、履行方式等约定欠缺或不明确所提供的一个法定硬标准，是确定当事人义务的法定依据。 (1)当事人对标的物的质量要求不明确的，按国家标准和行业标准。没有这些标准的，按产品通常标准或符合合同目的的标准。 (2)履行地点不
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：验收、风险、合同
+关联专题：T-RISK-002 定性/定量风险分析、EMV 与决策树
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,干系人与风险管理,T-RISK-002,定性/定量风险分析、EMV 与决策树,questions.full.clean.md,未知未知上午 第 52 题 / line 7410,未知-未知-上午-52,未知,未知,上午,52,某系统集成商M公司于甲方签订了一份电子商务平台建设项目，合同中规定，如果系统交付后存在质量问题，系统集成商Ｍ应提供免费的及时维护服务，M公司按合同要求交付了系统，双方签订了验收报告。在此后的一年内，M公司及时响应了甲方的维护要求，年之后，M公司向甲方提出此后的技术服务应该为有偿服务，甲方认为合同中提到的免费服务并无具体期限，M公司的收费要求是不合理的。下列说法中(52)是最恰当的。,"A. 因为合同中规定的免费服务并无具体期限，因此M公司要求收费不合理
+B. 应对甲方的服务要求进行分类，如是处理质量问题，则M公司应无限期免费服务
+C. M公司已经提供了一年的免费服务，此后要求对服务收费是合理的
+D. 合同内容不明确，可根据有关信息化工程建设的法律、法规处理解析：关于合同不明确情况的处理 如果遇到合同不明确的情况时该怎么办呢?新《合同法》第61条明确规定，对于合同不明确的情况，应刍先协商，达成补充协议。达不成协议的，依照合同其他条款或交易习惯确定。如果依此不能明确有关条款的含义，那就要用《合同法》第62条来解决。第62条是针对那些常见的条款和质量、价款、履行地点、履行方式等约定欠缺或不明确所提供的一个法定硬标准，是确定当事人义务的法定依据。 (1)当事人对标的物的质量要求不明确的，按国家标准和行业标准。没有这些标准的，按产品通常标准或符合合同目的的标准。 (2)履行地点不明确时，按标的性质不同而定：接受货币在接受方，交付不动产的在不动产所在地，其他标的在履行义务方所在地。履行地在法律上具有非常重要的意义，它可以确定由谁负担，货物的所有权何时何处转移，货物丢失风险由谁承担等，在诉讼中，也是确定管辖权的重要依据，所以签订合同对履行地条款要特别注意。 (3)履行期限不明的，债务人可随时履行，债权人可随时要求履行，但应给对方必要的准备时间。在这里特别提醒债权人要注意诉讼时效，关于随时履行受不受诉讼时效的制约目前仍有争议，不过最好在时效以内主张权利。 (4)履行费用负担不明确的，由履行义务一方负担。履行费用是履行义务过程中各种附随发生的费用。在合同中应该考虑各种费用的分担，如果没有约定，视为由履行义务~方承担。 以上关于处理各种条款不明情况的法定标准，是根据长期交易形成的规律确定下来的，不管对谁有利和不利，都得按这个规定去履行。当然，最好还是把合同条款定得明确而严密些。 有关合同内容约定不明确，适用下列规定： (一)质量要求不明确的，按照国家标准、行业标准履行：没有国家标准、行业标准的，按照通常标准或者符合合同目的的特定标准履行。 (二)价款或者报酬不明确的，按照订立合同时履行地的市场价格履行：依法应当执行政府定价或者政府指导价的，按照规定履行。 a",D,关于合同不明确情况的处理 如果遇到合同不明确的情况时该怎么办呢?新《合同法》第61条明确规定，对于合同不明确的情况，应刍先协商，达成补充协议。达不成协议的，依照合同其他条款或交易习惯确定。如果依此不能明确有关条款的含义，那就要用《合同法》第62条来解决。第62条是针对那些常见的条款和质量、价款、履行地点、履行方式等约定欠缺或不明确所提供的一个法定硬标准，是确定当事人义务的法定依据。 (1)当事人对标的物的质量要求不明确的，按国家标准和行业标准。没有这些标准的，按产品通常标准或符合合同目的的标准。 (2)履行地点不,自动解析未逐项展开；保留原选项供刷题排除。,验收、风险、合同,sha256:82515f67aad96547b7ef21d0,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::干系人与风险管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-RISK-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 53 题】某办公大楼的开发商将办公楼的智能楼宇系统承包给H公司，双方签订了合同，开发商海聘请了监理方对此项目进行监理。期间，消防子系统验收延误，开发商认为是H公司的责任，向监理方提出索赔要求。关于索赔流程，下列说法中， (53) 是正确的。
+A. 开发商应在验收延误事件发生后20天内提出索赔意向通知
+B. 监理方收到索赔通知后，应在28天内帮助开发商编制出索赔报告
+C. 监理方应在索赔报告中充分论证该事件的确为开发商带来了损失，并提出具体的赔偿方案
+D. 如果H公司不同意监理方作出的索赔决定，可提请仲裁或法律诉讼",答案：D,"解析：项目发生索赔事件后，一般先由监理工程师调解，若调解不成，由政府建设主管机构进行调解，若仍调解不成，由经济合同仲裁委员会进行调解或仲裁。在整个索赔过程中，遵赔的有理性、索赔依据的有效性、索赔计帐的正确性。遵循的流程： ### (1)提出索赔要求。 当出现索赔事项时，索赔方以书面的索赔通知书形式，在索赔事项发生后的28天以内，向监理工程师正式提出索赔意向通知。 #### (2)报送索赔资料。 在索赔通知书发出后的28天内，向监理工程师提出延长工期和(或)补偿经济损失的索赔报告及有关资料。 索赔报告的内容主要有总论部分
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：验收、合同、索赔
+关联专题：T-PROC-001 合同类型、风险分配与采购决策
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,采购与合同管理,T-PROC-001,合同类型、风险分配与采购决策,questions.full.clean.md,未知未知上午 第 53 题 / line 7448,未知-未知-上午-53,未知,未知,上午,53,某办公大楼的开发商将办公楼的智能楼宇系统承包给H公司，双方签订了合同，开发商海聘请了监理方对此项目进行监理。期间，消防子系统验收延误，开发商认为是H公司的责任，向监理方提出索赔要求。关于索赔流程，下列说法中， (53) 是正确的。,"A. 开发商应在验收延误事件发生后20天内提出索赔意向通知
+B. 监理方收到索赔通知后，应在28天内帮助开发商编制出索赔报告
+C. 监理方应在索赔报告中充分论证该事件的确为开发商带来了损失，并提出具体的赔偿方案
+D. 如果H公司不同意监理方作出的索赔决定，可提请仲裁或法律诉讼",D,项目发生索赔事件后，一般先由监理工程师调解，若调解不成，由政府建设主管机构进行调解，若仍调解不成，由经济合同仲裁委员会进行调解或仲裁。在整个索赔过程中，遵赔的有理性、索赔依据的有效性、索赔计帐的正确性。遵循的流程： ### (1)提出索赔要求。 当出现索赔事项时，索赔方以书面的索赔通知书形式，在索赔事项发生后的28天以内，向监理工程师正式提出索赔意向通知。 #### (2)报送索赔资料。 在索赔通知书发出后的28天内，向监理工程师提出延长工期和(或)补偿经济损失的索赔报告及有关资料。 索赔报告的内容主要有总论部分,自动解析未逐项展开；保留原选项供刷题排除。,验收、合同、索赔,sha256:baf8ef038fa2b81f8260789a,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::采购与合同管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-PROC-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 55 题】关于项目的风险管理，下列说法中，(55)是不正确的。
+A. 风险管理包括风险识别、定性分析、定量分析、风险应对、风险监控等过程
+B. 定性风险分析后，可制定和采取风险应对措施
+C. 制定了风险应对措施后，可重新进行定量风险分析，以确定风险降低的程度
+D. 风险管理的最终目标是消除风险",答案：D,"解析：PMI提出的项目沟通管理计划编制的标准输入 (1)企业环境因素。 (2)组织过程资产。 (3)沟通需求分析。 (4)沟通技术。 (5)项目范围说明书。 (6)项目管理计划。 ## 参考答案：D 状态会议的目的是(58)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：风险
+关联专题：T-RISK-002 定性/定量风险分析、EMV 与决策树
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,干系人与风险管理,T-RISK-002,定性/定量风险分析、EMV 与决策树,questions.full.clean.md,未知未知上午 第 55 题 / line 7516,未知-未知-上午-55,未知,未知,上午,55,关于项目的风险管理，下列说法中，(55)是不正确的。,"A. 风险管理包括风险识别、定性分析、定量分析、风险应对、风险监控等过程
+B. 定性风险分析后，可制定和采取风险应对措施
+C. 制定了风险应对措施后，可重新进行定量风险分析，以确定风险降低的程度
+D. 风险管理的最终目标是消除风险",D,PMI提出的项目沟通管理计划编制的标准输入 (1)企业环境因素。 (2)组织过程资产。 (3)沟通需求分析。 (4)沟通技术。 (5)项目范围说明书。 (6)项目管理计划。 ## 参考答案：D 状态会议的目的是(58),自动解析未逐项展开；保留原选项供刷题排除。,风险,sha256:c125f1be1ba7af48d77f749e,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::干系人与风险管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-RISK-002 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 59 题】某项目的现状是：已经被按照沟通计划发布了项目信息；一些项目可交付物成果发生了变更；这些变更是按照变更控制计划做出的；一位干系人在得知以前曾经公布过的项目可交付物成果变更时，感觉十分惊讶；其余干系人都收到了变更通知的消息。针对这种情况，项目经理应该(59)。
+A. 告知干系人信息公布的日期
+B. 审核沟通计划，确定为什么干系人不理解自己的职责
+C. 对沟通计划进行审核，如需要，对沟通计划进行修改
+D. 在下次项目工作会议上说明该问题，以便其他干系人不会遗忘公布的变更信息答案：""",答案：A,"解析：中标人的投标应当符合下列条件之一。 (1)能够最大限度地满足招标文件中规定的各项综合评价标准。 (2)能够满足招标文件的实质性要求，并且经评审的投标价格最低。但是，投标价格低于成本的除外
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更、沟通、干系人
+关联专题：T-COM-001 沟通渠道计算与干系人参与管理
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,人力资源与沟通管理,T-COM-001,沟通渠道计算与干系人参与管理,questions.full.clean.md,未知未知上午 第 59 题 / line 7618,未知-未知-上午-59,未知,未知,上午,59,某项目的现状是：已经被按照沟通计划发布了项目信息；一些项目可交付物成果发生了变更；这些变更是按照变更控制计划做出的；一位干系人在得知以前曾经公布过的项目可交付物成果变更时，感觉十分惊讶；其余干系人都收到了变更通知的消息。针对这种情况，项目经理应该(59)。,"A. 告知干系人信息公布的日期
+B. 审核沟通计划，确定为什么干系人不理解自己的职责
+C. 对沟通计划进行审核，如需要，对沟通计划进行修改
+D. 在下次项目工作会议上说明该问题，以便其他干系人不会遗忘公布的变更信息答案：""",A,中标人的投标应当符合下列条件之一。 (1)能够最大限度地满足招标文件中规定的各项综合评价标准。 (2)能够满足招标文件的实质性要求，并且经评审的投标价格最低。但是，投标价格低于成本的除外,自动解析未逐项展开；保留原选项供刷题排除。,变更、沟通、干系人,sha256:1ed433c96e0a790d26bd85e8,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::人力资源与沟通管理 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-COM-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::真题刷题::上午选择题,RuankaoTopicCard,"【未知未知上午 第 65 题】下面任务中，(65)不是在配置管理过程中执行的内容。
+A. 确认一个条目或一个系统的功能和物理特征
+B. 针对特证控制变更
+C. 对项目范围进行审核以检验当前的项目是否与预定的要求相符
+D. 允许对变更自动承认",答案：D,"解析：变更初审的目的如下。6 ①对变更提出方施加影响，确认变更的必要性，确保变更是有价值的。 ②格式校验，完整性较验，确保评估所需信息准备充分。 ③在干系人间就提出供评估的变更信息达成共识。 ④变更初审的常见方式为变更申请文档的审核流转。 a ## 参考答案：B 进度变更的控制活动包括：(70)
+错项分析：按选项关键词逐项排除；本轮自动解析不扩写未能稳定定位的错项。
+题干信号：变更、配置
+关联专题：T-CFG-001 配置管理：配置项、基线、配置库与版本控制
+可迁移考点：把题干关键词映射回专题判断规则。",真题刷题卡,B,3,上午选择,配置变更知识产权与法律法规,T-CFG-001,配置管理：配置项、基线、配置库与版本控制,questions.full.clean.md,未知未知上午 第 65 题 / line 7716,未知-未知-上午-65,未知,未知,上午,65,下面任务中，(65)不是在配置管理过程中执行的内容。,"A. 确认一个条目或一个系统的功能和物理特征
+B. 针对特证控制变更
+C. 对项目范围进行审核以检验当前的项目是否与预定的要求相符
+D. 允许对变更自动承认",D,变更初审的目的如下。6 ①对变更提出方施加影响，确认变更的必要性，确保变更是有价值的。 ②格式校验，完整性较验，确保评估所需信息准备充分。 ③在干系人间就提出供评估的变更信息达成共识。 ④变更初审的常见方式为变更申请文档的审核流转。 a ## 参考答案：B 进度变更的控制活动包括：(70),自动解析未逐项展开；保留原选项供刷题排除。,变更、配置,sha256:4d9e45bd76e14c3beaf3fc07,ruankao ruankao::anki_build::20260520_221409 ruankao::difficulty::3 ruankao::domain::配置变更知识产权与法律法规 ruankao::exam_use::上午选择 ruankao::importance::B ruankao::question ruankao::source::past_exam ruankao::topic::T-CFG-001 ruankao::type::真题刷题卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,范围确认 vs 质量控制的核心区别是什么？,范围确认关注客户/干系人是否正式接受可交付成果；质量控制关注可交付成果是否符合质量要求。,“验收、接受、签字”多指范围确认；“检查、测试、缺陷、质量标准”多指质量控制。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 161,,,,,,,,,,,,sha256:0c320b82cdcd0613651984c1,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,赶工 vs 快速跟进的核心区别是什么？,赶工通过增加资源或加班压缩工期，主要增加成本；快速跟进把顺序活动并行或重叠，主要增加风险和返工。,“加人、加班、加资源”是赶工；“并行、提前开始、重叠”是快速跟进。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 71,,,,,,,,,,,,sha256:189ff92415dfa13a48653586,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,风险登记册 vs 问题日志的核心区别是什么？,风险登记册记录未来可能发生的不确定事件；问题日志记录已经发生并需要处理的确定事件。,风险发生后，不能只停留在风险登记册里。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 111,,,,,,,,,,,,sha256:a9be5f2a5b5b2a89d7cfc252,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,质量保证 QA vs 质量控制 QC 的题干信号区别是什么？,QA 看过程是否按标准执行；QC 看可交付成果是否满足质量要求。,“审计、过程分析、改进过程”多是 QA；“检查、测试、测量、缺陷”多是 QC。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 57,,,,,,,,,,,,sha256:2b8ca934e47aa1443259b3ef,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,资源平衡 vs 进度压缩的核心区别是什么？,资源平衡为解决资源限制而调整活动时间，可能延长工期；进度压缩是为了缩短工期而采用赶工或快速跟进。,题干强调资源冲突/过度分配是资源平衡；强调缩短总工期是进度压缩。,辨析卡,A,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 71,,,,,,,,,,,,sha256:fef44b35c599ecab7818509f,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,项目生命周期、产品生命周期、信息系统生命周期如何区分？,项目生命周期看一次项目从启动到收尾；产品生命周期看产品从构想到退市；信息系统生命周期看系统规划、建设、运行维护和退役。,题干若超过单个项目边界，先判断是产品还是系统生命周期。,辨析卡,A,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,topic package,,,,,,,,,,,,sha256:578fab6a49975bb23b7a24c2,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,ERP、CRM、SCM、BI、EAI 最容易怎样互相混淆？,ERP 管内部资源，CRM 管客户，SCM 管供应链，BI 做分析决策，EAI 做应用集成。,客户满意不是 ERP；数据洞察不是 CRM；接口打通不是 BI。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,topic package,,,,,,,,,,,,sha256:22bff1d3403417939b3bffcf,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,合同收尾 vs 管理收尾的考试区别是什么？,合同收尾关闭采购合同关系；管理收尾关闭项目或阶段整体。,合同收尾通常先于管理收尾；多个合同要分别收尾。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 120,,,,,,,,,,,,sha256:1866a834dee8513111378044,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,问题日志、风险登记册、变更请求分别记录什么？,问题日志记录已发生问题；风险登记册记录未发生的不确定风险；变更请求记录对计划、基准或交付物的修改要求。,已发生的问题不应只放在风险登记册；改基准必须形成变更请求。,辨析卡,A,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,topic package,,,,,,,,,,,,sha256:09c5f9f2b62bb05aab1890bc,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,配置管理 vs 变更管理的题干信号区别是什么？,配置管理看配置项、版本、基线、配置库和状态；变更管理看请求、影响分析、审批和实施。,“版本控制、配置审计”偏配置；“CCB、批准/否决”偏变更。,辨析卡,A,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 85,,,,,,,,,,,,sha256:f05a2bd231558186121e4d48,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,项目章程 vs 项目管理计划的题干信号区别是什么？,章程信号是批准项目存在、任命并授权项目经理；项目管理计划信号是如何执行、监控和控制项目。,章程在启动过程组，计划在规划过程组。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,line 13,,,,,,,,,,,,sha256:5ec02c0f4707e0378f15d86c,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,干系人登记册 vs 沟通管理计划的核心区别是什么？,干系人登记册记录干系人身份、影响、期望和分类；沟通管理计划规定与干系人沟通什么、何时、用什么方式、由谁负责。,一个回答“有哪些人和他们的特征”，一个回答“怎么沟通”。,辨析卡,A,2,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,topic package,,,,,,,,,,,,sha256:7c0163e0a3c81a5ee046b490,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::2 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::辨析卡,100,final,A：通过质量门禁
+软考::系统集成项目管理工程师::跨专题辨析,RuankaoTopicCard,跨专题题干出现“角色越权、流程跳步、绝对化说法”时，应如何排错？,先定位所属管理过程，再检查谁有权批准、是否绕过流程、说法是否过于绝对。,软考常把正确概念放进错误角色或错误顺序中制造干扰。,关键词识别卡,A,3,上午选择,综合专题与跨域辨析,T-CROSS-001,高频跨域概念辨析与易错点,topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md,topic package,,,,,,,,,,,,sha256:bd82725fb2d89b7fce5998d8,ruankao ruankao::anki_build::20260520_221409 ruankao::cross_topic ruankao::difficulty::3 ruankao::domain::综合专题与跨域辨析 ruankao::exam_use::上午选择 ruankao::importance::A ruankao::topic ruankao::topic::T-CROSS-001 ruankao::type::关键词识别卡,100,final,A：通过质量门禁
