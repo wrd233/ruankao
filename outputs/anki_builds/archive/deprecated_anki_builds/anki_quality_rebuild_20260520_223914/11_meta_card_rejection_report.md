@@ -1,0 +1,33 @@
+# Meta Card Rejection Report
+
+- SRC-T-INFO-001-0008 `topic_learning_packages/topics/01_信息化与信息系统/T-INFO-001_专题学习包_信息化信息系统生命周期与系统集成基础.md` line 168: 信息化、信息系统生命周期与系统集成基础 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-PM-002-0011 `topic_learning_packages/topics/02_项目管理基础/T-PM-002_专题学习包_五大过程组十大知识域与PDCA.md` line 423: 五大过程组、十大知识域与 PDCA > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-FEA-001-0010 `topic_learning_packages/topics/03_立项管理/T-FEA-001_专题学习包_立项管理项目建议书可行性研究与项目论证.md` line 183: 立项管理：项目建议书、可行性研究与项目论证 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-CLOSE-001-0007 `topic_learning_packages/topics/04_整体管理/T-CLOSE-001_专题学习包_项目收尾管理收尾合同收尾与验收.md` line 154: 项目收尾：管理收尾、合同收尾与验收 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-INT-002-0009 `topic_learning_packages/topics/04_整体管理/T-INT-002_专题学习包_项目章程SOW项目管理计划与基准关系.md` line 183: 项目章程、SOW、项目管理计划与基准体系 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-INT-004-0009 `topic_learning_packages/topics/04_整体管理/T-INT-004_专题学习包_整体变更控制与CCB.md` line 222: 整体变更控制与 CCB > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-SCOPE-002-0009 `topic_learning_packages/topics/05_范围管理/T-SCOPE-002_专题学习包_WBS工作包WBS字典与范围基准.md` line 254: WBS、工作包、WBS 字典与范围基准 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-SCH-002-0009 `topic_learning_packages/topics/06_进度管理/T-SCH-002_专题学习包_活动排序依赖关系PDM_AOA与提前滞后量.md` line 224: 活动排序、依赖关系、PDM/AOA 与提前滞后量 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-SCH-003-0012 `topic_learning_packages/topics/06_进度管理/T-SCH-003_专题学习包_关键路径总时差自由时差与网络图判断.md` line 338: 关键路径、总时差、自由时差与网络图判断 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-COST-001-0008 `topic_learning_packages/topics/07_成本管理/T-COST-001_专题学习包_成本估算预算储备分析与成本基准.md` line 182: 成本估算、成本预算、储备分析与成本基准 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-COST-002-0018 `topic_learning_packages/topics/07_成本管理/T-COST-002_专题学习包_挣值管理与成本绩效分析.md` line 426: 挣值管理与成本绩效分析 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-QUAL-001-0008 `topic_learning_packages/topics/08_质量管理/T-QUAL-001_专题学习包_质量保证质量控制与质量审计.md` line 224: 质量保证、质量控制与质量审计 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-QUAL-002-0013 `topic_learning_packages/topics/08_质量管理/T-QUAL-002_专题学习包_质量管理七工具新七工具与质量问题分析.md` line 231: 质量管理七工具、新七工具与质量问题分析 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-QUAL-003-0006 `topic_learning_packages/topics/08_质量管理/T-QUAL-003_专题学习包_质量问题案例模板缺陷测试验收与纠偏.md` line 120: 质量问题案例模板：缺陷、测试、验收与纠偏 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-COM-001-0009 `topic_learning_packages/topics/09_人力资源与沟通管理/T-COM-001_专题学习包_沟通渠道计算与干系人参与管理.md` line 218: 沟通渠道计算与干系人参与管理 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-HR-001-0009 `topic_learning_packages/topics/09_人力资源与沟通管理/T-HR-001_专题学习包_项目人力资源管理组织计划团队建设与团队管理.md` line 213: 项目人力资源管理：组织计划、团队建设与团队管理 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-RISK-001-0010 `topic_learning_packages/topics/10_干系人与风险管理/T-RISK-001_专题学习包_风险识别风险登记册与风险应对策略.md` line 201: 风险识别、风险登记册与风险应对策略 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-RISK-002-0009 `topic_learning_packages/topics/10_干系人与风险管理/T-RISK-002_专题学习包_定性定量风险分析EMV与决策树.md` line 237: 定性/定量风险分析、EMV 与决策树 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-PROC-001-0010 `topic_learning_packages/topics/11_采购与合同管理/T-PROC-001_专题学习包_合同类型选择与风险分配.md` line 246: 合同类型、风险分配与采购决策 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-PROC-002-0008 `topic_learning_packages/topics/11_采购与合同管理/T-PROC-002_专题学习包_招投标政府采购与采购流程管理.md` line 200: 招投标、政府采购与采购流程管理 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-CFG-001-0008 `topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-CFG-001_专题学习包_配置管理配置项基线配置库与版本控制.md` line 166: 配置管理：配置项、基线、配置库与版本控制 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-LAW-001-0011 `topic_learning_packages/topics/12_配置变更知识产权与法律法规/T-LAW-001_专题学习包_法律法规基础合同法招投标法与政府采购法考点.md` line 195: 法律法规基础、合同法、招投标法与政府采购法考点 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-INFO-002-0010 `topic_learning_packages/topics/13_信息系统技术基础/T-INFO-002_专题学习包_企业信息化系统ERP_CRM_SCM_BI_EAI辨析.md` line 179: 企业信息化系统：ERP、CRM、SCM、BI、EAI 辨析 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-CASE-001-0028 `topic_learning_packages/topics/14_案例分析专题/T-CASE-001_专题学习包_下午案例题通用审题与答题方法.md` line 398: 下午案例题通用审题与答题方法 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-CASE-002-0006 `topic_learning_packages/topics/14_案例分析专题/T-CASE-002_专题学习包_进度延误与成本超支案例专项模板.md` line 141: 进度延误与成本超支案例专项模板 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-CASE-003-0007 `topic_learning_packages/topics/14_案例分析专题/T-CASE-003_专题学习包_范围蔓延变更失控与合同纠纷案例模板.md` line 152: 范围蔓延、变更失控与合同纠纷案例模板 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-COM-002-0006 `topic_learning_packages/topics/14_案例分析专题/T-COM-002_专题学习包_沟通管理与干系人冲突案例模板.md` line 106: 沟通管理与干系人冲突案例模板 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-CROSS-001-0014 `topic_learning_packages/topics/99_综合专题与跨域辨析/T-CROSS-001_专题学习包_高频跨域概念辨析与易错点.md` line 238: 高频跨域概念辨析与易错点 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-ORG-001-0008 `topic_learning_packages/topics/99_综合专题与跨域辨析/T-ORG-001_专题学习包_组织结构项目经理权限与PMO.md` line 170: 组织结构、项目经理权限与 PMO > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-RISK-003-0006 `topic_learning_packages/topics/99_综合专题与跨域辨析/T-RISK-003_专题学习包_风险问题变更与应急措施跨域辨析.md` line 136: 风险、问题、变更与应急措施的跨域辨析 > 这个专题应该怎样转化为 Anki 卡片
+- SRC-T-SCOPE-003-0009 `topic_learning_packages/topics/99_综合专题与跨域辨析/T-SCOPE-003_专题学习包_范围确认质量控制验收与测试边界辨析.md` line 157: 范围确认、质量控制、验收与测试的边界辨析 > 这个专题应该怎样转化为 Anki 卡片
